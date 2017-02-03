@@ -1,4 +1,6 @@
+#######################################
 ###Language Distance with Perplexity###
+#######################################
 
 ###########################
 Authors:
@@ -13,6 +15,7 @@ You can use cpan to install.
 
 DESCRIPTION
 Sofware in PERL and BASH.
+Perplexity is used to compare the distance between languages. It is based on 7-grams models of characters.
 We provide three languages for train and test: galician (gz), portuguese (pt), spanish (es). The input texts are in the 'corpora' folder.
 
 You can use the script RUN.sh to run a test.
