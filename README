@@ -1,42 +1,46 @@
-###Language Distance with Perplexity
+###Language Distance with Perplexity###
 
+###########################
+Authors:
+Pablo Gamallo, CiTIUS, USC
+José Ramom Pichel, Imaxin
+Iñaki Alegria, IXA, UPV/EHU
+###########################
+
+REQUIREMENTS:
+'Storable' Perl module
+You can use cpan to install.
+
+DESCRIPTION
+Sofware in PERL and BASH.
 We provide three languages for train and test: galician (gz), portuguese (pt), spanish (es). The input texts are in the 'corpora' folder.
 
 You can use the script RUN.sh to run a test.
 
 
-1. To train the models:  
+-- How to train the models:  
 
->sh train.sh  gz
+sh train.sh  gz
+sh train.sh  pt
+sh train.sh  es
 
->sh train.sh  pt
-
->sh train.sh  es
-
-This generates the models in the 'models' folder.
+This generates the models for the three languages in the 'models' folder.
 
 
-2. To run the tests:
+-- How to run the tests:
 
->sh test.sh gz gz
+sh test.sh gz gz
+sh test.sh gz pt
+sh test.sh gz es
+sh test.sh pt pt
+sh test.sh pt gz
+sh test.sh pt es
+sh test.sh es es
+sh test.sh es pt
+sh test.sh es gz 
 
->sh test.sh gz pt
+--How to add more languges-- 
 
->sh test.sh gz es
-
->sh test.sh pt pt
-
->sh test.sh pt gz
-
->sh test.sh pt es
-
->sh test.sh es es
-
->sh test.sh es pt
-
->sh test.sh es gz 
-
-ADDING MORE LANGUAGES
 If you wish add a new language, for instance english, you must copy in the corpora folder two new text files: 
 
 ./corpora/train/en.txt
@@ -48,4 +52,4 @@ Then, you create the model:
 > sh  train.sh en
 
 To compare english and portuguese:
-> sh test.sh en pt
+sh test.sh en pt
