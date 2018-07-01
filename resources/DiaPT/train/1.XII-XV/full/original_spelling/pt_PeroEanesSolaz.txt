@@ -1,0 +1,243 @@
+\nome Pero_Eanes_Solaz
+
+\num 1 
+                                       
+\loc CBN 771 
+                                                   
+\txt
+
+Dizia la ben talhada:
+agor a uiss eu penada
+Ond eu amor ey.
+
+A ben talhada dizia:
+penad a uiss en h~u dia
+Ond eu amor ei.
+
+Ca, sse a uiss eu penada,
+non seria tan coitada
+Ond eu amor ei.
+
+Penada se a eu uisse
+non a mal que eu sentisse
+Ond eu amor ey.
+
+Quen lh oie por mj rogasse
+que non tardass e chegasse
+Ond eu amor ey
+
+Quen lh oie por mj dissesse
+que non tardass e uehesse
+Ond eu amor ey.
+  
+\num 2
+                                        
+\loc CBN 772   
+                                                 
+\txt 
+
+Eu, uelida, non dormía,
+leli a doura,
+e meu amigo uenía,
+E doy leli a doura.
+
+Non dormia e cuydaua,
+leli a doura,
+e meu amigo chegaua,
+E doy leli a doura.
+
+O meu amigo uenía
+leli a doura,
+e d amor tan ben dizia,
+E doy leli a doura.
+
+O meu amigo chegaua,
+leli a doura,
+e d amor tan ben cantaua,
+E doy leli a doura.
+
+Muyto deseiey, amigo,
+leli a doura,
+que uos teuesse comigo,
+E doy leli a doura.
+
+Muyto deseiey, amado,
+leli a doura,
+que uos teuess a meu lado,
+E doy leli a doura.
+
+Leli leli, par Deus, lely,
+leli a doura,
+ben sey eu que non diz leli,
+E doy leli a doura.
+
+Ben ssey eu que non diz lely,
+leli a doura,
+Demo [h]e quen non diz lelia
+e doy leli a doura.
+
+\num 3
+                                        
+\loc CBN 773
+                                                     
+\txt  
+
+Iurara m oge o meu amigo
+por tal, madre, que lhi perdoasse,
+que nunca iamais se mh asanhasse,
+Mais preyt ei a que non porra migo.
+Vedes porque: ca ia ss el periurou
+per muitas uezes que m esto iurou.
+
+El me cuidaua tal preyt a trager
+per ssas iuras, que lh o foss eu parcir,
+e, pois que ui que m aui a mentir,
+non lho parci, nen lho quis sol caber.
+Vedes porque: [a ia ss el periurou
+per muitas uezes que m esto iurou.]
+
+E mays de cem uezes lhi perdoey
+per ssas iuras e achey m end eu mal,
+E por aquesto ia lhi Rem non ual
+de me jurar, pois que me lh asanhey
+Vedes porque: [ca ia ss el periurou
+per muitas uezes que m esto iurou.]
+
+\num 4   
+                                  
+\loc CBN 1167
+                                                    
+\txt 
+  
+E non est a de Nogueyra
+A ffreyra - qu eu quero ben,
+Mays outra mays fremosa
+E a que min en podes ten.
+E moyro m eu po la freyra,
+Mays non po la de Nogueyra.
+E moyro [m eu po la freyra,
+Mays non po la Nogueyra.]
+
+[E] Non est a de Nogueyra
+A freyra ond eu ey amor,
+Mays outra mays fremosa
+A que mi quer eu muy melhor.
+E moyro m eu po la [freyra,
+Mays non po la de Nogueyra.
+E moyro m eu po la freyra,
+Mays non po la de Nogueyra.]
+
+E, sse eu aquela freyra
+hu~u dia ueer podesse,
+Non a coyta no mundo,
+Nen pesar, que eu ouuesse
+E moyro m eu po la freyra,
+[Mays non po la de Nogueyra.
+E moyro m eu po la freyra,
+[Mays non po la de Nogueyra.
+E moyro m eu po la freyra,
+Mays non po la de Nogueyra.]
+
+E, sse eu aquela freyra
+Veer podess un dia, 
+Nenhuma coyta do mundo,
+Nen pesar, [non] au[er]ya.
+E moyro m eu po la freyra,
+[Mays non po la de Nogueyra.
+E moyro meu po la freyra.
+Mays non po la de Nogueyra.]
+
+\num 5                                        
+
+\loc CBN 1168                                                   
+
+\txt
+ 
+A que ui antr as amenas,
+Deus, como parece ben!
+Eu mirey la das arenas,
+Des y penado me ten.
+Eu das arenas la mirey,
+Des enton sempre peney.
+Eu [das arenas la mirey,
+Des enton sempre peney.]
+
+A que ui antr as amenas,
+Deus, com a bon semelhar!
+Eu mirey la das arenas,
+Des enton me fez penar.
+Eu das arenas la m[irey,
+Des enton sempre peney.
+Eu das arenas la mirey,
+Des enton sempre peney.]
+
+Se a non uisse aquel dia,
+Muuyto me fora melhor!
+Mays quis Deus entonç e ui a,
+Mui fremosa mha senhor.
+Eu das arenas la [mirey,
+Des enton sempre peney.
+Eu das arenas la mirey,
+Des enton sempre peney.]
+
+Se a non uiss aquel dia,
+Que sse fezera de min!
+Mays quis Deus entonç, e uy a,
+Nunca tan fremosa ui.
+Eu das arenas la mirey,
+[Des enton sempre peney.
+Eu das arenas la mirey,
+Des enton sempre peney.]
+ 
+
+\num 6                                       
+
+\loc CBN 1624                                                       
+
+\txt 
+ 
+ - Ev sey la dona uelida
+que a torto foy ferida.
+ - Ca non ama.
+
+ - Eu sey la dona loada
+que a torto foy mallada.
+ - Ca non ama.
+
+ - Ca, se og amigo amasse,
+mal aia quen a mallasse.
+ - Ca non ama.
+
+ - Se se d amigo sentisse,
+mal aia quen a ferisse.
+ - Ca non ama.
+
+ - Que a torto foy ferida
+nunca en seia guarida.
+ - Ca non ama.
+
+ - Que a torto foy mallada
+nunca en seia uingada.
+ - Ca non ama.
+ 
+\num 7                                        
+
+\loc CBN 1625(?)                                                   
+
+\txt 
+
+[V]ou m eu, fremosa, per al rey;
+por uos, u for, penad irey
+[D] amor, d amor, d amor, d amor,
+por uos, sennor, d amor.
+
+Vou m éu a la corte morar;
+por uos, u for, ey a penar
+D amor, d [amor], d [amor, d amor,
+por uos, sennor, d amor.]
+
+E se uus eu non uir, que farey?
+cuidand én uos, morrer uus ey
+D amor, d [amor], d [amor, d amor,
+por uos sennor, d amor.]
+  

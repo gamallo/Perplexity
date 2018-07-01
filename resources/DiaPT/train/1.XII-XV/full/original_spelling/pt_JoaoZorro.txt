@@ -1,0 +1,256 @@
+\nome João_Zorro
+
+\num 1
+
+\loc CV 751; CBN 1093
+ 
+\txt
+
+Quen uise andar fremosinha, 
+Com eu ui, d amor coytada
+E tan muyto namorada
+Que, chorando, asy dizia: 
+Ay! Amor, leyxedes m oie
+De so lo ramo folgar,
+E, depoys, treydes uos migo
+Meu amigo demandar. 
+
+Quen vise andar a ffremosa,
+Com eo vi, d amor chorando
+E dizendo et rogando, 
+Por amor de Gloriosa:
+Ay! Amor, leyxedes [m oie
+De so lo ramo folgar,
+E, depoys, treydes uos migo
+Meu amigo demandar.]
+
+Quen lhi visse andar fazendo
+Queyxumes d amor, d amigo
+Que ama sempre sigo, 
+Et chorando assi dizendo:
+Ay! Amor, leyxedes m oi [e
+De so lo ramo folgar,
+E, depoys, treydes uos migo
+Meu amigo demandar.] 
+
+\num 2
+
+\loc CV 752; CBN 1094
+
+\txt
+
+- Os meus olhos et o meu coraçon
+Et o meu lume foy se con el Rey.
+- Quen est, ay! filha, se Deus uos pardon,
+Que mh o digades gracir uo lo ey. 
+- Direy uo l eu et, poys que o dizer,
+Non uos pes, madre, quand aqui veer. 
+
+Que coit ouu ora el Rey de me leuar
+Quanto ben auia, nen ey d auver.
+- Non uos ten prol, filha, de mh o negar,
+Ante uo lo terra de mh o dizer. 
+- Direy uo l eu [et, poys que o dizer,
+Non uos pes, madre, quand aqui veer.]
+
+\num 3
+
+\loc CV 753; CBN 1095
+
+\txt 
+
+Per ribeyra do rrio, 
+Vi remar o nauio,
+Et sabor ey da ribeyra. 
+
+Per ribeyra do alto, 
+Vy remar o barco,
+Et sabor ey da ribey[ra.] 
+
+Vy remar o nauio, 
+Hy vay o meu amigo,
+Et sabor ey [da ribeyra.] 
+
+Vi remar o barco, 
+Hy uay o meu amado,
+Et sabor ey [da ribeyra.]
+
+Hy uay o meu amigo, 
+Quer me leuar consigo,
+Ea sabor ey [da ribeyra.]
+
+Hy vay o meu amado,
+Quer me leuar de grado, 
+Et sabor ey [da ribeyra.]
+
+\num 4
+
+\loc CV 754; CBN 1096	                                                 
+     					    
+\txt
+
+En Lixboa sobre lo mar,
+barcas nouas mandey [laurar].
+Ay! mha senhor veelida!
+ 
+En Lixboa sobre lo lez,
+Barquas nouas mandey fazer.
+Ay! mha senhor [veelida!]
+ 
+[B]arquas nouas mandey laurar,
+E no mar as mandey deytar.
+Ay! mha [senhor veelida!]
+ 
+Barquas nouas mandey fazer,
+E no mar as mandey meter.
+Ay! mha [senhor veelida!]
+ 			
+\num 5
+
+\loc CV 755; CBN 1097
+
+\txt 
+
+El Rey de Portugale
+Barquas mandou laurare.
+E la iram nas barquas migo
+Ma filha e noss amigo.
+
+El Rey Portugale[s]
+Barquas mandou fazer.
+E la iram nas barquas migo
+[Ma filha e noss amigo.]
+
+Barquas mandou laurare,
+E no mar as deytare.
+E la iram [nas barquas migo
+Ma filha e noss amigo.]
+
+Barquas mandou fazer
+E no mar as metere.
+E la iram [nas barquas migo
+Ma filha e noss amigo.]
+
+\num 6
+
+\loc CV 756; CBN 1098
+
+\txt
+
+- Cabelos, los meus cabelos, 
+El Rey me enuiou por eles. 
+Que lhis farey, madre?
+- Filha, dade os a el Rey. 
+
+- Garcetas, las mhas garcetas,
+El Rey m enuio[u] por elas. 
+Que lhis farey, madre?
+[- Filha, dade as a el Rey.]
+
+\num 7
+
+\loc CV 757; CBN 1099
+
+\txt
+
+Pela Ribeyra do irio, 
+Cantando ya
+Ia dona uirgo
+N amor.
+Venhan nas barquas,
+Polo rio, 
+a sabor. 
+
+Pela ribeyra do alto, 
+cantando [ya]
+la dona d algo
+N amor.
+[Venhan nas barquas,
+Polo rio, 
+a sabor.]
+
+\num 8
+
+\loc  CV 758; CBN 1100
+
+\txt
+
+Mete el Rey barquas
+no rio forte.
+Quen amigo ha
+que Deus lh o amostre.
+Ala uay, madre,
+od ey suydade. 
+
+Mete el Rey barquas
+na [Estre]madura.
+[Quen] Amigo [ha]
+que Deus lh o aduga.
+Ala uay, madre,
+[od ey suydade.]
+
+\num 9
+
+\loc CV 759; CBN 1101
+
+\txt
+
+Jus a lo mar e o Ryo, 
+Eu namorada irey. 
+Hu el Rey arma o nauyo,
+Amores connusco, m yrey.
+
+Iuso a lo mar e o alto, 
+Eu namorada irey. 
+Hu el Rey arma o barco,
+Amores connusco, m yrey.
+
+Hu el Rey arma o nauyo,
+Eu namorada irey. 
+Pera leuar a uirgo, 
+Amores connusco, m yrey.
+
+Hu el Rey arma o barco,
+Eu namorada irey. 
+Pera leuar a d algo, 
+Amores connusco, m yrey.
+
+\num 10
+
+\loc CV 760; CBN 1102
+
+\txt
+
+Pela ribeira do rio salido
+Trebelhey, madre, con meu amigo.
+Amor ey migo.
+- Que non ouuesse.
+- Fiz por amigo.
+- Que non tenesse.
+
+- Pela ribeira do rio leuado
+Trebelhey, madre, con meu amigo.
+Amor ey [migo.
+- Que non ouuesse.
+- Fiz por amigo.
+- Que non tenesse.]
+
+\num 11
+
+\loc CV 761; CBN 1103
+
+\txt
+
+Baylemos agora, por Deus, ay! velidas,
+D aquestas auelaneyras frolidas.
+E quem for velida, como nos velidas,
+Se amigo amar, 
+So aquestas auelaneyras frolidas
+Veira baylar. 
+
+Baylemos agora, por Deus, ay! louuadas,
+So aquestas auelaneyras granadas!
+E quem for loada, como vos loadas,
+Se amigo amar, 
+So aquestas auelaneyras granadas
+Veira bailar. 

@@ -1,0 +1,155 @@
+\nome Fernão_Soares_de_Quinhones
+
+\num 1
+
+\loc CBN 1465
+
+\txt
+
+Ay! amor, amor [h]e de Pero Cantone!
+
+Que amor tan saboroso a seu tapone1
+Que amor tan vyçoso e tan são!
+Quen o podesse teer ata o uerão
+Mas ualiria que amor de choiri chão,
+Nen de Martin Gonçaluez Zorzelhone.
+
+Que amor tan delgad e tan frio,
+Mas non creo que dure ata o estio,
+Ca atal era outr amor de mercio
+Que sse botou a pouca de sazone,
+Ay! amor, amor [h]e de Pero Cantone!
+
+Que amor tan pontoso, se cuydades,
+Fazer uos a chorar, se o gostades,
+E semelhar uos a, se o prouades,
+Amor de don Palayo de Gordone.
+Ay! amor, amor [h]e de Pero Cantone!
+
+Que amor tan astroso e tan delgado!
+Que o teuess un ano soteirado,
+Aquel fora en bon ponto nado,
+Que depoys ouuesse d el bõa uençone.
+Ay! amor, amor [h]e de Pero Cantone!
+
+Que amor tan astros e tan pungente
+Que non podess auer en remordente,
+Mays ualiria que amor d un meu parente
+Que mora muyt acerca de Leone.
+Ay, amor, amor [h]e de Pero Cantone!
+
+\num 2
+
+\loc CBN 1466
+
+\txt
+
+Don Guyllhelm e don Adam
+E don Migueel Cairiço,
+Pe la porta da igreia
+Que sayu do quyço,
+Jrado los a el Rey.
+
+Eles nunca poys naceran
+Foron pegureiros,
+Mas por hun home d estorga
+Que perdeu carneyros,
+[J]Rado los a el Rey.
+
+Deytou hun frad a pacer
+Sas bestas que conprara
+E, porque as non achou
+Aly hu as deytara,
+[J]Rado [los a el Rey.]
+
+\num 3
+
+\loc CBN 1467
+
+\txt
+
+Lop a Naya non se uaya!
+Ca, senhor, se ss ora vay,
+E lhi frorecer a faya,
+A alguen iogara lay.
+
+Se lhi frorec o bastage,
+Meu Senhor, seede sage
+Que prendades d ele gage.
+Ca se ss ora d aqui uay,
+Ben fara tan gram domage
+Come feru ande Rom ay!
+Lop a Naya [non se uaya!]
+
+Se el algur acha freyras,
+Ou casadas, ou solteyras,
+Filha x as pelas carreyras.
+E sse queren dizer: ay!,
+Ata lhis faz as olheiras
+Bem come pex de Cambray.
+Lop a Naya [non se uaya!]
+
+Non sse uaya de Seuilha,
+Ca sera gram marauylha
+Quant achar, se o non filha,
+Ca assy fez seu pay.
+Ca ia nehun boy non trilha,
+En os [s]eus esto ben say.
+Lop a Naya [non se uaya!]
+
+\num 4
+
+\loc CBN 1468
+
+\txt
+
+Contar uos ey custumes e feyturas
+d un caualo Que Trai un Infançon:
+A pees moles e as sedas duras
+E ten o freo e esporas non.
+[H]E uelho sesgo nas aguylhaduras
+E non encalcaria hun leyton,
+E encalcaria mil feiraduras.
+
+De dia enpeca, ben com a escura[s],
+Non s aleuant ergo su o bardon,
+Non corre senon pelas mataduras,
+Nen traz caal se en as vnhas non,
+Hu trage mays de cen canterlladuras.
+E As sas re~es senpre magra[s] son,
+Mays nas queixadas a fortes grossuras.
+
+E quando lhi deytan as armaduras,
+Logu el faz contenente de foron
+e, sse moue, tremen lh as coniunturas
+Come doante de longa sazon.
+A muyt espessas as aaugaduras
+E husa mal, se nos geõlhos non,
+En que trage grandes esfoladuras.
+
+Non uos cantarey mays eu ssas feyturas,
+Mays, com eu creo no meu coraçon,
+Quen x en gram gueyra andass a louc[ur]as,
+En feuza d aqueste cavalon,
+Falacer lh ia el nas queixaduras.
+E en a paz non ar sey eu cochon
+Que o quisesse traier nas esturas.
+
+\num 5
+
+\loc CBN 1469
+
+\txt
+
+Rey Judeorum, Jhesu Nazareno,
+En que gran coyt andamus po lo leno!
+Jamays nunca quedamus andando uyas,
+Poren para comendas e benfeytorias.
+Pero se nos conuydan alguns diaz,
+Non nos dan senon leyt a pan de centeno.
+
+Nunca ueemus donas, nen catamus,
+E himus ant alcaydes e uozeyamus
+Por conpoer requezas, e non penssamus
+Quan pouco Sa requeza logr o cameno
+Rey Judeorum, Jhesu Nazareno.

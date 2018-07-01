@@ -1,0 +1,257 @@
+\nome Fernão_Pais_de_Talamancos                      
+
+\num 1                               
+
+\loc CA 358; CBN 48                
+
+\txt                                  
+
+Con uossa graça, mha Senhor
+fremosa, ca me quer eu ir
+e uenho me uos espedir
+porque mj fostes traedor,
+ca auendo mj uos desamor,
+hu uos amey senpr a seruir
+des que uos uj, e des enton
+m ouuestes mal no coraçon.
+
+Pero, de uos e a mjn, peor
+porque uos uei assy ffalir,
+que eu ben pode y guarir
+oy mais sem uos, ca muy milhor
+dona ca uos ey por Senhor,
+e que non sabe assy mentir
+que fara adur tal traiçon
+sobre seu ome, sem rrazon.
+
+E ueeredes qual amor
+uos eu fazia, pois partir
+me uin de uos, e descobrir
+uos ey du ~u uoss entendedor
+uilão, de quen uos sabor
+auedes e a quen pedir
+foste la cinta, por en non
+uos amarey nulha sazon.
+
+
+\num 2                              
+
+\loc CA 359; CV 943; CBN 49                
+
+\txt    
+
+Non ssey dona que podesse
+uale la que eu amey.
+Nen que eu tanto quisesse
+por Senhor das que eu sey,
+se a çinta non prezesse
+de que m eu despaguey
+e por esto a canbiey.
+
+Pero m ora dar quisesse
+quant eu dela desegey
+e mj aquel amor ffezesse
+por que a senpr aguardey,
+cuido que lh o non quisesse
+tam mu[i]to me despaguey
+dela, pois la çint achey.
+
+Nen ar sey prol que m ouuesse
+sseu bem e al uos direy,
+se a per atal teuesse,
+quando m a ela torney,
+juro que o non ffezesse,
+ca tenho que baratey
+bem poys me d ela quitey.
+
+Ca muyto per ey a messe
+co melhor senhor, e ssey
+de mjm que a seruírey.       
+
+
+\num 3                              
+
+\loc CA 360; CBN 50                
+
+\txt    
+
+Uedes, senhor, hu m eu parti
+de uos e uos depoy[s] non uj.
+Aly tenh eu o coraçon
+en uos, senhor, e al non.
+
+Hu uos eu uj fremosa estar
+e m ouuj de uos a quitar.
+Aly tenh eu o coraçon
+[en uos, senhor, e al non.]
+
+Hu uos eu ui fremosa hir
+e m ouui de uos a partir.
+Ali tenho eu o coraçon
+[en uos, senhor, e al non.]
+
+
+\num 4                              
+
+\loc CA 361; CBN 51               
+
+\txt    
+
+Uedes, senhor, pero me mal fazedes
+mentr eu uiuer ia uos sempr seredes,
+Senhor fremosa,
+de mj poderosa.
+
+Pero me mal fazedes cada dia,
+mentr eu uiuer seredes todauia,
+Senhor fremosa,
+[de mj poderosa.]
+
+Per como quer que uos de mj façades,
+mentr eu uiuer uos quer eu que seiades,
+Senhor fremosa,
+[de mj poderosa.]
+
+
+\num 5                              
+
+\loc CA 362; CBN 52               
+
+\txt    
+
+Gram mal me faz agora [e]l Rey
+que senpre seruj e amey,
+porque me parte hu eu ey
+prazer e sabor de guarir.
+Se m eu da Marinha partir
+non poderey alhur guarir.
+
+Muyt [h]e contra mj pecador
+el Rey fort e sen amor,
+porque me quita do sabor,
+e grande sabor, de guarir.
+Se m eu da Mar~ia partir 
+[non poderey alhur guarir.]
+
+
+\num 6                              
+
+\loc CV 941; CBN 1284               
+
+\txt    
+
+Don Ffernan Paez de Talamancos  / fez este can-
+tar de maldizer / A hun iogar que chamavan iogar /
+saco, e era muj mal feyto. E, poren  , / trobou lhi que
+mays guisad era / De seer saco ca iogar.
+
+ Iograr Sacco, non tenh eu que fez razom
+Quen uos pos nome iograr e uos deu don;
+Mays guisado fora saqu e iograr non,
+Assy Deus m anpar,
+Vosso nume uos dira
+Quen uos chamar Saqu e non iograr.
+
+ Rodrig Airas uo lo diss e fez mal sen,
+Poys que uos non citolades nulha ren,
+Ar auede nume saqu e sera ben ;
+Assy Deus m anpar,
+Vosso nome uos dira
+[Quen uos chamar Saqu e non iograr.]
+
+ Quen uos saco chamar prazera a uos,
+E dira uo lo ben lheu que uos en cos
+Uir tira los nadigões apos uos ;
+Assy Deus m anpar,
+Vosso nome uos dira
+Quen uos chamar Saqu e non iograr.
+
+ Quen uos a uos chamou iograr a pran mentiu,
+Ca Vei eu que citolar non uos oyo,
+Nen os uossos nadigões non uos uyu :
+Assy Deus m enpar,
+Vosso nome uos dira
+
+[Quen uos chamar Saqu e non iograr.]
+
+
+\num 7                              
+
+\loc CV 942; CBN 1285                
+
+\txt    
+
+ Iograr Sac eu entendi,
+Quando ta medida uj,
+Que sen paut iras d aqui,
+Ca desmesura pedes ;
+Como uees, uay t assy,
+Poys tu per saco medes
+
+ Gram medida e de pram,
+Pero que d ele muyt ã
+Saqu e non ch o daram,
+Ca desmesura pedes ;
+Hu fores recear t am,
+Poys tu per saco medes.
+
+
+\num 8                              
+
+\loc CV 943; CBN 1286              
+
+\txt    
+
+ Outrossy fez estas cantigas a / huna abbadessa sa
+coyrmãa / en que entendia, e passou per aquel / moes-
+teyro hun caualeiro e leuaua h~ua / çinta e deu lh a por-
+que era pera ela / , e por en trobou lhi estes cantares.
+
+ Non sey dona que podesse
+Vale la que eu amey,
+Nen que eu tanto quisesse
+Por senhor, das que eu sey,
+Se a cinta non presesse,
+De que nulh eu despaguey,
+E por esto a cambey.
+
+ Pero mh ora dar quisesse
+Quant eu d ela deseiey,
+E mh aquel amor fezesse
+Porque a sempr aguardey,
+Cuydo que lh o non quisesse,
+Ca muyto me despaguey
+D ela, poy la a cinta achey.
+
+ Nen ar sey prol que m ouuesse
+Seu ben, e al uos direy :
+Juro que non fezesse,
+Ca tenho que baratey
+Ben, pois me d ela quitey.
+
+ Ca muyto per ei, am e ssey
+Com melhor senhor, e sey
+De mj que a seruirey.
+
+
+
+\num 9                             
+
+\loc CV 944; CBN 1287               
+
+\txt    
+
+ Quand eu passay per d Ormaa,
+Preguntey por mha coyrmaa,
+A salua e paçaa.
+Disseron: - non [h]e aqui essa,
+Alhur buscade uos essa,
+Mays [h]e aqui a abbadessa.
+
+ Preguntey: - por caridade,
+Hu [h]e d aqui saluidade,
+Que sempr amou castidade?
+Disseron: - non [h]e aqui [essa,
+Alhur buscade uos essa,
+Mays [h]e aqui a abbadessa.]
+

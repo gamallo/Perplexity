@@ -1,0 +1,282 @@
+\nome Fernão_Fernandes_Cogominho
+
+\num 1                                        
+
+\loc CBN 301                      
+
+\txt
+
+Non me queredes uos, senhor, creer
+A coyta que me fazedes leuar,
+E poy la eu ia senpr ey a sofrer,
+Non mi ten prol de uo lo mays iurar;
+Mays Deus, Que tolh as coytas e as da,
+El de gram coyt a quen coyta non a.
+
+E non mj creedes qual coyta sofri
+Senpre por uos, nen quant afam leuey,
+E ued ora que faredes hi
+Ca min, ca uo lo iamays iurarey;
+Mays Deus, Que [tolh as coytas e as da,
+El de gram coyt a quen coyta non a.]
+
+El a non tolha enquanto uiuer
+Seu ben, que uiuera muj mal,
+C assy fig eu des que uos fui ueer,
+E, pero uo lo iuro, non mj ual;
+Mays Deus [Que tolh as coytas e as da,
+El de gram coyt a quen coyt non a.]
+
+\num 2                                        
+
+\loc CBN 302                        
+
+\txt
+
+Ay! mha senhor, lume dos olhos meus,
+Hu uos non uir dizede mj, por Deus:
+Que farey eu que uos senpr amey?
+
+Pois m assi uj, hu uos ueio, moirer,
+Hu uos non uir dizede m unha ren,
+Que farey eu [que uos senpr amey?]
+
+Eu que nunca outra soubi seruir
+Senon, senhor, uos, en hu uos non uir
+Que farey eu [que uos senpr amey?]
+
+\num 3                                        
+
+\loc CBN 303                        
+
+\txt
+
+Quen me uir e quen m oyr
+Que algunha molher amar,
+Non se uaa d ela quytar,
+Ca, poys que se d ela partir,
+Sey eu muj ben que lhi ueira
+Coyta, que par non auera
+Des que sse longi dela uir.
+
+E sse m end alguen pedir
+A consselho, per bona fe,
+Direy lh eu que gram coyta [h]e,
+Pero que s en quiser sayr
+Sera ia quite d ~ua ren,
+Du a non uir, de ueer ben
+E quite de nunca dormir.
+
+E esto sey eu ben per mjn,
+Ca uo lo non digo por al,
+Mays porque sey eu ia o mal
+Que uen end a quem s en uay,
+Ca muytas uezes perdi x assy,
+Catiuo porque m en party.
+
+\num 4                                        
+
+\loc CBN 304                      
+
+\txt
+
+Muitos am coyta d amor,
+May la do mundo mayor
+Eu mh a ouuj senpre doyta
+Ca x hi coyta de coyta,
+May la minha non [h]e coyta.
+
+Muytos uei eu namorados
+E que son d amor coytados,
+May la minha coyta x [h]e forte
+Ca x hi morte de morte,
+May la minha non [h]e morte.
+
+Muytos mj uei eu que an
+Gran coyta e grand affam,
+May lo meu mal que uyn tal
+Ca x am eles mal de mal,
+May lo meu mal non [h]e mal.
+
+\num 5                                        
+
+\loc CBN 305                        
+
+\txt
+
+Poys tan muyt a que mha senhor non uj,
+E me mays ueio no mundo uiuer,
+E m eu tan gram coyta pudi sofrer,
+Per boa fe, poys dela non moiri,
+Jamays por coyta nunca ren darey,
+Ca por gram coyt auer non moirerey.
+
+E, quando m eu da mha senhor parti,
+Non cuidaua esse dia chegar
+Viu aa noyte, e ueio m ar andar
+Viu e, poys tal coyta padeçi,
+Jamays por coyta nunca ren darey,
+[Ca por gram coyt auer non moirerey.]
+
+E, poys esta que uos digo sofri,
+Ben deuo de pram a sofrer qualquer
+Outra coyta, qual mj Deus dar quiser,
+Ca, poys per esta morte non prendy,
+Jamays [por coyta nunca ren darey,
+Ca por gram coyt auer non moirerey.]
+
+
+\num 6                                        
+
+\loc CBN 306                        
+
+\txt
+
+Non am eu mha senhor, par Deus,
+Por nunca seu ben asperar,
+Mays fui con ela meçar,
+E ia assy, amigos meus,
+Que non ey eu end al fazer,
+Enquant ela poder uiuer.
+
+Non a amey des que a uj,
+Por nunca dela auer seu ben,
+Mays uedes, de guisa m hauen,
+Meus amigos, que est [h]e assy:
+Que non ey eu end al fazer,
+[Enquant ela poder uiuer.]
+
+Non a amo, per bona fe,
+Por nunca seu ben auer ia,
+Ca sey ben que mh o non fara,
+Mays mha fazenda ia assy [h]e
+Que non ey [eu end al fazer,
+Enquant ela poder uiuer.]
+
+Ca demo me cabo prender
+Fui de pram hu a fuj ueer,
+Porque s ela non quer doer
+De mjn, mal dia foy naçer,
+Que non ey [eu end al fazer,
+Enquant ela poder uiuer.]
+
+E ssey de mjn com a de seer:
+Viuer coitad e poys moirer.
+
+\num 7                                        
+
+\loc CBN 307                        
+
+\txt
+
+[V]eherom m ora preguntar
+Meus amigos porque perdi
+O sen [e] dixi lhis assy,
+Ca o non pudy [m]ays negar:
+A mha sobrinha mj tolheu
+O sen, por que ando sandeu.
+
+Quen ben quiser, meu coraçon,
+Saber porque enssandeçi
+Pregunte me, ca ben logu j
+Lhi direy eu assy enton:
+A mha sobrinha [mj tolheu
+O sen, por que ando sandeu.]
+
+\num 8                                        
+
+\loc CBN 665                        
+
+\txt 
+
+Amigu, e non uos nenbrades
+de mj e torto fazedes,
+mays nunca per mj creades,
+se muj cedo non ueedes.
+Ca sodes mal consselhado
+de mj sayr de mandado.
+
+Non dades agor[a] nada
+por mj e pois uos partirdes
+d aqui, mays muj ben uingada
+serey de uos quando uirdes.
+Ca sodes mal [consselhado
+de mj sayr de mandado.]
+
+Non queredes uiuer migo
+e moiro con soydade,
+mays ueredes, amigo,
+poys que uos digu eu uerdade.
+Ca sodes mal con[sselhado
+de mj sayr de mandado.]
+
+\num 9                                        
+
+\loc CBN 666                        
+
+\txt
+
+Hyr quer oi eu, madre, se uos prouguer
+hu [h]e meu amigu, e se poder ueer
+Ueerey [hi] muj gram prazer.
+
+Gram sazon a, madre, que o non uj,
+mays, poys mj Deus guisa de o hir ueer,
+Veerey hi muj [gram prazer.]
+
+\num 10                                        
+
+\loc CBN 667                        
+
+\txt   
+
+Amiga, muyt a que non sey,
+nen mh ar uehestes uos dizer
+nouas, que queiria saber,
+dos que ora son con el Rey:
+Se sse ueen ou se y stam,
+ou a que tempo sse ueiram.
+
+Enquanto falastes migo,
+dizede, se uos uenha ben,
+se uos disse nouas alguen
+dos que el Rey leuou sigo:
+Se sse uen ou se x estam
+[ou a que tenpo sse ueiram.]
+
+Daria muj de coraçon
+que quer que auer podesse
+a quen mj nouas dissesse
+d el Rey e dos que con el son:
+Se sse ueen ou se x estam
+[ou a que tenpo sse ueiram.]
+
+Mays ben sey o que faran:
+porque mj pesa tardaran.
+
+\num 11                                        
+
+\loc CBN 668                        
+
+\txt
+
+Meu amigo, se ueiades
+de quant amades prazer,
+quant alhur muyto morades
+que non podedes saber,
+Amigo, de mj mandado,
+se podes enton coytado.
+
+Dizede mh o meu amigo
+e, por Deus, non mh o neguedes
+quando non sodes comigo,
+e muyt a que non sabedes,
+Amigo, de mj mandado,
+[se sodes enton coytado.]
+
+Ca, sse faz que uos andades,
+quando uos de mj partides,
+gram tenpo que non tornades,
+enton quando non oydes,
+Amigo, de mj mandado,
+[se sodes enton coytado.]

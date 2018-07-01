@@ -1,0 +1,22 @@
+                                           
+\nome Golparro
+
+\num 1
+
+\loc CV 872; CBN 1215
+
+\txt
+
+Mal fac eu, uelida, que ora non vou
+Veer meu amigo, poys que me mandou
+Que foss eu con el en a Sagraçon,
+Fazer oraçon a San Treeçon.
+Direy: coraçon,
+A San Treeçon.
+
+E non me deuedes, mha madr - a guardar,
+Ca, sse la non for, moirerey con pesar,
+Ca, hu ss el hya, disse m esta razon:
+[Fazer oraçon a San Treeçon.]
+Direy: coraçon,
+A San Treeçon.

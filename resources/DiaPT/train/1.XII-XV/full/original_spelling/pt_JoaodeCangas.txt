@@ -1,0 +1,79 @@
+\nome João_de_Cangas
+
+\num 1
+\[loc CV 875; CBN 1269
+\[coa 0
+
+\txt
+Amigo, se mi gram ben queredes,
+id' a San Mamed'e veer-m'edes:
+oje non mi mençades, amigo.
+
+Pois mi aqui ren non podedes dizer,
+id'u ajades comigo lezer:
+oje non mi mençades, amigo.
+
+Serei vosqu'en San Mamede do Mar,
+na ermida, se mi-o Deus aguisar:
+oje non mi mençades, amigo.
+
+\num 2
+\[loc CV 873; CBN 1267
+\[coa 0
+
+\txt
+En San Mamed'u sabedes
+
+En San Mamed'u sabedes
+que viste-lo meu amigo
+oj'ouver'a seer migo;
+mia madre, fé que devedes,
+leixedes-mi-o ir veer.
+
+O que vistes esse dia
+andar por mi mui coitado
+chegou-m'ora seu mandado;
+madre, por Santa Maria
+leixedes-mi-o ir veer.
+
+Pois el foi d'atal ventura
+que sofreu tan muito mal
+por mi e ren non lhi val,
+mia madre, e por mesura
+leixedes-mi-o ir veer.
+
+Eu serei por el coitada,
+pois el é por mi coitado;
+se de Deus ajades grado,
+madre ben aventurada,
+lelixedes-mi-o ir veer.
+
+\num 3
+\[loc CV 874; CBN 1268
+\[coa 0
+
+\txt
+Fui eu, madr', a San Mamed'u me cuidei
+
+Fui eu, madr', a San Mamed'u me cuidei
+que veess'o meu amigu'e non foi i;
+por mui fremosa que triste m'en parti
+e dix'eu como vos agora direi:
+pois [meu amigu'] i non ven, sei u~a ren:
+por mi se perdeu, que nunca lhi fiz ben.
+
+Quand'eu a San Mamede fui e non vi
+meu amigo con que quisera falar,
+a mui gram sabor, nas ribeiras do mar,
+sospirei no coraçon e dix'assi:
+pois [meu amigu'] i non ven, sei u~a ren:
+por mi se perdeu, que nunca lhi fiz ben.
+
+Depois que fiz na ermida oraçon
+e non vi o que mi queria gram ben,
+con gram pesar filhou-xi-me gram tristen
+e dix[i] eu log'assi esta razon:
+pois [meu amigu'] i non ven, sei u~a ren:
+por mi se perdeu, que nunca lhi fiz ben.
+
+

@@ -1,0 +1,384 @@
+\nome Paio_Soares_de_Taveirós                      
+
+\num 1                               
+
+\loc CA 397; CBN 117                
+
+\txt                                  
+
+ Cuidaua m eu quando non entendia
+que mal sen era de uos ben querer,
+senhor fremosa, que m en partiria
+atanto que o podess entender,
+mays entend ora que faç i mal sen
+de uos amar, pero non me part en;
+ante uos quero melhor todauia.
+
+ En mj cuidaua que non poderia
+de uos uijr, mha senhor, se non ben,
+ca non cuidei que me de uos uerria
+tan muyto mal como m agora uen;
+e fazia dereito, ca non al,
+e non cuidaua que me uehesse mal,
+senhor fremosa, du non auya.
+
+ E por muj gran marauilha terria,
+senhor, quen ora soubesse de qual
+guisa mj ben e dereito faria,
+ca nunca uistes mauilha tal:
+ca me uen mal du u Deus non a quis dar,
+senhor, e coita muj grand e pesar
+de uos de que mj ujr non deuia.
+
+ Por en, senhor, cousimento seria
+e mesura grand, assy Deus m anpar!
+de mj fazerdes uos ben algun dia,
+pois tanto mal me fazedes levar ;
+e se mj ben fezessedes, senhor,
+sabed a uos xe estaria melhor
+e de mays Deus uo lo gradeceria.
+
+
+\num 2                               
+
+\loc CA 31; CBN 118                
+
+\txt                  
+
+ Entend eu ben, senhor, que faz mal sen
+quen uay gram ben querer quen lho non quer
+e quen deseia muyt ata[l] molher
+de que non cuyda iamays auer ben,
+e, mha senhor, tod est a mj auen
+de uos, e non entend a folia
+que faç y gramd[e]; entende la ya
+se a fezess outr e non ey uentura
+se saber me guardar de gran loucura.
+
+ E, mha senhor, sei guardar outre bem
+e a mjn, que mh auya mays mester,
+non me sey guardar, se me non ualuer
+escontra uos, mha senhor, outra ren;
+non mh a mjn prol, quando mj prol non ten
+cousiment e ualer me deuia;
+mha senhor, uel por Sancta Maria,
+poys Deus non quer que faça eu cordura,
+fazede uos cousiment e mesura.
+
+ E de pran, segunde meu conhocer,
+eu uos querer muj gram ben, mha senhor,
+eu que non cuydo, mentre uiuo for,
+senhor fremosa, de uos ben auer,
+mais mh o deuiades uos gradeçer;
+ca, se uos eu, mha senhor, amasse
+por algun ben que de uos cuidasse
+auer, mays Deus nunca me de grado,
+se ey, senhor, ren deste cuidado.
+
+
+\num 3                              
+
+\loc CA 32; CBN 119                
+
+\txt
+
+ A rem do mundo que melhor queria
+nunca m en ben quis dar Sancta Maria,
+mays quant end en no coraçon temia
+Ey! ei! ey! senhor ;
+senhor agora uj
+de uos quant eu sempre tan muyto temj.
+
+ A ren do mundo que eu mays amaua
+e mais seruia, nen mais deseiaua
+Nostro Senhor, quant end eu receaua
+Ey! ei! ey! senhor ;
+[senhor agora uj
+de uos quant eu sempre tan muyto temj.]
+
+ E que farei? ca auem u y coitado
+que eu assi fique i desenparado
+de uos, porque coita grand e coydado
+Ey! ei! ey! senhor;
+[senhor agora uj
+de uos quant eu sempre tan muyto temj.]
+
+
+
+\num 4                             
+
+\loc CA 33; CBN 120                
+
+\txt          
+
+ Quantos aquj d Espanha son
+todos perderan o dormir
+con gram sabor que am de ss ir,
+mais eu nunca sono perdi
+des quando d Espanha say,
+ca mho perdera ia enton.
+
+ E eles, se Deus mj perdon,
+deseian saz terras assy
+que no[n] dormiron muyt ahi,
+mais poys hi foren, dormiran,
+ca non deseian al, nen am
+outra coita, se esta non.
+
+ Estou end eu muj peor,
+que cuid ia perder o sen,
+deseiando sempre qual ben
+do mundo mais gran [h]e d auer,
+como deseiar benfazer
+de muj fremosa mha senhor.
+
+ E de pran [h]e est o mayor
+ben que oi eu posso saber,
+e Deus, que me fez ben querer,
+se m este ben quisesse dar,
+non me cuydaria canbhar
+por Rey nen por Emperador.
+
+
+
+\num 5                             
+
+\loc CA 34; CBN 121                
+
+\txt       
+
+ Meus olhus, quer uos Deus fazer
+ora ueer tam gram pesar
+onde me non poss eu quitar;
+sen morte non poss en saber.
+Por qu uos faz agora Deus
+tam muyto mal? ay olhos meus!
+
+ Ca uos faran cedo ueer
+a por que eu moiro casar,
+e nunca mj d ela quis dar
+ben entr ir ssora entender.
+Por qu uos faz agora Deus
+[tam muyto mal? ay olhos meus!]
+
+ E, de quem uos esto mostrar,
+nunca uos mostrara prazer,
+ca logu eu hi cuyd a moirer,
+olhos, e non ous osmar.
+Por qu uos faz agora Deus
+[tam muyto mal? ay olhos meus!]
+
+
+\num 6                             
+
+\loc CA 35; CBN 122                
+
+\txt             
+
+ Como moireu quen nunca ben
+ouue da rem que mais amou,
+e que uiu quanto receou
+dela, e foy morto por en:
+Ay mha senhor! assi moyr eu.
+
+ Como moireu quen foy amar
+quen lhi nunca quis ben fazer,
+e de que lhi fez Deus ueer,
+de que foy morto con pesar :
+Ay mha senhor! [assi moyr eu.]
+
+ Como omen que ensandeceu,
+senhor, con gran pesar que uiu
+e non foy ledo, nen dormiu
+e pois, mha senhor, e moireu:   
+Ay mha senhor! [assi moyr eu.]
+
+ Como moireu quen amou tal
+dona, que lhi nunca fez ben,
+e quen a uir leuar a quen
+a non ualia, nen a ual:
+Ay mha senhor! [assi moyr eu.]              
+
+\num 7                             
+
+\loc CV 239; CBN 601                
+
+\txt    
+ O meu Amigo, que mi dizia
+Que nunca mays migo viueria,
+Par Deus! donas, aqui [h]e ia.
+
+ Que muyto m el auya Jurado
+Que me non visse mays, a Deus grado,
+Par Deus! do[nas, aqui [h]e ia.]
+
+ O que iuraua que me non visse,
+Por non seer todo quant el disse,
+Par Deus! donas, aqui [h]e ia.
+
+ Melhor o fezo ca o non disse,
+Par Deus! [donas, aqui [h]e ia.]
+
+
+
+\num 8                            
+
+\loc CV 240; CBN 602                
+
+\txt      
+ Donas, veeredes a prol que lhi ten
+De lhi saberem ca mi quer gram ben.
+
+Par Deus, donas, ben podedes iurar
+Do meu amigo que mi fez pesar.
+Mays, Deus! e que cuyda my ga[n]ar
+De lhi saberem que mi quer gram ben?
+
+ Sofrer lh ei eu de me chamar senhor
+Nos cantares que fazia d amor?
+Mays enmentou me, todo con sabor.
+De lhi saberem que mi [quer gram ben.]
+
+ Foy m el en seus cantares enmentar.
+Vedes ora se me deu a queixar:
+Ca sse non quis meu amigo guardar
+De lhi saberem que mi [quer gram ben.]
+
+
+
+\num 9                            
+
+\loc CV 241; CBN 603                
+
+\txt   
+Quando sse ffoy, meu amigo
+Jurou que cedo veiria,
+Mays poys non ven falar migo.
+Porem, por Sancta Maria,
+Nunca por el rroguedes,
+Ay! donas, ffe que deuedes! 
+
+ Quando sse foy, fez me preyto
+Que sse ueria muy cedo
+E mentiu me; tort a feito.
+E, poys de min non a medo,  
+Nunca por el [rroguedes,
+Ay! donas, ffe que deuedes!]
+
+ O que vistes, que dizia
+Ca andaua namorado,
+Poys que nom veio ao dia
+Que lh eu auia mandado,
+Nunca por el rroguedes,
+Ay! [donas, ffe que deuedes!]           
+
+
+\num 10                            
+
+\loc CA 36; CBN 1569                
+
+\txt       
+
+ Sennor, os que me queren mal,
+sey eu ben que uus uan dizer
+todos, sennor, por me fazer
+perder con uusc - e non por al ;
+dizen uus ca uus quero ben,
+sennor, e non deuo, per en,
+eu escontra uos a perder.
+
+ E ia, d esta mezcra tal,
+de me guardar non ey poder,
+ca uus sey muy gran ben querer,
+pero me contra uos non ual;
+e uos, por tollerdes mi o sen,
+nunca lles queredes, per ren,
+esta mezcra de min creer.
+
+ E, mia señor, quer eu puñar 
+se me posso saluar, se non,
+e dire lles, a quantos son,
+que mi o non poderam prouar,
+mais eles sei eu que faran :
+log ante uos mi afrontaran
+que uus amo de coraçon.
+         
+
+\num 11                            
+
+\loc CA 37               
+
+\txt       
+
+Eu sõo tan muit' amador
+do meu linhagen, que non sei
+al no mundo querer melhor
+d'~ua mia parenta que ei.
+E quen sa linhagen quer ben,
+tenh' eu que faz dereit' e sen;
+e eu sempr' o amarei.
+
+ E sempre serviç' e amor
+eu a meu linhagen farei,
+enquanto com' eu vivo for':
+esta parenta servirei,
+que quero melhor d'outra ren,
+e muito serviç' en mi ten,
+se eu poder' - e poderei -
+
+ Pero nunca vistes molher
+nunca chus pouc(o) algo fazer
+a seu linhagen, ca non quer
+en meu preito mentes meter:
+e poderia-me prestar,
+par Deus, muit', e non lhe custar
+a ela ren de seu aver!
+
+ E veede, se mi-á mester
+d'atal parenta ben querer:
+que m'ei a queixar, se quiser'
+lhe pedir algo, u a veer'.
+Pero se me quisesse dar
+algo, faria-me preçar
+atal parenta e valer.
+
+
+
+\num 12                            
+
+\loc CA 38               
+
+\txt   
+
+No mundo non me sei parelha
+mentre me for' como me vay,
+ca ja moiro por vos - e !ay
+mia senhor branca e vermelha,
+queredes que vos retraya
+quando vus eu vi en saya!
+!Mao dia me levantei,
+que vus enton non vi fea!
+
+ E, mia senhor, des aquel di' !ay!
+me foi a mi muyn mal,
+e vos, filha de don Paay
+Moniz, e ben vus semelha
+d'aver eu por vos guarvaya,
+pois eu, mia senhor, d'alfaya
+nunca de vos ouve nen ei
+valía d'~ua correa.
+
+
+
+\num 13                            
+
+\loc CA 39               
+
+\txt    
+
+Meus olhos, gran cuita d'amor
+me dades vos, que sempr' assi
+chorades; mais ja des aqui,
+meus olhos, por Nostro Senhor,
+non choredes, que vejades
+a dona por que chorades!                  

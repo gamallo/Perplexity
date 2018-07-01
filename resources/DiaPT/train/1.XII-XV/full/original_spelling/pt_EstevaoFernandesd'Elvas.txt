@@ -1,0 +1,183 @@
+\nome Estêvão_Fernandes_d'Elvas
+
+\num 1
+
+\loc CV 216; CBN 578
+
+\txt
+
+Estes que agora, madre, aque son 
+Dizen que he sandeu meu amigo.
+Non tenhades que o por al digo,
+Mays ben creo, se me uisen, que non
+Terria[n] meu amigo por sandeu,
+Madre, de que por min ensendeceu.
+
+E os que dizen que perdeu o sen
+Por my, madre, non me diria[n] mal,
+Se soubessem come [h]e, sey me eu al,
+Poys que me uissen, que nunca por en
+Terrian meu amigo [por sandeu,
+Madre, de que por min ensendeceu.]
+
+E aquelles que ia dizen que he
+por mey Sandeu, asy Deus me pardom,
+Cada huun delles no seu coraçom,
+Se me vissen, nunca, per boa fe,
+Terrian meu amigo por sandeu,
+[Madre, de que por min ensendeceu.]
+
+\num 2
+
+\loc CV 217; CBN 579
+
+\txt
+
+Ay! boa dona, sse Deus uos perdom,
+Que uos non pes do que uos eu direy:
+Eu uiu en coita ca tal senhor ey
+Muy fremosa, e pux no coraçom
+Que fale uosco, ca non uy senhor
+Que semelhe come uos, mha ssenhor.
+
+E no[n] uos pes, senhor, Poys uos Deus deu,
+Pre mesura e bondade, Bon prez;
+e, por todo este Bem que uos El fez,
+Ouu a roer en o corazom meu
+Que fale uosco, [ca non uy senhor
+Que semelhe come uos, mha ssenhor.]
+
+Poys sobre todas en ben parecer
+Vos Deus fez mays fremosa, e en ssem
+E en mesura e en todo o outro ben,
+Ouu en eu no meu coraçom arder
+Que fale uosco, [ca non uy senhor
+Que semelhe come uos, mha ssenhor.]
+
+\num 3
+
+\loc CV 218; CBN 580
+
+\txt
+
+A mha senhor ffezo Deus por meu mal
+Tam fremossa, tam de bon sen, atal
+Que semelha que nunca en al cuydou.
+Por dar a min esta coisa, en que uou,
+Sei eu que a ffez El, e non por al,
+Se m ela con tode este ben non val.
+
+Muy ben na ffez ffalar e entender
+Sobr a quantas donas El ffez nacer,
+Que semelha que nunca en al cuidou.
+Por dar a min esta coisa, en que uou,
+Sei eu que a ffez tan ben parecer
+Se m ela con todo esto non ualer.
+
+Esta senhor que min en poder ten
+fez Deus fremossa e de muy bon sem
+Que semelha que nunca en al cuydou.
+Por dar a min esta coisa, en que uou,
+Sey eu que a fez, non por outra ren,
+Se m ela con todo este ben non uen.
+
+\num 4
+
+\loc CV 219; CBN 581
+
+\txt
+
+Ouc eu dizer huun ueru aguays[a]do
+Que bem e mal sempre na face [u]e[n.]
+E uerdad [h]e, per com end a my auen
+[D]h~ua dona, Hu tod est ey osmado;
+ca, de Quando ben na ssa faze Vy,
+uen end - amigas - tanto mal a min,
+Per que o ueru em meu dan [h]e prouado.
+
+[D]a sa bondade e seu prez muy loado
+E sa mesura, nen do seu bom ssem,
+Non mi uen mal, mays d outro muy gram ben
+Que eu, amigos, polo meu Pecado,
+Na sa fremosa face conhoci;
+Por, quando mal, end a min uen d aly,
+Esta [o ueru em] meu dan atraiçado.
+
+Ase mal e gramd afam e cuydado
+E gram coita que m aficado tem, 
+De tod est a min non [fal gerr em]
+Por qual doaire, quan ben apostado
+Na ssa face fremosa conhoçi
+Con gram beldade, amigos, e assy
+En meu dan [h]e o ueru afacayado.
+
+D esençon, Amigos, entendi
+Que este ueruo, que eu senpr ouuy,
+He con uerdad em dan acabado.
+
+\num 5
+
+\loc CV 682; CBN 1024
+
+\txt
+
+O meu amigo, que por min o ssen
+Perdeu, ay! madre, tornad [h]e sandeu,
+E poys Deus quis que ynda non moireu,
+E a uos pesa de lh eu querer ben,
+Que me queira ia mal, mal me farey
+Parecer, e desensandecer tal ey.
+
+Por Deus uos rogo, mha madre, perdon,
+Que mh o leixedes h~ua vez ueer,
+Ca lhi quer eu h~ua cousa dizer
+Por que guaira, se me vir,e, ssenon,
+Que me queira [ia mal, mal me farey
+Pareçer, e desensandecer tal ey.]
+
+E el a perdudo o sem por min,
+Que lhi esta coyta dey, madr e senhor,
+E guairia, ca mh a muy grand amor,
+Se me uisse y; ssenon, de aqui,
+Que me queira [ia mal, mal me farey
+Pareçer, e desensandecer tal ey.]
+
+\num 6
+
+\loc CV 683; CBN 1025
+
+\txt
+
+Farey eu, filha, que uos non veia
+Voss amigo; - porque madr e senhor?
+-Ca me dizen que [h]e entendedor
+Voss - ay! mha madre, por Deus non seia,
+Eu o deu a lazerar que o fiz
+Sandeu, e el con sandice o diz.
+
+- De uos e d el, filha, ey queyxume.
+- Porque, madre? - ca non [h]e guysado
+Lazerar mh a esse periurado.
+- Porque, madre, meu ben e meu lume,
+Eu o deuo a lezerar que o fiz
+[Sandeu, e el con sandice o diz.]
+
+Matar m ey, filha, se mh o disserdes.
+- Porque uos auedes - madr - a matar?
+- Ante que m eu do falsso non uengar.
+- Madre, se uos uos vengar quiserdes,
+Eu o deuo a lazerar que o fiz
+[Sandeu, e el con sandice o diz.]
+
+\num 7
+
+\loc CV 684; CBN 1026
+
+\txt
+
+- Madre, chegou meu amig oi aquy.
+- Nouas son, filha, con que me non praz.
+- Par Deus, mha madre, gran torto per faz.
+- Non faz, mha filha, ca perdedes hy.
+- Mays perderey, madre, se el perder.
+- Ben lhe sabedes, mha filha, querer.

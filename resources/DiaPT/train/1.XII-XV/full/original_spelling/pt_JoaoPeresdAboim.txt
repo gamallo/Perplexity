@@ -1,0 +1,519 @@
+\nome João_Peres_d´Aboim
+
+\num 1
+
+\loc CV 268; CBN 629
+
+\txt
+
+Cuydades uos, meu amigo, h~ua ren:
+Que me non poss assanhar sen razon
+Eu contra vos come uos, por que non
+Escontra mi cuydades hy mal sen,
+Ca poder ey de m assanhar assy
+Eu contra uos come uos contra mi.
+
+E, sse cuydades ca non ei poder,
+Meu amigo, de mi uos assanhar
+Ben como uos a min, hides cuydar
+Mal sen, ca logo uos farey veer,
+Ca poder ey de m assanhar [assy
+Eu contra uos come uos contra mi.]
+
+E cuydades que poder non ey
+De me uos assanhar, se m eu quiser,
+Ben come uos a min, se uos prouguer,
+Ben outrossy me uos assanharey,
+Ca poder ey de [m assanhar assy
+Eu contra uos come uos contra mi.]
+
+\num 2
+
+\loc CV 269; CBN 630
+
+\txt
+
+Vistes, madre, quando meu amigo
+Por que ueiria falar comigo.
+Oie dia cuydades que venha?
+
+Vistes hu iurou que nos ouuesse
+Nunca de min ben se nom veesse.
+Oie dia cuydades que ve[nha?]
+
+Viste las iuras que mi iurou enton:
+Que veiria sen mort ou sen prison.
+Oie dia cuyda[des que uenha?]
+
+
+Viste las iuras que Jurou  aly
+Que ueiria e iurou as per mi.
+Oie dia cuydades que venha?
+
+\num 3
+
+\loc CV 270; CBN 631
+
+\txt
+
+Que boas nouas, que oi, oyra
+O meu amigo quando lh eu disser
+Ca lhi quer eu mayor ben ca m el quer!
+E el enton con ben que lhi sera
+Non sabera como mh agradecer,
+Nen que mi diga con tan gram prazer.
+
+Ca lhi direi ca mui melhor ca mi
+Lhi quer eu ia, nen ca meu coraçon,
+Nen ca meus olhos, se Deus mi perdon.
+E, poys que lh eu tod esto meter hi,
+Non sabera como mh agradecer,
+[Nen que mi diga con tan gram prazer.]
+
+E outro prazer uos direy mayor
+Que uos eu dixi, que lh oi eu direy:
+Que vyua migu, assy non moirerey.
+E poys que lh eu disser tan grand amor
+Non sabera como [mh agradecer,
+Nen que mi diga con tan gram prazer.]
+
+O que el deseia mays d outra ren
+Lhi direy oie tanto que o uyr,
+Ca lhi direy ca non posso guari
+Tal ben lhi quere, e el enton con ben
+Non sabera como mh agradecer,
+[Nen que mi diga con tan gram prazer.]
+
+\num 4
+
+\loc CV 271; CBN 632
+
+\txt
+
+Par Deus, amigo, [nunca] eu cuydey
+Que uos perdesse, como uos perdi,
+Por quen non parece melhor de mi,
+Nen ar ual mays, e tal queixum end ey
+Que direy, amigo, per boa fe,
+Como parece seu nome quen [h]e
+
+Se uos foss eu per tal dona perder,
+Que me uencess oi en parecer ben,
+Ou en al que quer, prazer m ia en.
+Mays tan sen guysa o fostes fazer
+Que direy, amigo, per bõa fe,
+[Como parece seu nome quen [h]e]
+
+En toda ren que uos possa buscar
+Mal buscar uo lo ey, mentr eu vyua for,
+Ca me leixastes per atal senhor
+Que ben uos digo, con este pesr,
+Que direy, amigo, [per bõa fe,
+Como parece seu nome quen [h]e.]
+
+E poy lo eu disse, per bõa fe,
+Pesar uos a, poys souberem quen [h]e.
+
+\num 5
+
+\loc CV 272; CBN 633
+
+\txt
+
+Dized - amigo - en que uos mereci
+Por non quererdes comigo uiuer,
+E saberedes que non ey en poder
+De viuer, poys uos partides de mi.
+E, poys sen uos vyuer non poderey,
+Vyuede mig - amig - e vyuerey
+
+Viuede migu e ben uos estara,
+E auerey sempre que uos graçir,
+Ca, se uos fordes e uos eu non vyr,
+Non viuerey, amig - u al non a.
+E, poys sen uos viuer [non poderey,
+Vyuede mig - amig - e vyuerey.]
+
+Se queredes que uos eu faça ben,
+Ay! meu amigo, en alg~ua sazon,
+Viuede migo, se Deus uos pardon,
+Ca non poss eu viuer per outra ren
+E, poys sen uos viuer [non poderey,
+Uyuede mig - amig - e vyuerey.]
+
+Poys entendedes, amigo, com [h]e
+A mha fazenda, per Nosso Senhor,
+Viuede migo ca, poys sen uos for,
+Non poderey viuer, per bõa fe,
+E, poys sen uos [viuer non poderey,
+Uyuede mig - amig - e vyuerey.]
+
+\num 6
+
+\loc CV 273; CBN 634
+
+\txt
+
+Disseron mh ora de uos h~ua ren,
+Meu amigo, de que ey gram pesar,
+Mays eu mh o cuydo mui ben melhorar
+Se eu poder, e poderey mui ben,
+Ca o poder, que sempre ouu i, m ey,
+E eu uos fiz e uos desfarey.
+
+Dizen mj que filhastes senor tal
+perque uos cuidastes de mjn partir,
+e ben uos [h]e se uos a ben sayr,
+mays deste ben farey uos end eu mal,
+Ca o poder, que sem[pre ouu i, m ey,
+E eu uos fiz e uos desfarey.]
+
+Senhor filhastes, com oy dizer,
+a meu pesar e perdedes hi
+se eu poder, e poder[ey], assy
+como fiz sempre posso me poder,
+Ca o poder, que sempre ouu i, m ey,
+[E eu uos fiz e uos desfarey.]
+
+
+\num 7
+
+\loc CV 274; CBN 635
+
+\txt
+
+Pero uos hides, amigo,
+sen o meu grad alhur uyuer,
+non uos hides ond ei prazer
+por non falardes comigo,
+Ca d aquj o poss eu guysar,
+mays por mj fazerdes pesar.
+
+E, pero uos hides d aquen,
+non uos hides do que mi praz
+per non fazer eu quanto faz
+molher per hom a que aer ben,
+Ca daquj o poss eu guisar,
+[mays por mj fazerdes pesar.]
+
+Hir uos podedes, mays ben sei
+ca non diredes con razon
+que non faç eu de coraçon
+por uos quanto de fazer ei,
+Ca daqui o poss eu guisar,
+[mays por mj fazerdes pesar.]
+
+E, pero uos hir queredes,
+non diredes, per bõa fe,
+con dereito que por mjn [h]e.
+ca faç eu quanto dizedes,
+Ca [daqui o poss eu guisar,
+mays por mj fazerdes pesar.]
+
+\num 8
+
+\loc CV 275; CBN 636
+
+\txt
+
+Amigo, poys me leixades
+e uos hides alhur morar,
+rogu eu a Deus, se tornades
+aqui por comigo falar,
+Que non aiades, amigo,
+poder de falar comigo.
+
+E, poys uos hir queredes
+e me non queredes creer,
+roguades, se o fazedes
+e tornardes per me ueer,
+Que non aiades, amigo,
+[poder de falar comigo.]
+
+Poys non catades mesura,
+nen quanto uos eu fiz de ben,
+rogades, se per uentura
+tornardes por mj dizer ren,
+Que non aiades, amigo,
+[poder de falar comigo.]
+
+Poys uos hides sen meu grado
+e non dades per mj nada,
+rogu eu a Deus, se coitado
+fordes e tornardes aqui,
+Que non aiades, amigo,
+[poder de falar comigo.]
+
+\num 9
+
+\loc CV 276; CBN 637
+
+\txt
+
+Amigo ouu eu a que queria ben;
+tal sazon foy, mays ia migo non ey
+aque ben que queyra, nen o auerey
+enquanto uyua ia per hunha ren,
+Ca mi mentiu o que mj soya
+dizer uerdad e nunca mentia.
+
+E pouc a que lh eu oy iurar
+que non queria ben outra molher
+senon min, e sey eu que lho quer,
+e por esto non poss en ren fiar,
+Ca mj mentiu o que mj [soya
+dizer uerdad e nunca mentia.]
+
+Mays me fiaua por el ca por mjn,
+nen ca per ren que no mundo uiss al,
+e mentiu m ora tan sen guisa mal
+que non fiarey en ren des aquj,
+Ca mj men[tiu o que mj soya
+dizer uerdad e nunca mentia.]
+
+E, sse outr ouesse, mentir m ya,
+pois mj mentiu o que non mentia.
+
+\num 10
+
+\loc CV 277; CBN 638
+
+\txt
+
+O por que sempre mha madre roguey
+que uos uisse, meu amigo, non quer,
+mays pesar lh a muyto quando souber
+que uos eu digu esto que uos direy:
+Cada que migo quiserdes falar
+falade migu e pes a quen pesar.
+
+Pes a quen quer e mate sse por en,
+ca, post [h]e ia o que a de seer,
+ueer uos ei, se uos poder ueer,
+e poderey ca, meu lum e meu ben,
+Cada [que migo quiserdes falar
+falade migu e pes a quen pesar.]
+
+Poys entendo que mha mort e meu mal
+quer, poys non quer ren de quant a mj praz,
+e poi lo ela por aquesto faz,
+fazed aquest e depoys fara ss al:
+Cada que migo quiserdes falar
+[falade migu e pes a quen pesar.]
+
+Senpr eu punhei de mha madre seruir
+mais por esto ca per outra razon:
+por uos ueer amigu e por al non,
+mays, poys mh o ela nom quer consentir,
+Cada que migo quiserdes falar
+[falade migu e pes a quen pesar.]
+
+\num 11
+
+\loc CV 278; CBN 639
+
+\txt
+
+Caualgaua noutro dia
+per hun caminho frances,
+e hunha pastor siia
+cantando con outras tres
+pastores; e non uos pes
+e direy uos todaua
+o que a pastor dizia
+aas outras en castigo:
+- nunca molher crea per amigo,
+poys ss o meu foy e non falou migo.
+
+- Pastor, non dizedes nada,
+diz h~ua delas enton,
+se sse foy esta uegada
+ar ueira ss outra sazon,
+e dig a uos porque non
+falou uosc, ay! ben talhada.
+E [h]e cousa mays guisada
+de dizerdes com eu digo:
+Deus! ora uehesse o meu amigo
+e aueria gram prazer migo.
+
+\num 12
+
+\loc CV 279; CBN 640
+
+\txt
+
+Muytos uei eu que se fazen de mj
+sabedores que o non son de pram;
+nen o forom nunca, nem o seram,
+e, poys que eu deles estou assy,
+Non sabem tanto que possam saber
+qual est a dona que me faz moirer.
+
+Ca sempre m eu de tal guisa guardarey
+que non soubessem meu mal, nen meu ben,
+e fazen ss ora sabedores en,
+mas, pero cuydam saber quant eu sey,
+Non sabem tanto que possam saber
+[qual est a dona que me faz moirer.]
+
+Digan x andando quis o que quiser
+ca mij sey eu como deles estou
+ben, grad a Deus, Que m and assi guardou,
+que, se ss aquesto por mj non souber,
+Non sabem tanto que po[ssam saber
+qual est a dona que me faz moirer.]
+
+E muyto saben, se nunca saber
+o por mjn podem e por lhe eu dizer.
+
+\num 13
+
+\loc CA 157; CBN 1580
+
+\duv
+
+\txt
+
+Nostro Sennor, Que mi a mín faz amar
+a mellor dona de quantas El fez,
+et mais fremosa e de mellor prez,
+et a que fez mais fremoso falar,
+El me de d ela ben, se lle prouguer,
+ou mia morte, se m aquesto non der,
+me de, por me de gran coita quitar.
+
+E se m El aquesto non quiser dar,
+que Lle og éu rogo, rogar Ll ei assi
+que lle possa, com ela quer a mi,
+querer, ca esto me pode guardar
+da mui gran coita que eu ey d amor;
+et se m esto non der Nostro Sennor,
+por que me fez El tal sennor fillar?
+
+Ben o sei eu, fez mi o por Se uengar
+de mi, per esto et non per outra ren,
+se Ll álgun tenpo fiz pesar, por en
+me leix ássi desénparad ándar
+et non me quer contra ela ualer;
+por me fazer mayor coita sofrer,
+me fez tod est e non me quer matar.
+
+\num 14
+
+\loc CV 1009; CBN 1656
+
+\coa João_Soares_Coelho
+
+\txt
+
+Joham Soarez comeecy
+de fazer ora hun cantar,
+uedes porque: porque achey
+boa razon pera trobar
+ca uei aqui hun iograron
+que nunca pode dizer son,
+nen o ar pode çitolar.
+
+- Joham Perez, eu uos direy
+porque o faz, a meu cuidar:
+porque beue muyt e o ssey,
+e com e fod e poys falar
+non pode, por esta razon
+canta el mal, mays atal don
+ben deu el de uos a leuar.
+
+- Johan Soarez, responder
+non mi sabedes d esto ben:
+non canta el mal por beuer,
+sabede, mays por huã ren:
+porque, des quando comezou
+a cantar, sempre mal cantou
+e cantara mentre uyuer.
+
+- Johan Perez, por mal dizer
+uos foy esso dizer alguen,
+ca pelo uynh e per foder,
+perd el o cantar e o sen,
+mays ben sey eu que o mizerou
+alguen com uosqu e lhi buscou
+mal, poys uos esso fez creer.
+
+- Johan Coelho, el uos peytou
+n outro dia, quando chegou,
+poys hides d el tal ben dizer.
+
+- Johan Perez, ca u uos dou
+quanto mi deu e mi mandou
+e quanto mh a d esmeter.
+
+\num 15
+
+\loc CV 1010; CBN 1657
+
+\coa Lourenço
+
+\txt
+
+- Lourenzo, soyas tu guarecer
+como podias per teu citolon,
+ou ben, ou mal, non ti digu eu de non,
+e ueio te de trobar trameter,
+e quero t eu d esto desenganar
+ben tanto sabes tu que [h]e trobar
+ben quanto sab o asno de leer.
+
+- Johan d Auoyn, ia me cometer
+ueheron muytos por esta razon,
+que me diziam, se Deus mi perdon,
+que non sabian trobar entender
+e ueheron poren comigu entenzar
+e figi us eu uençudos ficar
+e cuydo uos d este preyto uençer.
+
+- Lourenzo, serias mui sabedor
+se me uenzesses de trobar, nen d al,
+ca ben sey eu quen troba ben ou mal
+que non sabe mays nenhun trobador,
+e por aquesto te desenganey,
+e ues, Lourenço, onde ch o direy:
+quita te sempre do que teu non for.
+
+- Joham d Auoyn, por Nostro Senhor,
+porque leixarey eu trobar atal
+que mui ben faz e que muyto mi ual?
+des y ar gradeçe mh o mha senhor,
+porque o faz e, poys eu tod est ey,
+o trobar nunca eu leixarey,
+poy lo ben faz e ei gram sabor.
+
+\num 16
+
+\loc CV 1011; CBN 1658                       
+
+\coa João_Soares_Coelho                               
+
+\txt
+
+- Joham Soarez, non poss eu estar
+que uos non diga o que uei aqui:
+ueio Lourenço con muytos trauar
+pero non o ueio trauar en mi;
+e ben sey eu porque aquesto faz:
+porque sab el que quant en trobar iaz
+que mh o sey todo e que x [h]e tod en mi.
+
+- Johan d Auoyn, oy uos ora loar
+uosso trobar e muyto m eu rij:
+er dizede que sabedes boyar,
+ca ben o podedes dizer assy
+e que x [h]e uosso Toled e Orgas,
+e todo quanto sse no mundo faz,
+ca per uos x est e dized assy.
+
+-Johan Soarez, nunca eu direy
+senon aquelo que eu souber ben,
+e do que sse po lo mundo faz sey
+que sse faz por mi ou por alguen,
+mays Toledo, nem Orgas, non poss eu 
+auer, mays en trobar, que mi Deus deu,
+conhosco se troba mal alguen.

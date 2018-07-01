@@ -1,0 +1,367 @@
+
+       
+ 	\nome  Airas_Corpancho 
+
+	
+       	 \num 1
+	\[loc CV 265; CBN 265
+	\[coa 0
+
+	\txt
+
+  Por fazer romaría pug'en meu coraçón           
+       
+       Por fazer romaría pug'en meu coraçón
+      a Santiag'un día, por fazer oraçón
+           e por veer meu amigo logu'i.
+
+      E, se fezer bon tempo e mia madre non for,
+      querrei andar mui leda e parecer melhor
+           e por veer meu amigo logu'i.
+
+      Quer'eu ora mui cedo provar se poderei
+      ir queimar mias candeas con gran coita que hei,
+           e por veer meu amigo logu'i.
+
+	\num 2
+	\[loc CV 259; CBN 658
+	\ [coa 0
+
+	\txt
+ Madre velida, meu amigo vi 
+           
+       Madre velida, meu amigo vi,
+      non lhi falei e con el me perdí:
+           e moir'agora, querendo-lhi ben;
+           non lhi falei, ca o tiv'en desdén;
+           moiro eu, madre, querendo-lhi ben.
+
+      Se lh'eu fiz torto, lazerar-mi-o-ei
+      con gran dereito, ca lhi non falei:
+           e moir'agora, querendo-lhi ben;
+           non lhi falei, ca o tive en desdén,
+           moiro eu, madre, querendo-lhi ben.
+
+      Madre velida, ide-lhi dizer
+      que faça ben e me venha veer:
+           e moir'agora, querendo-lhi ben;
+           non lhi falei, ca o tiv'en desdén;
+           moiro eu, madre, querendo-lhi ben.
+	
+	\num 3
+	\[loc CV 258; CBN 657
+	\ coa 0
+
+	\txt
+ Tanto sei eu de mí parte            
+       
+       Tanto sei eu de mí parte
+      quant'é de meu coraçón,
+      ca me ten mia madre presa
+      e, mentr'eu en sa prisón
+           for, non veerei meu amigo.
+
+      E por aquest', alongada
+      querría, per bõa fe,
+      seer d'u está mia madre,
+      ca, mentr'eu, u ela é,
+           for, non veerei meu amigo.
+
+      Por quanto m'outra vegada
+      sen seu grado con el vi,
+      guarda-me del a perfía
+      e oimais, enquant'assí
+           for, non veerei meu amigo.
+
+      De min, nen de mia fazenda
+      non poss'eu parte saber,
+      ca sei mui ben de mia madre
+      que, mentr'eu en seu poder
+           for, non veerei meu amigo.
+	
+	\num 4
+	\[loc CV 262; CBN 661
+	\ [coa 0
+
+	\txt
+ Madre, pois vós desamor havedes
+            
+       Madre, pois vós desamor havedes
+      a meu amigo, porque sabedes
+           ca mi quer ben, veé-lo-ei
+           e, se mi vós algún ben queredes,
+           loar-mi-o-edes, eu o sei.
+
+      Por desamor que lhi sempr'houvestes,
+      madre velida, des que soubestes
+           ca mi quer ben, veé-lo-ei
+           e, se mi vós algún ben queredes,
+           loar-mi-o-edes, eu o sei.
+
+      Por mui gran coita que ha consigo,
+      madre velida, ben vo-lo digo
+           ca, se poder, veé-lo-ei,
+           e, se mi vós algún ben queredes,
+           loar-mi-o-edes, eu o sei.
+
+	\num 5
+	\[loc CA 67; CBN 179
+	\[ coa 0
+
+	\txt
+Ay Deus, com´ando cuytado d'amor!
+
+Ay, Deus, com'ando cuytado d'amor!
+E,se for dizer à mha senhor,
+logo dirá que lhi digo pesar;
+e quero-mh-ante mha coyta 'ndurar
+ca lhi dizer, quando a vir, pesar.
+
+Pero m'eu moyro querendo-lhi ben,
+se lhi disser a coita 'n que me ten,
+logo dirá ca lhi digo pesar;
+e quero-mh-ante mha coita 'ndurar
+ca lhi dizer, quando a vir,pesar.
+
+Ben m' oyrá, se al dizer quiser!
+Mays, se lhi ren de mha coyta disser;
+logo dirá c[a lhi] d[igo] p[esar];
+e q[uero]-m[h-ante] m[ha] c[oyta 'n]d[urar]
+c[a lhi] d[izer, quando a vir pesar]
+
+	\ num 6
+	\[loc CA 66; CBN 178
+	\[coa 0
+
+	\txt
+Ay, Deus, que coyta de sofrer
+
+Ay Deus,que coyta de sofrer
+por aver gram ben a querer
+a quen non ousarei dizer
+da mui gram cuyta 'n que me ten!
+Non lh' ouso dizer nulha ren
+da mui gram coyta 'm que me ten.
+
+Ja sempr' en coyta viverey.
+Amo qual dona vus direy:
+a quen dizer non ousarey
+da mui [gram] c[uyta 'n]q[ue] m[e] t[e]n.
+N[on] l[h'ouso dizer] n[ulha] r[en]
+da m[ui gram coyta 'm que me ten].
+
+Se lhi d'al quiser enmentar,
+sol non lh' én crecerá pesar:
+pero non lh' ousarey falar
+da mui g[ram] c[uyta 'n] q[ue] m[e] t[e]n.
+N[o]n l[h'ouso dizer] n[ulha] r[en]
+da m[ui gram] c[oyta 'm] q[ue] m[e] t[e]n.
+ 
+	\ num 7
+	\[loc CV 260; CBN 659
+	\[coa 0
+
+	\txt
+A maior coita que eu no mund'ey
+
+A maior coita que eu no mund' ey
+[a] meu amigo non lh'ouso falar,
+e amigo que nunca desejar
+soub' outra ren se non mi, eu o ssey;
+e sse o eu por mi leixar morrer,
+será gran tort' e non ei de fazer.
+
+Que lh' eu quisesse ben de coraçon
+qual a min quer o meu des que me vyu,
+e nulh'amor nunca de min sentiu
+e foy coytado por mi desde enton;
+e sse o eu por mi leixar morrer,
+[será gran tort'e non ei de fazer]!
+
+Que lhi quisesse ben qual a min quer
+o meu, que tan muit'á que desejou
+meu ben fazer e nunca lhi prestou,
+e será morto, se lh'eu non valer;
+e sse o eu por mi leixar morrer,
+[será gran tort'e non ei de fazer]
+
+O mayor torto que pode sseer:
+leixar dona o seu amigo morrer.
+
+	\num 8
+	\[loc CV 257; CBN 656
+	\[coa 0
+ 
+	\txt
+
+
+Chegades, amiga, d'u é meu amigo
+
+Chegades, amiga,d'u é meu amigo
+e cun el falastes. Mays eu ben vos digo
+que falarey vosco tod'aqueste dia,
+poys falastes con quen eu falar querya.
+
+D'u é meu amigo ben sey que chegades,
+e cun el falastes. Mays per min creades
+que falarey vosco [tod' aqueste dia,
+poys falastes con quen eu falar querya].
+
+Gran ben m'é con vus, por muit' ei que vus diga,
+poys con el falastes. Creades, amiga,
+que falarei[vosco tod' aqueste dia,
+poys falastes con quen eu falar querya].  
+
+	\num 9
+	\[loc CA 65; CBN 177
+	\[coa 0
+
+	\txt
+
+Desej' eu muyt' a veer mha senhor
+
+Desej' eu muyt' a veer mha senhor;
+e pero sei que, poys d'ant' ela for,
+non lh' ei d dizer ren
+de com' oj' eu averia sabor
+e lh'estaria ben!
+
+Po-la veer moyr' e po-la servir;
+e pero sei que, poys m'ant'ela vir,
+non lh'ei a dizer ren
+de com'oj'eu poderia guarir
+e lh'estaria ben!
+
+se lh' al disser, non me dirá de non;
+mays da gran coita do meu coraçon
+non lh 'ei a dizer ren
+que lh 'eu diria en bõa razon
+e lh'estaria ben!
+
+Pero ei gran sabor de lle falar,
+quando a vejo, por lle non pesar,
+non ll' ei a dizer ren
+de com' eu poderia led' andar
+e ll' estaria  ben!
+
+
+	\num 10
+	\[loc Cv 259; CBN 658
+	[coa 0
+
+	\txt
+
+Molher com' eu non vive coytada
+
+Molher com' eu non vive coy[tada:
+tragen-me mal e sõo guardada
+por vós, amigo].
+
+A mha coita non lhi sei guarida:
+trage-me mal mha madre velida
+por vós, ami[go].
+
+Tragen-me mal e sõo guardada,
+e pouc[o] á que foy mal julgada
+por vós, amigo.
+
+Trage-me mal mha madre velida
+[e] pouc[o] á que fui mal ferida
+por vós, amigo.
+
+	\num 11
+	\[loc CBN 175
+	\[coa 0
+
+	\txt
+
+Poys que sse nom sente a mha senhor
+
+Poys que sse nom snete a mha senhor
+da coyta em que me tem seu amor,
+mha morte muy mester me seria.
+Se senpr' ey d' aver atal andança,
+catyvo, que non morry o dia
+que a vy en cas Dona Costança?
+
+Poys ................. e o ssén perdi,
+nostro Ssenhor, e como non á proveyto
+de mer[ec]er ren? Ssequer ja vyvo...
+Mays eu, que por ssandeu [e] tolheyto
+and', e como non moiro, catyvo?
+
+	\num 12
+	\[ loc  CV 265; CBN 663
+	\[ coa 0
+
+	\txt
+
+Que me mandades, ai madre, fazer
+
+Que me mandades, ai madre, fazer
+ao que sey que nunca ben querer
+soub' outra ren?
+Par Deus, filha, mando vi......-er.
+E será ben.]
+
+Que lhi faz [ .........................-ir
+...............................-ir
+.............ren?
+......] vos, filha, po-lo guarir.
+E sera ben.
+
+Que lhi farey, se veher hu eu for
+e mi quiser dizer, come a senhor,
+alg~ua ren?
+Diga, filha, de quant' ouver sabor.
+E será ben.
+
+E el, que vyv' en gran coita d' amor,
+guarrá poren.
+
+	\num 13
+	\[ loc CA 64; CBN 176
+	\[ coa 0
+
+	\txt
+
+Quisera-m' ir: tal conselho prendi
+
+Quisera-m' ir: tal conselho prendi
+e foy coytad' e torney-me por ém;
+e tod' ome que me conselhar ben,
+
+Consselhar-mh-á que more senpr' aqui.
+Por hun dia que mha senhor non vi,
+d' atant' ouver' a morrer con pesar.
+Quen me quiser, venha-m' aqui buscar.
+
+Tod' ome que souber meu coraçon
+nula culpa non mi dev' apõer
+por eu morar hu podesse veer
+a mha senhor, por que moyro: ca non
+m' ey a partir d' aqui nulla sazon,
+aguardando que lhi possa falar.
+Quen me quiser, venha-m' aqui buscar.
+
+Nostro Senhor!, e quen me cousirá
+d' aqui morar? Ca ja hir-me cuydei
+e foy coytado como vus direy:
+que nunca ja tan coytado será
+home no mundo; e mays vus direy ja:
+d' outra tal coyta me quer' eu guardar.
+Quen me quiser, venha-m' aqui buscar.
+
+Deu-lo sabe, que me quisera hir,
+de coraçon, morar a cas d' el rey!
+Mays direy-vus o porque o leixei:
+por Amor, que mh-o non quis consentir.
+E poys Amor non me leixa partir
+da mha senhor, nen d' aqueste loguar,
+quen m[e] q[uiser], v[enha]-m' [aqui] b[uscar].
+
+
+
+                   
+
+    

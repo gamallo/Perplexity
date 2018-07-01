@@ -1,0 +1,55 @@
+\nome Pero_D'_Ornelas
+
+\num 1                                        
+
+\loc CBN 588                                                      
+
+\txt
+
+Nostro Senhor, e ora que sera
+Daquel, que sempre coitado uiueo,
+e uiu e cuida por em ser sandeu,
+Ca sabe ben que nunca perdera
+Esta coita, ca nom quer sa senhor?
+
+E que sera do que quis mui gram ben,
+E quer, a quem lho non quer gradeçer,
+Nen lhi quer por ende outro ben fazer,
+E sabe que non perdera per rren
+Esta coita, ca non quer sa senhor?
+
+E que sera do que sempre seruir
+foi quen lhi quis, e quer, por en Mal,
+e nunca lhi por e[n] quis fazer Al,
+e que nunca de ssy pode partir
+Esta coita, ca non quer sa senhor?
+   
+\num 2                                        
+
+\loc CBN 725                                                      
+
+\txt 
+
+A uedes uos, amiga, giusado
+de falar uosc oi o meu amig a [r]
+que uen aqui e tem uo lo por falar
+uosque en [en]gannos recado
+de rrog - amiga - do uoss amigo,
+que façades o meu,
+que façades o meu falar migo.
+
+E hu eu moro ia el non mora,
+ca lhe defendi que non morase,
+hi [h]e, porem c a con quen rrogasse,
+e rrecado sey que uos traz ora
+de rro [g - amiga - do uoss amigo,
+que façades o meu,
+que façades o meu falar migo.
+
+Gram sazon a que meu ben demanda,
+e nunca pode comigo falar
+e uen agora uoss amigo rrogar,
+e ora rrecado sey que uos [m]anda
+de rrog - amiga - do uoss amigo,
+que façades o meu,
+que façades o meu falar migo.]

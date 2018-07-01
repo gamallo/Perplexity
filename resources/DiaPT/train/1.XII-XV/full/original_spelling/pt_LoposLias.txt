@@ -1,0 +1,585 @@
+\nome Lopos_Lias
+\num 1
+\loc CV 945; CBN 1288 
+\txt
+
+Don Lopo Lias trobou a h~uns caualleiros / D el emos, e eram quatro irmãos, e andauan / sempre mal guysadus, e, por en, trobou  lhis / estas cantigas. 
+
+Da esteyra vermelha cantarey,
+E das mangas do ascar[i] farey,
+[E o brial hy ementar uo l ey,]
+E da sela que lh eu vj renghelhosa,
+Que ia lh ogano rengeu ant el Rey,
+Ao zeuron, e poys ante ssa esposa.
+
+Da esteyra cantarey des aqui,
+E das mangas grossas do ascari,
+E o brial enmantar uo l ey hy,
+E da sela que lh eu uj rengelhosa,
+[Que ia lh ogano rengeu ant el Rey,
+Ao zeuron,e poys ante ssa esposa.]
+
+
+
+\num 2
+\loc CV 946; CBN 1289 
+\txt
+
+
+Tecer dia ante Natal,
+De Leçea lhy foy dar
+Hun brial a mha senhor bela,
+E ao zeuron renge lh a sela;
+E brial a mha senhor bela,
+E ao zeuron rengi lh a sela.
+
+
+Sey eu hun tal caualeiro,
+Que lhi talhou en ianeyro
+Hun brial a mha senhor bela,
+E ao zeuron renge lh a sela;
+[E brial a mha senhor bela,
+E ao zeuron rengi lh a sela.]
+
+
+Filou lh o manto caente,
+E talhou lh o en Benauente,
+Hun brial a mha senhor bela,
+E ao zeuron [renge lh a sela;
+E brial a mha senhor bela,
+E ao zeuron rengi lh a sela.]
+
+
+\num 3
+\loc CV 947; CBN 1290 
+\txt
+
+
+Enmentar quer eu do brial
+Que o infaçon por Natal
+Deu a ssa molher e fez mal:
+A gram trayçom a matou,
+Que lhi no janeyro talhou
+Brial e lh o manto leuou.
+
+O infançon cão d Aluam,
+De muytos [h]e omenziam,
+Se for d ant el Rey, lhy diram
+C a fremosa dona matou,
+Que lhi no ianeyro [talhou]
+Brial e [lh o manto leuou.]
+
+
+Brialhesta, uay te d aqui
+Hu for Lopo Lias, e dy
+Que faça hi cobras por mj
+Ao que a dona matou,
+Que lhi [no ianeyro talhou
+Brial e lh o manto leuou.]
+
+
+Bent t aiudaram d Orzelhon
+Quantos trobadores hy son,
+A escarnir o infançon
+C a fremosa dona matou,
+Que lhi [no ianeyro talhou
+Brial e lh o manto leuou.]
+
+
+\num 4
+\loc CV 948; CBN 1291 
+\txt
+
+
+A mj quer mal o infançon,
+A mui gran tort e sen razon,
+Por trobadores d Orzelhon,
+Que lh escarniron seu brial,
+E pesa m en, e [h]e mj mal,
+Que lh escarniron seu brial,
+Que era nou e de cendal.
+
+
+Quantos oi en Galiza son,
+Ata en terra de Leon,
+Todos con o brial colhon
+Dizen e fazen o muj mal.
+E pesa m en, e [h]e m en mal,
+[Que lh escarniron o seu brial,
+Que era nou e de cendal.]
+
+
+E seu irmão, o zeuron,
+Que lhi quer muj gram mal de corazon,
+Porque lhi reng o selegon,
+E, se lhi renge, non m en cal.
+E pesa m en, [e he m en mal,
+Que lh escarniron seu brial,
+Que era nou e de cendal.]
+
+
+\num 5
+\loc CV 949; CBN 1292 
+\txt
+
+
+En este son de negrada
+farey h~u cantar
+D unha sela canterllada,
+liada muj mal.
+Este a sela pagada,
+E direy do brial:
+Todus colham, colham, colham
+Con aquel brial de Seruilha,
+Que aduss o infançon
+Aqui por marauilha.
+
+
+En este son de negrada
+H~u cantar farey
+D uã sela canterllada,
+Que uj ant el Rey.
+Este a sela pagada,
+E do brial direy:
+Todus colhon, colhã, colhan
+[Con aquel brial de Seruilha,
+Que aduss o infançon
+Aqui por marauilha.]
+
+Logo fuy marauilhado
+Po lo ascari,
+E assy fui espantado
+Po lo soc erj.
+Vi end o brial talhado
+E dixi lh eu assy:
+Todus colhon,[ colhã, colhan
+Con aquel brial de Seruilha,
+Que aduss o infançon
+Aqui por marauilha.]
+
+\num 6
+\loc CV 950; CBN 1293 
+\txt
+
+
+D esto son os zeurões
+De uentura minguada;
+Ergen sse nos arções
+Da sela canterllada
+E dand us nadigões.
+E diss a ben talhada:
+Maa sela tragedes
+Porque a non odedes;
+Maa sela leuades
+Porque a non atades.
+
+
+D esto son os zeurões
+De uentura falhida;
+Ergen sse nos arções
+Da sela come podrida,
+E dand us nadigões.
+E disse lh a uelida:
+Maa sela tragedes
+[Porque a non odedes;
+Maa sela leuades
+Porque a non atades.]
+
+
+Direy uos que lh au~eo
+En dia de ssa uoda:
+Ao lançar de touço
+Da sela rengelhosa,
+Feriu do cu a bouço.
+E disse lh a fremosa:
+Maa sela tragedes
+[Porque a non odedes;
+Maa sela leuades
+Porque a non atades.]
+
+
+\num 7
+\loc CV 951; CBN 1294
+\txt
+
+Os zeurões foron buscar
+Rodrigo po lo matar,
+Mays ouuyu lhes el cantar
+As selas por que guarnj[o];
+Po las selas que lh oyo
+Renger, por essas guaryo.
+
+
+Non lhes guarira per ren,
+A torto qe lhis ten,
+Mays rengerom por seu ben
+As selas por que guarnj[o];
+[Po las selas que oyo
+Renger, por essas guaryo.]
+
+
+Non lhis podera guarir,
+Ca os non uira uijr,
+Mays oyu lhes el guarnir
+As selas per que guarnj[o];
+Po las selas que oyu
+Renger, por essas guari[o].
+
+
+E fforon lhi meter
+ciada Po lo prander,
+Mays oyu lhis el renger
+As selas por que guarni[o];
+Po las selas que oyu
+Renger, por essas guarui[o].
+
+
+
+\num 8
+\loc CV 952; CBN 1295
+\txt
+
+
+Ora tenho guysado
+De m achar o zeuron:
+Non and encaualgado,
+Nen trag er selegon,
+Nen sela, mal peccado,
+Nen lh oyrey o son,
+Ca ia non trag a sela
+De que riiu a bela,
+A sela canterllada
+Que rengeu na ciada.
+
+Val mj Sancta Maria,
+Poys a sela non ouço,
+A que ranger soya
+Ao lançar o touço;
+Matar sse m ia hu~u dia,
+Ou ele ou Ayras Louço,
+Ca ia non trag [ a sela
+De que riiu a bela,
+A sela canterllada
+Que rengeu na ciada.]
+
+
+\num 9
+\loc CV 953; CBN 1296
+\txt
+
+Sela aleyuosa, en mao dia te ui,
+Por teu cantar ia Rodrigo perdi,
+Riiu ss el Rey e mha esposa de mj;
+Leixar te quero, mha sela, por en,
+E hirey en ousso e baratarey ben.
+
+
+Sela aleyuosa, po lo teu cantar
+Perdi Rodrigo e non o posso achar,
+E por ende te quero leixar;
+Leixar te quero, mha sela, por en,
+[E hirey en ousso e baratarey ben.]
+
+
+Des oy mays non tragerey Esteos,
+nen arções, se mj ualha Deus,
+E uencerey os enmigus meus;
+Leixar te quero, mha sela, por en,
+[E hirey en ousso e baratarey ben.]
+
+
+\num 10
+\loc CV 954; CBN 1297
+\txt
+
+Ao lançar do pao,
+En a sela, deu do cuu mao,
+E quebrou lhe a sela,
+C assy diss a bela:
+Rengeu lh a sela.
+
+
+Ao lançar do touço,
+Deu do cu a bouço,
+E quebrou lhe a sela,
+C assy diss a bela:
+[Rengeu lh a sela.]
+
+\num 11
+\loc CV 955; CBN 1298
+\txt
+
+Ayras Moniz, o Zeuron,
+Lexad o selegon
+E tornad ao albardar.
+Andaredes hy melhor
+Ca na sela rengedor.
+Andaredes hy muy ben
+E non uos rengera per ren.
+
+
+Tolhedhe lh o peytoral,
+Apertade lh o atafal,
+E non uos rengera per ren.
+Andaredes h[y melhor
+Ca na sela rengedor.
+Andaredes hy muy ben
+E non uos rengera per ren.]
+
+Podedes en bafordar
+E o taulado britar,
+E non uos rengera per ren.
+Andaredes hi muy melhor
+Ca na sela rengedor.
+[Andaredes hy muy ben
+E non uos rengera per ren.]
+
+
+\num 12
+\loc CV 956; CBN 1299
+\txt
+
+O infançon ouu atal
+Tregoa comigo des Natal
+Que agora oyredes:
+Que lhi non dissesse mal
+Da sela nen do brial;
+Mays aquel dia, uedes,
+Ante que foss unha legoa,
+Comecey
+aqueste cantar da egoa,
+Que non andou na tregoa,
+E por en lhi cantey.
+
+Non negu eu que tregoa dey hi
+Ao brial a sazon
+E aa rengelhosa,
+e de pran andaron hi
+As mangas do ascari,
+Mays non a rabicosa;
+Ante que [foss] h~ua legoa
+Comecei
+Aqueste cantar da egoa,
+Que non andou na tregoa,
+E por en lhe cantarey.
+
+Dey eu ao infançon
+E a seu brial tregoa,
+ca mh a pedia;
+E ao outro zeuron
+A que reng o selegon;
+Mays logo n aquel dia,
+Ante que foss unha legoa
+[Comecei
+Aqueste cantar da egoa,
+Que non andou na tregoa,
+E por en lhe cantarey.]
+
+Do infançon uilã
+Affamado come cã,
+E a cancerllada
+E o seu brial d Aluã,
+Tregoa lhe dey eu de pram;
+E, pois lh a ouuj dada,
+Ante que foss unha legoa
+[Comecey
+Aqueste cantar da egoa,
+Que non andou na tregoa,
+E por en lhe cantarey.]
+
+
+
+\num 13
+\loc CV 957; CBN 1300
+\txt
+
+outrossy fez este cantar de madizer / Aposto a h~ua dona que era muj / meninha e muj fermosa, e fogiu ao / Marido, e el prazia lhi.
+
+
+
+Muito mj praz d unha ren
+Que fez dona Marinha:
+non Quer a seu marido ben
+E soub essa pastorinha
+fogir.
+Mal aia quen non seruir
+Dona fremosa que fogir.
+
+
+Ela fez end o melhor,
+A Deus seia gracido,
+Molhercinha tam pastor
+Saber a seu marido
+Fogir.
+Mal aia quen non seruir
+[Dona fremosa que fogir.]
+
+Qual [h]e meu saber?
+Auerem anbos guarir.
+E ben toste mha senhor
+Veira ss a uossa terra
+guarir.
+Mal aia quen non seruir
+[Dona fremosa que fogir.]
+
+
+\num 14
+\loc CV 958; CBN 1301
+\txt
+
+outrossy trobou a h~ua dona que non auya / prez de muj salua, e el disse que lhi dera / De seus dinheyros por preyto atal que fezesse / Por el alguna cousa, e pero non quis por el fazer nada; e por en fez estes cantares de / maldizer.
+
+
+A dona fremosa do Soueral
+A de mj dinheyros per preyt atal
+Que Vehess a mj, hu non ouuess al,
+Hun dia talhado a cas de don Coral;
+[H]e periurada,
+Ca non fez en nada,
+E baratou mal;
+Ca d esta uegada
+Sera penhorada,
+Que dobr o sinal.
+
+Se m ela creuer, cuydo m eu, dar lh ey
+O melhor conselho que oi eu sey:
+De mj meu auer e gracir lh o ey,
+Se mh o non der, penhora la ey;
+En mh o ten forçado
+E, do corp alongado,
+Non lh eu sofrerey;
+Mays, po lo meu grado,
+Dar mh a ben dobrado
+O sinal que lh en dey.
+
+
+
+\num 15
+\loc CV 959; CBN 1302
+\txt
+
+A dona de Baguyn
+Que mora no Soueral,
+Dez e sex soldos ha de mj;
+E dey lh os eu per preyt atal
+Que mh os ar desse
+Ond al non fezesse,
+Se non Vehesse
+falar Mig en cas
+Con Coiral.
+
+
+
+\num 16
+\loc CV 960; CBN 1303
+\txt
+
+Saben en Moiraz e en Siluez
+Meu preyt e seu, e non lhis pes,
+Que a de mjn, mays a d un mes,
+Hun sold e dous, e dez e tres;
+De mays diria
+Que tercer dia
+En cas de don Cuiral o burges...
+
+\num 17
+\loc TC 1354, CV 961, CBN 1304
+\txt
+
+Esta cantiga fez como respondeu / hun escudeyro que non era ben / fidalgo. E queria seer caualeyro e el / non o tijnha por dereyto; e diss assy:
+
+- Escudeyro, poys armas queredes,
+Dized ora con quen comedes.
+- Don Fernande, comer mj eu sol,
+Ca assy sempre meu auol.
+- Poys armas tanto deseiades,
+Buscad ante com quen comhades.
+- Don Fernande, [comer mi eu sol,
+Ca assy fez sempre meu auol.
+
+
+\num 18
+\loc TC 1355, CV 962, CBN 1305
+\txt
+
+Esta cantiga fez a h~ua dona fremosa / que a casaron seus parentes mal por / dinheyros.
+
+Se m el Rey dess algo, ia m iria
+Pera mha terra de bon grado,
+E, sse chegasse, compraria
+Dona fremosa de gran mercado.
+Ca ia uenden, a Deus louuado,
+Como uenderon dona Luzia,
+En Orzelhon, ora n outro dia.
+
+Eu, cuytado, non chegaria
+Por comprar corpo tan ben talhado,
+E astros o que a uendia,
+Porque mj non enuyou mandado
+Fora de cachas, encarregado
+En que comprara dona Luzia,
+En Orzelhon, do que a uendia.
+
+
+\num 19
+\loc CV 963; CBN 1306
+\txt
+
+Este cantar fez en son d un descor, / e feze o a hun infançon de Castela / que tragia leyto dourado, e era / muj rico e guisaua sse mal e era / muyt escasso.
+
+
+Quen oj ouuesse
+guysad e podesse,
+Hun cantar fezesse
+A quen mh ora eu sey
+E lhi dissesse:
+E, poys pouco ualuess e
+Non desse
+ren, que non trouxesse
+Leyt en cas d el Rey.
+
+
+Ca, poys onrrado
+non [h]e, nen graado,
+Doado, faz leyto dourado
+De pos ssy trager;
+e ten poupado
+Quant a e negado.
+Pecado
+O trag enganado,
+Que lh o faz fazer.
+
+
+Ca nunca el, de ssen,
+auer deu ren,
+Esto sey eu ben,
+Que lh esteuesse ben.
+Demho lo deu,
+Poys que lhi prol non ten;
+Muyto lh [h]e greu
+Quando lh o pede alguen.
+
+
+E mãtenente
+perd o contenente,
+Verdadeiramente,
+E uay ss asconder,
+e faz sse doente;
+E uosso mal non sente
+E fug ante a gente
+Po la non ueer.
+
+
+\num 20
+\loc CV 964; CBN 1307
+\txt
+
+
+Este  outro cantar fez a huna dona / casada, que auya preço con hun / seu homen que auya nome Ffranco.
+
+A dona Maria, soydade,
+A dona Maria, soydade,
+Ca perdeu aquel iograr
+Dizendo d el ben; e el non o achou
+Que nenhun preyto d el fosse mouer,
+Nen ben, nen mal, e triste se tornou.

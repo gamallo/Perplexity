@@ -1,0 +1,235 @@
+\nome Johan_de_Gaya
+
+\num 1
+
+\loc CV 1043; CBN 1345
+
+\txt
+
+a  Dix huna cantiga de vilano:
+b  A pee d una Torre
+c  bayla corpo Probo.
+d  Vedes o cos, ay! caualeyro.
+
+E Joham de [Gaya]:
+
+Uosso pay na Rua
+ant a porta Ssua,
+Uede lo cos, ay! caualeyro.
+
+Ant a ssa pousada
+Em say apretada,
+Uede lo cos, ay! caualeyro.
+
+En meyo da praça
+En saya de baraça,
+Uede lo cos, ay! caualeyro.
+
+Esta cantiga seguiu / Joham de Gaya per aquella / De cima de Vilaanos, que diz a / Refrom: uedes lo cos. ay! caualeyro. / E feze a a hu~u Vilano que foy / Alfayate do bispo dom Domingos / Jardo de Lixbõa, que auia no / Me Vicente Dominguiz / E depoys pose lhi no o bispo Joam Fernandez et feze o / Seruir ante sy de Cozinha / Et talhan ant el. Et feze o / El Rey dom Denys caualeyro. / E depoys morou na Feergesia / De sam Nicolaao e chamaron lhy / Joham Fernandez de Sam Nicolao.
+
+\num 2
+
+\loc CV 1044; CBN 1346
+
+\txt
+
+Ueg eu muy bem que por amor
+Que uos ey me queredes mal,
+Et quero uos en dizer al
+Perboa fe, ay! mha Senhor:
+Que me querades mal por em,
+Ja uos eu sempre querrey ben.
+
+E, ma senhor, per boa fe,
+Poys soubestes que uos amey,
+Me desamastes, eu o ssey,
+Mays, par Deus, Que no ceeo se,
+Que me queyrades mal por en,
+[Ja uos eu sempre querrey ben.]
+
+Meu coraçom non se partiu,
+Poys uos uyu, de uos muyt amar,
+E uos tomastes en pessar,
+E, par Deus, Que nunca mentiu,
+Que me querades mal por en
+[Ja uos eu sempre querrey ben.]
+
+Senhor, sempre uos querrey ben
+Ata que moyr ou perca o sem.
+
+\num 3
+
+\loc CV 1058; CBN 1360
+
+\txt
+
+Come asno no mercado,
+Se uendeo hun Caualeyro
+De San Hoan a Janeyro
+Tres uezes; est [h]e prouado.
+Pero, se oi este dia
+Lh outren der mayor contja,
+Ficara con el de gardo.
+
+El ffoy conprado tres uezes
+Ogano de tres senhores.
+El xe sab en os melhores,
+Ca non a mays de ssex messes
+Ca el ten que todauya
+A de poiar en contija
+En panes ou em tornesses.
+
+Se mays senhores achara
+Ca os tres que o comprarom,
+Os sex messes non passarom
+Que el con mays non ficara.
+Mays esta xe em sa perfia
+Enpoiando cada dia,
+Ca el non se dessenpara.
+
+\num 4
+
+\loc CV 1059; CBN 1361
+
+\txt
+
+Se eu, amigos hu he ma senhor
+Uiuer ousasse, por tod outro Ben
+que Deus no mundo a outro Pecador
+Fazer quisess-eu ia, Per boa fe,
+ren non daria; Mays, poys assi he
+Et que non uos i A uiuer, conuen
+
+Que moyr amigos, ca non sey Eu quen
+Viuer podesse, Poys non ousass ir
+Hu est aquela que sa uida ten
+En seu poder, e seu ben e seu mal,
+Como ela ten de mj e non me ual
+Ren contr ela, nen me ual seruir
+
+Ela que seruho, pero que mh oyr
+Non quer mha coyta, Nen me quer hy dar
+Conselho, amigos, nen quer conssentir
+Que a ueya, nen que more hu a ueer
+Possa per ren, e meu gram benquerer
+E meu seruiço todo seu probar,
+
+Pero, amigos, ey eu...
+
+\num 5
+
+\loc CV 1060; CBN 1362
+
+\txt
+
+Meus amigos, poys me Deus foy mostrar
+A ma senhor, que quero muy gram ben,
+Trobey eu sempre po lo seu amor,
+Et meu trobar nunca me ualeu ren
+Contra ela, mays uedes que farey:
+Poys me non ual trobar por mha senhor,
+Oy mays quer eu ia leixar trobar
+
+Et buscar outra razon, se poder,
+Por que possa esta dona seruir,
+Et ueyer en se me fara sequer
+Alg~ua ren porque possa partir
+Muy grandes coytas do meu corazon.
+Et sey que asi me conselhara
+O meu amigo, que mi gram ben quer,
+
+Ca d outra guisa non posso auer [hy]
+Conselho, ia per esta razon tal
+Ca eu, amigos, da morte prest estou
+Se mh a esto Nostro Senhor non ual.
+Pero da mort ey sabor, a la fe,
+Ca, se moyrer, diran que me matou
+A melhor dona que eu nunca uj.
+
+\num 6
+
+\loc CV 1061; CBN 1363
+
+\txt
+
+En gran coyta uiuo, senhor,
+A que me Deus nunca quis dar
+Conselho e quer me matar.
+E a my seeria melhor,
+Et por meu mal se me deten,
+Por vingar uos, mha senhor, ben
+De mi, se uos faço pesar.
+
+E assi me troment Amor
+De tal coyta que nunca par
+Ouu outr ome, a meu cuydar,
+Assi moirey pecador.
+Et, senhor, muyto me praz en
+Que prazer tomades; poren,
+Non o deu eu A recear.
+
+E assi ey eu a moirer
+Veendo mha mort ante mj,
+Et nunca poder filhar hy
+Conselho, nen o atender
+De parte do mund e ben sey,
+Senhor, que assi morrerey,
+Se assi he uosso prazer.
+
+E ben o deuede ssaber
+Se uos eu morte mer[e]ci,
+Mays, por Deus, guardade uos hy
+Ca todo he en uosso poder.
+E, senhor, perguntar uos ey,
+Por seruiço que uos busquey,
+Se ey por en mort a prender.
+
+\num 7
+
+\loc CV 1062; CBN 1364
+
+\txt
+
+Eu conuidey h~u Prelado
+A iantar, se ben me uenha.
+Diz ele, en estes meus narizes
+De color de berengenha:
+-Uos auede los alhos uerdes,
+E mat[a]r m iades con eles.
+
+-O iantar esta guisado
+Et, por Deus, amigo, Trey uos;
+diz el, en estes meus Narizes
+color de figos çofeyuos:
+-Uos auedes [os alhos uerdes,
+E a matar m iades con eles.]
+
+-Comede migo e diran nos
+Cantares de Martin Moxa.
+Diz el, en estes meus narizes
+Color d escarlata roxa:
+-Uos auedes [os alhos uerdes,
+E a matar m iades con eles.]
+
+-Comede migu e dar uos ey
+Huã grã Garça parda.
+Diz el, en estes meus narizes
+Color de roza Bastarda:
+-Uos auedes [os alhos uerdes
+E a matar m iades con eles.]
+
+-Comede migu e dar uos Ey
+temporaano figo maduro.
+Diz el, en estes meus narizes
+Color de morec escuro:
+-Uos auedes [os alhos uerdes
+E a matar m iades con eles.]
+
+-Treide conmigu e comeredes
+Muytas boas assaduras.
+Diz el, en estes meus narizes
+Color de moras maduras:
+-Uos auedes [os alhos uerdes
+E a matar m iades con eles.]
+
+Esta cantiga foy seguida / Per huã baylada que diz: / Uos auede los olhos verdes / e matar m edes con eles. / Et foy fata a hu~u bispo / De Uiseu natural d Aragon / Que era tan cardeo en comer / Cada h~ua d estas cousas / Que conuida en esta cantiga / O mays; e apoynhan lhe que sse / Pagaua do vinho.

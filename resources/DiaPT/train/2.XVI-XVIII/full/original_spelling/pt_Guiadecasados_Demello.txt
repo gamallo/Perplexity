@@ -1,0 +1,2619 @@
+CORPUS ELECTRÓNICO DO CELGA
+– PORTUGUÊS DO PERÍODO CLÁSSICO –
+(CEC– PPC)
+
+D. FRANCISCO MANUEL DE MELO
+CARTA DE GUIA DE CASADOS
+
+EDIÇÃO SEMIDIPLOMÁTICA
+POR
+DANIEL NETO ROCHA
+
+CENTRO DE ESTUDOS DE LINGUÍSTICA GERAL E APLICADA (CELGA)
+FACULDADE DE LETRAS
+UNIVERSIDADE DE COIMBRA
+2007
+
+NOTAS PRÉVIAS
+
+▪ Texto fixado por Daniel Neto Rocha sobre o testemunho transmitido pela primeira
+edição da Carta de Guia de casados, de Lisboa, Oficina Craesbeeckiana, 1651. Este é
+considerado, fundamentadamente, o testemunho mais fidedigno da tradição desta obra de
+D. Francisco Manuel de Melo. Teve-se presente o exemplar da Biblioteca Geral da
+Universidade de Coimbra com a cota VT. 17-6-17.
+▪ O texto foi transcrito, de um modo geral, com conservação dos aspectos (orto)gráficos
+observados na edição de 1651, relativos aos usos de caracteres vocálicos e consonânticos,
+de sinais de acentuação e de til, pontuação, de maiúsculas e hífens (excepto neste caso os
+que dizem respeito à translineação). Na apresentação do texto procederam-se às seguintes
+intervenções actualizadoras:
+• < I >, com valor consonântico, foi transcrito por < J > (em palavras da língua
+portuguesa);
+• < u >, com valor consonântico, foi transcrito por < v >;
+• < v >, com valor vocálico, foi transcrito por < u >;
+• s alto ( < ſ > ) foi transliterado pelo grafismo actual correspondente, < s >.
+
+• < & > foi transliterado por < e >;
+• < ² > foi desenvolvido em «que».
+▪ Atribuiu-se numeração às páginas do texto editado, por inscrição do número dos fólios (frente
+ou rosto, e verso) da edição seiscentista que serviu de base à nova edição. Esse número,
+inscrito entre parênteses rectos, é antecedido da sigla CG.
+
+[CGIr] Carta
+
+de
+
+Guia
+de
+
+Casados
+
+[CGIIr] CARTA
+
+DE GUIA
+DE
+
+CASADOS
+Paraque pello caminho da
+prudencia se acerte
+com a Casa do
+descanso.
+
+A HUM AMIGO.
+
+Por D. Francisco Manuel.
+
+______________________________________
+EM LISBOA.
+
+Com as licenças necessarias.
+na Officina Craesbeeckiana.
+
+1651.
+
+Vendese na Rua nova.
+
+[CGIIIr] LICENC,AS.
+Vistas as informaçoẽs, podese imprimir este papel, cujo titulo he, Carta de Guia de
+Casados. Autor Dom Francisco Manuel, e depois de impresso tornarà ao Conselho para se
+conferir com o original, e se dar licença para correr, e sem ella não correrà. Lisboa 11. de
+Octubro de 1650.
+Fr. João de Vasconcellos.
+Pedro de Silva de Faria.
+Frãcisco Cardoso de Torneo.
+Pantaleão Rodrigues Pacheco.
+Diogo de Sousa.
+Podese imprimir. Lisboa 18 de Octubro. 650.
+Cabral.
+[CGIIIv] Que se possa imprimir, vistas as licenças do Santo Officio, e Ordinario; e despois
+de impresso virà à Mesa para se conferir, e taxar, e sem isso não correrà. Lisboa 26. de
+Octubro 650.
+D. P. P. Pinheiro. Pacheco.
+Esta conforme com seu original. Em S. Domingos de Lisboa. 15. de Maio. 1651.
+Fr. Fernando de Meneses.
+Pode correr. Lisboa 23 de Mayo de 1651.
+Fr. João de Vasconcellos.
+Pedro de Silva de Faria.
+Frãcisco Cardoso de Torneo.
+Taxão o livro Guia de casados em quatro vinteins em papel. Lisboa 17. de Maio de
+1651.
+D. P. P.
+
+Pinheiro
+
+[CGIVr] A DOM
+FRANCISCO
+DE MELLO ALCAIDE
+mòr de Lamego, Comendador
+de S. Pedro da Veiga de Lira,
+Trinchante de
+S. Mag.
+Primo. Para haver no mundo hũa dedicatoria verdadeira, assi havia de ser feita ao
+descuido. Agora me avisa Paulo Craesbeeck que na sua Officina està impressa a minha
+Carta de guia de casados: que ou a dedique eu por mi mesmo, ou lhe deixe fazer della
+convite a quẽ [CGIVv] a estime, e lha agradeça. Mas eu, que não estou jà para provar
+ventura com bafos de grandes, nẽ ouso mandar de novo o meu nome às aventuras (porque
+em fim o bafo he vento, e as aventuras soem ser desastres) neste pouco espaço que me
+deixou cuidar no que faria, o pedidor da reposta, nada soube fazer mais atinado, que o
+irme lembrar de vos, e da minha obrigação, para vos offerecer este livrinho. Não julgueis
+que me ficais devẽdo muito; e sò paraque saibais qual he o empenho, desenrolai o
+presente. Fazei conta que o que vos haveria de ir dizendo aos poucos, quando Deos vos
+puser neste estado, [CGVr] vollo tenho aqui dito por junto; porque eu não sou, nẽ quero
+ser d’ aquelles, que se curão a si cõ differentes mezinhas que aos outros. Escrevi a hum
+amigo estas observaçoẽs. Confiadamente vos servi dellas a seu tempo; porque como a
+amizade he o maior parentesco, o parentesco deve ser a maior amizade. Vai debaixo de
+condição, que não haveis de amparar, nem defender o livro; porque se elle não corresse
+offendido, e desamparado, ate eu o não teria por meu. Usai antes, se for (que sim serà)
+necessario, d’aquella minha resposta a hum que me tachava de que fizesse muitos e maos
+livros: Senhor (lhe disse eu) [CGVv] deixaime fazer muitos, ate que faça hum que vos
+contente. Dizeilhe isto, e Deos vos guarde.
+Vosso Primo.
+D. Francisco Manuel.
+
+[CGVIr] AOS LEITORES
+desta Carta
+Naõ he outra cousa a Filosofia que hũa consideração uniuersal de todas as cousas
+pella qual se alcança o conhecimento dellas. Divide-se em natural, e moral. A natural
+averigua as qualidades dos Ceos, Elementos, e Criaturas. A moral aparelha a ordem do
+trato humano. Tambem esta moral se divide em tres partes, que chamão Etica. Economica,
+e Politica. A Etica cuida dos costumes do homem. A Economica tem por fim o regimento
+das casas, e familias. A Politica entende sobre o governo das cidades, reinos, e imperios:
+mas de tal maneira, que a Economica requere Politica a Politica Economica; porque o
+reino he casa grande, e a casa reino pequeno; e a Etica necessita da Politica, e da
+Economica, porque o homem he hum mundo inteiro.
+Mas agora fallãdo sòmente da Filosofia Economica, que he a que pertence a este
+Tratado, digo que esta tal Filosofia comprende todas as condiçoẽs de gente de que consta a
+republica: grande, meam. e pequena; porem olha com maior intensão para os grandes:
+porque a segunda e [CGVIv] terceira qualidade de homens não requere tanto estudo para
+sua conservação. Estendese tambem a todos os estados de vida: Casados, Solteiros e
+Viuvos; mas da mesma maneira he mais propria dos casados que dos solteiros e viuvos.
+Não porque estes dous modos de vida deixem de necessitar de regras para seu bom
+regimento; porem porque saõ estados em que poucos e pouco tempo se detem; constaõ
+sempre de limitadas familias, e por isso de menos ocasioẽs; não pedem todo aquelle
+desvelo, cuidado e vigilancia que convem ao casado para sustentar sua casa em honra e
+sem perigo.
+O principal estudo que aos casados pertence para conseguirem esse fim, he aquelle
+que lhes dà o modo justo de se haverem, e para viverem com suas mulheres; porque deste
+acerto ou erro, procedem todos os erros ou acertos de hum varão, e de hũa familia.
+D. Francisco, Autor deste papel, sendo rogado de hum seu grande amigo que
+entendia casarse, para que lhe desse alguns bons conselhos e avisos acerca desse estado,
+escreveo este Discurso (como elle mesmo affirma) sem algum artificio; que he boa
+qualidade para dar credito ao que se aconselha.
+
+Foi seu animo persuadir aos casados a paz e concordia com que devem ordenar sua
+vida; encomẽdar a estimação das mulheres [CGVIIr] proprías; inculcar os meos por donde
+o amor se conserva, e se aumenta a opinião.
+Este livro, correndo manuscrito quis ser de algũas pessoas calumniado de severo
+contra a liberdade das mulheres; e foi esta a principal razão de se comunicar agora a todos,
+paraque se veja a pouca causa que o livro deu ao juizo que delle se tinha feito. O que bem
+se pode conhecer conferindo sua doutrina com o que escrevem todos os que tratàrão esta
+materia.
+E se porventura disser alguem que o entendimento dos homens obra aqui
+apaixonado por sua jurisdição; vejase aquelle excellente Tratado que escreveo da Nobreza
+virtuosa, a Condeça de Aranda Dona Luisa Maria de Padilha, e publicou Fr. Pedro
+Henrique Pastor; que logo se acharà como nem por ser escrito por mulher se sobornou da
+fragilidade de sua cõdição, paraque deixasse de assentar às mulheres com toda a aspereza
+os preceitos necessarios.
+A natureza mostra, e o confirma a experiencia que as mezinhas de uso mais
+difficultoso saõ aquellas de virtude mais efficaz. A arte a que os medicos chamão
+Precautoria sem duvida he molesta, se se olha a quanto obriga; mas se ao muito de que
+preserva, sem duvida he suavissima. O animo de D. Francisco bem prova que não foi
+induzir a novos cuidados e desconfianças, [CGVIIv] mas antes mostrar os caminhos para
+sair delles, e fugir dellas.
+Entre os seus livros, pode ser que nenhum seja mais util que o presente. E nenhum
+de certo he mais facil; ou que a materia pedisse hum descansado estilo, ou que elle
+cansado de ser reprendido de misterioso (e tal vez de escuro) quisesse escrever para todos;
+poes para todos escrevia, senão para si mesmo. Sejalhe comtudo desculpa (senão louvor)
+haver sido seu fim em todos seus escritos acomodar sempre o estilo com a materia: cousa
+não de todos guardada, e aos menos concedida. Porque na Historia de Catalunha mostrou
+verdadeiramente eloquencia historica. No Ecco Politico levantou mais a pena, porque o
+pede a Politica. No maior Pequeño e em os Fenis escreveo aforistico e Laconico, porque as
+materias moraes e misticas que comprendem, fossem pella brevidade apetecidas. Nas
+Musas grave; por ser esse o melhor metodo entre o vulgar e o difficil. No Panteon culto;
+porque à materia tragica se assina o mais alto dos estilos. O mesmo observou nos livros e
+Tratados que compos antes e despois dos referidos.
+O proprio guarda no presente, que he o primeiro dos livros Portugueses, e que bem
+mostra não ser menos digno de louvor pella propriedade com que escreve sua lingua, que
+
+pella elegancia com que [CGVIIIr] nas passadas obras mostrou haver feito sua a
+Castelhana. Seguiràõ os mais em Portugues, que fico preparando em quanto gastardes o
+tempo em castigar ou estimar este, que a todos serve, a todos offereço.
+O Impressor.
+
+[CG1r] Carta
+de Guia
+de Casados
+
+Em meio estou, senhor N. de aquellas duas cousas mais poderosas cõ os homẽs:
+Amor, e Obediencia. Amo a V. M. Mandame V. M. E suposto que me manda hũa cousa
+bem difficultosa; a Obediencia, e o Amor, que já fizeraõ impossiveis, não se negaráõ hoje
+a vencer difficuldades.
+[CG1v] Dizme V. M. que se casa, e que lhe dè eu, para se governar neste seu novo
+estado, algũs bons conselhos. Esta he hũa das cousas de que eu cuido que falta mais quem
+a peça, que quem a dè.
+Pois por certo que aquelle que deseja bõs conselhos, já parece que delles naõ
+necessita; porque he tão grande prudencia pedir cõselho, que do homem que o sabe pedir,
+crerei que nenhũ lhe farà falta.
+O primeiro que aconselharei a V. M. sera que se [CG2r] não fie em nada sò do meu
+voto; pois suposto que em mì possa haver vontade para o bem servir, póde ser que nem
+por isso haja entẽdimento para o bem aconselhar; porque entendimento, e vontade ainda se
+ajũtão menos vezes que a honra, e o proveito: e ella com que seja potencia poderosa, nem
+sempre guia ao acerto, se lhe faltão olhos de sufficiencia.
+Grandes cousas deixou escrito a antiguidade, para advertencia dos casados. Muitas
+saõ, e graves são; [CG2v] a que tambem os modernos acrecentàrão outras, ou nos puseraõ
+em outras palavras as antigas.
+Mas nòs aqui, senhor N. nos havemos de entender ambos em pratica como do làr, a
+cujo abrigo, nestas longas noutes de Janeiro, vou escrevendo a V. M. estas regras, em
+estilo alegre, e facil, qual requere o estado, e idade de V. M. bem que tão diverso do meu
+humor, e da minha fortuna.
+Darão licença os Senecas, Aristoteles, Plutarcos, e Platoẽs; nem ficaremos [CG3r]
+mal com as Porcias, Casandras, Zenobias, e Lucrecias; tudo tão desenrolado nestas
+doutrinas; porque sẽ seus ditos delles, e sem seus feitos dellas, espero nos faça Deos merce
+de que atinemos com o que V. M. deseja de ouvir, e eu procuro dizerlhe.
+
+Não sou já mancebo. Crieime em cortes; andei por esse mundo; atentava para as
+cousas; guardava as na memoria. Vi, li, ouvi. Estes serão os textos, estes os livros, que
+citarei a V. M. neste papel; donde juntas algũas [CG3v] historias, que me forẽ lembrando,
+póde mui bem ser não sejaõ agora menos uteis, que essa maquina de Gregos, e Romanos,
+de que os que chamamos doutos, para cada cousa nos fazem prato, que às vezes nos
+enfastìa.
+Ora, assentamos, que qualquer mudança causa estranhesa. Mudar de hũas casas a
+outras he em algũa maneira esquivo. Seguese logo que não se mudará a vida sem algum
+receio.
+Porque se perca, imagine V. M. que para este estado [CG4r] naceo, e o criáraõ seus
+pais. Este foi o que V. M. sabia o estava esperando. Este lhe he proprio, o outro alheo.
+Ninguẽ se queixa de haver chegado ao fim de seu caminho.
+Considere que aqui não padece algũa força sua liberdade: antes, assì como aquelle
+que sobe açodado por hũa escada ingreme, quãtos mais são os degraos, mais deseja de
+achar hum mainel em que descanse; assí tambem, subindo o homẽ pella escada da vida,
+quantos mais são os annos, quanto [CG4v] mais soltamente os vai vivendo, tanto lhe he
+mais necessario o repouso de hum honrado casamento; que jà por essa razão lhe
+chamamos Estado, por ser não sò fim, mas tambem descanso.
+Tem V. M. subido, senão muitos degraos, digo, senão tem vivido muitos annos,
+vivido tem aquelles que bastem; e ainda mal porque a tal curso, que bem pode jà dar o
+descanso a que chega, por chegado ao melhor tempo.
+Paga o filho a seu pae em se casar, aquelle beneficio [CG5r] que recebeo delle.
+Pois se seu pai não casára, o filho não fora. Vão assi os homẽs cõtribuindo hũs aos outros;
+e todos à memoria dos que lhe derão ser, a que, despois de Deos, somos mais obrigados
+que a tudo o mais.
+Espantãose os moços cõ o que ouvem dizer do casamento de ordinario aos mal
+casados, porque, senhor, ha V. M. de saber, que muito mais certo he que o mantimento
+bom se converta no mao humor que em nòs acha, do que converter o mao humor nessa sua
+boa virtude. [CG5v] Parecelhes aos moços intoleravel a carga do Matrimonio. He, senhor,
+pesadissima para os que a não sabẽ levar; para os que sabem, he ligeira. Hũa arroba de
+ferro ao hombro carrega hum homem, que com o facil artificio de duas rodas póde levar
+hum quintal. Não excede o peso do casamento nossas forças, faltalhe as mais das vezes
+nossa prudencia para que o sustente: e de aí vem que nos pareça grande.
+
+Quer V. M. ver quão leve he a carga deste modo [CG6r] de vida que toma? meça a
+com o peso de essoutra vida que deixa.
+Ponha, senhor N. em balança a inquietação passada: os perigos, os desgostos, a
+desordem dos affectos, aquelle temer tudo, não fiar de nada, o queixume que doe, a
+vingança que arrisca, a ruim lei que desespera, os ciumes que abrasão, os amores que
+consomem, a hõra em ocasiaõ, a saude diminuida, a vida arriscada, e o que he mais, a
+conciencia sempre queixosa.
+Ora alviçaras, senhor [CG6v] N. que já lá vai tudo isto.
+Em verdade, que quando o casamento não trouxera outro algum bem, mais que
+livrar de tantos males, justamente merecia o nome de santa, e doce vida.
+Pois vejamos o que se lhe dà a hum casado, a troco dessa liberdade, que elles tanto
+allegão que deixão?
+Daselhe outra: entregaselhe a mulher com a liberdade, com a vontade, com a
+fazenda, com o cuidado, cõ a obediencia, com a vida, com a alma.
+[CG7r] Quem pezarà o que deixa com o que recebe, que logo não conheça os
+ganhos desta troca?
+Hũa das cousas que mais assegurar podem a futura felicidade dos casados, he a
+proporção do casamento. A desigualdade no sangue, nas idades, na fazenda, causa
+contradição; a contradição, discordia. E eis aqui os trabalhos por donde vem. Perdese a
+paz, e a vida he inferno.
+Para a satisfação dos pais cõvẽ muito a proporçaõ do sangue, para o proveito
+[CG7v] dos filhos a da fazenda, para o gosto dos casados a das idades. Não porem que seja
+preciso hũa conformidade, de dia por dia, entre o marido e mulher; mas que não seja
+excessiva a ventagem de hum a outro. Deve ser esta ventagem, quando a haja, sempre da
+parte do marido, em tudo à molher superior. E quando em tudo sejão iguaes, essa he a
+suma felicidade do casamento.
+Dizia hum nosso grande cortesão, havia tres castas de casamentos no mundo:
+[CG8r] casamento de Deos, casamento do Diabo, casamẽto da Morte. De Deos, o do
+mancebo com a moça. Do Diabo, o da velha cõ o mancebo. Da Morte, o da moça com o
+velho.
+Elle certo tinha razaõ, porque os casados moços podem viver com alegria. As
+velhas casadas com moços, vivem em perpetua discordia. Os velhos casados com as
+moças apressão a morte, ora pellas desconfianças, ora pellas demasias.
+
+Mas porque estas cousas saõ muito geraes, e [CG8v] ainda os incapazes tem dellas
+o conhecimento que aos entẽdidos lhes sobeja; he tẽpo de passar a algũs mais particulares
+avisos.
+Senhor, saiba V. M. que à sua alma se acrecenta outra alma de novo; á sua
+obrigação se ajunta outra obrigação. Assì devem crecer seus cuidados, e seus respeitos. E
+da mesma sorte que se a hum homem que possuisse hũa herdade, a qual cultivasse, lhe
+fosse deixada outra de novo, para o mesmo effeito; este tal homem, sem diminuir em sua
+[CG9r] alegria, era força que na diligencia se aventejasse, por abranjer com seu trabalho a
+ambas aquellas suas fazendas; nem mais nem menos deve o casado multiplicar o tento, e a
+fadiga (sẽ que por isso se entristeça) por não faltar ao novo cargo que tomou, e lhe
+entregàrão, com a mulher que lhe derão; não para que a arriscasse, e perdesse (e a si
+mesmo com ella) mas para que com maior comodo, e descanso pudesse passar com ella a
+vida.
+Provemos a ver se será [CG9v] possivel dar algũa regra ao amor: ao amor, que soe
+ser a principal causa de fazer os casados mal casados. Hũas vezes porque falta, e outras
+por que sobeja. Armemoslhe, se quer, as redes; caia elle se quizer; e o mais certo será que
+avoe, e fuja dellas; porque quiçá por isso o pintàraõ com azas.
+Amese a molher, mas de tal sorte que se não perca põe ella seu marido. Aquelle
+amor cego fique para as damas; e para as molheres o amor com vista. Ou [CG10r] cure os
+olhos que tem, ou os peça emprestados ao entẽdimẽto de esses que lhe sobejão.
+Digo, perder pela mulher: perder por ella seu marido a dignidade de homem, a
+troco de lhe não contradizer sua vontade, quando he justo que lha contradiga. Saibase, e
+temase que tãbem ha Narcisos do amor alheio, como de seu proprio.
+Gabavão muito certos Cardeaes ao Papa Pio V. hũ seu criado, que elle mais
+favorecia. Respondeolhes: Bom he, mas nunca me cõtradiz. Taõ longe está de ser [CG10v]
+desamor, que antes he perfeição do amor o saber encontrar a vontade de quem se ama,
+quãdo ella não deve de ser seguida.
+Há algũs, senhor N. de tão pouco juízo, que fazẽ ostẽtação de seu próprio cativeiro.
+Igual afronta he a hum casado saberse que o manda sua mulher, que saberse he ella de seu
+marido escrava, e não companheira.
+Este foro, esta prerogativa de que cada hum he bẽ que use, logo ao principio
+convem que se concerte. O [CG11r] marido tenha as vezes de Sol, em sua casa, a mulher
+as de Lua. Alumìe com a luz que elle lhe der; e tenha tambem algũa claridade. A elle
+
+sustente o poder, a ella a estimação. Ella tema a elle, e elle faça que todos a temão a ella,
+serão ambos obedecidos.
+Dissera eu, que as mulheres saõ como as pedras preciosas, cujo valor crece, ou
+mingua, segundo a estimação que dellas fazemos.
+Os que casaõ com mulheres maiores no ser, no [CG11v] saber, e no ter, estão a
+grandissimo perigo. Deste livrou Deos a V. M (e àquelles que assi casarem) porque no que
+devião ser iguaes mulher, e marido, saõ muito iguaes, e no que V. M. era bem que
+excedesse, a si he que excede. Os mais annos saõ grandes arras no casamento, em favor da
+autoridade do marido.
+Não me detenho em apontar remedios a estes riscos, porque o meu animo não he
+dar conselhos aquem escolhe mulher, senão avisos [CG12r] para se viver aquella que jà se
+tem escolhido.
+O homem que casa com mulher de pouca idade, leva a demanda meia vencida. Nos
+tenros annos não ha ruim costume; porque ainda o menos advertido está no animo como
+hospede, e não de assento.
+Acusando hum homem a sua molher de mal acostumada, diante de seu Principe,
+foi delle perguntado, de que annos entrára em seu poder; e como lhe disse o marido, que
+de doze, respõdeo aquelle Rei: Pois vòs [CG12v] sois o que mereceis castigado, que tão
+mal a criastes.
+Hum leão, em pequeno se amança. Aos proprios ferros da gaiola, em que vive
+preso, toma affeição hum passarinho; sendo aquelle por seu natural feroz, e este livre. He a
+criação outro segundo nacimento; e se em algũa cousa differe do primeiro, he sò em ser
+mais poderoso este segundo.
+O homem que tiver discrição, & industria, casando com mulher de tal idade, pai
+cuide que vai a ser [CG13r] de sua mulher, tanto como seu marido. Pòde fazer que ella
+renaça com novas condiçoẽs. Se vemos balhar hum usso em hũa corda, animal de tão
+differente despejo, que bruto se afirma mal sobre a terra; que ha que desesperar de poder
+instruir a mulher moça em todos os bõs costumes, e dictames em que a puzer seu marido?
+E tambem que ha que confiar de que não teme os ruins, se seu marido lhe dá liçoens, e
+motivos para cair, e ficar nelles?
+Correm algum perigo as [CG13v] muito moças, pello sobejo amor aos pais, e
+irmãos, cõ que se criàrão; e he tanto mais ocasionado este inconveniente, quãto parece
+mais licito.
+
+De ordinario esta acção se regula pello ser desses pais, e dessa parentella. Quando
+os pais, sejaõ como devem, louvavel he a inclinação, quando não he necessario que se và,
+desde logo, e por bons meios, despartindo aquella familiaridade.
+Sobretudo eu quizera ver antes nas casadas para [CG14r] com seus pais reverencia,
+que amor; não que lho neguem, porque sem algum amor, não ha nenhũa obediencia: mas
+quando seja amor, e elles taes que não sejão dignos delle, se no marido houver arte, o
+remedio não parece difficultoso.
+Julgava eu que para esta tal mezinha era bem cõveniente hũa nova brandura, hum
+novo afago; (digamos assì) hum namorar a mulher outro tanto mais do que sem esta razão
+seria necessario.
+A criança que outra [CG14v] cousa não sabe senão o peito de sua mãi, o deixa a
+troco de se lhe dàr a conhecer a suavidade do mel, ou do açucar, que he mais doce que o
+leite. Não se duvida que o bem querer do marido he mais proprio para a mulher, que o de
+seus pais, e parentes. Donde vem que a mulher obrigada, e amimada do marido, esquece
+facilmente o trato dos pais, e dos irmãos.
+Este afago tambem deve ser discreto, repartindoo igualmente por obras, e palavras.
+O vestido quando [CG15r] se não pede o brinco que se não espera, a saìda em que se não
+cuida; hum não saìr de casa hũa tarde, hum recolher mais cedo hũa noite, (e se disser, hum
+levantar mais tarde hũa menhaã, não mentirei) farão logo chanissimo o caminho para
+aquelle esquecimento, ou desvio dos pais, quando ao marido lhe convenha.
+Ouve quem duvidasse, se podia ser prefeito o amor entre aquelles que por
+conveniencias, e por concertos se casavão: entendendo que esta perfeição de querer, só
+[CG15v] se guardava para os que casavão por amores. A que se referia hum galante, que
+convidando o hũa sua parẽta para que casasse por concertos, lhe deu por reposta: Senhora,
+não me obrigo a amar ninguem por fé de escrivão, senão pella minha.
+De hũa, e de outra cousa não faltão bons, e maos exemplos; mas eu que sou mais
+amartelado da razão que do caso, direi com algũa novidade o que se me offerece.
+Persuadome, senhor N. que esta cousa a que o mundo [CG16r] chama amor, não he
+sò hũa cousa, porèm muitas cõ hum proprio nome. Poderá bem ser, que por isto os antigos
+fingissem haver tantos amores no mundo, a que davão diversos nacimẽtos; e tambem pòde
+ser venha de aqui, que ao amor chamamos amores: pois se elle fora hum só, grande
+impropriedade fora esta.
+Eu considero dous amores entre a gente. O primeiro he aquelle comum affecto com
+que, sem mais causa que sua propria violencia, nos movemos a amar, não [CG16v]
+
+sabendo o que, nem o porque amamos. O segũdo he aquelle, com que proseguimos em
+amar o que tratamos, e conhecemos; o primeiro acaba na posse do que se desejou; o
+segundo começa nella: mas de tal sorte, que nem sempre o primeiro engendra o segũdo,
+nem sempre o segundo procede do primeiro.
+Donde infiro, que o amor que se produz do trato, familiaridade, e fé dos casados,
+para ser seguro, e excellente, em nada depende do outro amor, que se produzio do desejo
+do apetite, [CG17r] e desordem dos que se amàrão antes desconcertadamente; a que, não
+sem erro, chamamos amores, que a muitos mais empecèraõ que aproveitàraõ. Parecerá
+difficultoso o considerar, como à pessoa que não havemos visto poderemos amar com
+perfeição. Larga he a disputa, e não de aqui. Digo eu que façamos, senhor N. neste caso,
+como os que cortão madeira, e a lanção ao rio, para que sua corrente lha leve (sem algũ
+trabalho) ao porto. Elles naõ sabẽ [CG17v] por onde vai sua mercadoria; mas bastalhes
+saber que ella chega a salvamento, por outras que já tem chegado, para que lha entreguem
+ás aguas cõ muita confiança.
+Deixese levar o casado do poder de aquelle virtuoso costume; não lute, nem forceje
+com a corrente, que quando menos o espere (e sem saber o como aquillo foi) elle se achará
+amando a salvamẽto a sua mulher, e sendo della muito seguramente amado.
+Deselhe a entender à [CG18r] mulher que a cousa que mais deve querer he a seu
+marido. Tenha o marido para si que a cousa que mais deve querer he sua honra, e logo sua
+mulher.
+Diz hum antigo ditado: Quem não tem marido não tem amigo. Diz outro: Quem
+tem mulher tem o que ha mister. E na verdade assí he entre os bõs casados; e os rifoẽs,
+senhor N. sentenças saõ verdadeiras, que a experiencia summa mestra das artes
+pronunciou pellas bocas do povo.
+Mas porque sucede que [CG18v] sem embargo de todas as mezinhas receitadas,
+quando Deos nos quer castigar com a pena, e injuria de encontrarmos com hũa condição
+avessa, a mulher luta por sustentarse em seus desmãchos: discorreremos aqui pellos varios
+generos de ruins qualidades, que acõtece haver nellas, para que a todos se possaõ aplicar
+os remedios convenientes. Mas nem por isto se espere que de todas se consiga a melhoria.
+Cuidão, com falso discurso, algũas mulheres que como ellas guardem a lei de vida
+[CG19r] á honra de seus maridos, em tudo o mais lhes devem elles de sofrer quanto ellas
+quizerem que lhes sofraõ.
+
+He este hum méro engano; por duas razoens: a primeira, porque nada se lhes deve
+às honradas de guardarem a obrigação, em que Deos, a natureza, o mũdo, o medo as tem
+posto.
+Lembrame que estãdo em Madrid, tinha hũa vizinha muito braba, que peleijando
+hum dia, como sempre fazia, não cassava de dizer ao marido, e com [CG19v] verdade:
+Hermano soy muy honrada, e elle respondialhe: Pues anda a Dios que te lo pague, que a
+mi quenta no está el pagarlo, quãdo lo seas, sino el castigarlo quando no lo seas.
+A segunda, porque não só a honra de seus maridos se perde por sua descontinencia,
+mas não menos pellas ocasioẽs a que poem os homẽs por muitos outros excessos que
+cometem. Foi assì graciosa, mais que segura, a opinião de certa pessoa, que ninguem tanto
+sofria como quem tinha boa [CG20r] mulher, bom criado, e boa cavalgadura. Porque á
+conta de boas peças cada hũa fazia sua vontade, e nunca a de seu dono. Não fosse ora por
+isso o dizer a chocarrisse Castelhana: Buena mula, buena cabra, buena hembra, son tres
+malas bestias.
+As mulheres de rija condição, a quem commummente chamão brabas, saõ as que
+menos cura tẽ; porque até da temperança do marido, que era a sua melhor mèsinha, tomão
+causa de se demasiarem; sendo já [CG20v] antigo que o soberbo se faz mais insolente á
+vista da humildade; o brabo se enfurece diante da mansidão. A violencia, e o castigo não
+tem lugar na gente de grãde qualidade. Pello que já disse hum muito discreto, que entre as
+cousas que os villãos trazião lá usurpado aos fidalgos, era hũa, o poderem castigar suas
+mulheres cada vez que lho merecião.
+Pouco mais remedio soẽ ter estas taes condiçoẽs, que hũa grande prudencia com
+que se atalhem. Aconselharia [CG21r] a aquelle a quem tal sucedesse, se apartasse o
+possivel de viver nas Cortes, e grandes lugares. Quem grita no despovoado, he menos
+ouvido. Atalhãose assì inconvenientes; não se ficarà sendo a fabula do povo, dõde de
+ordinario servẽ de iguaria aos murmuradores as acçoẽs de taes casados. Procede de aqui
+não leve injuria: pello menos hũ escrupulo de afronta, que anda sẽprezunindo nos ouvidos
+do pobre marido, como os gritos da propria mulher braba.
+A fea he pena ordinaria, [CG21v] porem que muitas vezes ao dia se pode aliviar,
+tantas quantas seu marido sair de sua presença, ou ella da do marido. Considere que mais
+val viver seguro no coração, que contente nos olhos; e desta segurança viva cõtente; que
+pouco mais importa haver perdido por junto a fermosura, que vella ir perdendo cada dia,
+com lastima de quem a ama. Isto sucede sempre nas mulheres, já pella idade, jà pellos
+
+achaques, a que toda a fermosura vive sogeita. Donde cõ muita razaõ se queixava [CG22r]
+hum discreto, não de que a natureza acabasse as fermosas, mas de que as envelhecesse.
+Mulher necia, cousa he pesada, mas não insufrivel. procure o marido emprestar de
+seu juizo às acçoẽs de sua mulher aquella discrição que vir que lhe falta. Assí o farà o
+entendido; e se elle tambem o não for, pouca pena lhe dará que ella o não seja.
+A doença, que a muitas aflije, he tambem hum não pequeno trabalho: vèse penar a
+pessoa a que se quer [CG22v] bem; e por ventura, soem ser estas as que menos o merecẽ:
+porque males, e bens muito ha que costumão andar desordenados. Deve a mulher, quando
+enferma, ser tratada de seu marido com todo o regalo possivel, sofrida com toda a
+paciencia. Podese fazer esta conta: que estando disposto haja de padecer o homẽ em
+ametade de sua alma, favor foi grande de Deos padecesse antes naquella parte que menos
+falta faria á sua familia. Considerese (para que se bẽ sofra) que a obrigação [CG23r] do
+fiel companheiro, he guardar companhia, tanto pello mao, como pello bom caminho. Se as
+sortes se mudassem, da mesma maneira quizera o marido ser tratado, e sofrido da mulher.
+Ha não poucas mulheres proluxissimas, e de condição impertinente, cuja demasia
+de ordinario descarrega sobre os criados, a quem saõ insoportaveis; dõde à casa resulta
+ruim fama, e achar o senhor della com difficuldade quem o sirva. Convem que a estas
+[CG23v] taes se lhes aperte o freo, se lhes dè pouca mão no governo, e como a pessoas
+feridas de mal contagioso as sirvão, e ministrem ao longe, ouvindoas pouco, e dandolhes a
+ouvir menos. Mostremselhes por experiencia os frutos de sua cõdição, faltandolhes tal vez
+com o serviço necessario; porque se com este garrote não tornão em si, saõ por outro
+modo de difficultoso remedio; e vem a pagar o marido, sem culpa, os desabrimentos da
+mulher agressora, e merecedora da [CG24r] ruim vontade dos servos, que, como pouco
+prudentes, não distinguem em acçoens tão proprias como as de mulher, e marido, qual
+delles he digno de amor, e qual de desamor.
+Acõtece serem escassas; e dos deffeitos mais leves, que nellas se achão, he este
+hum delles. Não julgo que seja de algum perigo (posto que pòde ser de descontentamento,
+e azo de pouca paz) porque se o marido he liberal, elle dará logo remedio à condição da
+mulher; se tiver o mesmo costume [CG24v] vivirão com miseria, mas com contentamento.
+Não cuido, certo, que os Egipcios com toda a sua agudesa, inventàrão mais
+excellente geroglifico do que o descobre hum nosso proverbio Portugues: O marido barca,
+a mulher arca. Ouvi o dias há a hũa velha, e o escutei como da boca de hum sabio: Traga o
+marido, e guarde a mulher.
+
+Mulher ciosa, he bem ocasionada mulher para que se viva sem contentamento.
+Dizia hũa de bom juizo: A mulher ciosa tendea ociosa. [CG25r] Queria dizer, não lhes deis
+causa, que ella a não tomará. Esta não vinha em distinguir a queixa do ciume; porque
+aquella que com razão se sente, não chamo eu ciosa. A ciosa he aquella que sem causa se
+queixa; e estas saõ as trabalhosas. Porque emendar cada hũ as suas fraquezas, sobre que he
+difficultoso, não he impossivel; mas emendar as alheas, não he difficultoso, porque he
+impossivel.
+Cõtra as ciosas sem razão, o melhor remedio he, que ellas a não tenhão: [CG25v]
+porque assi se segura a conciencia, e a honra. Contra as ciosas com razão, curandose o
+marido da leviandade, fica a mulher curada do ciume. Para desconfianças leves, que hum
+discreto chamava sarna do amor, que faz doer, e gostar jũtamente, digo eu, que como se
+satisfizeraõ as damas, se satisfaráo as esposas. Aquelle amor desordenado, mais furioso
+he, e assì mais vehementes seus ciumes (como he do melhor vinho o melhor vinagre.) Quẽ
+soube (que todos souberão) [CG26r] desmentir os ciumes de sua dama, quando a teve, por
+esse mesmo modo desminta os de sua mulher, quando a tenha.
+Eis aqui vem as gastadoras, fogo perenal das casas, e das familias. Sempre foi
+causa de muitos males esta tal condição; porque là tem suas cores de cousa boa; e
+sobretudo he mui aceita. Digo, senhor N. com verdade, que me parece deve hũa mulher
+honrada tratar o dinheiro com aquelle mesmo temor que ao ferro, e fogo, e outras cousas
+[CG26v] de que convem sejão medrosas. Parece o dinheiro em mãos da mulher arma
+impropria. Pergunto: Se para despedir, e lançar de sua casa hum criado a mulher casada
+por si não tẽ bastante autoridade, porque a quererá ter para despedir, e lançar fóra de casa
+sua fazenda, em que consiste o bem, e repouso de amos, e criados?
+Para a que for ferida deste mal, he necessario armar de hum grande recato, e vigia;
+e assì como quem navega se teme muito [CG27r] mais de abrir hũa ferida no casco do
+navio, por donde sem duvida se irá apique, do que se se lhe abrìrão outras muitas pello
+bordo, que vai fóra da agua; assì não he tão perigosa a hũa casa outra qualquer desordem,
+nem lhe ameaça ruína, como o excesso da mulher gastadora, e desregrada; porque como
+esse defeito jaz dentro na agua (dentro digo do proprio cabedal) por alli logo se vai ao
+fundo a familia inteira.
+Hũas há destas apetitosas, e que por hum bonifrate [CG27v] venderàõ hum padraõ
+de juro da Camara. He defeito, que comprende não só as grandes senhoras (antes nellas
+menos perigoso, e mais desculpado) mas até à gente de pequena condição. Sucedeo,
+estando em Madrid, vir a minha casa com grande ansia a mulher de hum obreeiro a pedir,
+
+que sobre dos savanas le prestasen doze reales; e preguntandoselhe, qual era sua
+necessidade: Ay señores, disse, que tengo concertadas a comprar media dozena de higas
+de azavache lindissimas, [CG28r] y si agora no las tomo, no sè quando podré despues
+haverlas. Sofrese melhor hum destes desmanchos, quando não he costume. Na moça he
+toleravel, na mulher condenavel. Saiba toda a mulher, que o mundo he maior que seu
+apetite, porque não queira fazerse necessitar de quanto vir, ou ouvir. Deos nos guarde de
+hũas que fazem certo aquelle rifaõ bem vulgar, mas muito proprio: A minha filha Tareja,
+quanto vè tanto deseja. Respondaselhe nesta razão. Primeiro [CG28v] está a obrigação,
+logo a temperança, e despois o gosto.
+Que direi das voluntarias, que por nome, não menos proprio, se dizem teimosas? de
+outras que aprofiaõ? as mais saõ constantes, e ainda cõtumazes em seu parecer. Acontece
+isto com maior frequencia nas ou muito necias, ou muito presumidas. Não venho em que
+com a mulher se litigue, que he concederlhe hũa igualdade no juizo, e imperio, cousa de
+que devemos fugir. Façaselhe certo, que [CG29r] à sua conta não està o entender, senão o
+obedecer, e fazer executar, mas que não entenda. Mostreselhe as vezes que havendo quãdo
+se casou entregado sua vontade ao marido, comete agora delito em querer usar de aquillo
+que jà não he seu.
+Tudo he sombra se se compára com o defeito da facilidade, ou ligeiresa: e ainda o
+não acabo de dizer, porque não acho nome decente. Mulheres hà leves, e gloriosas,
+prezadas de seu parecer: loureiras, cuido [CG29v] eu que lhes chamavão nossos antigos,
+por significar que a qualquer bafo de vento se movião. Este he o ultimo de seus males.
+Nem o quero considerar, porque nos não he necessario, nem apontar o remedio. A honra
+de cada hum, e a conciencia sejão neste triste caso os conselheiros. Com agudesa difinio
+este ponto em poucas palavras hũ discreto: Sofra o marido á mulher tudo, senão offensas;
+e a mulher ao marido, offensas, e tudo.
+Advertirei, todavia, que [CG30r] aquelle seu pretexto, de que cortesanías, ou
+galantarias não fazem mal, he conclusaõ erradissima, cuja pratica introduzio a industria,
+não a razão. Para que se pregue hum prégo, costumamos fazerlhe primeiro lugar com hũa
+futil verruma. Nenhum vicio entra tamanho como he. Aquelle bicho que no Brazil se
+padece por achaque, sem falta que com providencia no lo deu a natureza a todo o mundo
+por exemplo; entra invisivel, começa entretenimento, passa a ser molestia, chega a ser
+[CG30v] doença, e acontece que pòde ser perigo. A honra da mulher comparo eu á conta
+do algarismo; tanto erra quem errou em hum, como quem errou em mil. Fação as honradas
+boas contas, acharàõ esta conta certa.
+
+De hũas que se prezaõ de fermosas, não ha para que nos descuidemos. Que a
+mulher se conheça não he vicio; antes antiga opinião minha que em muitas partes tenho
+escrito. Devemos tanto conhecer o bem, se o há em nòs, como o mal quando o [CG31r]
+haja. Este para que se guarde, e não perca; aquelle para que se emende, e não và adiante.
+Desejo que da fermosura se use como da nobreza; folgue cada hum de a ter, mas não que a
+amostre. Levar da espada a cada passo, argùe pouca prudencia. O marido que vir sua
+mulher inclinar a esta vaãgloria, viva por ella mesmo avisado, e saiba que tem perigosa
+mercadoria, sendo esta das mulheres ao revèz que as outras, pois quanto mais cobiçada he,
+menos he para cobiçar. E [CG31v] por esta razão não faltou já quem duvidasse, se a
+fermosura se dava por premio, se por castigo.
+Passado havemos este enfadonho labarinto, ou por estes monstruosos medos, que o
+guardão. Tudo hà no mũdo, donde em nada perigarà a pessoa advertida. Verà V. M. nos
+mappas, por que se governão os mareantes, notados com tanta diligencia os baixos de que
+se haõ de guardar, como os portos a donde devem de ir a surgir.
+Tendo, senhor meu, mostrado [CG32r] a V. M. assi hũas sombras dos perigos, e
+inconvenientes que causaõ as mulheres com algũas de suas imperfeiçoẽs; hei como dito a
+V. M. os descansos, os contentamentos que trazem consigo as boas. Elles saõ tantos, que
+na verdade senão podem dizer.
+Não hà na eloquencia louvor que não venha estreito para a mulher honrada. Assì a
+deve de tratar seu marido como penhor celestial.
+Para a conservação desta honra, e desta mulher, [CG32v] em que ella tãto estriba,
+hirei assí apontando a V. M. algũas cousas, as quaes não servem aprendidas, senão usadas,
+e usadas muitas vezes. Bem se vè que não basta prantar a murta no jardim, por de melhor
+casta que ella seja, para que o adorne, faça figuras, e lavores agradaveis; he necessario
+torcerlhe às vezes os raminhos, e outras cortarlhe as vergonteas; e com tudo nada
+aproveita, se perpetuamente o jardineiro a não toza, e cultiva, porque veceja [CG33r]
+muito.
+Fujase, como de peste, de repartir casa, e receber criados com distinção, taes para o
+senhor, e taes para a senhora. Se o casamento he união, de que serue dividillo? Este ponto
+he mais proveitoso á advertencia, que agradavel à especulação. De aqui vem, que nem lhe
+fujo, nem a persigo.
+Temse hoje por grandesa lavrar quartos, e aposentos a parte, conservaremse por
+toda a vida assì entre os casados. E hà homem que vive tão diminuto de [CG33v] sua
+mulher, como das de seus vizinhos. Perguntemse neste caso as paredes das casas mais
+
+antigas; que pois as paredes fallão, ellas dirão os costumes dos passados. Vese no seu
+modo de edificar, que donde hoje não cabe hum pobre escudeiro, antes cabia hum senhor
+grande. Eu não sou tão amartelado da antiguidade, que cegamente siga seus costumes, mas
+pareciame bẽ aquella singelesa, e não bẽ esta cautela. Vivão todos em todas as casas,
+maridos e mulheres; que o contrario, [CG34r] certo, he abuso cheo de perigos.
+Affirmo ser erro que traz grãdes incõvenientes, haver em casa gente parcial, e que
+cuide algũa della que sò a sua ama deve fidelidade, e segredo, sò a ella queira servir, e dar
+gosto, sò tema seu enojo, e espere seu premio.
+Costumavão dizer os Grandes: Tantos criados, tantos inimigos; sentença de que foi
+autor não menos que o Espirito santo. Pois estoutra casta de criados, que o saõ, e que o não
+saõ, he a [CG34v] quinta essencia dos criados inimigos.
+Introduzio o costume, ou o diabo inventou, hũa sorte de pagenszinhos, que chamão
+de tocha, ou de estrado. Não aprovo tal uso, se se lhe ouver de assinar particular exercicio,
+antes sou muito contra elle, porque entrão, e saem, saõ espertos, e artistas, tomão cio com
+o favor, como quartaos gallegos, e saem delle com más manhas.
+Sejão os pagens todos do senhor, e destes os mais modestos, e honrados se
+[CG35r] apliquem ao serviço de sua mulher; e se se variarem, he ouro sobre azul. Não he
+necessario para fazer isto, senão verse que he melhor que o contrario. Façase porque he
+bom, e mais seguro que o que se não faz.
+Entrem pouco, e até parte sinalada; porque se saõ pequenos, negoceão com as
+criadas, e avogaõ às vezes por outros; se saõ grãdes, trazem procuração em causa propria,
+sempre com dano do decoro da casa.
+Vio hum dia o Duque de Alva, avò deste que hoje [CG35v] vive, entrar hum
+pagem jà espigado no quarto das criadas; chamou o, e disselhe: Andad, decilde al
+mayordomo, que ó os cape, ò os encape.
+Havia sucedido hum desconcerto em casa de hũa senhora a certa criada sua; e foi
+tal que se houve de descubrir de noite, e hirselhe buscar o remedio a casa de hũa comadre;
+dava grandes vozes o portador, e dizia (dizia elle despois que por lhe parecer mais
+honesto:) Senhora, acuda V. M. depressa a casa da [CG36r] senhora Dona fulana, que está
+hũa sua dona de parto. Que pregão este! e quem tão culpado na infamia de aquella casa,
+como o descuido do senhor da casa?
+Senhor N. olhe V. M. Quando o fogo anda na coitada, varremlhe muito bem os
+caminhos, que não fique palhinha, nem aresta, nem argueiro, e isto a fim de que não salte
+de hum arvoredo em outro, por meio de aquelles nadas em que se atea.
+
+Estas sevandilhas pequenas, estes argueiros, estas palhinhas, [CG36v] estas arestas,
+saõ ás vezes causa de grandissimos incendios. Ande, senhor meu, a casa de V. M. bem
+limpa, e bem varrida, que alem de ser grande asseo, he grande descanso.
+Quero fallar em criadas, e quizera fallar mais baixo, se a escritura tivera tons, como
+tem a pratica.
+O numero dellas, nem falte ao estado de cada hũ, nem sobeje à fazenda de cada
+hum. Nesta mingua nos levão os estrangeiros muita ventagem. Senhoras de grande porte,
+por terras [CG37r] que vi, e andei, se servem com hũa, duas criadas, e mais das filhas que
+dellas. E jà por ventura por esta causa chamão os Franceses às Damas do Paço: Filhas de
+Honor; dando a entender, que não menos das filhas se podem fazer criadas, do que se podẽ
+as criadas ter em conta de filhas.
+Se o hei de dizer em outra parte, seja aqui logo, antes que me esqueça. Ouvi muitas
+vezes a hum famoso prègador (que todos ouvimos) repetir este dito engraçado, e
+verdadeiro: Quem [CG37v] gasta menos do que tem, he prudente; quem gasta o que tem,
+he Christão; quem gasta mais do que tem, he ladraõ.
+Em nada deve haver excesso na casa bem regida; e se em algũa cousa se cõpadece
+falta, he naquella que menos se vè, quaes devem ser as criadas, que estas cõvem que sejão
+as cousas menos vistas da casa, ainda que não sejão as menos para ver. Certo que quando
+por mais não fosse que por atalhar os embaraços que ellas causaõ à familia, se podião ter,
+e usar com grãde [CG38r] moderação.
+Valìda especial de sua senhora não haja algũa, porque todas o possaõ ser no grao
+conveniente. Todas a amem, a todas estime; sejão todas suas criadas, seja senhora de
+todas; de nenhũa seja amiga, com nenhũa se mostre companheira.
+Certo que hei de contar a V. M. (contolha, não lha inculco) em segredo, hũa
+historia. Diziame hum grande Senhor muito discreto, e gentil politico: que assì como sua
+mulher se declarava em favorecer hũa criada mais [CG38v] que as outras, se era moça lha
+galanteava logo, até que a boa senhora, a puros ciumes, a lançava de seu serviço, ou pello
+menos de sua valia; e se velha, lha comprava com dinheiro, e merces, de maneira que
+tambẽ por sospeitosa a descompunha. Eis tudo revolto, e á vontade do marido. De sorte
+que com tal destresa se havia, que nunca víra a a sua mulher tres dias particularizarse mais
+com hũa criada que com outra. Tenho o por demasiada astucia, mas elle fazia muito caso
+[CG39r] desta treta. Fique dito, não aconselhado.
+
+Pois estamos aqui, digamos o que acerca de criados se offerece que advertir. Se for
+algũa cousa mais proluxo, saiba V. M. que de proposito me detenho, porque julgo este
+ponto por hum dos mais principaes á honra, e paz dos casados.
+Mulheres que saõ como o rio Nilo, a quem se não sabe o nacimento, e toda sua
+corrente, fugir, senhor, dellas, como dos proprios crocodilos, que dizem leva esse rio. Hà
+hũas que dão [CG39v] em ter Dõs; outras que se prezaõ de nobìlissimas (e praza a Deos
+que não seja por afinidade.) Muitas que se vendem por filhas bastardas de fulano, e fulano,
+as quaes (se o saõ) sendo mal criadas ao bafo das mãis, saõ pouco a proposito para boas
+criadas. Algũas que se introduzem por descasadas; algũas que se lhe forão hà tantos annos
+seus maridos para a India, e nada daquillo he seguro, e apenas he certo.
+Estas costumão ser discretas, musicas, comediantas, [CG40r] sabem fazer toucados
+estravagantes; bordadoras, costureiras, e como cevo das boas habilidades, enfeitição as
+senhoras, que mal advertidas de aquelles laços, que na aparencia se encobrem, caem
+facilmente em seus enredos; saõ as logo mimosas, e queridas; erguemse de repente sobre
+as mais; anda a casa revolta, e ainda este he o menor inconveniente. Contão historias a
+suas amas, mostrãolhe às vezes a facilidade de vencer hum impossivel; allegãolhe com
+casos [CG40v] passados; e finalmente saõ como sarna da honra, que sendo hũa ruim, e
+asquerosa doença, passa por gosto, e dana com graça à pessoa que a padece.
+Era para cuidar, se convinha servir de pessoas de grandes partes? Quando ellas
+fossem conhecidas, muito bom seria. Vemos cõtudo, que nestas há o maior perigo; porque
+a fortuna tẽ guerras apregoadas com a natureza: sempre hũa desfavorece a quem a outra
+favorece.
+Achou o com agudesa, [CG41r] e razaõ aquelle meu amigo, que escreveo: eraõ os
+quatro costados da doudice, a Musica, a Poesia, a Valentia, e o Amor; não porque tudo isto
+deixe de ser muito bom, mas porque por ventura por ser tão bõ, jà mais se concedem estas
+boas partes (e outras como estas) sem a pensaõ de hum juizo leve, as mais vezes arriscado,
+e não poucas defeituoso.
+Quando a mulher tenha desejos de receber em seu serviço pessoas assì
+semelhantes, opponhaselhe cõ [CG41v] suavidade seu marido. Façalhe entender que as
+rendas se vendem na Capella, os toucados se fazẽ no Paço, e tudo o que custa dinheiro he
+mais barato; que a troco de viver com receio, ou ocasião, nenhũa cousa he boa.
+Convem para criadas as filhas das que o forão, e que tem feito prova do amor, e da
+lealdade; as vassallas (quem as tiver) as vizinhas, e gente de antigo conhecimento; e todas
+
+de aquella esfera de gente, que sem vergonha de seu estado, [CG42r] póde, e deve servir,
+e de quem seus amos sem pejo, nem vaidade, pòdem, e devem ser servidos.
+Hũa casta de mulheres que há pelo mundo, que saõ entre hospedas, e recolhidas,
+tampouco levará o meu voto. Muitas senhoras folgão de valer a estas taes cõ a autoridade
+de sua casa. Não sou contra o bem fazer; mas incauta seria a piedade de quem tirasse do
+lume os carvoẽs acesos, porque se não gastassem, e os metesse no seio para que lho
+abrasassem. Todavia não he [CG42v] gèral esta regra, que póde pella prudencia do marido
+ser algũa vez dispensada.
+Contra a antiga modestia Portuguesa, introduzio o costume, que as criadas
+andassem no mesmo trajo que suas senhoras. Ajudãose de outra astucia, metendo em
+cabeça às pobres amas (a quem com taes persuadiçoẽs deixão mais pobres) que a honra de
+hũa senhora está em trazer suas criadas mais lustrosas que a si mesmo; e lhe apontão que
+veja a aquella, e aquelloutra, que não he tanto como ella, [CG43r] e veste as criadas tanto
+melhor que ella.
+Pòde assì acontecer cada dia, segundo a igualdade dos trajos, não se saber qual he a
+ama, ou a criada, com muito mais ocasiaõ do que dizem que a teve certo caseiro de hum
+fidalgo noivo muito mancebo, que entrando com hum presente na camara onde jazião seus
+amos, e não distinguindo qual fosse elle, ou ella (a quẽ as crenchas fazião semelhantes, e
+as barbas não dessemelhavão) perguntou simplesmente, qual dos dous [CG43v] era, ao
+serviço de Deos, o senhor noivo? porque a elle queria dar seu recado. Quãtas vezes
+puderão hoje outros mais praticos, vendo as senhoras, e as criadas do costume, perguntar
+qual era a senhora ama?
+O menor perigo que aqui há, he o excesso, e desordẽ do gasto; que comtudo he
+tamanho, que em verdade se se medir a ansia, e trabalho, em que vivem muitos amos para
+sustentar a vaidade de seus servos, que bem maior trabalho passaõ os senhores por serviço
+de [CG44r] seus criados, que os criados pello de seus senhores.
+Mas tornando ao fausto, e escusado adorno das criadas, mostra bem a experiencia
+os danos que este costume traz consigo. Ellas vendose assi magestosas, logo sobem de
+pensamentos, e tratão de aproveitar aquelle bom tempo, mostrãdose, e deixandose ver, e
+procurando haver por taes meios algum estado, que em sendo havido por ellas, e por
+aquelles meios, soe ser sempre bem ruìm.
+Seja o marido Almotacel, [CG44v] que taixe as galas de sua familia; às criadas
+consinta toda a limpeza, mas não toda a louçaìnha; differenceas o trajo, como o officio.
+
+Não se lhe chame damas, nem se lhe consintão galãteos: cousa moderna, e bem
+escusada. Fiquese essa permissaõ para a casa de el Rei, donde o medo do castigo, e a força
+do decoro, suprime a malicia, que algũa vez se desaforou tanto, que venceo o medo, e se
+rebelou contra o decoro.
+Em parentes de criadas [CG45r] muito solicitas (e tãbẽ em parentas) haja grande
+tento. Primos, e cunhados, que não forem muito conhecidos, fallem de fóra, e se não
+fallarem ainda darão menos em que falar. Curas que se vão fazer a casa de irmaãs, e de
+tias, saõ enfermidades. Visitaçoẽs, ainda com dòna velha á ilharga, tem seu risco.
+Amizades especiaes entre esta gente, saõ dinas de tento; segredos perpetuos
+induzem sospeita. Eviteselhe, que se chamem hũas ás [CG45v] outras cõ nomes que
+inventa a sua ociosidade, como: meu marido, minha avò, minha comadre; ou tambẽ:
+amores, cuidados, pensamẽtos; porque tudo isto, quando de presente não seja mao, he a
+meu juizo hum jogo de espada preta em que o vicio as exercita, para que despois as tenha
+destras para qual mais sanguinho desmancho.
+Mas nem por isso aconselho aos amos o que Machavelo aos Principes, a quem
+persuade revolvão os criados, para que não havendo [CG46r] algum que seja fiel ao outro,
+lho sejão todos a elle. Velese o casado quanto puder; porem não espere por ruins meios a
+concordia, que se não alcança (se se alcança) senão na casa pacifica, e concertada. Não
+quero pór em cerco estas mulheres, nem negarlhes o licito; apõto onde jaz o perigo, para
+que delle se desviem pello cuidado do senhor da casa, a senhora, e as criadas della.
+Sobretudo, convem que o senhor procure ser bem quisto de suas criadas, e
+[CG46v] as trate para esse effeito cõ a benignidade possivel; acuda por ellas na semrazão
+que lhes fizer sua ama, se lha fizer. Não se particularize por nenhũa; falle, e procure por
+todas. A liberalidade, pello menos a galantaria, ajuda a isso muito; dandolhes de quando
+em quando o que delle não esperão.
+Verdadeiramente, senhor N. que podemos affirmar, que assì como entre a cabeça, e
+mais partes do corpo humano, convem que haja grande conformidade [CG47r] para que
+vivamos com saude; assí tambem entre o senhor da casa, e os familiares della, convem que
+haja concordia, para que se possa viver com gosto, e quietação. E da mesma sorte, assì
+como os humores mais sutìs, e delgados, saõ os que primeiro se revolvem, e corrompem;
+assì as mulheres saõ as que primeiro dão causa a qualquer movimento; por donde he
+necessario viver com ellas muito regrado, porque se não destemperem, adoeção, e matem
+o contentamẽto.
+
+[CG47v] Agora peço eu a V. M. por premio do risco a que me puz em fallar tão
+livremente, que V. M. lea, e guarde sò para sì estes avisos; porque por mais que o meu
+estado seja jà isento dos perigos de sua indinação, todavia os passados danos fazem como
+ainda agora tema, e as tema.
+Pello que tenho dito das criadas, se podem tirar algũs documentos para os criados.
+A primeira observação acerca delles, seja que a nenhum se trate de maneira que à sua
+propria senhora [CG48r] dé cuidado: cousa que, não poucas vezes acontece. Quando este
+favor he indiscreto, cuidão as mulheres que os criados servem a seus amos em ruins
+officios; e partìcularmente se cãsaõ com aquelles da antiga obrigação dos maridos, como
+antigos obreiros de suas mocidades.
+Se tal sucedesse, seja o casado facil em persuadir sua mulher, que atroco de que
+viva satisfeita, lhe serà leve desviar de sua valia, e ainda de sua casa, esse criado. E façao,
+se convem, [CG48v] porque neste caso a resistencia he constelação das contrarias
+sospeitas. Eu fico que a bem inclinada, e amante de seu marido, se contente com saber lhe
+he possivel despejarse de aquelle enfadamento, quando lhe poem em sua eleição o
+remedio.
+Sucede muitas vezes às mulheres, o que aos potros que melhor se governão quando
+lhes dão a redea e cuidão que podem hir à sua vontade, que quando lha recolhem, e
+mostrão que vão à vontade alhea.
+Não he cura para a [CG49r] mulher a raiva, e asinte; e assì se deve usar com ellas
+de brandura, e cortezia. Se admitissemos para entre os casados algum artificio, dissera ser
+boa regra para a mulher, mostrarlhe que com o marido podia tudo, sem que pudesse
+realmente, mais do que fosse razão.
+Saiba, todavia, a mulher sisuda, que deve honrar a quem seu marido honra; e o
+homem honrado, que a ninguem deve dar azo que a sua mulher perca o respeito.
+[CG49v] Não se nega que a hum, e a hũs criados possa ter o senhor melhor
+vontade, segundo o que cada qual se avantejar em serviços, e merecimentos. A regra géral
+deste negocio he, que de se favorecer o criado que muito merece, ninguem se escãdaliza;
+de ver acrecẽtar sem ordem a aquelle, que todos conhecem por inutil, todos sospeitão mal.
+Isto he nos Senhores, isto nos Grandes, isto nos Reis.
+A escolha de criados, sendo sempre necessario que se faça com consideração,
+[CG50r] o he mais para a casa dos casados. Os que se prezaõ de valentes, saõ ruidosos; os
+musicos, inquietos; os namorados, infieis; os lindos, impertinentes. Homens limpos, bem
+criados, amigos de honra, saõ a proposito; e estas suas melhores partes.
+
+Taxe o numero à fazenda (como já das criadas se tem dito.) A razão pede hũa
+continua igualdade na casa do homem sisudo. Nesta parte dispensàra facilmente, quando a
+ocasiaõ requeresse contra a igualdade. Bodas, filhos, cargos, alegrias [CG50v] publicas,
+pedem ventajem na familia; que tampouco passado aquelle tempo seria deffeito
+aguarentalla, e o seria passar por estas cousas, sem algum novo luzimento; porque o
+mundo, com quem vivemos, como tomou o sabor dos pensamẽtos dos homens, não julga
+aquella temperança por prudencia, senão por avareza.
+Lembrame acerca disto hũa cortezanìa. Acheime em hũa Corte ao tempo que hum
+Rei mandou certa embaixada ao Emperador. [CG51r] Era prudentissima a pessoa que a
+levava, nada quiz crecer no esplendor de sua casa. Notavase por culpa esta medianìa entre
+os ministros. E porque el Rei expedira o negocio estando doente, dizião os travessos: que
+S. Magestade mandava em seu nome aquelle Embaixador de tal maneira, por haver feito
+voto de hir descalço a certa casa de devação em Alemanha, se Deos lhe desse saude.
+O mesmo que do numero, direi do trato. O interior, e das portas a dentro, [CG51v]
+sempre convem que seja sufficiente. A gente de não grandes pensamentos, nada tanto a
+satisfaz como o bõ pasto, que he felicidade, ou trabalho que padecem duas vezes ao dia: o
+exterior das portas a fora, por que entendo o vestido, póde (como jà disse) segundo os
+tempos, crecer, ou minguar.
+Particularizando mais este ponto. Tenho por grande prudencia o dar tinello aos
+solteiros; comem, e andaõ limpos. O dinheiro he ocasionado; jogão, e o gastão mal,
+despois padecem. Este [CG52r] he o perigo dos que saõ grãdes; e o dos pequenos, digao o
+que aqui dizia hum fidalgo cortezaõ (và por cõto da chuminè:) que nunca tivera pagens
+sem sarna, senão despois que dera em os fazer dormir na cama com as dònas de sua
+mulher.
+Mas que seja tornar a isto. Contavame hum grande Prelado de certa Religião mui
+reformada: que sempre trazia os seus frades famintos, porque não cuidassẽ em outra cousa,
+senão em comer melhor. Os criados se devem tratar às avessas, [CG52v] porque em
+andando bem mantìdos, saõ melhores os seus pensamentos.
+Temos assentada a familia; e posto ao casado sua casa. Digamos algũa cousa da
+mulher; e despois apõtaremos como deve usar de tudo.
+Meu animo (segundo já deixo dito) não foi aconselhar como deve casarse: que o
+acerto de V. M. me livrou desse trabalho; podendo por esse exemplo aconselhar a todos
+como era bem que casassem, se forem tão venturosos que assí possaõ.
+
+[CG53r] Para o que jà casou, e suppomos bem casado, he que ajuntamos aqui estas
+advertencias.
+Perguntou alguem algũas vezes, se seria licito deixar usar a mulher propria de
+aquellas boas partes de que a dotou a natureza: como o cantar, o dançar, e ainda o fazer
+versos, e outras semelhantes prerogativas, que em algũas se achão, e em muitas pudèra
+haver, se o receo as não suprimisse.
+Certamẽte, que se V. M. me fizera esta pregunta, me [CG53v] vìra eu em grande
+enleio; porque o aniquilar em qualquer pessoa as perfeiçoẽs que Deos lhe deu, impiedade
+parece; fazerlhas exercitar naquelles limites que a prudencia requere, parece impossivel.
+Dizia a este proposito a Princesa de Roca-Sorion em França, que foi discretissima,
+e não bem casada: Que das tres potencias com que entràra em poder de seu marido, duas
+lhe tomàra elle, e lhe deixára hũa sò, que ella lhe dera bẽ facilmente. Porque nem a
+[CG54r] potencia do entender, nem a do querer tinha jà; e sò lhe ficára a memoria de que
+as tivera em algum tempo, para sentir mais a pena de se ver agora sem entendimento, nem
+vontade.
+De todas as graças das mulheres, a graça he a que tenho por mais perigosa; porque
+para se usar della, necessita de menos aparelhos: sendo, a meu juizo, esta graça a mais
+perigosa desgraça.
+Cantar a mulher a seu marido, e filhos, se os tẽ. cousa parece licita, e o seria
+[CG54v] o dançar algũa hora na sua camara, em quanto a idade lhe permitisse essa alegria.
+Não louvo o trazer castenhetas na algibeira, saber jacaras, e entender de mudanças do
+çarambeque, por serem indicios de desenvoltura.
+Mas aquillo de ser engraçada, e aguda na visita, na igreja, no coche, e no Paço, tras
+grandes inconvenientes consigo, e dificilissimos de atalhar; porque das cousas a que se
+segue aplauso, bem ou mal ganhado, ninguẽ se arrepende.
+[CG55r] Velese disso seu marido; e se com ella acabar a emẽda, crea que fez
+muito; porque deste mal nunca vì a nenhum doente convalecido.
+Somos entrados na maquina dos costumes da Corte, senhor N. Em grandes receios
+estou que comece a não saber o que digo, se jà o não tenho feito.
+Quem dará termo a visitas, a merendas, a jogos, a romarias, a camaradas, a
+comadres, a amigas? Viralhes eu termo, e fora dado por quem fora.
+[CG55v] Senhor, hà hi hũas cousas, que não saõ boas nem mâs; e sò as faz boas,
+ou más o costume. Hà outras, que de si não saõ boas, e por mais que se costumem, sempre
+saõ màs. Há outras que sao ruins; mas que o costume as tem já feito sofriveis. Folgàra eu
+
+muito que V. M. pois he discreto, me dera por adivinhado, sem me fazer declarar quaes
+saõ hũas, e quaes outras, que eu declararei por muito cõmuns exemplos.
+Quero lisongear as mulheres. O uso dos seus guarda [CG56r] infantes, e cousas
+desta maneira, ponho entre aquellas, que de si não saõ màs, nem boas, e o costume lhe dá
+o ser, ou lho tira. Eu vi andarem as Francesas com semelhante trajo, a que então chamavão
+verdugadins; parecerem muito bem; e não lhe ser estranhado. Despois as vi sem elles, e
+parecerem da mesma sorte. Quando estas cousas se usaõ, se estimão dignas, e quando não,
+se estimão indignas. Póde mais ser: Eu tenho na minha livraria hum livro feito por
+[CG56v] Alonso Carrança contra as guedellas, de que diz cousas abominaveis; e tenho
+outro feito por Pedro Mexia, em que não cessa de chorar o ver os homẽs trusquiados. A
+razão disto he o uso, que no tempo de hũ costumavão os cabellos grãdes, e parecia vicio, e
+abuso raparemse os homẽs; e no de outro costumavão cabellos razos, e parecia
+deshonestidade trazeremse crecidos. Estas taes saõ as cousas, que não sendo más nem
+boas, o uso as faz boas, ou más.
+[CG57r] Em Flandes (e mais em Alemanha) he acto de galantaria, singeleza,
+amizade, e boa lei, beberem os homẽs tanto que perdem seu juizo. Mas este tal costume,
+não póde desmentir, nem honrar o vicio que há nelle; porque aquella demasia he de seu
+natural injuriosa.
+Os antigos quebravão o jejum com qualquer outra cousa que comessem fóra de
+aquella hora, em que lhes era permitida a refeição. Veio o uso, e fez consoar, e pode tanto
+que ficou por bõ [CG57v] uso. Aqui ajuntamos as consoadas do Natal; e por não hir mais
+longe, os meudos de Castella, que tudo foraõ introduçoẽs, sem algũa concessaõ, ou direito;
+porem jà calificadas pello inalteravel consentimento, se fizerão toleraveis, e perdèrão o
+nome de vicio.
+Eis em bem claro modo, os tres modos do poder do costume. Mas deixemolas com
+os seus guarda infantes, que elles viraõ a ser maos (se agora ainda o não saõ) como ellas
+acharẽ outro trajo de que cuidem [CG58r] as faz mais airosas. Deixemolas com suas
+visitas, romarias, e jornadas; que ainda que não era bom, já o uso lhe cõmunicou seu
+privilegio. Porem jogos excessivos, banquetes descompostos, vindas fóra de horas,
+amizades com profia; as comprendidas (se as hà) dem licença, porque eu me resolvo a
+dizer a V. M. e a todo o mundo, que estas taes saõ de aquellas cousas que nenhum uso
+póde fazer decentes.
+Conhecẽdose que he mai, procurelhe o marido cedo o remedio, [CG58v] antes que
+se aposse da pessoa. Consiste na ociosidade, e apetite; trate de dar remedio á ociosidade,
+
+ocupandoa no honesto trabalho do governo de sua casa; e ao apetite, encaminhãdolho a
+outro emprego de mais honra, e proveito; qual seria, que tenha apetite de viver em paz, e
+confiança com seu marido, certificandoselhe que de outra maneira lhe serà impossivel.
+Ouvi jà dizer a hum Principe, fallandolhe hũa pessoa de grande respeito [CG59r]
+por hum criado, a quem aquelle Principe havia descomposto: Deixai o, deixai o estar em
+minha desgraça, que primeiro que o castigasse cõ ella, lhe roguei muito que me tomasse
+por amigo entre os mais por quem me deixou, e nunca quiz senão deixarme por seus
+amigos.
+Este tal requerimento deve com mais razaõ fazer o marido a sua mulher, e quando
+ella não convenha nelle, outro tal castigo lhe merece.
+He cousa rija, que a senhora de casa, de tudo seja [CG59v] amiga, senão de sua
+casa; como acontece a aquellas, que ou perdem a casa, porque nunca estão nella; ou
+porque o estar nella as ajuda a que a lancem a perder.
+Disse que seria bom ocupar a mulher no governo domestico; e he bom, e he
+necessario, não sò para que ella viva ocupada, senão para que o marido tenha menos esse
+trabalho.
+Cousas tão meudas não he bem que pejem o pensamento de hum homem; e para os
+da mulher saõ muito [CG60r] convenientes. Pergũto: Não se rìra V. M. se víra hir hum
+elefante carregado cõ hum graõ de trigo na tromba? Si por certo; e logo louvára a Deos se
+o visse levar no bico a hũa formiga. Diz bẽ por isso o rifaõ: Do homem a praça, da mulher
+a casa. Os maridos que em tudo querem mandar, saõ dignos de reprensaõ, igualmẽte aos
+que não querem mandar em nada.
+Emfim, senhor N. fique àssentado, que o gasto ordinario convem que se entregue à
+mulher pella contentar, [CG60v] pella ocupar, pella confiar, por lhe dar aquelles cuidados,
+por lhes desviar outros.
+Se o faz como he razão, que maior ventura? Fará conta o marido que achou hum
+criado tão bom como elle, e tão fiel, que o serve de graça. Se o faz menos bem; ainda he
+mal bem toleravel. Quanto melhor serà que o desaproveite a mulher que não o criado? Que
+ella sempre errará contra sua vontade, ou pello menos com vergonha; e o criado pòde ser
+que muito por sua vontade, [CG61r] e sem nenhum pejo, desacerte.
+As casas da gente ordinaria soem ser melhor governadas; porque infalivelmente
+guardão esta regra: hum traz, outro aproveita.
+Dissera eu, que á mulher se entregasse hũa tal porção de dinheiro, que pouco
+excedesse o gasto quotidiano. Não por exercitar com ella algũa avareza; porem porque
+
+tenho por sem duvida não convem às mulheres demasiado cabedal. Costumaõ gastar sem
+ordem [CG61v] aquellas que sem ordem recebem.
+Digalhe o marido, que elle se offerece para seu escritorio, que acuda a elle quando
+lhe falte o dinheiro, como pudèra a hũa gaveta de seus contadores; e façalho assí certo.
+Leve a pella vaidade de grande governo; mostre espantarse do muito a que chega sua
+industria. Não se vé o bom alfaiate donde há muito pano, nem o bom cocheiro nas ruas
+largas. Eu fico que se a mulher he gloriosa, para o seguinte mez gaste [CG62r] hum terço
+menos.
+Para que lhe não seja molesto o pedirlhe contas, délhe contas seu marido de aquillo
+que gasta, e corre por sua conta. Mostrarlhes confiança, as obriga a que fação o mesmo.
+Estas contas de fazenda entre casados, não seria eu de parecer que jà mais se
+ajustassem, nem levassem ao cabo; seja sò reconhecimento, que na mulher haja ao marido.
+Tirase de aqui hũa grande conveniencia; a qual he, que a mulher està sempre como que
+não he senhora [CG62v] disso mesmo que possue. Igualmente convem que gaste a medo,
+e goze a medo; mas jámais seja despojada do que logra; porque então agradece, como que
+lhe derão, aquillo que lhe não tiraõ.
+Agora inventou a cautela outras cautelas, contra esta boa politica: ajustandose logo
+nos contratos do casamento (especialmente entre pessoas poderosas) os elementos que hão
+de dar os maridos a suas mulheres, durando o matrimonio. A quem o prometeo assî,
+acõselharei [CG63r] que o satisfaça; a quem o não prometeo, aconselharei que o não faça.
+Não he, a este proposito, pequeno o inconveniente que hà quando se casa com filha
+herdeira; as quaes cõ maior razão pretendem ser senhoras do que he seu, e ter na
+governança de seus bẽs maior mão que seus maridos; donde lemos haver algũas discordias
+entre o Rei Dom Fernando, e Dona Isabel. Quando a mulher tal pretendesse, certifiquea
+seu marido, que quem he senhor da pessoa, e da vida, [CG63v] o he tambem da fazenda.
+Quem deu hum anel de diamantes em hũa caixinha de veludo, que não desse tambem a
+caixa, como deu o anel?
+Não hâ para que me detenha no modo de vestirse; vistase conforme sua idade,
+mudese com ella. Temse nisto respeito aos filhos, á saude, ao gosto, à presença, ou
+ausencia do marido, e tambem a idade delle. Se o ouvessemos de regular parece que atè os
+tres filhos, e atè os vinte e cinco annos se permite toda a gala. [CG64r] E ainda nesse
+mesmo tẽpo tenha suas crecentes, e minguantes; que nos mesmos altares de Deos se
+mudão as cores, e adornos, e vez hà em que se mostraõ tristes. Avorrecẽme hũas maias
+muito enfeitadas, sempre de bordados, e joias, que parecem Fama de procissão, ou Raìnha
+
+Moura de comedias. Seja mais confiada em sì a fermosura, se saõ fermosas; e mais
+reportada a fealdade, se saõ feas.
+Dizia hum marido galante a sua mulher destas [CG64v] muito arraiadas: que em a
+vendo de aquella sorte, lhe fazia mais devação que amor; porque aquelle seu andar, não
+era andar vestida, senão revestida.
+Outras há, que saõ hũa perpetua pastilha, e hũa caçoula perene. Muito conforme
+cousa he com ellas o cheiro; mulheres, e perfumes, tudo saõ fumos. E se elles fossem bem
+adubados da discrição, eu fico que recendessem mais ainda. Confesso que nunca fui
+desafeiçoado ao concerto das casas, e das pessoas, como por [CG65r] concertallas se não
+desconcerte. Lembrame haver ouvido, e lido (tudo conto com pouco aplauso meu) do
+Emperador Dom Fernando o Segũdo, pai do que hoje impera (se elle impera) que, não
+quiz dormir em hũa camara, porque lha tinhão perfumado. Se foi achaque de natural
+repugnancia, he desculpavel; se não mais que hombridade, não vi eu maior impertinencia.
+Hà quem diga que foi religião; porque dizem tinha Dom Fernando para sì, que os cheiros
+erão sò devidos a [CG65v] Deos. Do nosso Rei D. Sebastião tambẽ contão, não ser muíto
+caroavel de cheiros. Não sei como isto he! porque como eu sẽpre ouvi chamar reaes a
+todas as cousas boas, cuidava sermos obrigados a crer, que todas as cousas boas eraõ
+reaes; erão digo aceitas, e dignas dos Reis. A experiencia mostra algũa vez que esta regra
+não he infalivel. Com tudo se tem por certo sinal de hum bom espirito, ter inclinaçaõ para
+todas as cousas boas. Não sei se nestes perfumes das mulheres [CG66r] entrão tantas
+filosofias; mas ainda que não sejão virtude, contentemonos com que não sejaõ vicio.
+Direi dos regallos, doces, e conservas o mesmo; se bem estes generos, como mais
+necessarios, por razão da saude, da caridade, e da grandesa (que tudo he necessario) não
+devem faltar nunca, como por acudir a elles se não falte a outras cousas mais necessarias.
+Com tudo me parece conveniente deixar cevar (digamolo assì) as mulheres nestas
+[CG66v] suas curiosidades femeais: serem prezadas de melhor marmelada, boas caçoulas,
+consoadas pontuaes, lavores exquisitos, pano delgado, e cousas semelhantes; que
+verdadeiramente as que se enfrascão nestes negocios caseiros, não lhe lembrão outros, e
+este he louvavel.
+Debaixo da mesma lei comprendo os adornos, e alfaias de casa, julgando a hũa
+excellente ocupação a da senhora, que dellas trata; e a seu marido louvarei muito, que em
+tal exercicio a ajude sempre. Honraõ, [CG67r] alegrão, servem; e em fim he thesouro que
+se faz para as filhas, e em que se ganha às vezes mais que em mandar encomendas à India;
+
+porque para levantar o falso testemunho de hum dote de tantos mil cruzados, não há
+reposteiro velho, nem tapete que não valha a cento por cento.
+Visitas que se fazem, e que se recebem, he hum largo pègo. Jà atraz deixo tocado
+nisto, mas não á minha vontade. Muito havia aqui que advertir, mas nẽ tudo he para papel
+e tinta. [CG67v] Por certo que não deixarei de contar o que me contava hum homem
+discreto, e não bem casado, que havendome dito muitas queixas de sua mulher, rematou
+com esta por fim de tudo: E vè V. M. isto? pois o que mais sinto della, he ser muito bem
+quista. E de verdade as muitas amigas he cousa para dar cuidado, porque nem todas podem
+ser como haõ de ser, as amigas.
+Hũa cousa que antigamente entre as amigas se chamava pucaro de agoa, [CG68r]
+passou a ser merenda, e de merenda a banquete; e de banquete tem já subido a tanto, que
+se lhe não acha nome, ou pello menos não lho eu dar. Não sei como seja boa amizade,
+andaremse destruindo as amigas hũas ás outras, empenhando as casas com excessos,
+desgostando os maridos com petiçoẽs impertinentes, de perigoso, e de impossivel
+despacho. Se esta demasia se encaminha a mostrar amor, certamente indigna he a amizade
+que tem a gula por seu fim; se a ostentar [CG68v] grandesa, como se pòde conseguir a
+grãdesa pelos meios que se alcança amizade, que entre todos os porque se alcança, nenhũs
+saõ tão proprios como o gasto desordenado?
+Havia adoecido hum fidalgo de pena de se ver empenhado sem proposito, pellos
+despropositos com que sua mulher gastava o que não tinha; e como, estando com grandes
+febres, visse em casa hum prato de cidraõ molle, com que a pesar de sua careza, a mulher
+se servia de ordinario nestes seus [CG69r] convites, dizem que disse o pobre doente:
+Daime cà aquelle cidraõ, que o quero comer todo. Requerialhe a mulher que tal não
+fizesse, porque o cidrão era fogo para quem se achaa naquelle estado. Respondeo então:
+Bẽ sei que he fogo, que bem abrasado me tem; mas deixaime ver se acaso tem o cidraõ a
+virtude do cão danado, cujos cabellos, se os poẽ na mordedura que elle fez, dizem que a
+sara logo. Nẽ andou menos discreto hum criado, que perguntandolhe certa pessoa, que
+fazia seu [CG69v] senhor, porque o queria ver? elle lhe respondeo agudamẽte: Meu amo
+não està para ver, porque o està merendando minha senhora com as senhoras suas amigas.
+Faça o marido de quãdo em quando hũa estação a sua mulher; amoestea, que nẽ no
+seu estrado, nem em o alheo apóde ninguem; cousa muito certa, e de que as apodadas,
+sendo mulheres, se cansaõ assaz e tambem apòdão; e de que, se homẽs, logo lanção mão
+para queixas, ou agradecimentos. Que não desẽróle os cuidados [CG70r] alheos, se fulano
+olha, ou se passea a fulana. Parece cousa impropria, que hũa senhora que não he bẽ que
+
+saiba mais que de sî, e sua casa, traga registados os pensamentos do outro. Nunca a algum
+homẽ dos do lugar em que viver, louve, ou injurìe. He nas mulheres este diverso effeito
+(de ordinario) procedido de hũa propria causa. De aquelles de quem muito mal se diz, e de
+aquelles de quem muito bem se conta, julguei sempre hum igual misterio; e foi o pior, que
+[CG70v] nũca me enganei nestas sentenças. Deve ser a pratica das mulheres, do seu lenço
+de amostras, do ruim tempo que vai para curar pastilhas, queixarse das criadas, e ainda
+para que se queixem dos despegos de seus maridos, lhes dou licença; mas que lhe
+levantem falso testemunho.
+E porque sei que hão de pedir maior comarca para sua conversação, me parece que
+lhes podemos conceder, que possaõ até estranhar o bem ou mal feito vestido que traz Dona
+fulana; e quãdo [CG71r] muito, chegar a não lhe parecer bem as cores, de que o betou,
+com tanto que lhas não interpretem.
+Torno às amigas, e reparo muito, que em nosso bõ Portugues, com muita razaõ, de
+amigas a imigas quasi não vai differença. Sou tão ruim, que creo que muito mais dano
+fizerão amigas no mundo, que inimigas. E assì costumo eu a dizer, que aos homẽs perdẽ
+seus inimigos, e às mulheres suas amigas.
+Tenhase que devem ser as melhores; e estas não [CG71v] tratadas com porfia;
+basta que seja sem artificio. E esta tal amizade assento eu entre especialidade, e
+comprimento. Isto com as mais amigas.
+Trouxenos Deos agora (com todo o mais bem que veio a este Reino) hum novo
+Paço, e Corte; e porque da do tempo passado nos não lembramos os que vivemos agora,
+mal poderemos governar estas acçoẽs por aquellas antigas. A Corte Portuguesa era bem
+frequentada, bem galante, e bem luzida, mas de grande recolhimento.
+[CG72r] As idas ao Paço saõ devidas, justas, e boas; as vezes devem de ser
+contadas. Nacimentos de Infantes, bodas, festas de entre anno, achaques de Principes, sua
+saude, novas notaveis, e pouco mais que isto. O ir sò, não he elegante; seja a companhia
+sempre boa, mas não de pessoa maior (salvo a primeira vez) cuja autoridade some o
+agasalho, que cada hum deseja de achar na graça dos Reis, em suas casas, e em as de
+qualquer hospede.
+[CG72v] Acontece que muitas mulheres, muito para isso, começão a cobrar
+(vaãmente) fumos de bem vistas das Rainhas, e Princesas; a que sem algum fruto se segue
+grande inquietação. E sucede mais, que para dourarem sua ligeiresa, se haõ com os
+maridos como dizem que fazem os negros dos mercadores, que em indo por donde
+querem, tapaõ a boca aos amos cõ dizerlhes, que forão ouvir Missa. Vẽ muitas vezes a ser
+
+o licito capa, e manto do ilicito. Com achaque de que vão ao [CG73r] Paço, se gasta o
+tempo em ociosidades; e a casa se desgoverna.
+A mulher principal bastalhe que a sua Rainha a conheça. Em melhor conta a terà
+quando vir o siso com que procede, as poucas vezes que a vir. O correo extraordinario a
+todos alvoroça, quando chega; o correo ordinario vai, e vem, sem ninguem fazer caso
+delle. As pessoas de fora do serviço dos Principes, he custosa, e arriscada a pretẽsão de seu
+favor. Punha hũ grande Cortesaõ o servir [CG73v] às damas, e aos Reis, cõ o uso do
+limão, e da laranja: que o limão quer que o apertem muito, e então dá melhor çumo; a
+laranja se quer espremida muito à de leve, porque logo amarga em se apertando. As
+Damas querem ser assistidas; os Reis vistos â boamente. Por isso já disse alguem, que os
+Principes, e o fogo, se querião tratados de longe, porque perto queimão, e longe alumião.
+Ser mui pontual emu todas as festas, certo que he grande fadairo. Aquellas [CG74r]
+das Igrejas, que entre nós saõ mais frequẽtes, ninguem pòde duvidar que seja licito acudir
+a ellas; mas nem todas as cousas licitas saõ sempre convenientes. Deselhe confiança
+bastante à mulher para crer que póde ir a todas as festas, mas cõ amor, e cortesia se lhe
+mereça que não vá a todas.
+De hũa que não lhe escapava alegria, em que se não achasse, dizia hum: A senhora
+fulana pena em gloria. Porque verdadeiramẽte parece hum novo genero de Purgatorio não
+haver [CG74v] festa, donde a mulher naõ queira ser presente. Pergũtavão a hum casado,
+donde fora sua mulher à missa; e elle dizia: Donde ouvir charamellas. Eu conheci em
+Castella hũa titular velha, e graciosa, e por estremo honrada, que quando se metia no
+coche, e lhe preguntava o cocheiro, a donde? respondia: A donde huviere más gente.
+Ora jà que vou tão meudo, heime de aventurar hũ pouco mais; servirà de alegrar a
+malencolia, que até aqui guardàmos. Senhor [CG75r] N. não sou de cachorrinhos
+enfeitados, que sempre tem nomes misteriosos. Jà me sucedeo em hũa Igreja virme
+perguntar hum pagem esbaforido, se vìra eu por alli o Cuidado da senhora Dona fulana,
+que andava perdido; e perguntando, qual era o cuidado de aquella senhora, que pudera
+bem ter outros, achei que era hum cachorrinho de aquelle nome. Papagaios, saguins, saõ
+praças mortas, mui escusadas, e que as mais vezes induzem ligeiresa. Senhor meu, os
+mineiros pellas ervas, pellas [CG75v] flores, que dà a terra cà por fóra, conhecem logo
+qual tem ouro là dentro, e qual não tem ouro. Tanto podem os sinais exteriores.
+Vou estando tão impertinente, que nem passaros hei de deixar. Ruisenhol de todo o
+anno, que canta de noute, e dizem logo que faz saudades, de que serve? De que servem
+saudades estando o marido em casa? Não convem que haja saudades neste tempo, nem que
+
+se conheçaõ. Negrinho, negrinha a que se digaõ requebros; engeitadinhos graciosos,
+[CG76r] villoẽs simples (que às vezes não saõ simples) vestidos de cores, que se chamaõ
+Dons fulanos, entrão, e vão por donde querem, não quizera eu que entrassem, nem fossem
+por casa de V. M. Tudo isto na minha mà opinião he reprensivel; e folgara de o ver longe
+das portas de meus amigos.
+Juro a V. M. que toda a vida me enfadárão as damas dos livros de Cavalerias,
+porque sempre as achava acompanhadas de cachorros, de leoẽs, e de enãos. Taõ inimigo
+sou destas [CG76v] taes sevandilhas, que nẽ em livros mentirosos as sofro; veja V. M. que
+será nas cousas verdadeiras? Mas o que he humor, ou capricho meu, não he razaõ que se
+assente por regra géral. Seja advertido para quem tiver outro tão mao gosto.
+Os Castelhanos celebraõ muito as mulheres caseiras, que tratão do serviço de suas
+casas. Verdadeiramẽte elles as festejàrão tanto, porque colhem lá dellas tão pouca
+novidade, que vem a ser novidade o achar là hũa [CG77r] destas mulheres. Com tudo ouvi
+da Rainha D. Margarida de Austria (mãi de elRei Dom Felipe que hoje reina) bordava ella,
+e suas Damas, mandava vender sua obra, e aplicava para regalos das Freiras da
+Encarnação seus ganhos, e cabedais. Ou como, por melhor exemplo, dizem que faz hoje o
+mesmo a Rainha nossa senhora, imitando as nossas antigas Princesas, entre as quaes foi
+neste virtuoso exercicio sinalada a Rainha D. Caterina, tia da Serenissima Rainha nossa
+senhora, [CG77v] de quem se diz se dava tão bem neste honesto, e piedoso trato, que
+enriquecia os mosteiros pobres do Reino; dos quaes muitos guardão todavia singulares
+adornos, ou feitos por mãos daquella santa Princesa, ou ganhados pello trabalho dellas.
+Não cansa a minha Margarida de Valoes, Rainha que foi de França, e Navarra.
+Chamolhe minha pella grande affeição que tenho a seus escritos; e porque foi, a meu juizo,
+a mais discreta mulher de nossos tempos; cujas acçoẽs [CG78r] de muitos calumniadas, eu
+espero brevemente defender no meu Theodosio. Não cansa, digo, esta entẽdidissima
+senhora de encarecer o bem que lhe pareceo ver desabotoarse a Cõdeça de Lalaim, estando
+á mesa com a propria Rainha, e dár de mamar a hum filhinho seu, que a seus peitos criava.
+Gaba a Francesa grandemente aquella caseira acção da Condeça, e diz: que nunca teve
+enveja a feito de mulher, como a aquelle.
+Há hũas mulheres idolos, que ou saõ inutilissimas, [CG78v] ou se prezaõ de o ser;
+e sò lhes parece que nacèrão para ser adoradas; e disso sò querem servir. Ora eu me
+contento com que não fação mais de hum serviço em suas casas. E seja este. Sirva a
+mulher de ser senhora de sua casa, satisfaça as obrigaçoẽs deste seu officio: que assaz fará
+de serviço a sua casa, a seu marido, se o fizer como deve.
+
+Como o tomará V. M. se disser mal das varonìs. O senhor N. eu me fundo em
+razaõ. Se eu tivesse por certo que o grande coração da [CG79r] mulher se ouvesse sempre
+de ocupar bem, bem lho sofréra; mas em duvida tenhão medo de hum rato; desmaiẽse em
+vendo espada nua; hũ trovão seja para ellas hum dia do juizo. Criou as Deos fracas, sejão
+fracas; oxalà fação o que saõ obrigadas, não lhes quero pedir mais que sua obrigação.
+Já sei que desta vez ficarão de todo mal todas comigo. Não quizera discorrer pelo
+seu entendimento, nẽ dar regras a cousa que serve de dar regra ás outras cousas; mas pois
+me atrevi [CG79v] a offerecer preceitos sobre o amor, que he ainda affeito mais livre, não
+temo jà de os dar para o entender.
+Hei de estranhar por força hum dito de aquelle nosso tão nomeado, e tanto para
+nomear, Bispo Dõ Affonso, que dizia: A mulher que mais sabe, não passa de saber
+arrumar hũa arca de roupa branca. Nem sentirei melhor do outro que affirmava: Que a
+mais sabida mulher, sabia como duas mulheres.
+Sou de muito differente opinião, e creo certo há [CG80r] muitas de grande juizo,
+vi, e tratei algũas em Espanha, e fóra della. Por isto mesmo me parece que a aquella sua
+agilidade no perceber, e discorrer, em que nos fazem ventagẽs, he necessario temperalla
+com grande cautela.
+A este seu juizo não se pòde pòr lei algũa; aos exercicios sí. Como se agora a hũ
+homem fosse dada hũa navalha de finissimo aço, para que fizesse hum feito ruim; mas
+estando ella ainda em tosco, aquelle que lhe escondesse a pedra em que a que[CG80v]ria
+afiar, fizera o mesmo que se lha tirasse da mão, e escusasse o maleficio.
+Assi, pois nos não he licito privarmos as mulheres do sutilissimo metal de
+entendimento, com que as forjou a natureza; podemos, se quer, desviarlhe as ocasioẽs de
+que o agucem em seu perigo, e nosso dano. Façamos, senhor N. o que podemos.
+Nos cuidados, e empregos dos homẽs não se metão as mulheres: fiadas em que
+tambem tem como nòs entendimento; e em que a [CG81r] alma não he macho, nem femea,
+como algũa em seu favor alegava. Mas saibão os maridos que nem por esta taixa, que lhes
+ponho, he justo que a mulher sisuda deixe de dar a seu marido, modestamente, seu
+parecer; nem deixa elle de ser obrigado a lho pedir.
+Não cuide V. M. que me contradigo, ou arrependo do que tenho escrito; declarome
+com hum bom semelhante. Seja a mulher como a mão do relogio, e o marido seja o
+relogio. Apõte ella, e soe elle. Hum mostre, [CG81v] outro resolva; que andando desta
+maneira temperado o relogio, todos o crẽ, todos o tem por oraculo. Não só se concerta a sì
+
+mesmo, mas faz andar aos outros concertados. E ao contrario, se se desconcerta, tambem
+aos outros.
+O, como folgo de ver hũa mulher ignorar aquillo que não he razaõ saber! mas que
+verdadeiramente o saiba. Acho grande perfeição quando errão aquellas cousas que lhe
+podião pór imperfeição se as acertassem.
+[CG82r] Entenda a mulher como mulher; seja tal sua lição quando ler. Sua pratica
+quando praticar; e tal o mesmo que se lhe ler, e que se lhe praticar.
+Pois comecei cõ os meus adagios, hei de acabar com elles. Ouvi hum dia
+caminhando, e não era elle menos que a hum chapado recoveiro (veja V. M. que engeitei
+os Filosofos, para citar estes autores) emfim ouvilhe, que Deos o guardasse de mula que
+faz him, e de mulher que sabe latim. O rizo, e gosto com que [CG82v] lhe escutei esta
+engraçada sentença me faz agora lembrar della; não se julgue por indecente, se he
+proveitosa. O ponto está em que o latim não he o que dana; mas o que consigo tras de
+outros saberetes envolto aquelle saber.
+Jà que estou ao fogo, e como desde este lugar fallo a V. M. e V. M. me ouve, e me
+perdoa, irá outra naõ peor historia. Confessavase hũa mulher honrada a hum frade velho, e
+rabujento; e como começasse a dizer em latim a confissaõ, perguntoulhe o cõfessor:
+[CG83r] Sabeis latim? Disselhe: Padre, crieime em mosteiro. Tornoulhe a perguntar: Que
+estado tendes? Respondeolhe: Casada. A que tornou: Dõde està vosso marido? Na India
+meu Padre (disse ella.) Então com agudesa repetio o velho: Tende mão filha; sabeis latim,
+criastesvos em mosteiro, tendes marido na India? Ora idevos embora, e vinde cà outro dia,
+que vòs he força que tragais muito que dizer, e eu estou hoje muito depressa.
+Tomára que as mulheres não soubessem de guerras, [CG83v] nem estados, nem
+procurassem por isso. Enfadãome hũas que se metem em eleiçoẽs de governos, julgar de
+brigas, praticar desafios, mover demandas. Outras que se prezaõ de entender versos,
+abocanhão em lingoajẽs alheas, tratão questoẽs de amor, e de fineza, decòrão gerguntas
+para gẽntes discretas, trazem memorial de motes difficultosos. Hũas que dão significação
+às ervas, que adevinhão as cores, outras que as tem de sua tenção; outras que examinão
+prègaçoẽs, que [CG84r] lhe tomão palavras; outras que as usaõ esquisitas, e fallão por
+circunloquios, que tem modos de gabar fóra do uso; que praticão ao som do meneo das
+mãos, ou do movimento dos olhos. Fòra fóra tudo isto, que parece ficção, e nem
+verdadeiro, nem fingido he bẽ que seja. Não me tenha V. M. por mal dizente; mais val que
+por proluxo. Mas em verdade, que tudo o que aponto he digno de ser lembrado.
+
+Pedia hũa Dama a hũ seu irmão, homem discreto, que lhe desse hũa letra para
+[CG84v] certa empresa sua, que queria mandar abrir em hum sinete; respondeolhe: Minha
+irmaã, deixai as empresas para as adargas dos cavalleiros andantes; as empresas, que
+haveis de mandar abrir, sejão chavoẽs para fazerdes bollos a vosso marido quando o
+tiverdes.
+Fallar sempre, he mao; rijo he malissimo; e em lugares indecentes peor que tudo.
+Acontece que muitas que se prezaõ de discretas, respondem alto nas igrejas para que as
+ouçaõ, e aplaudão; entendem com as [CG85r] amigas, que lhe ficão lonje, a fim de serem
+ouvidas. Tãbem o suspirar à prègação, fazer gestos com a cabeça, como que lhe contenta o
+que se disse, rezar desentoado, compassar a musica, saõ cousas que não houveraõ de ser.
+Falle a mulher discreta o necessario, brando, a tempo, com tom que baste para ser
+ouvida da pessoa a quẽ falla; e não das outras. Comparou bem hum entendido as pessoas
+com os sinos, que pella voz se conhece se estão saõs, ou quebrados. [CG85v] Escuso de
+mostrar como as palavras informão do animo; porque assì como pelo correo que vem de
+tal parte, sabemos as novas que lá vão, assî pellaspalavras, que vem do juizo, sabemos o
+que là vai.
+Ellas jà sei que me teraõ por sospeito; pois atè os movimẽtos lhes hei de medir.
+Hũa das terribeis cousas que há na mulher, he usar de meneos descompostos. Sei que nem
+todas podẽ ser airosas; mas graves, todas o podem ser. Faz grande dano hũa maldita
+palaura, [CG86r] que se nos pegou de Castella, a que chamão despejo, de que muitas se
+prezaõ; e certo que, em bom Portuguez, despejo he descompostura. Outra explicação lhe
+hia eu a dár, mas esta baste. E claro está, que o despejo he cousa ruim, porque o pejo era
+cousa boa. Nada disto se lhe perdoe: sendo, senhor meu, tão importante que estes
+costumes exteriores andem concertados, como he a fermosa frõtaria a hum nobre edificio,
+para que se tenha por nobre.
+[CG86v] Ora do riso que diremos? Pois se ellas tem bons dentes, e aquillo que
+chamão graça na boca, e cova na face, ahi lhe digo eu a V. M. que está o perigo. Há
+mulher destas, que rirá a todo o sermão da Paixão, como se fosse ao de dia de Pascoa,
+sòmente por assoalhar aquelle seu thesouro. Não disse Platão, nem Seneca, cousa melhor
+que o que disserão as nossas velhas: Muito riso, pouco siso.
+Longe estou de persuadir à mulher que seja melancolica; porque antes a [CG87r]
+sempre triste, induz pouca satisfação de sua vida. Alegrese, e riase em sua casa, à sua
+mesa, e na conversação de seu marido, filhos, e familiares; deixe o riso em casa, quando
+
+for fóra: a modo da serpente que vomita a peçonha primeiro que vá beber, e despois que
+bebe, torna outra vez a recolher a sua peçonha. Venha para casa, e tome a sua boa graça.
+Ainda fico com escrupulo sobre a lição em que muitas se ocupaõ. O melhor livro
+he a almofada, e o [CG87v] bastidor; mas nem por isso lhe negarei o exercicio delles.
+Estas que sempre querem ler comedias, e que sabem romances dellas de còr, e os dizem às
+vezes entoados, não gabo. Outras saõ mortas por livros de novellas; taes pellos de
+cavallarìas. Aqui he mais perigosa a affeição, que o uso. Bem vejo que se lhes pòde
+permitir este desenfado; mas seja com maior cautela a aquellas que excessivamẽte se lhe
+entregarem: visto que podemos temer se ama nelle antes a semelhança dos [CG88r]
+pensamentos, que a variedade da lição.
+Não quizera que ninguem gostasse senão de aquillo de que era justo que tivesse
+gosto.
+Contarei a V. M. hũa cousa que a meu pesar me lembra. Caminhava por Espanha, e
+entrando em hũa pousada bem cheo de neve, não houve algum remedio para que a
+hospeda, ou suas filhas, que eraõ duas, me quizessem abrir hum aposento, em que
+recolherme; e quanto eu mais apertava, me desenganavão melhor [CG88v] de que nenhũa
+se levantaria donde estava, sem acabar deouvir ler certa novella, cuja historia hia muito
+gostosa, e enredada. E tal era a sofreguidão cõ que ouvião, que nem ameaçãdoas com que
+iria a outra pousada, quizerão desistir de seu exercicio, antes me convidavão que ouvisse
+os lindos requebros, que Cardenio estava dizendo a Estefania: que tudo isto rezava a boa
+da novella. Emfim eu me fui apear a outra parte, e voltando em breve tempo por aquelle
+lugar, e perguntando [CG89r] pella curiosa leitora, e ouvintes, me disserão que muito
+poucos dias despois as novellas foraõ tanto adiãte, que cada hũa das filhas de aquella
+estalajadeira fizera sua novella, fugindo com seu mancebo do lugar, como boas aprendizes
+da doutrina, que tão bem estudáraõ.
+Somos entrados na santimonia, ou por melhor dizer, na beatarìa. Tenho cansado a
+V. M. quizera passar voando por aqui, mas hei medo que naõ possa. A materia he das mais
+importantes; [CG89v] procure V. M. (mas que se force) ouvirme com nova attenção, que
+eu tambem renovando o cuidado, hei de procurar de fallar a V. M.
+Muitas pessoas de grãde porte, e excellente natural, a titulo de virtude, temos visto
+caìr em vida desordenada. Nosso inimigo o demonio hase às vezes com nosco, como hum
+homẽ quãdo busca outro, que se o topa em hum caminho, e vé que vem para elle, alli o
+espera; e se vè que se desvia para outra parte, então estuga o [CG90r] passo, e o segue atè
+
+alcançallo. As pessoas que vivem mal, muitas vezes lhes não sae ao encontro, porque sabe
+vem direitas para elle; mas as que vivem bem, apos de essas se lança com maior ligeiresa.
+A reformação dos costumes causa he bonissima, e santissima. Tem porèm nas
+casadas seu limite; de maneira, que por se darem de todo a aquelles bõs exercicios, naõ
+desemparem os da obrigação de seu estado; no qual Deos deixou virtude, e santidade
+bastante [CG90v] para que, sem sairem delle, se possaõ salvar todos, e todas, a quem
+comprende.
+Andão pello mundo espalhados hũs homens, e mulheres, que fazem profissaõ de
+mestres de virtude, de que verdadeiramente nẽ saõ discipulos. A este fim arrebatão, sem
+algũa prudencia, os animos singelos e piedosos das Senhoras, e gentes principaes, que às
+vezes guião tão mal, como nos mostraõ mil exemplos, e como elles a sî se tẽ guiado.
+Convem que a casada [CG91r] tenha seu cõfessor certo; e este seja pessoa grave, e
+conhecida, e de aquellas Religioẽs que mais florecem no lugar donde viver. Muitas
+Senhoras de grande estado vì confessar com os Curas, e Parochos de suas freguezias, que
+quando elles sejão homẽs doutos, e sisudos, julgo por excellente costume. Pois como até
+na eleição de confessor pòde haver desacerto: discreta resignação, e desconfiança seria não
+fiar de seu juizo cousa tão importante, e seguir aquella que a Igreja tẽ feito, [CG91v]
+entregando sua conciẽcia à pessoa a quem as entrega aquel e a quem Deos, e seu Vigario
+as tem entregado.
+Tenhão as Senhoras toda a piedade, e cõpaixão dos pobres, e afligidos. Mas hũas
+devaçoẽs a beatas, e beatos extravagantes, não levaraõ jà mais meu parecer. Senhor N.
+freiras veleiras, que naõ sejão as serventes dos Conventos conhecidos, velhas alumiadas,
+gentes professoras de novidades, que trazẽ oraçoẽs, e devaçoẽs de tãtos [CG92r] dias, com
+tantas candeas, e de tal cor, porque logo Deos (como ellas dizẽ) lhes mostra o que ha de
+ser: requeiro a V. M. que tal cousa não admita.
+Galantemente o advertio o nosso Sá nos seus Vilhalpandos, espelho de graça, e
+cortesanìa. Quando a velha, que ensinava a matrona, mandasse nove moças em romaria
+com velas de cera virgem para abrandar a condição do filho travesso; torna a fazer a velha
+aquella tão estremada lembrança: Ouvís senhora; a [CG92v] cera das velas, convem que
+em todo o caso seja virgem: que as moças, quer o sejão, quer não. Taes costumão ser de
+ordinario aquellas suas devaçoẽs, taes as circũstâncias em que ellas poem a força de sua
+virtude.
+Hũas a que chamão Madres, que se prezaõ de dizer cousas em segredo: se se
+casarà, se teraõ filhos, se serà o marido Governador de tal parte, se ficarão veuvas cedo;
+
+benzem enfermos, vão a santo Andre, gastão rollos com seus nós todo anno; affirmão, que
+a alma [CG93r] do parente não esteve mais que tres dias no Purgatorio: guardar, senhor,
+de tudo isto como do proprio inferno.
+Vejo que já me estão perguntando, como se haverão em o trato dos frades?
+Responderei com a reposta de hum cortezaõ, ou aconselharei com o seu conselho. Dizia
+este, sendo assî perguntado: Olhai, eu sou amicissimo dos frades; se não saõ bõs, não lhes
+quero dàr ocasião em minha casa para que sejão peores; se saõ bõs, não lhes quero dàr
+[CG93v] ocasiaõ em minha casa para que o não sejaõ; de sorte que sempre os amo, e
+sempre os escuso.
+Outro mais escrupuloso dizia, que em quatro partes lhe pareciaõ bem os
+Religiosos: Altar, Pulpito, Confessionario; e perguntandolhe qual fosse o quarto lugar?
+Respondeo: Pintados.
+Licito he que o parente Religioso veja a mulher de seu parente, ou sua parenta.
+Venha a casa, ajude a alegrar nas ocasioẽs de contẽtamento, e a consolar nas de desgosto;
+componha a discordia, [CG94r] se aconteceo entre os casados. Que o mesmo faça o
+Prelado da Religião, o homem douto, e virtuoso della; assistalhes o marido, de autoridade
+a suas visitaçoẽs, que então fica a pratica mais universal, e a visita mais solene.
+Enfadame (e he para isso) o modo de algũs homẽs, que em lhe chegando Frade, ou
+pessoa de que elles não gostão, à sala, já o encaminhão para Dona fulana, e por se verem
+livres da impertinencia, ou petitorio de algũs de taes mensageiros, [CG94v] lhos lanção á
+pobre mulher, como quem lança odre de vento a touro, em que desbrave. He este hum mal
+cõsiderado remedio.
+Tambem o ser descortez com os Religiosos, e estar como potro espantadiço, tendo
+medo de qualquer argueiro que voa pelo âr, he andar muito por elle. A mulher se
+desconfia, vendo o pouco que fião della, escandalizase a casa, o senhor se afronta, e nada
+fica melhorado.
+Reduzìra, finalmente, as beatarìas da mulher casada [CG95r] em ser muito amiga
+de Deos, muito temerosa delle. Estudar nas obrigaçoẽs de seu estado. Ouça a missa no seu
+oratorio á semana; e se ao Domingo quizer ir á igreja, he bem louvavel. Và, e não às de
+maior concurso. Os dias de festa será conveniente acompanharse da parenta, e da amiga; ir
+cedo; e não entrar na casa de Deos com o mesmo estrondo que se entràra em hũa batalha,
+destroçando, e atropelando o povo, que se queixa, e as murmura. Esta he [CG95v] manha
+de algũas Senhoras, e não por certo boa manha. Não seja a ultima que saia, nem a
+primeira.
+
+Tinha tambem que dizer a hũas que comem nas igrejas, para ficar para a tarde; a
+outras, que sem proposito se levantão mil vezes cada hora a rezar de joelhos, não sendo
+tempo; mas parece apertar muito; fique pelo menos sabido, que não esquece.
+O uso das penitencias, para quem as usa, he saudavel. Na mulher que as aprẽde,
+convem que se moderem. [CG96r] Hà hũs casados tão indiscretos que se desvião da
+mortificação, quando algum a quer receber. Isto não deve ser assi; porque quem ama a
+pessoa, muito mais deve amar o espirito. A mulher boa, que sem excesso se mortifica, he
+dignissima de que se lhe dé todo o azo, e licença, para que prosiga em sua oração, e mais
+exercicios santos. Ao marido o mesmo a mulher; que o contrario, he amar de gentilidade.
+Duvido (ou não sei se não duvido) de que seja cõveniente [CG96v] a amizade de
+casadas com freiras. Isto podia ser mais e menos toleravel, segundo fosse mais ou menos
+frequente. Por cousa tenho senhoril, ter boa amizade com hũa Religiosa, que as mais
+dellas, ou saõ santas, ou discretas, curiosas, e pessoas de estima: quando o negoceo não
+chegasse a amores impertinentes, escritos de cada dia, ciumes de cada hora, presẽtes, e
+viagẽs de todo o anno. O mais; como digo, antes fora bem permitido; e que a casada
+mandasse á freira seus presentes, [CG97r] por festas, e avisse por festa.
+O mesmo a seu confessor, ao prelado conhecido do Convento reformado. Fez Deos
+aos ricos tesoureiros dos pobres; e assi he razaõ que se deixem usar delles, como de
+acredores seus.
+Não tenho aqui que dizer mais, e antes cuido que fui sobejo. Salvo se acrecentar
+hum aviso de cousa, com que ha muito que tenho azar; a qual he ver a hũas molheres
+andar sempre fazendo festas, pedindoas, prometendoas, e aceitandoas cõ [CG97v] o
+pretexto que ellas querem. Fallei já no servir a Deos, quão bem parecia: mas nesta materia
+creo que há naõ pouco inconveniente; porque às vezes hũa senhora a troco de se não
+escusar de receber hũa capella, e hum ramalhete em hũa salva, cuidando que se apouca em
+a naõ aceitar a aceita, e poẽ despois seu marido em maior vergonha; ou não fazendo a
+festa, ou fazẽdoa mal; do que ella se ficàra escusandose della. Atè a estas cousas alcança a
+obendiencia, que aos maridos se deve.
+[CG98r] Ande a mulher toda vestida, e sempre composta por sua casa, e jàmais a
+vejão seus criados em habito indecente. Como para ella não he bem que haja outro mundo
+que seu marido, crea que assi convem aparecer a seu marido, como se aparecera a todo o
+mundo.
+Estou de candeas às avessas com hum novo costume de hũas capinhas, que não sei
+donde vierão; porque me não lembra que tal visse em nenhũa parte. Ora seja, ou não seja
+
+de outra nação, elle não he trajo autorizado, [CG98v] nem (a meu juizo) decente; e jà tão
+vulgar, que isso mesmo pudera ser o seu desprezo. Podendose com mais razão dizer pellas
+taes capinhas, o que dizia hum pechoso pel’as violas, que sendo excellente instrumento,
+bastava saberemno tanger negros, e patifes, paraque nenhum honrado a pusesse nos peitos.
+Chega o desatento a tanto, que neste trajo se aceitão visitas; e he cousa muito para
+evitar, por ser tão pouco airosa para quem a offerece, como para quem a recebe. [CG99r]
+Ambas as pessoas desestima, quem a sua mostra sem compostura a outra pessoa. Ao que
+bem aludia hũ cortesão, que sendo convidado de hum amigo, e delle mal agasalhado, lhe
+disse: Não cuidei que eramos tão amigos.
+Ha homẽs faceis em mostrar a seus amigos sua mulher. E suposto que este costume
+diz simplicidade de animo, e he usado entre os estrangeiros: todavia nem oje està o mundo
+paraque hũ só queira ser esse simplissimo, nem ainda nesses que o [CG99v] costumão
+fazer, deixão de estar sucedendo casos, que os puderão mui bẽ haver feito mudar esse
+costume.
+Convidava (em Espanha era) hum senhor principal, e bẽ casado a algũs amigos
+seus de alta condição; quis que vissem sua mulher; ella se escusou; mas em fim a visitarão.
+Despois à mesa quis seu marido que ella tambem comesse, e honrasse os hospedes;
+retirouse, e sendo apertada com recados, respondeo em su propria lingua: Dezid al Duque,
+que si me hiço baxilla, no me [CG100r] hará vianda. Mostrando cõ agudeza Castelhana,
+que já que como baxella a fizera ver, a não quizesse tambem facilitar como iguaria.
+Que o senhor leve algũas vezes o parente, o amigo, o ministro, o prelado, o
+estrangeiro, e homem douto, e principalmente o homẽ bom, a sua casa, e lhes faça convite;
+não sò o não estranho, mas o louvo. He cousa honrada, e que faz os homens bem quistos.
+Não deve evitallo sua mulher, antes com todo o concerto decente dispor que se ministre:
+[CG100v] honrando a seu marido naquella acção, com o que os muito asperos se obrigão;
+porque os coraçoẽs nobres, muito mais se satisfazem de ver que se ama o que elles amão
+do que ainda de serem por si mesmo amados.
+Hei de dizer aqui de hũas, que se prezão de matronas, e quer bem, quer mal, ellas
+querem ser os senhores de suas casas. Estas pretendem sua maioria por muito honradas,
+por muito sabedoras, ou por muito illustes. E às vezes sem nenhum destes estremos, ellas
+[CG101r] se dão tal manha que a cõseguẽ, especialmente dos maridos bons, simples, e
+divertidos.
+Vigiese logo ao principio àquelle que tais pensamentos descubrisse em sua mulher;
+porque se lhe vir que hũa vez deixa senhorearse, tãtas o intentará, até que de todo ella seja
+
+senhora, e elle servo. Dizia hum em tal caso a sua molher: Senhora heivos de levar a casa
+de vosso pai, e heide demandallo por justiça que me dè minha mulher; e perguntando ella
+porque? respondeo [CG101v] elle: Porque vos não soes minha mulher, senão meu marido.
+E a mi me dizia hum discreto, e galante casado: que deixarem as mulheres de
+mãdar seus maridos, era impossivel; mas que o que estava à conta dos homens honrados,
+era fazerem que isto fosse o mais tarde que pudesse ser. Eu não me contentàra com menos,
+senão que nunca fosse; dando mui bem por escusadas essas matronerìas.
+Desejei de mandar hũa cadea de ouro a hũa casada, [CG102r] que estando
+chovendo, e ella para ir fora, quando já se molhava muito bem, e lho advertião os criados,
+chamou hum pagem, e lhe disse: Dize a teu senhor, que me mande dizer se chove, porque
+me não fio destes, nẽ de mi, e escusarei de sair. O que discretissima ignorãcia! O que
+invenção de obediencia, tanto para ser obedecida!
+Parece Senhor N. que nos vamos esquecendo das cousas picantes, que dão mais
+contentamento, e saõ salsa das outras; e de verdade [CG102v] não menos necessarias.
+Ainda não fallei no trafago da casa. Isto he cousa que requere muito tento. Quisera
+eu as casas de hum sò gargàlo. Muitas portas, muitas serventias, não aprovo. As casas dos
+Reis, e Principes tẽ infinitas guardas, e porteiros; com isto se defendem de incõvenientes;
+como quem poem estrepes em muro baixo.
+As casas dos fidalgos particulares, que não podem ter esses porteiros, e portarìas,
+necessitão de alguns criados velhos, e fieis, a [CG103r] quem seus amos constituão vigias,
+e centinelas de seu decoro. Mas neste caso não descarregue nelles todo o cuidado o
+marido; porque assi como na guerra (e eu o estou aqui vẽdo, e ouvindo nesta torre)
+costumamos pór soldados de posta; e nẽ com tudo isso se contenta a disciplina militar,
+senão que lança roldas, e sobreroldas, e sobre ellas vaõ despois os officiaes a ver e vigiar o
+que fazem, e o que vigião os soldados que vigião; assi nem mais nẽ menos deve o senhor
+da casa roldar, e [CG103v] vigiar sobre os criados, a quẽ entrega o cuidado de sua honra.
+Negras, e mulatas, que saem fòra, não tivera. Soem ser fecundas, e inção hũa casa
+de tantas manchas (a meu ver) como dellas nacem; porque parece fea cousa andar hũa tão
+vil licença aos olhos da senhora, e das criadas. Negrinhos, mulatinhos filhos destas saõ os
+mesmos diabos, ladinos, e chocarreiros, por castanhas trazem, e levão recados às moças, e
+saõ dellas favorecídos. Ciganas, ermitoas, [CG104r] adellas, mulheres que vendẽ garavins,
+e bolotas para lenços: outras que trazẽ doces, e os daõ mais baratos do que valem, tudo he
+malissimo. Mudas he peçonha. Lavandeiras, ramalheteiras, hũas que vendem, e saõ
+freguesas, e com quem as criadas em hum instante armão contas de raçoẽs, que lhes
+
+trocão, mostrãdo que não podem viver sem ellas, saõ gente bem escusada: Os que
+adivinhão, os que benzem. Os chocarreiros, e mais os dos Principes, costumão ser
+atrevidos [CG104v] pellas entradas que lhes dão sem tento. Huns tregeitadores, outros que
+fazem prègaçoẽs, que arremedão animaes, e gentes, saõ peçonha refinada; e as que em
+tudo o saõ, saõ hũas que vendem dixes, aguas de rostro, tirão pano, fazem sobrancelhas
+com linha, alimpaõ o carão com vidro; homens de linhas, bofirinheiros, mulheres que
+pedem para hũa certa Missa de esmollas, outras para amparar hũa orfaã.
+Tudo isto Senhor, he hũa casta de gente, que ferve ao [CG105r] redor das casas
+grandes, assi como peixe que anda à lambujem da pedra. Apartãose com dificuldade;
+sofremse com perigo. Seu estorvo requere tanta força, como industria; porque cada hũa
+destas criaturas pella maior parte não cuida senão em enganar, levar, roubar, mentir, dar
+novas, e às vezes (e não poucas) em fazer muito ruins mensagens, e trazer outras, em
+dano, e descredito das casas dõde se consentem, que não seja a de V. M.
+Tinha hum homẽ principal [CG105v] sua filha donzella doente, guardavaa muito.
+Havia quem lhe quizesse bem. Escrivialhe; revolviase o papel, e sobre elle se armava hũ
+ramalhete. Vinha hũa ermitoa, fallava ao pai, davalhe aquelle ramo da parte de tal Sãto;
+levavalho elle mesmo com grãde gosto, e era o proprio corretor de sua filha, servindolhe
+por sua mão a peçonha dissimulada naquelle ramalhete. Quem tal havia de cuidar? Quanto
+por este, bẽ se podia (e por muitos) dizer o que diz o Romance: El aspid anda [CG106r] en
+las flores, alerta, alerta zagales. Tomado de aquelle adagio latino, que entre as ervas
+mimosas latia o aspid pençonhento.
+Costumão alguns homẽs de grande sorte introduzir suas mulheres em suas
+pretensoẽs: entendendo quantos grandes negocios se acabàraõ já por ellas. Poucos saõ os
+casos, a meu juizo, em que me pareça licito ficar hum homem passeando, e mandar a sua
+mulher que va fallar, e requerer por elle. A prisaõ do marido, a honra da sua casa, do seu
+officio, [CG106v] do seu titulo, a vinda do marido ausente, e risco de morte do filho. Estas
+saõ, e não outras, as cousas que farão licita esta diligencia, sempre perigosa, e não sempre
+proveitosa.
+Hum certo ministro grãde costumava dar audiencia às senhoras fora de sua casa,
+em hum lugar tão decẽte, que era demasiado recolhido. Levàrão alli dous fidalgos suas
+mulheres para semelhante negociação; e deixandoas lá, se saìraõ logo. Vião isto outros, e
+então disse hum delles: Certo [CG107r] que fulano, e fulano não fizerão bem de se
+sahirem; porque estando alli autorizavão o seu negocio. Respondeo outro: Ridevos disso,
+
+que fulano e fulano não saõ dos que querem autorizar o seu negocio; saõ dos que querẽ
+fazer o seu negocio.
+Nunca será bem acabada de louvar aquella sentẽça tão repetìda do discretissimo
+Conde do Vimioso: Quẽ perde a hõra pello negocio, perde o negocio, e mais a honra.
+Senhor N. nenhum prudente, nenhum honrado pretenda com riscos suas melhoras.
+[CG107v] Que ha de ganhar do por vìr, quem logo de ante mão entra perdendo? Os bons
+mercadores seguraõ as encomendas de mór valia.
+Seja a mulher honrada, como dizem que he o Corpo Santo, que não aparece senão
+nas grandes tempestades, e sempre para remedio dellas. Acuda aos males de sua casa, aos
+trabalhos de seu marido, e de sus filhos. Procure salvallo, e salvallos delles. Seja sua voz,
+não seu requerente. Possa ser instrumento ao remedio da necessidade, não ao logro do
+interesse.
+[CG108r] Obrigaõse muito as casadas de que seus maridos lhes contem o que
+sabem, o que ouvem, e o que passa pello lugar. Que os homens sejão secos, he meio
+caminho andado para serem aborreciveis; que sejão falladores, he todo o caminho andado
+para serem desprezados. Devese eleger hũ bom meio, de sorte que a mulher não cuide que
+seu marido a tem em pouca conta, nem que elle faça de maneira, que em outra semelhante
+seja tido della. As mais logo trazem decorado aquelle rifaõ: Quẽ [CG108v] me a mi quer
+bem, diz me do que sabe, dame do que tem.
+Guardese o discreto de contar a sua mulher as historias passadas de seus amores, e
+de sua mocidade. Causam assi dous males: dar a conhecer às mulheres a fraqueza de seu
+natural, e entenderem como ha outras pello mundo, que se deixão enganar facilmente.
+Por nenhum caso se lhes sirva o prato da liviandade alhea; e naquellas cousas taõ
+publicas, que se não puderem negar, pello menos se [CG109r] desculpem, ou se desviem.
+Mostrese sempre horror a taes sucessos; e havendo de praticar nelles, carregue a culpa, e
+causa à parte do marido, e a da mulher se desculpe. Dando assi a entẽder, que aquelle que
+for bõ marido, sempre terá mulher boa, como de ordinario sucede, e elle o espera de si, e
+da sua.
+Algũas vezes vemos, que a casada de grandissima honra, trata, e acompanha
+confiadamente com outras de não tão igual fama. Haja nisto grande tento, [CG109v] e o
+melhor será escusallo de todo. A reputacão he espelho cristalino; qualquer toque o quebra,
+qualquer bafo o empana. Ellas quanto saõ mais seguras em seus procedimentos, se
+avẽturão, pode ser, mais a tratar as que o não saõ. O vulgo, sempre cego, não sabe
+distinguir, ou não quer, o bom do mao. As mais vezes quẽ atira não dá alli adonde atira,
+
+mas dá perto do lugar adonde atira. Assi os maldizẽtes, indo a acusar a hũa pessoa, não
+acertão logo; e por ventura infamão as que [CG110r] andão junto della.
+Valhome sempre das cousas naturaes, e assombrome certo neste caso,
+considerando que hũa sò gota de tinta que caia em hũa redoma de agua clarissima, basta, e
+sobeja para a tornar turba; e que para aclarar, e deixar limpa hũa redoma de tinta não basta
+hũa pipa de agua clara. Assi costuma ser a mà, e a boa fama, que a muito boa não pode
+acabar de purificar a ruim, e a ruim logo empece à muito boa. Noutro lugar disputo eu
+largamente: [CG110v] porque se nos não pega a saude assi como se nos pega a doença?
+Notavel cousa por certo! Agora me contentarei com dizer o que o nosso Moral: O bem não
+he como tinha, o mal pode ser que si.
+Aparte esta contenda a prudencia do marido. Contava hum, que costumava a se
+haver neste caso com excellente destreza. Instava de contino à mulher, que visse, buscasse,
+e andasse com fulana, e fulana, de quẽ elle tinha satisfação; porque cõ estas persuasoẽs
+ficava adquirindo [CG111r] nova autoridade para estorvar que se não visse, buscasse, e
+andasse com fulana, e fulana, de quem elle não era satisfeito.
+Gabar à mulher a fermosura de outras, as mais dellas o tem por descortesia. Assi o
+ar, a graça, e as mais boas partes; mas como nisto não houvesse excesso, seria sofrido.
+Dẽlhe todavia regra a condição, idade, parecer, e boas qualidades da mulher propria;
+porque as que destes dotes saõ abũdãtes, podem ser mais confiadas.
+Hum fidalgo praticando [CG111v] com sua mulher, na qual era sobeja a gentileza,
+e a discrição, que faltava nelle, exagerava por estremo a fermosura, e partes de outra
+mulher. Sofreo a propria quanto pode, e uẽdo sua demasia lhe disse: Não quisera mais para
+me vingar das invejas que me fazeis com fulana, que vella casada com vosco, para vos não
+parecer nada disso, e para ver como ella se havia quando vos me gabasseis outro tanto.
+Não se nega porem ao marido que se possa mostrar [CG112r] galante com as
+damas, e senhoras, quando a ocasião for de galantaria; porque esta obrigação he do bom
+sangue; e como não seja viciosa, antes virtude, pellomenos politica, não obriga contra ella
+o matrimonio. As proprias mulheres, se saõ generosas, folgão que seus maridos se
+mostrem cortesaõs donde o devem ser.
+Estavão os Reis Catolicos para sair fora, e a Rainha à jenella, vio passar o cavallo
+de ElRei, e que igualandose com a sua egua, que jà alli estava, não fizera [CG112v]
+nenhũa bizarria. Bradou donde estava a Rainha, e chamando o Estribeiro mòr, lhe disse,
+que logo mãdasse cortar as pernas a aquelle cavallo, porque não levava gosto que ElRei
+tornasse a subir nelle. E perguntandolhe o Estribeiro mòr que razão daria a ElRei de hum
+
+tal feito, lhe respondeo: Porque passò sin relinchar a una yegua tã hermosa como la mia; y
+cavallo que es tan para poco, no harà cosu buena.
+Estas galãtarias do marido não podem ser reciprocas [CG113r] para a mulher, que
+tem muito menores licenças, sem tèr algũa razão de queixa; como acontece que hũa cidade
+tem muito menor comarca que a outra, e nem por isso terà justiça para a pretender igual.
+Não gabe a mulher a outro homem diante de seu marido, salvo de aquellas cousas,
+que tidas, ou não tidas, vẽ a ser a mesma cousa.
+Permiteselhe ao casado moço ser loução e usar de todos os adornos de sua pessoa
+que a hum homem saõ decentes. Supomos que aquelle [CG113v] he estado, a que se
+dirigia; e assi como no estado estão todas as cousas em maior perfeição que no aumento
+ou declinação, assi ao casado saõ licitas todas as cousas pertencentes à perfeição delle. Os
+cheiros, as galas, os regalos para os casados, e para os namorados se fizerão; porque se
+deixa entender, que aquelles empregos nacem do cuidado da mulher, ou da dama; cõ o que
+se qualificaõ melhor, que se do proprio cuidado do varão nacerão.
+Estas saõ das cousas que, [CG114r] tambem trocou o uso; e de verdade não cuido
+que viciou, quando as não melhorasse. Os nossos velhos dizião: Que o homem havia de
+cheirar a polvora, e a mulher a incenso. Aludião à religião, e milicia em que os querião a
+elles, e a ellas, ocupados. Não ha muitos annos que hũa senhora principal, e não pouco
+gloriosa, tachava os perfumes de hum cortesaõ; elle sabendoo, lhe mandou dizer, que
+acabasse sua Senhoria consigo o cheirar a incenso, que elle acabaria logo consigo o
+[CG114v] cheirar a polvora.
+O concerto dos aposentos do senhor, o asseo de sua pessoa, finalmente estas cousas
+que os antigos desprezavão, oje saõ licitas, e não tem o vicio em seu uso, se não em seu
+abuso. Façamos differẽça de lindos a concertados.
+E porque não nos desconsolemos de todo com os costumes modernos, nem os que
+se prezaõ de severissimos nos queirão confundir com a pureza dos antigos; como se
+poderà crer que naquelle reinado de ElRei D. Sebastião, em que os homẽs [CG115r] se
+fingião de ferro, por contemplação dos excessos de ElRei, era costume andarẽ os fidalgos
+mancehos encostados em seus pagens, como oje as damas? E chegava a tanto aquelle mao
+costume, que quando os que jugavão a pella passavão de hũa casa para outra, o não fazião
+sem que se lhe chegassem os pagens, e nelles se encostassem. Dizião haã, fazendoo muito
+comprido, e os mais fallavão afeminado, por uso daquelle tempo. Sendo isto assi, não ha
+para que condenar os costumes [CG115v] pela idade, senão pela qualidade; nem he justo
+desprezar o presente por engrandecer o passado.
+
+Tenho por muito digno de reprensão o andar por casa descomposto. Persuadira, a
+não ser molesto, que fosse o mesmo trajo o de casa, e o da rua. Verdadeiramente o homem
+em seu habito, parece que tem outra grandeza, e imperio. Provase bem, com que os Reis, e
+os grandes, aquelle criado de que mais confião, he o que admitem a sua presença, quando
+estão descompostos: [CG116r] como que necessita de amor, e fidelidade quem houver de
+guardar inteira reverencia a hum homem descomposto.
+Alguns ha tão pouco advertidos, que requebrão suas mulheres à mesa diante de
+seus criados, agora com as palavras, agora com os mencos, e de todos os modos
+indignissimo; porque igualmente offende a modestia dos homens, e a honestidade das
+mulheres. Tenha este excesso sua contradição na mulher, quãdo não tiver sua advertencia
+no marido.
+[CG116v] Passo a estranhallo tambem para com os filhos. Vi hum dia a hum
+grande General rodeado de muitos homens grãdes, que o seguião, abrir o corro de todos, e
+lançar a correr por receber hũ filhinho seu que o vinha buscar, e beijallo em presença
+daquelle concurso; que todo se estava olhando, e admirando, de que hũa tão grave pessoa
+pudesse tão pouco consigo. Digo a V. M. senhor N. que se poder tivera, lhe tiràra logo o
+officio. Porque o animo dos homens não se ve quando resistẽ [CG117r] aquelles afeitos
+que aborrecem, senão quando vẽcem aquelles que amão. Dirão a isto os pais, que os que o
+não saõ, não podem dar regras a seu amor. Elles dirão o que quiserem; mas eu não direi
+outra cousa. E todos sabem que muito melhor conhece os lanços do jogo aquelle que o ve,
+que aquelle que o joga.
+Ora poes fallamos em filhos, acabemos o que ha que dizer acerca delles.
+Desejallos he tão justo, como merecellos. Mas não obrigue este desejo a fazer
+[CG117v] demasias. Nos moços deve de haver hũa boa cõfiança. E já que nos servimos
+dos ditados, não vẽ aqui mal para escusar mais leitura, aquillo que se diz: A Deos rogãdo,
+etc. Escusome de acabar o adagio, porque de todos he sabido.
+Mesinhas, caldas, devaçoẽs, frades que benzem, freira que toca, fisicos estrãgeiros,
+quintas essencias, bebidas desusadas, emprastos desconhecidos; de tudo isto livre Deos a
+V. M. Muito faz aqui a hombridade; muito mais a Cristandade. [CG118r] Pòr nas mãos de
+Deos; tornar dellas o que vier; que sempre he mais a proposito que nossos desejos.
+Hora os filhos nacidos. Guarda de contar graças, nem estremecer sobre elles. Tudo
+isto os faz mal criados, e aos pais he de pouca opinião. As mãis querem que os maridos os
+tragão, e folguem com elles; quando V. M. caia nesta venialidade, seja a modo de officios
+
+em igreja interdita, quero dizer a portas fechadas. Não he cousa pertencente a hum homẽ
+ser ama, [CG118v] nem berço de seus filhos.
+Fazerlhe aquelles seus momos, fallarlhe naquella sua lingoagem, tudo he indecente.
+Basta que os veja, e ame, e lhe procure todo o regalo, e boa criação. Essoutras figurarìas
+saõ proprias das mãis, a quem se não ha de tomar em nada o modo, nem o officio.
+Bo fè que me lembrou agora hũa cousa que me não ha de ficar no tinteiro, mas que
+todo não venha a proposito. Tinha hum ministro muito lisonjeado hum certo filhinho seu;
+que costumava [CG119r] vir a hum aposento cheo de grandes pretendentes. Havia entre
+elles hũ muito grande nos annos, na pessoa, e no estado; e mais que tudo nos interesses.
+Era este o que mais praticava com a criaturinha, e taes cousas lhe fazia fazer o espirito
+mào da lisonja, e adulação que trazia no corpo, que dizia outro pretendente por elle: Certo
+muito he que o interesse faça mais parvo a fulano com os filhos alheos do que o amor nos
+faz a nos com os nossos.
+Và mais por jogo, que [CG119v] por conselho. Quãdo, senhor N. Deos der filhas a
+V. M. não lhes consinta mais que hum só nome liso, aquelle que lhes ditar a devação, ou
+obrigação. Tenho por grande liviandade esta ladainha de nomes (dissera melhor, carta de
+nomes) que oje se usa, pondo em camouço huns sobre outros, deixando os de mais
+barafunda para o cabo. Derão as mulheres nesta nova casta de damarìa; e acontece que a
+que naceu, e se criou mera Domingas, ou Francisca, lança sobre si meia duzia de Jacintas,
+[CG120r] Leocadias, Michaelas, Hipolitas, e outros nomes esdruxulos, sò porque virão
+chamaremse assi, pouco mais, ou menos, a suas vizinhas.
+Acho graça nesta historia. Fora a bautizar em hũ lugar desta minha visinhança a
+filha de hum escudeiro; e porque ouvio que a outra de hũ Titulo tinha sua mãi mandado
+pòr na pia tres nomes; como a elle lhe custava barata a grandeza, içou hum furo mais à
+vaidade, e mandou bautizar a menina cõ quatro nomes. [CG120v] Ouvioos todos o Cura, e
+disse aos padrinhos: Senhores escolhão hum sò nome, que sou fraco de memoria; ou juro a
+tal que lha bautize sem nome, ou lha mande para casa como veio, até que lá se resolvão no
+que melhor lhes parecer.
+Parece que me hia esquecendo de hũa cousa que julgo digna de advertencia, e
+paraque pode ser que fosse advertido de quem sabe que escrevo este papel. Costuma haver
+excesso nos maridos por dous modos, quando suas mulheres se achão naquella [CG121r]
+hora do parto. Huns que as servem, e assistem melhor que as proprias comadres; outros
+que como enemigos fogem dellas. Dizia hum destes com travessura, que, se casasse, não
+havia de ser senão em Julho. E sendo perguntado porque? respondeo: Porque se for tão
+
+mofino que minha mulher haja de parir, seja em Março; e possa eu achar embarcação para
+a India, donde me irei antes que vella em tal estado. A boa, ou não boa vontade que se tem
+à mulher, darà aqui o melhor cõselho. [CG121v] Tambem o natural do marido puxarà
+muito por elle. Não reprovo aquelles que tudo querem ser naquelles casos; reprovo os que
+não querem ser nada. O sair de casa he reprẽsivel, porque pode haver mil sucessos para
+que sejaõ necessarios. Bastarà estar cada hum no seu aposento, e receber nelle cõ igual
+constancia as ruins, ou alegres novas.
+Hei de alegrar tamalavez esta materia com hum dito de certo senhor Castelhano.
+Era General, e lhe pedia hũ seu Capitão licença [CG122r] por escrito para se ir achar em
+casa ao nacimento de hũ filho. Poslhe por despacho: Al tener el hijo quisiera yo hallarme
+en mi casa; que al nacer, poco importa.
+A miseria dos tempos que em tudo vão para tras, tem feito que as amas, que antes
+erão mulheres honradas, se hajão oje trocado a villans bem dispostas. Ja viemos das mãis
+para as amas; e agora das boas amas imos para as ruins. Em fim he uso, va cõ elle. Mas
+contra a natural obrigação das mãis; porque como [CG122v] disse hum sabio, quem antes
+de nos ver, e conhecer, nos sustenta nove meses dentro em si; porque despois de nos ver, e
+conhecer, nos engeita, e busca outrem que nos sustente? Bem folgàra eu de ver os filhos
+de meus amigos mamar bõ leite: não sò na qualidade do corpo, mas tambẽ na do espirito.
+A quem foi filho taõ bẽ criado como V. M. pouco, ou nada tenho que lhe lembrar
+na criação dos filhos. Crieos V. M. como seus pais o criàrão, que todos nos daremos por
+contentes.
+[CG123r] He tambem esta materia larguissima para discorrer nella, e toca
+verdadeiramente mais a outro intento, porque o que agora levamos he só apontar regras à
+vida dos casados, paraque levem suavemente aquelle jugo que sobre ambos descansa.
+Virá aqui a proposito de filhos, isto de filhos bastardos: alfaias certo mui bem
+escusadas, e de não pouco embaraço aos casados; mas que aquelle que as tem, não pode
+mandallas vender ao Pelourinho. He força que digamos [CG123v] sobre isto algũa cousa.
+Os naturaes, e que não devem nada à fè do Matrimonio, saõ dignos de conservar,
+em quanto não ha legitimos. Houve tantos famosos homẽs no appellido de V. M. e em
+outros, deste tal nacimento, que não acõselhàra se esperdiçassem antes de tempo.
+Com os pais, acabado me parece que o tenho; nas mulheres he a maior
+difficuldade. Muitas ha de tão generoso natural, que agasalhão com muita galantaria aos
+filhos de seus maridos; [CG124r] outras que os não podem ver, e os maltratão. Notavel foi
+a fineza de aquella Margarida de Valoes Rainha de França (que já deixo nomeada.) Estava
+
+no leito com seu marido Henrique Quarto o Grande (que grande ingrato lhe foi;) vio que
+se affligia por lhe trazerem em secreto recado que estava no proprio Paço Real parindo do
+mesmo Hẽrique, Madamusela de Foseuse dama da Rainha e de ElRei. Vestiose Margarida,
+e foi assistir ao parto de sua criada, que tão mal a servia; [CG124v] tratou de seu regalo, e
+o que he mais, de sua hõra; mandando a todas aquellas de quem se ajudou, que sopena de
+sua desgraça, nenhũa descubrisse este sucesso.
+Se por esta receita obràrão as outras mulheres, bẽ se lhe puderão confiar os filhos
+que chamão de ganãcia; visto porèm que não he assi, seria acordo criallos sempre não só
+fora de casa, mas do lugar em que se vive. As filhas em conventos; hũs, e outros não sejão
+desamparados nunca; que em fim soẽ ser filhos do amor, a quem se [CG125r] deve boa
+correspondẽcia; e que por faltos de fazenda, e cheos da obrigação de seus nomes, se achão
+em mil affliçoẽs, que todas resultão em dano da honra, e da conciencia de seus pais.
+A India, e a Religião costumão dar boa acolhida a este genero de gente. Siso serà
+destinarlha.
+Entre aqui a advertencia da emenda da vida livre, e descõposta; que se antes do
+casamento comprẽdeo algũa parte da idade do homẽ, tanto maior deve de ser despois o
+apartamento della. O [CG125v] senhor! que foge às vezes hũ libreo que estava preso,
+quebra as cadeas, e corre sem ellas; mas là junto a colleira vai ainda tinindo hum fuzil das
+prisoẽs por que estava preso; cõ que ainda elle se não dá por solto, e livre.
+Benzer, senhor, benzer como do diabo, de cousas passadas, que não de balde na
+lingoagem das velhas, cousas passadas; ou cousas mâs, he tudo o mesmo; nem com os
+olhos se torne a voltar para ellas; nem para ver se ficão lá muito longe.
+Cõ muita razão, e bonissima [CG126r] doutrina fingirão os poetas, que o seu Orfeo
+não perigàra quando foi ao inferno, senão quando despois delle fòra quisera olhar para
+traz. Verdadeiramente senhor N. que essa he a ultima perdição: sair do mao estado, e
+tornar a olhar para elle.
+Muitos ha que, não sei em que fiados, dão em terem amizades proluxas cõ freiras;
+parecelhes que nada offendem as mulheres nessa correspondencia. Tirase daqui muito
+ruim fruito; porque as mais das casadas começando [CG126v] em zelo do que os maridos
+gastão, e do que se descompoem, acabão em hum finissimo ciume. Ellas tem razão,
+porque os maridos não farão menos offensa a suas mulheres divertindolhe a affeição, que
+qualquer dos outros cabedaes, que lhe saõ devidos, e com esse nome de devido se nomeão;
+antes serà maior a offensa quanto for a mulher mais de aquellas, que sò da affeição de seus
+maridos se satisfazem.
+
+Não quero passar tão de pressa por esta palavra, ciume, [CG127r] ou ciumes; que
+ou dados, ou tomados, significa hũ humano inferno. Humano, porque vive entre os
+humanos; e deshumano, porque deshumanamente trata aquelles entre quem vive, ou vivem
+nelle.
+Foi questão, e ainda não he conclusaõ, qual lhe serìa peor a hum casado, dar
+ciumes a sua mulher, ou tellos della? Escusome de averigualla; hũa, e outra cousa
+abomino. Ha muitos que do dar ciumes não fazem caso, e grandissimo de os receber.
+[CG127v] O engano, senhor, he manifesto; porque o dar ciumes que se despreza,
+de ordinario assenta sobre grande causa; e o recebellos que em muito se tem, as mais vezes
+he imaginação; e como as mulheres padeção ainda menos de fracas, que de vingativas,
+acontece que mil vezes produz nellas mais terribeis effeitos a vingança, que a fraqueza.
+Disse bem quem disse, que os ciumes se parecião a Deos, em fazer de nada algũa
+cousa. Eis aqui o seu officio, que em todas as maneiras [CG128r] não deve ter lugar nas
+casas onde viver a discrição, e Cristandade. Por que certo he terribel tormento o que
+padecem, jà os homens, jà as mulheres, por esta maldita imaginação; a quem com não
+menor propriedade houve quem chamasse bibora, porque em nacendo mata a pessoa que a
+engendra.
+Amoesto a todo o casado fuja esta peste; e que aquillo mesmo que para si tão
+justamente deve de não querer, o não queira tambẽ para quem ama, ou deve de [CG128v]
+amar pello menos.
+Dizia hum discreto, que o chegar hum casado a dar a entender a sua mulher tinha
+ciumes della, era meio caminho andado paraque ella lho merecesse; alludindo ao que se
+diz vulgarmente, que a maior jornada he o sair de casa.
+Assi como o direito dizem que tem deixado muitos casos paraque não assinou
+pena, por não presumir acontecerião no mundo; assi o casado deve mostrarse esquecido de
+tal pensamento, por não presumir lhe possa [CG129r] ser necessario.
+Distingo porem prudentes de ciosos. A prudencia precata, desvia, e assegura todos
+os caminhos da sospeita. Nada disto faz o ciume; antes para não ser hum homem cioso,
+convem que seja prudente.
+Pollohei mais claro com este exemplo. O prudente he como o Capitão de hum
+castello, que tras pelo campo de continuo suas espias ao longe, vigiando noite, e dia seu
+enemigo, bem que o não tenha; porque quando o tiver, o não possa tomar [CG129v] de
+sobresalto. Este tal vive seguro, come com gosto, dorme com descanso. O cíoso he como
+outro Capitão, que temendose de tudo o que ha, e não ha, se encerra miseravelmente em
+
+seu castello; o ar que corre lhe faz nojo, a folha que se move cuida que he assalto; e assi
+sem honra, e sem proveito, cheo de medo, e desconfiãça passa a vida, ignorando o que he
+paz, e repouso.
+Aqui lembro de passo a muitos, e muitas que me lerem, que quando me virẽ ser
+miudo nas cousas, e [CG130r] praticar cautelas que parecem escusadas, não cuidem que
+por nenhum modo he meu animo inculcar aos casados o ciume; antes, porque nenhum o
+seja, lhe proponho tantos outros meos de segurança, que de todo percão esse receo.
+Quẽ duvida se deve muito maior agradecimento ao medico que nos dà regras para
+não perder a saude, que ao que nos dà mezinhas para que despois de perdida possamos
+cobralla?
+O jogo em todos os estados he ruim officio, se he officio; [CG130v] quando não
+passe de ocupação cortesaã, e que anda anexa à ociosidade dos poderosos.
+Eu viera facilmente em que se jugàra o licito, se eu soubera medir atè donde era
+licito o jogo; mas ainda acho maior difficuldade em poder tèr mão nas redeas da colera, ou
+ambição de aquelles que jogão: affeitos, que jàmais se enfreão. Sobre hũa muito pequena
+causa se arma hũa porfia, e sobre ella hũa perda de honra, ou de vida; porque os homens jà
+não fazem motivo da quantidade [CG131r] da perda, senão da qualidade da duvida.
+São tantos os exemplos, que não ha paraque provar os danos do jogo. Olhemse as
+lagrimas; escutemse as tragedias. Era dito de hũ discreto, que vinho, jogo, e tabaco se
+devião de vender nas boticas como mezinha.
+O solteiro, se joga, joga o seu, ainda quando dermos que he seu isso que joga. O
+casado joga o que he alheo, porque elle não tem em sua familia mais de hum quinhão; e
+respeitivamente tẽ alli outros a mulher, os filhos, [CG131v] e os criados. Logo como pode
+com justiça avẽturar, contratar, e perder o alheo?
+Tinha hum senhor, mui inclinado a jogo, hũa filha muito querida. Começou a
+perder dinheiro, joias, alfaias, que hia mandando buscar a sua casa, e erão todas grão parte
+do dote de aquella sua filha. Ella affligida, e queixosa justamente, tomou seus criados, e
+foise dõde elle jugava. Vioa o pai, e com grande sobresalto lhe perguntou que queria delle
+em tal lugar? Respondeolhe: [CG132r] Venho senhor a que V. S. me jogue tambem, e que
+me perca; porque, assi como assi, eu paraque valho jà em casa sem o que V. S. tirou della?
+Hum que gabava o jogo, chamavalhe escola da paciẽcia. Forao, se nella se
+aprendesse como se gasta. A este fim considero eu muitas vezes a servidão de hũ taful; a
+que não acabo de dar saìda; porque quando vejo que, se contra hum destes se dà hũa
+sentença de vinte mil reis pronunciada por hum juiz, confirmada por tres, [CG132v] allega
+
+duvidas, poẽ embargos, mete tempo em meio, e ainda no fim de tudo, ou não paga, ou se
+queixa; e logo naquella maior demanda do jogo os vejo tão obedientes, que porque sota de
+ouros veio primeiro que seis espadas, lhe levão sua fazenda, e o dá por bem julgado;
+confesso a V. M. que, quando tal vejo, não sei filosofar em qual seja a causa desta
+temperança á vista daquella demasia.
+Acabarei de fallar no jogo com hũa bem grande galantaria de hũ dos nossos
+[CG133r] antigos cortesaõs. Dizia este, que tres bens desejava a seus inimigos para se ver
+vingado delles: pedir, mas que lhe dessem; preitear, mas que vencessem; jugar, mas que
+ganhassem.
+Outro genero de perigo não menos urgente, he o de hũs, que andão enfeitiçados cõ
+amigos; seguem com elles caçadas, folguedos, banquetes, viagens, e todas as mais acçoẽs,
+que traz comsigo a ociosidade. Digo a V. M. que este dano comprẽde mais aos homens de
+inferior sorte; porque verdadeiramente [CG133v] entre os grandes saõ tão poucos os
+amigos, que assi como não ha gozar dos proveitos da amizade, assi não ha perigar dos
+inconvenientes della; mas delles sempre se guarde.
+Parecerá comtudo mal, e será mao, que o casado escolha por amigo o solteiro,
+principalmente se elle he de vida solta; porque como a amizade consiste na semelhãça, por
+milagre tivera que o casado não fizesse o que visse fazer ao solteiro.
+Destes os mais costumão dar maos conselhos, exhortar [CG134r] ao casado que se
+não sogeite à mulher, e viva como livre. He manha antiga de nossa fraqueza folgarmos de
+fazer os vicios comunicaveis. Os doentes desconfião de que haja quem se guarde de seu
+mal. Aquelles que padecem, ou affectão sua soltura, procurão de a pegar aos que vivẽ em
+devido recolhimento.
+He para ser seguido, e acõpanhado do bom casado, o casado de bom procedimento;
+e destes sempre deve de ser o parente preferido. São bons para amigos aquelles, cujas
+mulheres saõ tambem amigas [CG134v] das mulheres proprias. Podemse ajudar, e prestar
+nas ocasioẽs; desabafase com elles o enfadamento familiar, cõ mais confiãça de
+compaixão, e remedio; porque alem de se referir a pessoa que os conhece, fica dito a
+pessoa, que outro dia pode fazer o mesmo.
+Dias ha que me perguntou hum fidalgo sisudo, casado de poucos tempos, a que
+hora seria conveniente se recolhesse à noite para casa. Lembrame que lhe disse, que essa
+hora daria o amor, ou ocupação, e não o relogio; mas [CG135r] elle não satisfeito, fez que
+discorressemos naquelle ponto.
+
+A huns parece que se deve recolher o casado sempre a hũa hora; e tal, que possa
+muito bem antes della haver negoceado o que lhe pode suceder, sem dar sobresalto na
+tardança. A outros; que não deve ser assi, senão à hora que for possivel; porque vindo hũas
+vezes cedo, se mostra que as outras que se tarda, teve a culpa a ocasião, e não a vontade.
+Tenho para mi que nada disto he seguro; porque os alicerces da confiãça do casado
+[CG135v] devemse de lançar no credito, e não no artificio. Inclinome mais ao recolher
+sempre a hũa hora justa, e proporcionada com as ocupaçoẽs, ou de casa, ou de fora. Sobre
+tudo parece que os casados de pouco devem guardar mais cortezia a suas mulheres,
+assistindolhes cõ maior cuidado aquelles annos primeiros.
+Tambem nesta obrigação não deixou de haver opinioẽs bem contrarias; e tanto, que
+entre dous esposados de grande juizo, ouvimos contar de hũ, que indose a recolher,
+[CG136r] dissera ao seu estribeiro: Fazei ter prestes à manhãa bẽ cedo para irmos à caça:
+que visita de cada dia não pode ser larga. E de outro, que sendolhe pregũtado pello moço
+que lhe dava de vestir, que vestido queria lhe concertasse para o outro dia, lhe respondeo:
+Vaite para casa de teu pai atè que te mande vir; porque primeiro se ha de segar aquelle
+trigo, que alli andão semeando, que eu haja mister vestido. Taes saõ, e tão varias, as
+opinioẽs dos homens; pelloque hum entendido dizia: Sabeis vòs porque [CG136v] o corvo
+he negro? Porque se vos não pregũta se he negro, ou branco.
+Já V. M. tem visto como nestes avisos não sigo algũa ordem, se não aquella, e
+aquillo, que a memoria me vai offerecendo. Creo que longe fica de seu lugar (mas em
+qualquer parte vem a tempo) o amoestar ao casado, que com o mesmo tento que deve
+fallar diante de sua mulher louvando as alheas, deve (e cõ maior ainda) de gabar a propria
+diante dos homens.
+Pode, e deve bẽ o marido, [CG137r] quando haja razão, e necessidade, louvar
+modestamẽte as virtudes de sua mulher: digo as virtudes, mas não digo as partes; e das
+mesmas virtudes não se faça ostentação a cada passo. Ao pai, ao irmão, a tão chegados
+parentes, aos muito amigos, e muito sisudos, poderia ser licito que desse o casado algũa
+vez mostra da satisfação que tinha dos dotes do animo, que em sua mulher havia, e
+estimava.
+Não são poucos, nẽ pouco grandes, aquelles, que entremetendo de cortesaõs, ou
+engraçados, [CG137v] gabão em publico as partes de suas mulheres, ou fallão nellas:
+cousa, a meu juizo, indignissima, e dignissima de grande reprensaõ. Eu fiquei hum dia
+como morto, fallando com hum fidalgo de idade, e autoridade, porque me disse, estando
+
+sua mulher doente de hũ peito, que fulana estava muito afligida, porque tinha as tetinhas
+muito delicadas.
+Estando hũa noite (qual estas) em Flandes, em certa casa, donde assistião grandes
+pessoas, foi hum dos circunstantes tão pouco advertido, [CG138r] que tirou o retrato de
+sua mulher, para o mostrar aos outros. Era de huns que se fazem com differentes trajos,
+que se lhe vão vestindo à vontade do apetite dos olhos: que tantas salsas tem inventado o
+vicio para a vista, como para o gosto. Sucedeo poes que estava entaõ o bom do retrato em
+figura de Alferes, e não parecia mal.
+Achavase na mesma casa hũ dos convidados, mancebo bem illustre, mas muito
+dado aos costumes da terra; e como todos estivessemos sobre cea (o que neste se
+enxergava melhor [CG138v] que nos outros) deulhe na cabeça levar da mão ao simples do
+marido o retrato da mulher; que beijava, e abraçava mais francamente, que se fosse sua,
+dizendolhe: O Alferes mio! O Alferes mio! e mil requebros descompostos. Em fim o
+negocio procedeo de feição, que todos viemos às pãcadas, e por pouco se não matão mais
+de dous: com tal vergonha, e escandalo, que não sendo a gente ciosa nẽ a terra maliciosa,
+houve assás murmuração, e durou muito; o que tudo procedeo da incauta [CG139r]
+confiança daquelle descuidado marido.
+Outros ha que, cõ tão pouco tento, levados, ou do desejo, ou da facilidade de sua
+cõdição, mostrão em praticas às mulheres, lhes não pesará de ficar viuvos. E suposto que
+os mais lanção estes ditos à zombaria; naquellas que os ouvem, se guardão como indicios
+do animo, e sinal certo de desamor; que na verdade vemos melhor pago na mesma moeda,
+do que se costuma dizer que o amor se paga. Desviese o prudente de taes remoques; antes
+em feitos, [CG139v] e ditos, mostre sempre a sua mulher aquella boa lei, cõ que della
+quisera ser tratado. Não como se conta do outro, que estando a sua agonizando, e dizendo
+que tinha grande desconsolação de deixar tal, e tal cousa por fazer; elle lhe respõdeo:
+Morrei vòs senhora, que tudo bẽ se farà.
+Guarda, senhor N. de ser proluxo, e cansado, como não poucos saõ a suas
+mulheres, e familias. He certo cousa intoleravel de sofrer a impertinencia de muitos, que
+sem algũa razão mais que [CG140r] aquella de que estão em sua casa, gritão, saõ
+comichosos, e enfadão as creaturas, ora querendo hũa cousa, ora não querẽdo aquella
+propria cousa que quiserão. O odio começa em desagrado, e por alli vai subindo atè se
+fazer odio, que assaz de vezes achamos entre a mulher, e o marido: servindo as causas do
+perpetuo consorcio, que havião de ministrar a amizade, e fé, de persuadir a inimizade, e
+perfidia.
+
+Jà que conto a V. M. historias assi, não hei cà de deixar esta. Solicitava com
+[CG140v] exquisita importunação em Roma a beatificação da veneravel matrona
+Margarida de Chaves, hum seu filho, que eu muito bem conheci, e de sua boca ouvi o que
+digo. Tinha o Papa Paulo Quinto remetido a causa a certo Cardeal; que jà andava tão
+temeroso do requerente, que em o vendo fugia delle. Sucedeo chegar a falarlhe hum dia,
+estando o Cardeal mais que outros enfadado; e havẽdolhe lembrado, como costumava, seu
+negocio; lhe respondeo: Senhor, não nos cansemos em provas da santidade [CG141r] de
+vossa mãi; prova sòmente que vos sofreo: que o Papa a declararà logo por Santa.
+He assi, que se considerarmos o que se sofre a homens impertinentes, e que se
+prezaõ de senhores absolutos, e que em nada tanto o parecẽ, como em se darem a padecer
+às pobres das mulheres; sem falta ellas farão a Deos tão grande sacrificio de paciencia, que
+bem poderão ser contadas no numero das santas.
+Pois hũs gritadores; e que por qualquer mosca que voou contra seu gosto, jà
+fundem [CG141v] a casa, e tirão della o segredo de sua mà condição, e elles proprios o
+lanção na rua! Deos nos livre, senhor, de tão mao costume. Disse bem o que disse, que
+ninguem padece tanto incomodo, que se puser os olhos no que outros padecem, lhe falte
+razaõ para soportar o que padece.
+Esta paixão toca, de ordinario, nos muito altivos, e nos muito desarrezoados.
+Aquelles cuidão que todos, e tudo fez voto solene de os servir; estoutros não querem dar às
+cousas algũ desconto. Ambos saõ defeitos [CG142r] infelicissimos; porque como as mais
+das cousas, e casos não estão em nossa mão, acõtece que todo o dia, todo o ano, e toda a
+vida, nos vão sucedendo ao reves do gosto, e da conveniencia; ao que não remedea nada a
+desconformidade com que se levão esses sucessos.
+Pareceme serà razão fazer hũa breve lembrança a alguns, que dão em se torcer para
+suas criadas, com grande perigo, certo, da reputação de sua casa, a quẽ elles mesmos saõ
+aleivosos, e merecedores de que em seu dano, [CG142v] com semelhante ousadia sejão de
+Deos castigados. As proprias aves de rapina, que não tem outro officio senão caçar, e prear
+o que encontraõ, costumão ir ao longe de donde habitão, fazer seus empregos. Porque
+serão os homens menos fieis, e menos doutrinados?
+Sendo certo que a porta principal para todo o perigo dos homens, he o illicito trato
+com as mulheres: nenhum dos mais licenciosos resulta com tão pessimos effeitos, como
+aquelle que se toma dentro na propria casa. O desconcerto [CG143r] do senhor della he
+logo bem aprendido da familia; e como hum delito chame por outro, elles se multiplicão
+ate hũ triste excesso.
+
+As criadas, vendose queridas de seus amos, conspirão logo contra as senhoras,
+traçando de ordinario taes enredos, que não cõtentes da primeira offensa, as procurão
+despojar da honra, e da vida. Algũas com esperança de sucederem em seus lugares (como
+não poucas vezes acontece;) outras por gozar mais soltamente sua ruim liberdade. De aqui
+ouvimos [CG143v] tragedias lastimosas; de aqui vimos bodas infames.
+Entre os conselhos tocantes às virtudes do animo, que variamente tenho apontado a
+V. M. convem fazerlhe presente de algũs avisos concernentes ao bom governo de sua casa:
+cousa que por outro nome mais elegante chamão os filosofos Virtude Economica, segunda
+parte da ciencia civil, que tambem he segunda parte da filosofia moral. Isto em fim não he
+outra cousa que a industria, e prudencia com que o cidadão, o fidalgo, o grande, e tambem
+[CG144r] o pequeno, governão sua familia; que no Principe he arte politica, ou materia de
+estado; chamemlhe os filosofos como lhe chamarem.
+Esse Capitão Romano, que tinha para si saberia bem dispor hũa batalha aquelle,
+que bem sabia dispor hum banquete; dissera melhor, quando afirmasse, saberia bem
+governar hũa republica, quem sabia bem governar sua casa; pois he certo que a cidade he
+hũa familia grande, e a familia hũa cidade pequena.
+Aconteceome hũ dia (e porque o conte com toda a [CG144v] verdade, era hũa
+vespora de Reis) ir a visitar hum fidalgo meu amigo, que por morar longe da minha
+pousada, e serem dias de inverno, cuidei que o não achasse jà em casa. Era mancebo, e
+notados de pouco governo, elle, e sua mulher. Cheguei em fim à sua porta, e mandando
+saber se estava em modo de receber minha visita; em quanto lidava nesta averiguação hum
+pagem (batendo em vão a muitas portas) ouvi eu muito bem là dentro hũa voz que dizia:
+Fulano, ide a casa do Cura, e pergũtailhe [CG145r] da parte do senhor D. fulano, se he
+hoje dia de peixe, ou de carne. Se disser que de peixe, trazeio da ribeira; se disser que de
+carne, trazeia do açougue; ide de pressa, paraque se faça de jantar. Era isto, quãdo menos,
+da hũa para as duas horas. Veja V. M. que tal serìa para os servos o governo daquella casa,
+quãdo para os senhores della era desta maneira.
+Não saõ numeraveis os descontos, que causa hũ senhor froxo. Vulgar, mas
+certissima, sentença he aquella, [CG145v] de que então doem todos os membros, quando a
+cabeça està doente. Conheci hũ homem de grande qualidade, e juizo, em tanta maneira
+remisso, que mandava pedir a hum seu amigo viesse a peleijar cõ os seus criados, e
+obrigallos a que o servissem.
+Ora estes excessos contãose como monstruosidade; e não poucas vezes cõvem
+trazellos à memoria para os aborrecer.
+
+Toda a governança de hũa casa eu reduzo a dous pontos: Pão, e Pano; ou [CG146r]
+Prato, e Trato: regra, que muitos dias ha que sabe a prudencia. Pello pão, ou prato,
+podemos entender todos os bens, e comodos das portas adentro. Pello pano, ou trato,
+entenderemos todos os bens, e comodos das portas a fora. Algũa cousa disto toquei nos
+avisos passados; menos porem do necessario.
+Mas especializando de novo esta materia, convem que o senhor da casa procure
+que sua familia ande acomodada, e lustrosa segũdo seu estado, desvelandose, [CG146v] e
+buscando os effeitos para a conservar inteira em ambas estas qualidades. O comodo do
+pão, por que se denota o mantimento ordinario, deve com grande providencia ser provìdo,
+paraque a casa seja abundante, e que nella cõ ordem, e sem miseria se reparta. Pouco
+importarà que de fora se tragão a casa os meios que a podem fazer abastecida, se nella se
+vive em proluxa abstinencia. Muito peor levão os criados a abũdancia miseravel, que a
+pobreza liberal.
+[CG147r] Outros, com o escritorio bem provìdo, pagão mal, vestem peor. Não me
+ponho da parte da fortuna, que muitas vezes faz que os amos que menos bem tratão seus
+servos sejão os mais bem servidos; avogo pela razão, que obriga, desengana, e manda a
+quem quer ter bons criados, que lhe queira ser bom senhor. Aquelle, que de seus criados
+espera adivinhem seus pensamẽtos, adivinhe tambem suas necessidades.
+Tenho por regra geral muito cõveniente, que o prato [CG147v] da familia seja mais
+copioso que curioso; e o trato mais curioso que custoso. Comer a horas, vestir a tempo.
+Dizia hum grande senhor por outro de muito menor estado, mas de grande concerto, que
+nunca desejàra cousa como ser criado de fulano: porque assi os tratava, e conservava
+inteiros, que não sò não envelhecião jà mais nos vestidos, mas que nem na idade.
+Pague bem; isto he, a tempo. Aos criados o que lhe prometeo; aos officiaes o que
+valer seu trabalho. Serà [CG148r] bem servido de huns e outros. O premio deve seguir ao
+serviço, paraque o serviço acuda à necessidade. Quem paga logo, paga com menos; porque
+se o dar logo, he dar duas vezes, verdadeiramente se estima em muito mais do que he.
+Quem paga tarde, tẽ jà os animos tão desabridos, que com outro tanto mais do que deve os
+não deixa satisfeitos. Perguntavão a hum criado, a quẽ servia? e respondia que a hũ filho
+seu; e tornandolhe a perguntar que dizia nisto? respondeo: Sirvo a meu herdeiro.
+[CG148v] Por semelhãte razão disse hum discreto, andava errado o proverbio de que
+quem bem paga he herdeiro do alheo; porque muito mais certo he ser herdeiro do alheo
+aquelle que o alheo não paga.
+
+A todas estas cousas asista a providencia, e não a soberba; que sendo guiadas por
+aquella, serão justas, e excelentes; e por esta, demasiadas, e escandalosas. Convenho em
+que o casado principal tenha a sua mesa não faminta, limpissima, e bem servida; mas, que
+seja [CG149r] mesa para a boca, não para os olhos. Quero dizer, que ministre a
+necessidade, e não a vaidade.
+Ora contarei duas cousas a este proposito estranhas, e que ambas vi, e algũa
+exprimentei com meu dano. Havia hum Grande de Espanha tão grãde na vaidade, certo,
+como na miseria: mandavase servir de doze pratos ao jantar, e outros tantos à cea, que se
+lhe ministravão em publico cõ notavel ceremonia; e era certissimo que sò delles os tres
+levavão iguaria, e os [CG149v] nove passavão sua carreira tão vazios como a cabeça de
+seu dono.
+A outro vi, que tendo, por razão de seu cargo, o prato de certo Prìncipe, a quem
+servia, mandava levar as iguarias a sua casa, as quaes lhe servião a elle à mesa, e de que
+pouco se servia. Sucedialhe logo outra mesa de seu filho herdeiro, que comia com
+hospedes de ordinario; e de quem eu o fui algũas vezes; e eis aqui que aparecião outra vez
+aquelles pratos, sendo jà a terceira que no mesmo dia [CG150r] tinhão saido a publico;
+mas não parando nesta mesa, se armava o tinello, e là hião aos criados maiores, e delles
+decião os residuos aos menores; de feição que cinco papeis fazião os pobres pratos antes
+de serem de todo consumidos. Donde, cõ agudeza bem da sua terra, dizia hum dos criados
+desta casa, que el N. su señor era el maior cavallero de España; porque se servia con nietos
+de Infantes; porque todos sus criados estauan en el quarto grado cõ S. A. Aludindo às
+quatro mesas, por [CG150v] donde, como graos, vinhão decendo a elles as cousas, que na
+sua se comião.
+Tanto pode, senhor N. a vaidade com os homens, e mais no tempo de hoje, que
+lança çancadilhas à natureza e a derruba. Que o homem coma bem por necessidade, pode
+passar; que coma bem por regalo, pode passar; mas que funde seu credito em pratos
+vazios, ou aparecidos como figuras de comedias, guardenos Deos de tal semsaboria.
+O servir a mesa com os criados, cousa he costumada; [CG151r] mas em verdade
+que estes nossos Portugueses servem com tal descuido, ou cõfusaõ, que tinha por não
+grande perda o servir com as criadas. Misturas delles e dellas não fizera eu nunca; e
+sempre aconselhàra ao senhor se servisse cõ as criadas, senão fora destituillos a elles para
+nunca o saberẽ servir quãdo vem hospedes; donde he necessario que os criados assistão, e
+donde convem que saibão melhor o que fazem: cousa, que raramente sabem fazer os
+nossos.
+
+[CG151v] Acheime na Corte de Londres, em casa dos Embaxadores de S. Magest.
+a aquelle tragico Rei Carlos Primeiro; e havendose de dar alli hũa cea às Damas da
+Rainha, e às maiores senhoras de Inglaterra, suposto que na casa se tinhão mui
+decentemente preparado aquelles ministros; eu que sou assi proluxo, e não vi em nenhum
+de seus criados a arte necessaria para tal ministerio, o tomei a minha conta; e com hum
+filho, e um neto de hũ Embaxador, o genro de outro, e o [CG152r] Secretario da
+Embaixada, o negocio se dispos de feição, que se derão as convidadas por melhor servidas
+ainda do que regaladas. Tanto importa o saber servir às mesas nobres, que verdadeiramẽte
+he a principal iguaria dellas; mas entre nos poucas vezes achada; e tambem digo que nem
+muitas achada menos.
+Acabo isto com o exemplo de S. Magest. que poem fim a todas as razoẽs, e esforça
+a minha; pois podendo ser servido de seus criados, os deixa, e certo que [CG152v] com
+grande acordo, e se serve cõ as Damas, e criadas da Rainha. Tenho para a pessoa de
+qualquer estado por mais limpo, e quieto modo de servir à mesa, aquelle das mulheres,
+ainda que não sejão anjos as que ministrem. E por isto dizia hum convidado de hũa sua
+parenta, que o fazia servir de duas criadas, hũa fea e outra bem parecida: Senhora, cà viera
+todos os dias, se a fea só me servisse; porque estoutra he anjo, que me deixa anjo.
+Já que aqui estamos, digase [CG153r] (pois tambem importa) que não se coma
+desorado; quero dizer, fora de tempo. He grande inconveniẽte para as pessoas a quem
+assistẽ seus criados. Quando o ministerio, o officio, ou negocio assi o pedissem, fora de
+parecer que os criados comessem primeiro; porque de outra sorte seria intoleravel, e anda
+sempre a casa mal servida: acontecendo que por esperar o senhor que comão os criados, se
+comem despois delle, perder mil vezes o negocio ou saida, por não ter de quem se
+acompanhe.
+[CG153v] Gabo muito, senhor meu, hum cõservar nas casas certos costumes
+nossos familiares, e antigos, que as fartão, alegrão, e agasalhão, corroborando de novo o
+amor que se tem ao senhor da casa. Teve V. M. hum parente grãdissimo mestre destas
+politicas, e o mais amado amo de seus criados que eu vi ja mais, por estas e outras
+utilissimas humanidades que guardava com elles.
+Digo eu que o casado, por alegrar sua mulher, e familia, mesmo de seu movimento,
+[CG154r] mãde (se as houvesse) fazer em sua casa duas e tres comedias cada anno. Seja
+elle proprio o que com ellas convide; tem se aquillo em muito; dizem logo delle que he hũ
+anjo; e na verdade he mostra de bondade, folgar de que folguem os outros com as cousas
+
+decentes. Não como o nosso Rei D. Pedro, que chamarão Crú, e cruel, que mandava de
+noite acordar o povo que dormia, porque elle não podia dormir.
+Arme outras tantas romarias e folgas, que cheguem [CG154v] até aos menores.
+Mostreselhes assi leve, e cuidadoso de seu regallo. Reparta com prudencia dos mimos que
+lhe vierem, jà da renda, jà do presente. Ha casas dõde se perderaõ cem queijos de Alentejo
+antes que dar hũ a hũ criado. Aquillo de matar porcos pello tẽpo he lance caseirissimo, e
+bem aceito, que faz os homẽs bem quistos atè da vizinhãça. E para dar algum gosto a esta
+baixeza (que não quis que me esquecesse) direi o que aqui dizia hũ malvado cortesaõ, que
+assi como cada [CG155r] homem, por bom governo de sua casa, devia matar cada ãno
+pello menos dous porcos; assi por bom governo da Republica, devia matar cada anno pello
+menos dous vilãos ruins. Por tão bõ costume tinha este aquelle agasalho; o que bem
+favorece o nosso rifaõ quando diz: O dia de S. Thomè quem porco não tiver, matar pode a
+mulher.
+O ir às quintas louvo, o morar nellas não gabo; não porque me pareça indecẽte, mas
+porque o tenho por desacomodadissimo: vindo a ser [CG155v] estas quintas hũa quinta
+essencia da siganarìa. Estraga as casas, desbarata os moveis, destroça os criados; nada se
+forra, antes se gasta mais; e os homens nem gozão a quietação do campo, nem a
+autoridade da Corte. Entendo por estas quintas aquellas, das quaes se pode vir cada dia a
+Lisboa; donde com comodidade, ou sem ella, nenhum dos vizinhos deixa de vir cada dia;
+pelloque disse, com a graça que costuma, hum nosso discreto, que o coche de fulano hia
+tres vezes cada anno a [CG156r] Gerusalem, lançando as contas certas às legoas que
+andava cada dia o coche e seu dono, indo, e vindo de outra tal paragem.
+Os grãdes cortesaõs fazem a vivenda do campo aborrecivel, que ella de seu não he;
+antes alegre, e conveniente. Sendo hum convidado de certo fidalgo para estar com outros
+em hũa sua quinta dous dias, ao segundo sem se despedir dos companheiros, tomou o
+caminho da cidade; gritavãolhe os mais, que se detivesse, e como o fizesse assi, e lhe
+perguntassem [CG156v] adonde ìa, respondeo: Amigos voume, porque se estou mais de
+vinte e quatro horas no campo, cuido que me torno boi.
+Julgo por importante acção não viver de continuo na Corte, e me parece que ha
+huns tempos proprios de se retirar (o casado com sua familia) a viver no seu lugar,
+comenda, ou herdade; em fim aquella parte que mais comoda for para a vida. Se hei de
+apontar regra a este tal retiro; dissera que tendo o casado mais de dous filhos, era o proprio
+tempo. [CG157r] E que os annos da ausencia da Corte podiaõ bem ser aquelles em quanto
+
+os taes filhos crecem, e não perdem por não ser conhecidos atè então; como se
+dissessemos, até idade de oito e dez annos.
+Despois he bom tornar à Corte a introduzillos nella, paraque o Rei os conheça, e
+elles se criem sem espanto dos Paços, que sem duvida o causaõ aos que os não virão desde
+a mocidade; como se diz das aguas do Nilo; cujo estrondo he medonho ao forasteiro, e do
+natural [CG157v] não he ouvido. Dizia o Duque de Alva pai do que hoje he, sendo
+Mordomo mòr de ElRei de Castella: Si dos dias estoi sin venir a Palacio, al tercero ya
+tropieço en las esteras, o ellas se burlan de mi.
+Pareceme que despois de vindo atè casar estes filhos, se não deve fazer ausencia; e
+que, casados elles, se faça para descançar a velhice, ou maior idade; e dar hum Christão
+intervalo entre os negocios e a morte: que he o mais importante negocio para os vivos.
+[CG158r] Esta observação sò comprende a aquelle que vive só para si e comsigo;
+porque para o ministro, para o soldado, e para o criado do Principe, que vai de huns
+empregos subindo a outros, e merecẽdo cada dia mais, não he meu animo dar por conselho
+que sem causa deixe cada hum sua profissaõ, e aumentos. Com causa não lho negàra; nem,
+quando o fosse, fora tão indiscreta a minha confiança que esperasse desses taes se
+governarião pellas regras de hũ homẽ que tão mal se governou.
+[CG158v] Estas ausencias trazem grandes e muitos proveitos à vida, à saude, à
+fazenda, à salvação. A vida, porque no cãpo se vive mais; à saude, porque seus exercicios
+a conservão; à fazenda, porque se gasta menos; à salvação, porque faltão as ocasioẽs que a
+arriscão, e anda o animo mais livre para cuidar em Deos, e em si mesmo.
+Não fallece cõtudo quẽ tudo isto contradiga; porque, como dizia hum discreto, todo
+o homem poem outro nome à sua vontade. Assi he [CG159r] notavel a controversia, que
+houve sempre sobre este modo de vida retirada. Hum fidalgo nosso antigo se gabava que
+só de não no hà hi poupava no campo ametade de sua fazenda. Mas não fazia isso assi
+outro Castelhano, que quando se via alcançado, fingia que se retirava, e não saìa da Corte;
+e dezia que, Para descansar cada uno a su casa, no havia cosa como comerse media dozena
+de pajes y lacaios sin salir de su tierra.
+Estas taes retiradas costumão sempre ter grande [CG159v] contradição nas
+mulheres; e quanto ellas na Corte saõ melhor vistas, mais aparentadas, e gozão maior
+aplauso, tanto mais impugnão tal resolução dos maridos. Contra isto não tenho mais que
+dizer que o que disse hum mesquinho a outro que lhe pedio dinheiro emprestado,
+offerecendolhe sete razoẽs, pellas quaes lho devia de emprestar: Nas mesmas sete me
+fundo eu (disse o mesquinho) para não fazer o que V. M. me pede.
+
+Não me posso escusar de dizer duas palavras a huns [CG160r] certos casados, que
+toda a sua ansia e desejo he andarem sempre ausentes de sua casa, em viagens e jornadas,
+hũas paraque elles se convidão, outras de que se não desvião; deixando as mulheres
+moças, e as vezes bem desemparadas de todo o resguardo que lhes he devido. Estes
+costumão dizer, que por buscar pão e honra se ausentão; e não poucas vezes vimos que em
+taes demãdas se perde de contado a fazenda, e não poucas uezes se arriscão cousas que
+valem mais [CG160v] que ella. As mulheres casaõ para serem casadas. He o contrario não
+entẽder cada hum sua obrigação.
+Fallava hũa viuva com hum homem hum dia, que sabia que era ella viuva; e ella
+dezialhe: Senhor, eu nũca casei, vede vòs como posso ser viuva. Replicava o outro, que
+sim o era, porque conhecera em tal parte o senhor fulano seu marido; e ella tornava:
+Senhor, digovolo porque eu casei por procuração, e fui casada por carta; e isto he não ser
+casada. E era assi, que pellas [CG161r] ausencias de seu marido a penas o conhecera.
+Se estamos sòs, senhor N. hei de contar a V. M. hũa historia de mancebo, que ouvi
+em Barcelona. Havia alli hum fidalgo casado de pouco, cujo nome era Mosen Gralha.
+Passou o Emperador Carlos V. para Italia, e o seguio este Catalão a despeito de sua mulher
+moça, fermosa, e honrada. Engolfouse o marido em serviços, e esperanças, e não fazia
+conta de vir tão cedo. Enfadavase a mulher, e lhe requeria muitas vezes [CG161v] que
+viesse; mas desesperada jà da vinda dizem que lhe escreveo em Catalão estas palavras:
+Mosen Gralha, Mosen Gralha, mon amor non manha palha. Tomou o soldado a carta,
+levou a ao Emperador que lha interpretasse; o qual conhecendo o que queria dizer (que he
+facil de conhecerse) e fazẽdolhe merce, gabou a confiança, e discrição da mulher, e
+mandou para sua casa seu marido.
+Mosteiros, Recolhimentos, e outros resguardos [CG162r] semelhantes, em que os
+homens depositão suas mulheres, não deixão de ser arriscados; e de certo, quando a
+ocasião não seja muito urgente, he usar com as mulheres ruim lei, e faltarlhes com a fè e
+companhia devida; porque se cada hũa de aquellas quisera ser freira, bem escusara de se
+casar.
+Advirtase todo o casado, que no ausentarse por longo tempo de sua casa tenha
+muito tẽto; e seja raro o interesse porque assi o faça. Disputavel foi entre [CG162v] os
+politicos, se convinhão ou não os Capitaẽs casados ou solteiros. Dissera eu aos Reis, se
+fallàra com elles, que para as conquistas, e guerras offensivas que se fazem em provincias
+distantes, buscassem os solteiros; porque pella liberdade se arriscão; e por virem a
+descansar na patria, e buscar esposa, abrevião mais as empresas, e saõ menos custosos na
+
+vida e na morte a seus senhores. Ao contrario, para dentro de sua provincia, e na guerra
+defensiva, prefirão os casados aos solteiros [CG163r] nos postos militares; porque por
+defenderem a mulher, filhos, e honra delles, costumão os homens obrar maiores feitos, que
+por beneficio de sua propria vida.
+O mesmo que aconselhàra aos Reis para com os vassalos, aconselhàra aos vassallos
+para com os Reis. Assi nas eleiçoẽs, assi nas pretensoẽs.
+Passa V. M. por isto? Que me ìa eu agora metendo em politicas, e cousas de estado
+sem me sentir! Là se avenhão os que mandão o mundo. Cõ licença de V. M. [CG163v]
+quero fazer minha volta, e virme do pego para a terra.
+A cousa com que mais atentado sou, he, huns que dão em nomearem as mulheres
+por circũloquios, chamandolhes ora a minha velha, a minha companheira, a minha
+hospeda, a minha obrigação, a mãi dos meus filhos, e cousas assi, que em qualquer tom
+que sejão ditas, parecem pouco graves, e, a meu juizo, indignas de se acharem na boca de
+nenhum sisudo. A mulher de que o homem se preza, e o [CG164r] homem de que a
+mulher se honra, porque não han de ser por seus nomes nomeados? Digo dellas para elles
+outro tanto.
+Os parentes, se se casaõ, costumão chamarse pellos graos de seu parentesco, as
+mulheres aos maridos, e os maridos às mulheres. Eu sou amigo da verdade; e àntes
+aconselhàra a cada hũ que dissesse minha mulher, e meu marido, que minha prima, nẽ
+minha sobrinha, nem meu tio, nem meu primo. Todavia não he costume condenavel, se o
+[CG164v] não fosse com tal excesso que desse a ocasião, que deu outro, que de continuo
+nomeava a mulher por sua prima, a que hum criado seu, havendo de lhe escrever, lhe pòs
+no sobrescrito: A senhora prima de meu senhor; porque lhe não sabia o nome.
+Se ei de levar ao cabo minhas impertinẽcias, tambem quero fallar algũa cousa
+sobre o estilo de se fallarẽ entre si os casados. O Tu he Castelhano; e por mais que elles o
+achem carinhoso, como là dizem, he palavra muito de praça, e que ao [CG165r] mais não
+deve de quebrar a menajem da camara para fora. O Vós he Frances, que com hum Vu,
+receberão a mesma Rainha Sabà, se cà tornàra. Tenhoo por demasiado vulgar. O Elle, e
+Ella, hũ Ouve senhor, Que diz senhora, he termo bem Portugues, assaz honesto, e bẽ
+soante. As Senhorias, e Excellencias, a quem pertẽcẽ gravidade induzem; mas parece hũ
+certo modo de esquivança tratar hum homẽ sua mulher como que se o não fora. Fiquẽse
+para os Principes e Reis as Altezas, [CG165v] e Magestades; e prohibãoselhe tambem
+aquelles affagos humanos entre os mais afectos que lhes não podem ser comuns. Dõde jà
+dizia D. João o Segundo, que por sò tres dias folgàra de poder ser homem.
+
+Tratemse, a meu rogo, os os nossos casados cõ aquelle modo que melhor
+companhia faça guardar ao amor, e à estimação; que he hũa excelente conserva para a vida
+dos hõrados. Sẽ embargo, os mais moços tem privilegio para poderẽ sair tamalavez da
+severidade destas regras.
+[CG166r] Ora muito ha que lhe não digo nada às casadas, às quaes tenho para
+encomẽdar hũa acção não inutil, antes de grande conveniencia. Ha muitas, que de
+desgostos que não podẽ remediar, tomão em si o castigo: cousa totalmente indigna, como
+injusta. Hũas, por serem mal casadas, se desmanchão em si mesmo, e desfigurão, com o
+que vem a ser peor casadas. Aquellas a quem lhes morrem os filhos, aquellas a quem lhes
+não nascem, vivem não sòmente desconsoladas no animo, mas o dão [CG166v] a entender
+no trajo e rostro; de que os maridos prudentes, e que mais as estimão, se entristecem, e
+vivẽ afligidos; e os de leve condição tomão motivo para procederem mais levemẽte,
+achando facil a disculpa, que não tem, no exquisito modo das mulheres. Nacem desta
+desordẽ outras maiores, em grande offensa da paz; porque de ordinario os homens não saõ
+da condição de hum meu amigo, que dizia a sua mulher noutro tal caso: Senhora
+desenganaivos, que por mais que me façais, nem [CG167r] vos hei de querer mal, nẽ me
+haveis de parecer mal.
+Devese à fé e igualdade no Matrimonio contrahida, grande satisfação; e assi como
+entre os bem casados he digno de muita dor, faltar a algum delles a vida; assi he digno de
+muito sentimento faltar a alegria de algum. Jà deixo dito que as almas dos casados saõ
+comũas; seus gostos, e pesares. Não haja parte que se queira levantar com a parte alhea.
+Nenhum chore, nẽ se alegre, mais do que pode tocar de affecto à sua ametade.
+[CG167v] Poes a proposito destas que de tristes se desconcertão, farei lembrança
+de outras que igualmente saõ reprehensiveis, por de muito alegres, se concertarem mais do
+necessario. Jà disse acerca das galas e adornos; e não sei se de nojo, ira, ou esquecimento
+tardei até agora em fallar de hũas que poem no rostro.
+A mulher que poem no rostro, poem nelle sua injuria, e tira delle sua vergonha; não
+belleza nem mocidade poem por certo: porque não só offende o siso, mas os [CG168r]
+annos e o parecer. Todos entendem logo que pouco se fia em si aquella que de tão baixas
+cousas se ajuda. Sempre se teve por cobarde o que muito se armava. Quantas, em vez de
+agradarem aos que as vem, por essa propria diligencia escandalizão, e vão como
+convidando o riso e a mofa da gente que pretendião admirar, e affeiçoar pode ser! Este
+abuso he digno de que o marido, logo que o conhecer, o atalhe por todos os meios; porque
+a idade o não emenda, antes o acrecenta. Tenho por certo [CG168v] que tão ruim conta dà
+
+de seu juizo o marido que sofre posturas a sua mulher, como dà de seu entendimento a
+mulher que as usa. Hũa cõvidava a seu marido que se sentasse junto della; e elle dizia:
+Deixaime, que de hũa doença me ficou grande entejo aos doces da botica. Outro dizia por
+hũa sua parẽta, que com muitos annos sobre si, trabalhava pellos lançar fora do parecer:
+Minha tia ful. na não quer se não esperdiçar desenganos. E na verdade assi he, porque a
+graça da mocidade se não [CG169r] alcança, e se perde a gravidade da velhice. Os rostros
+se desfigurão com os martirios que nelles fazem os unguentos; e as pobres saõ escravas de
+sua presunsão. A que aludìa hum discreto, dizendo por outra tal: Muito ruim cativeiro se
+dà aquella senhora ao seu rostro. Mas com muito mais graça que todos o disse (como
+sempre) o Cardeal C,apata, que, visitando hũa senhora Romana de maior idade, e muito
+dada a este mao costume, como ella lhe perguntasse que novas havia [CG169v] em Italia,
+e elle a visse tão maltratado seu rostro pella força das posturas, dizem que lhe respondeo:
+Ilustrissima señora, mui malas nuevas tenemos; porque, segun las cosas corren, yo estoi
+viendo Soliman apoderado de Civitavieja.
+E porque, escrevendo eu a V. M. e regulando estas amoestaçoẽs, ou conselhos,
+segundo as pessoas de seu porte, das quaes costumão sair sempre (pello menos sempre
+devião sair) as que ocupão grãdes lugares na paz e na guerra; não serà [CG170r] sem fruto
+deixar advertido a todas as mulheres, que o chegarem a ser de ministros, e pessoas que tem
+à sua conta os negocios publicos, algũa cousa tocante à conservação de esse estado.
+Dão muitas destas senhoras mulheres de ministros, cõ grande risco de seus maridos
+e casas, em quererem ser ellas ministras tambem como elles. A tres pontos se reduzem
+estes inconvenientes: Interceder pellos que pretendem, negociar cõ os despachados,
+revelar segredos aos negociantes.
+[CG170v] Não sei qual he pior. Affirmo que tudo he pessimo para a opinião dos
+ministros, cujas mulheres se deixão levar do aplauso, interesse e ambição. Tenho em meu
+poder a copia de hũa carta de Carlos Quinto para D. Felipe seu filho, quando em hũa de
+suas jornadas o deixaua governando, e instruìa dos sogeitos que lhe dava por ministros; e
+chegando a hum, de quem não tinha toda a satisfação, diz estas palavras: Fulano era el
+mejor de todos, si fuera eunùco; porque la muger deshace [CG171r] en aquel hombre las
+mejores partes que he visto.
+Nas mulheres de ministros de justiça he mais perigoso este costume. Mas porque
+os de estado saõ pessoas maiores; quando nelles se acha este defeito, he mais notavel; ou
+quiçà que o não he tanto nos primeiros, por ser mais ordinario. Ao que aludia hum
+
+Cortesão, que, pegandose o fogo em casa de hũ ministro de justiça pouco escrupuloso, ìa
+dizendo pello caminho: Acudamos, senhores, à nossa fazenda, que se nos queima.
+[CG171v] Queixavase hum requerente a outro de que hum seu juiz, sendo pobre,
+gastava como rico; e nomeando suas ostentaçoẽs, rematava cõ dizer: Poes isto senhor de
+que sae? E outro lhe respondia: Do que entra. Tornava o queixoso, e dizia: Senhor, não
+fizerão isso seus passados; e outro respondia: Não senhor, mas fazemno nossos presentes.
+Costumão as mulheres de alguns ministros, pella propria razão que se houverão de
+abster, e ajudar com grande tento a levar aquella [CG172r] carga a seus maridos,
+ocasionarlhe seu precipicio, carregandoos de novo com suas desordens, e vindo despoes
+com elles a terra.
+Deve o marido começar por si mesmo no cuidado que he bem que tenha de sua
+cõservação. E poes he certo que ao proprio sangue, em que nossa vida consiste, lançamos
+das veas, se se corrompe, porque não apodreça o outro que nos fica; quanto mais se deve
+sangrar a ambição, ou interesse, se na mulher for conhecido? que em breve tẽpo ameaça
+corrupção [CG172v] à saude do corpo, e da familia: morte da casa, do officio, e da
+conveniencia.
+Confesso que fora licito à senhora mandar sua encomẽda, fazer ao marido esta e
+aquella lembrança por hum ou por outro pretendẽte, e ainda favorecer a algum que o
+merecesse, dandolhe huns longes de seu negocio, cõ que lhe pudesse dar remedio. Mas
+como estas cousas sejão de seu natural perigosas, poucas vezes acontece que nellas se obre
+sòmente o licito. Contentàrame com que [CG173r] a pena do desconcerto se ficàra com o
+autor delle; mas não he assi; antes, da inconsideração da mulher he o marido sempre (sem
+ser o fiador) o principal pagador.
+Havia em Castella hum ministro dos que vou dizendo; era pouco limpo, ainda que
+mui asseado; mercadejava a mulher, e ganhava sempre; elle dizia, quãdo lhe gabavão suas
+alfaias: Muchas gracias a la industria de Doña Clara. E o certo era, que a industria era
+clara cõ que D. Clara se aproveitava de sua industria.
+[CG173v] Passando a Indias hum mercador, lhe foi dada certa encomenda da
+mulher de hum ministro; e acertou o pobre de se perder, e perdella, com todo seu cabedal.
+Tornou a Espanha, e à Corte; e não lhe sendo recebida em desconto a perdição, houve tal
+violencia no caso, que lhe fizerão pagar aquella encomenda com ganhos, e cabedaes, como
+que não pudesse ser perdida como as outras. Voltou a Sevilha, e topando a outro mercador
+seu amigo, lhe perguntou adonde ìa, e havendolhe [CG174r] dito que à Igreja maior a
+segurar com Deos, e com os homens de negocio, certa grande partida de fazenda que
+
+esperava de fora, então lhe disse o queixoso: Andad, señor, y no hagais tal; mejor es
+encomendarla a mi señora Doña fulana, que toda la saca a puerto de salvacion.
+Mas porque toquei arriba acerca dos segredos que as mulheres costumão revelar
+dos officios de seus maridos; a proposito virà agora tratar desta materia, assaz essencial
+para o descanso [CG174v] do matrimonio.
+Vi, senhor N. e ouvi ja grandes disputas (e tive ja boa parte nellas) sobre se se deve
+dizer à mulher, ou não, tudo o que se sabe. Eu, que fui sempre amigo de ver amar com
+singeleza, muito tempo tive para mi, que a mulher honrada havia de ser hũa boceta, em
+que se guardassem os secretos mais intimos de seu marido; e que esse era dos maiores bẽs
+do casamẽto, achar hum homem na mulher hum coração fiel, com quem poder repartir dos
+cuidados, e ansias, [CG175r] que às vezes não cabem no coração do homem, com a
+mesma confiança que se não saissem de seu animo; e que tudo o contrario era hũ amar
+fraudulentamẽte.
+Isto era o que eu cuidava; mas não he isto o que hoje creo, nem o que aconselharei
+a meus amigos; antes me tem mostrado a experiencia, e maior observação, que alcancei
+com os maiores annos, e com os novos casos, que contra esse mesmo amor e legalidade,
+que à mulher propria se deve, irà aquelle que lhe fiar segredos [CG175v] e paixoẽs à sua
+capacidade aventejados.
+Pareceme a mi agora isto como quem poem meada grande em dobadoura pequena,
+que em lhe puxando pello fio, tras o fio a meada, e a dobadoura, tudo a terra. Senhor meu,
+se carregarmos hũa caravella com o lastro de hum galeão, metelaemos no fundo. Os
+segredos que se fizerão para os grandes coraçoẽs, fiquemse nelles. E tragase sempre
+presente aquelle notavel dito do outro: Nunca me arrependi do que não disse.
+[CG176r] Porem, poes em tudo vou pondo dos meus unguentos; saibase que não
+julgo as mulheres por de todo indignas de que se lhes confie algũa materia importante. E
+assi, se houvessemos de medir pella razão este negar ou fiar segredos, diria: Que as
+paixoẽs proprias erão, e saõ, dignas de lhes serem comunicadas. Os pontos da honra, os
+misterios do officio, as confianças do Rei, as resoluçoẽs da Republica, estas deve reservar
+o casado em seu peito indispensavelmente.
+[CG176v] Se eu posso dar regras, melhor regra serà esta: Podese dizer à mulher o
+que a mulher pode remediar com suas forças, ou cõ o conselho; o que não pode remediar,
+não convem que se lhe diga. Confesso houve, e haverà no mundo mulheres de grãde
+coração, donde fora bem empregada toda a confiança; com tudo, isto saõ como huns
+
+baratos, que dà a natureza, quãdo se acha rica e sobeja; que não devemos esperar haja
+repartido cõ todas; e a penas podemos crer que com algũas os repartisse.
+[CG177r] Hũa das cousas, em que os casados mais necessitão de advertencia, he
+nos casamentos dos filhos. V. M. ainda està longe; porem, como nisto fallamos por hũa sò
+vez, não serà justo que, havendome lembrado de tanta impertinencia, me esqueça de cousa
+tão importante.
+Anda hũa pratica entre os homens, que affirma que o tempo do casamento dos
+filhos he quando houver melhor ocasião. Esta regra, a meu juizo, he bem falivel; porque,
+dado que haja boa ocasião para casar, e mà [CG177v] disposição para casar, em tal caso o
+acerto serìa duvidoso; e as mais vezes não serìa. Devese entender isso da ocasião despois
+da disposição, e quando a vontade dos filhos estivesse conforme para receber esse estado.
+Porque aindaque das conveniencias delle se podia esperar que o proveito trouxesse o
+gosto; todavia a vontade, que he nesta demanda o autor ou reo, raras vezes se governa por
+essas regras; e de casamentos sem vontade não ha que esperar contentamento.
+[CG178r] Seja livre a eleição do estado dos filhos; mas de tal sorte livre, que seus
+pais os estejão sempre inclinando a aquelle que lhes convem. Sejão então seus
+conselheiros, não seus senhores.
+Mas filhas he grandissimo perigo; porque havendo trazido a vaidade humana hũas
+leis (certo tiranas) contra a honra, partes, e virtude, e sò em favor do interesse; sucede de
+ordinario que nas casas illustres e grandes, donde ha muitas filhas, a penas pode haver dote
+com que casar hũa [CG178v] como convem. Ficão logo as outras condenadas a perderem
+por força a liberdade, e haverem de tomar estado que não desejão, e violentissimamente
+sofrem.
+O remedio deste dano he quasi sem remedio: porque seria necessario emendar
+primeiro toda a republica, e os maos costumes della. Se nos houvessemos de governar por
+exemplos passados, vimos que muitos grandes homens, achandose ricos de filhas, se
+fizerão maiores nas decendẽcias, e a ellas não violentàrão. Recolherão na [CG179r]
+Religião as que a pedião; casarão as que o desejavão. Neste caso, parece que o pai de
+muitas filhas se pode contentar não abaixando, sem que procure subir: que mais
+claramente he dizerlhe, poderia casar suas filhas com pessoas que lhas pedissem para se
+honrar com taes mulheres; e não querendo, achar para genros homens cõ que se honrasse.
+Basta que se não deshonrasse com elles. Isto não he sempre, nem para todos; nem lhes
+nego a todos que procurem o melhor; mas amoesto que se acomodem [CG179v] com o
+possivel.
+
+Guardàrão esta materia de estado muito notaveis pessoas deste Reino, que pudera
+nomear, se não fora aqui escandalosa a comparação: fazendo memoria de algũas
+desigualdades, que despois igualou o tempo, e a fortuna.
+A valia dos Principes, a grande riqueza, o valor notavel da pessoa nas armas, ou
+nas letras, quando seja acõpanhado de limpeza de sangue, realçaõ as qualidades dos
+homens de sorte que os fazem merecedores [CG180r] de se poderem aparentar cõ os
+maiores; e a estes dão confiança para se deixarem aparentar com elles.
+Dizia hum grande Senhor em duas palavras tudo o que aqui ha que dizer: Que com
+seus filhos havião de ir rogar seus pais, para serem bem casados; e para suas filhas havião
+de ser rogados, para serem bem casadas. E outro, não menos entendido, costumava dizer:
+Que as boas partes erão chapins da qualidade, que fazião crecer as pessoas de sorte que
+muitas vezes igualavão [CG180v] os pequenos com os grandes.
+Faltame aqui por advertir algũa cousa a hũas certas mãis, e não sei se a alguns pais,
+que dão seus geitos às filhas paraque se casem; particularmente a aquellas de bom
+frontispicio: largandolhes para esse effeito hum pouco a redea do recato.
+Digo de mi que sou austerissimo nesta materia. Se a houvesse de julgar cõforme
+meu natural, não acabàra nunca de condenalla. Vemos comtudo pello contrario tantos
+[CG181r] exemplos, que parece tẽ jà tirado o horror que nella achàrão outros. Fora de
+Espanha he tão ordinaria esta arte (em Flandes especialmente) que os galanteos saõ
+permitidos, e devidos, e chega a tanto, que os pais, e mãis vem a ser os mestres das filhas,
+a quem aconselhão os termos porque se devem haver com seus amantes até os obrigar a
+que lhes sejão maridos.
+De mà vontade direi (mas em fim o digo) que se pode dissimular a hũa filha,
+quando se saiba he bem vista [CG181v] de tal pessoa, que lhe estarà bem para marido.
+Mas devem ser taes os modos porque esta dissimulação possa ser licita, que tenho o
+achallos por impossivel. Aconselharà neste caso o animo de cada hum.
+Vem agora aqui o casar a furto, que chamamos, e contra a vontade dos pais. Isto he
+em duas maneiras: em acção, ou em paixão; em acção, casãdo o filho; em paixão, sendo a
+filha casada.
+Ao homem que seu filho se casasse bem, aindaque contra vontade de seus pais da
+[CG182r] mulher com que casasse, aconselhàra que o sofresse, que de secreto o ajudasse,
+e se não desse por contente nem descontente da acção de aquelle filhò. Receitaria neste
+caso hũa ausencia, que he cousa utilissima para negar ao juizo publico a tristeza ou alegria,
+quãdo dellas não convẽ testemunho. E se fosse antes do sucesso, seria maior prudencia.
+
+Ao homem que sua filha lhe fosse levada para casar com o filho alheo, se assi fosse
+que nisso não perdesse, aconselharia que se fosse apos [CG182v] della, e se vencesse no
+pesar que lhe daria essa desobediencia; que nos mais he teima e raiva, e nos menos
+verdadeira dor.
+Destas abominaçoẽs entre os pais dos que assi se casaõ, nacem de ordinario
+enemizades, brigas, contendas; e mais de ordinario publicos ditos, remoques, e deshonras;
+desenterrãose avòs, publicase o que se não sabia, vão os escandalos de monte a monte;
+então no cabo de todos seus defeitos, verdadeiros ou mentirosos, virẽ à praça, heilos
+amigos.
+[CG183r] O casar bem dos filhos pode absolvellos da culpa de ser a desgosto dos
+pais; que obrigados erão a ter gosto do aumento dos filhos. Finalmente o modo sempre era
+bẽ que fora bom; mas là diz hũ rifaõ Castelhano: Hagase el milagro, hagalo el diablo. O
+casar mal e a desgosto dos pais, he o ultimo descõcerto, e o que mais vezes se vè. Tem sò
+o remedio na perservação; porque para o erro não ha mezinha. Advirtãose assi os pais de
+darẽ com tempo estado aos filhos; e pello menos, quando não possa ser [CG183v] com a
+brevidade que se deseja, mostremlhes que disso se trata. Com esta esperança os
+entretenhão.
+Acontece haver homẽs, que por se gozarem de sua casa inteira, ouvem mal, e
+respodẽ pior aos casamẽtos dos filhos; e não poucas mulheres hà, que por não verem a
+nora enfeitada junto a si, ou a filha descuberta, e proximo o perigo de serem avòs antes de
+tempo, enxotão de casa as boas ocasioẽs das bodas dos filhos, que dão em ser tão
+melindrosas e descõfiadas, que poucas vezes tornão [CG184r] donde hũa vez as
+desprezàrão. Velese de tão indignos defeitos o marido sisudo, e a mulher honrada Queirão
+para os filhos, quando sejão pais, aquillo que, quãdo erão filhos, quiserão para si.
+Não he pouco, nem pouco proluxo, o que se tem discursado. Cada ponto quisera ja
+que fora o ultimo; mas com licença de V. M. não me haverei de despedir sem fallar em
+sogros e sogras, noras e genros, cunhados e cunhadas.
+Estes soem ser hũs malestreados parentescos. Certo [CG184v] que ja me puz a
+filosofar comigo, sómente, sobre a causa desta desavença; e outra não posso achar, salvo
+aquella que em outra differente causa deu o mestre dos politicos, dizẽdo: Que aos grãdes
+erão agradaveis as obrigaçoẽs, em quanto as podião pagar; mas como crecião mais, ainda
+em vez de amor, causavão odio.
+
+Julgo que he tamanha a divida que se tem aos sogros, e estes aos genros, huns a
+outros os cunhados, tanto o amor que se deve a pessoas tão conjuntas, que porque se
+[CG185r] não pode pagar, se converte em aborrecimento.
+Bem o mostra o estilo; que nos ensina, vendo chamar pais aos sogros, filhos aos
+gẽros, aos cunhados irmãos. Quanto he aqui, assaz està expressa a obrigação; mas assaz
+mais expressa a ingratidão destes e aquelles, pelloque estamos vendo.
+Queixavase hũa senhora viuva da grande amizade que tinha hum seu filho com
+certo fidalgo, em que a ella parecia não ganhava elle muito; de que recebia desgosto.
+Entroulhe por casa hum [CG185v] criado pedindo alviçaras; e perguntandolhe de que?
+respondeo: De que meu senhor quebrou ja cõ fulano: porque lhe casa com hũa filha.
+Como não me encarreguei de dar a razão, sò procurarei dar o remedio para que
+nunca tal abuso se pratique.
+Digame V. M. Se hum homem lavrasse com grandes despezas hũa quinta, durasse
+nesta obra muitos annos, gastasse nella seu tẽpo e sua fazenda, lhe saisse em tudo perfeita,
+e logo, [CG186r] ella acabada, se fosse a casa de V. M. e lhe desse aquella propriedade,
+lhe vinculasse outras, e de tudo o metesse de posse, que faria V. M.? Que digo eu V. M.?
+Que faria a mais ingrata pessoa do mundo, senão venerar, amar, regalar, e servir a aquelle
+homem, confessarse por seu escravo, por seu devedor, por seu perpetuo amigo?
+Poes que faz menos, ou que não merece mais, aquelle que cria por tantos annos a
+filha, a doutrina, guarda, e aperfeiçoa; e despois [CG186v] repartindo cõ ella seus bens, e
+entregando ametade da sua alma, mete todo este tesouro na mão a outro homem, a quem
+por ventura antes nada devia?
+Trarei para exemplo de bons sogros o que sucedeo quasi entre nòs, e quasi em
+nossos tempos. E foi, que havendo hum homem rico casado hũa sua filha com hũ fidalgo
+honrado, e querendo casar outra com outro, em nada maior que o primeiro; este segundo
+não quis fazer o casamento sem que lhe dessẽ em dote mais dez [CG187r] mil cruzados do
+que ao outro havia dado; e como o sogro dissesse, que teria grande causa de queixa o
+primeiro genro, dando elle mais ao segundo, e lhe não valesse esta razão para effeituar o
+ultimo casamento; houve emfim de cõvir nelle, e effeìtuallo, com tal galantaria e primor,
+que no proprio dia que assinou as escrituras ao segundo genro, mandou outros dez mil
+cruzados ao primeiro, dizendolhe, que não queria que houvesse alguem que cuidasse o
+estimava a elle menos.
+
+[CG187v] Por certo que não vi, nem ouvi, cousa mais galante, e honrada. E porque
+se veja que tambem ha genros que o sabem ser como devem, contarei a V. M. outro caso
+que bem o prova.
+Havia, não ha muitos annos, em certo lugar hũa pessoa riquissima, com hũa sò
+filha herdeira para casar; affeiçoouse sua mãi a hũ seu natural de boa qualidade, mas não
+muita fazenda; mandoulhe dizer que estava tão satisfeita de sua pessoa, que lhe queria dar
+as melhores duas peças que tinha [CG188r] em sua casa; quaes erão, sua filha por mulher,
+e cõ ella tudo quanto tinha. Respondeolhe o genro, que não seria razão que a quẽ tanto lhe
+queria, e a quem elle devia tanto, despojasse de todos os seus bens em hũa sò hora; que a
+filha receberia por esposa, com condição que lhe não havia de dar mais da ametade do que
+lhe prometia.
+Bem vejo que estes exẽplos saõ muito bons para escritos, mas não são taes para
+praticados; e disso mesmo he a minha queixa. Em [CG188v] fim eu satisfaço a minha
+obrigação, mostrãdo como não he impossivel esta devida amizade. Malditos sejão os
+interesses! que elles tem a culpa de que ella não prevaleça; porque de ordinario acontece
+que aquelles queixumes de sogros e genros, tudo funda em sim me deu, não me deu.
+Grande descanso viera ao mundo, se todos nos contentàramos cõ o possivel; mas isto he
+querer outro mundo.
+Tenho por boa a amizade e a companhia dos cunhados, quando elles sejão
+[CG189r] para amigos e companheiros; quando o não sejão nem por isso os excluo do
+trato e conversação. Devese neste caso fazer distinção dos maos aos ignorantes. Aindaque
+o cunhado não seja aguia, se deve admitir; e antes a estes com maior causa, porque os
+outros se lhe não atrevão. Mas aindaque seja aguia aquelle que mal procede, se deve
+desviar com todo o cuidado; se quer porque não pareça que em suas obras se consente.
+Ja ouvi murmurar, e não sei certo se murmurei [CG189v] eu tambem, de alguns
+que casando se apartão dos amigos que tinhão antes, e de todo se entregão à parentela de
+suas mulheres. Isto he condenavel; e se vè mais certamente naquelles que a ellas
+cegamente se lhe entregão.
+Andava hũ noivo sempre entre dous cunhados seus, que nem largava, nem o
+largavão. Passava às vezes por hum seu amigo do tempo de solteiro, a quem tratava com
+estranheza. Elle queixoso lhe disse hum dia: Pesame, senhor fulano, que [CG190r] a
+senhora D. fulana tenha tão pouca confiança da fé de V. M. que o não deixe andar pella
+cidade sem familiares.
+
+Tambem não serà razão que nos passe por alto a pratica de hũ accidente, não
+poucas vezes sucedido entre casados; como agora digamos huns descontentamentos, ou
+arrufos, que passaõ com nome de escandalos entre a mulher e seus parentes, agora sejão
+do marido, agora seus proprios.
+Tudo isto costuma proceder de leves causas. E como [CG190v] ordinariamente as
+vinganças das mulheres não saõ grandes, por isso saõ mais as queixas; que dão causa a
+desconfianças, e ruins vontades, com grande cargo do primor, e às vezes da conciencia;
+porque debaixo de hum, eu sou sua amiga, està enroscado hum odio como hũa serpente.
+Ha homens que tem por grande siso o não terem parte nestas contendas. Tal não
+aprovo; porque, alem de que ao marido por sua dignidade toca a justificação das acçoens
+de sua mulher, [CG191r] ou a emenda, tambem lhe pertence a direcção dellas; e mais na
+sua amizade, ou inimizade: assi como ao Rei pertence a guerra ou paz feita por seu
+vassallo. Fora de parecer que nos casos meudos (que estes saõ os mais) hum pouco se
+dissimulàra. Porque, senhor N. ahi ha hum desconcertar de braço ou pé, com que he força
+acudir ao Algebrista e outro que quanto mais bolem com elle mais o desmanchão. He
+carne quebrada, que ella por si mesmo solda quando lhe parece.
+[CG191v] Quando a duvida passasse muito adiante entre a mulher e seus parentes e
+parentas, e pudesse ser publica, e escandalosa, ou assi o ameaçasse; obrigado seria o
+marido a interporse em meo e acordar tudo.
+Isto se faz melhor, tratandose com o proprio marido da parenta (se o tem) ou ja
+ofẽdida, ou ja agressora. E aindaque seja levantandolhe hum par de testemunhos a ambas
+as agravadas, e dizendo a cada hũa que a outra a roga (cousa de que ellas muito se
+satisfazem) [CG192r] he conveniente acomodallas, e fazellas amigas.
+Mulheres ha, e não poucas, que nisto saõ tenazes, e durissimas de reduzir de seus
+pontos ou caprichos. Sem embargo, razão he que os maridos as encaminhem à razão, e
+lhes fação certo que ellas he bem que sigão o seu parecer delles; poes à sua conta delles
+està sua honra e credito dellas.
+Quando, feita a diligencia prudente e necessaria, não bastasse, tampouco serei de
+opinião que hum homem esteja mal com sua mulher [CG192v] porque ella não està bem
+com a outra.
+Ora, senhor N. quando comecei a escrever a V. M. foi com animo de não passar de
+hũa carta; e achome agora com hum processo escrito. Eu de meu natural sou miudo, e
+proluxo; o estar sò, e a melancolia, que de si he cuidadosa, me fizerão armar tão largas
+redes para colher dentro dellas todos os casos, e todos os avisos. Praza a Deos que nos não
+
+hajamos cãçado de balde; como seria, se no cabo de V. M. haver ouvido [CG193r] muito,
+e de haver eu dito muito, de aqui não tirassemos algum proveito.
+Rematarei com as generalidades que, a meu parecer, avultão bem a grandeza das
+casas: isto como conclusaõ do muito que nestes pontos havia que dizer.
+Bem vejo eu que se chegar a ser lido de algũa casada, ou casado (e mais ainda dos
+que estiverem para o ser) acharaõ medonho este caminho, por donde pretendo guiallos à
+prometida casa do descanso. Porque dirão elles o estão vendo cheo de [CG193v] abrolhos,
+e cautelas, que apenas parece poderà passallo a consideração, quanto mais a obra.
+Dirlhehei a todas, que nesta Carta sucede o que nas cartas de marear, que quem as
+vir assi cruzadas de linhas, e riscos, que se comem huns aos outros, parece que de tal
+confusaõ não pode haver quem se desempece; e na verdade não he assi; porque aquellas
+linhas todas são hũas proprias, e apenas passaõ de quatro principaes; mas para fazer mais
+facil o nosso uso, se multiplicão.
+[CG194r] Quem com bom juizo considerar esta maquina de cousas, as verà tão
+semelhantes, atadas, e dependentes hũas de outras, que não lhe pareceraõ muitas, mas hũa
+sò. E porque, como vemos, a corda de poucos fios se quebra facilmente, se com ella
+apertão muito; por isso he necessario tecer, e torcer de muitos avisos, e remedios esta
+corda, de que està pendurada a honra, vida, e salvação dos casados; porque com as forças
+do vicio se nos não rompa. E como todas ellas [CG194v] costumão quebrar pello mais
+fraco, e esta fraqueza he propria da mulher; por essa mesma razão convem fortificalla de
+sorte, com tanta cautela, e arte, que por mais que tire a ocasião, sempre se conserve sã e
+inteira.
+Mas se comtudo parecer às mulheres excessivamente rigurosa esta minha doutrina;
+certeficolhes que meu animo não foi esse, senão encaminhar tudo à sua estimação, regalo,
+e serviço.
+E porque assi se veja [CG195r] mais certamente, haja quem queira de mi outra
+Carta para as casadas; e então se verà quão bem avogo por sua parte, quando pello que aos
+maridos deixo dito as mulheres se não dem por satisfeitas.
+Senhor meu. Casa limpa. Mesa asseada. Prato honesto. Servir quedo. Criados bons.
+Hum que os mande, Paga certa. Escravos poucos. Coche a ponto. Cavallo gordo. Prata
+muita. Ouro o menos. Joias que se não peção. Dinheiro o que se possa. Alfaias todas.
+Armaçoẽs [CG195v] muitas. Pinturas as melhores. Livros algũs. Armas que não faltem.
+Casas proprias. Quinta pequena. Missa em casa. Esmola sempre. Poucos vizinhos. Filhos
+
+sem mimo. Ordem em tudo. Mulher honrada. Marido Cristão; he boa vida, e boa morte.
+Torre velha em 5. de Março 1650.
+
+D. Francisco Manuel.
+
+

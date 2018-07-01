@@ -1,0 +1,152 @@
+\nome Nuno_Peres_Trez                    
+
+\num 1                               
+
+\loc CV 805; CBN 1148                 
+
+\txt                                  
+
+ Des quando vos fostes d aqui,
+Meu amigo, sen meu prazer,
+Ouu eu tam gram coita des y
+Qual uos ora quero dizer:
+Que non fezeron, des enton,
+Os meus olhos, se chorar non,
+Nen ar quis o meu coraçon
+Que fezessen, se chorar non.
+
+ E, des que m eu sen vos achei,
+Sol non me soub i conselhar,
+E mui triste por en fiquey,
+E con coyta gramd e pesar:
+Que non fezeron, des enton,
+[Os meus olhos, se chorar non,
+Nen ar quis o meu coraçon
+Que fezessen, se chorar non.]
+
+ E fuy eu fazer oraçon
+A San Clement e non uos vi,
+E ben des aquela sazon,
+Meu amigu, au~eo m assy:
+Que non fezeron des enton
+[Os meus olhos, se chorar non,
+Nen ar quis o meu coraçon
+Que fezessen, se chorar non.]
+
+
+
+\num 2                             
+
+\loc CV 806; CBN 1149                                                      
+
+\txt
+
+ San Clemenço do mar,
+Se mi d el non vingar,
+Non dormirey.
+
+ San Clemenço senhor,
+Se uingada non for,
+Non dormirey.
+
+ Se vingada non for
+Do falss e traedor,
+Non [dormirey.]
+
+
+
+\num 3                             
+
+\loc CV 807; CBN 1150                                                     
+
+\txt
+
+ Non vou eu a San Clemento
+orar, e faço gram razon,
+Ca el non mi tolhe a coita,
+que trago no meu coraçon,
+Nen mh aduz o meu amigo,
+Pero lh o rogu e lh o digo.
+
+ Non uou eu a San Clemento,
+Nen el non sse nembra de min,
+Nen mh aduz o meu amigo,
+Que senpr amey, des que o vi,
+Nen mh aduz o [meu amigo,
+Pero lh o rogu e lh o digo.]
+
+ Ca se el m adussesse
+O que me faz penand andar,
+Nunca tantos estadaes
+Arderan ant o seu altar.
+Nen mh aduz [o] meu [amigo,
+Pero lh o rogu e lh o digo.]
+
+ Ca se el m adussesse
+o por que eu moiro d amor,
+Nunca tantos estadaes
+arderan ant o meu senhor.
+Nen mh aduz [o] meu [amigo,
+Pero lh o rogu e lh o digo.]
+
+ Poys eu e mha uoontade
+De o non veer son ben fiz
+Que poirey, par caridade,
+Ant el candeas de Paris.
+Nen mh aduz [o] meu [amigo,
+Pero lh o rogu e lh o digo.]
+
+ En mi tolher meu amigo
+filhou comigo perfia,
+Por end ardera, uos digo,
+Ant el lume de bogia.
+Nen mh aduz [o] meu [amigo,
+Pero lh o rogu e lh o digo.]
+
+
+
+\num 4                             
+
+\loc CV 808; CBN 1151                                                      
+
+\txt
+
+ Estaua m en San Clemenço,
+Hu fora fazer oraçon,
+E diss mh o mandadeyro,
+Que mi prougue de coraçon.
+Agora vieira aqui uoss amigo.
+
+ Estaua [m] en San Clemenço,
+E fora candeas queimar,
+E disse mh o mandadeiro:
+Fremosa de bon semelhar,
+Agora uieira aqui [uoss amigo.]
+
+ Estaua m en San Clemenço,
+hu fora oraçon fazer,
+E disse mh o mandadeyro:
+Fremosa de bon parecer,
+Agora uieira aqui [uoss amigo].
+
+ E disse mh o mandadeyro
+Fremosa de bon semelhar,
+Porque uyu que mi prazia,
+Ar começou m a falar:
+Agora uieira aqui [uoss amigo].
+
+ E disse mh o mandadeyro,
+Fremosa de bon parecer,
+Porque uyu que mi prazia,
+Ar começou a dizer:
+Agora uieira aqui [uoss amigo].
+
+ E disse mh o mandadeyro,
+Que mi prougue de coraçon,
+Porque uyu que mi prazia,
+Ar disse mh o outra uez enton::
+Agora uieira aqui [uoss amigo].
+
+
+
+

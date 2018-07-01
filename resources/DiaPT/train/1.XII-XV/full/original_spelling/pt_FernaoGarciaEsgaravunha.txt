@@ -1,0 +1,605 @@
+\nome Fernão_Garcia_Esgaravunha
+
+\num 1
+
+\loc CA 410; CBN 210
+
+\txt
+
+Qvand eu mha senhor conhoci
+e uj o seu bon parecer
+e o gram ben que lhi Deus dar
+quis, por meu mal logu entendj
+que por ela ensandecer
+me ueriam, e leuar
+grandes coytas e padecer.
+
+Per o que eu soub entender,
+quando os seus olhos catei,
+que per ela e non per al
+me ueerian morte prender,
+perque me logu j non quitei
+du a non uisse e que o mal
+que oi eu sofro rechei?
+
+Muyt er temj, mays eu cuidei,
+con muj mal sen que ouu enton,
+que podess eu sofrer muj ben
+as grandes coytas que leuei
+per ela en o coraço[n]
+e prouei o, e poys, quand en 
+me quis partir, non foy sazon
+
+De m en partir, ca en outra ren
+non pud eu cuidar des enton. 
+
+\num 2
+
+\loc CA 411; CBN 211
+
+\txt
+
+A que uos fuj, senhor, dizer por mj
+que uos querria mao preço dar,
+do que eu quer agora a Deus rogar
+ponh eu d ela e de mj, outrossy
+que El hi leixe mao prez auer
+a quen mal preço uos quer apoer.
+
+A que a gran torto me uosco mizcrou
+e que gran torto uos disse, senhor, 
+por en serey sempr [a] Deus rogador,
+de mjn e d ela que m esto buscou,
+Que El hi leixe mao prez auer
+[a quen mal preço uos quer apoer.]
+
+Mays torne sse na uerdade, por Deus,
+ca uos non disse uerdade o sei,
+logu eu d ela e de mjn rogarei
+a Deus que ueia estes olhos meus,
+Que [El hi leixe mao prez auer
+a quen mal preço uos quer apoer.]
+
+\num 3
+
+\loc CA 412; CBN 212
+
+\txt
+
+Tod ome que Deus faz morar
+du est a molher que gram ben
+quer, ben sey eu ca nunca ten
+gram coyta no seu coraçon
+pero se a pode ueer, 
+mays quen end a lon[g] ia uiuer
+aquesta coyta non a par. 
+
+Ca pois hu ela [h]e i d estar
+pod e non sabe nulha rem
+de gran coyta, ca de pran ten
+assi en o seu coraçon
+qual ben lhi quer de lho dizer
+e non pode gram coita auer
+enquant en aquesto cuydar. 
+
+E quen ben quiser preguntar
+por gram coita mj pergunt en,
+ca eu assy sey, uedes por quen,
+per mjn e per meu coraçon;
+e mha senhor mh a faz saber,
+e o seu muj bon padecer,
+e Deus, Que m en fez alongar.
+
+Por uiuer sempr en gram pesar
+de mjn, e por perder o sen
+com auer a uiuer sen quen
+sei eu ben no meu coraçon, 
+ca nunca ia posso prazer
+hu a non uir, de ren prender
+uedes que couyta d endurar.
+
+E o que atal non sofrer
+non o deuedes a creer
+de gran coita, se hi falar. 
+
+\num 4 
+
+\loc CA 114; CBN 213
+
+\txt
+
+Que graue cousa, senhor, d endurar
+pera quen a sabor de uos ueer,
+per nulha ren de non auer poder
+se non muj pouco de uosco morar,
+e esso pouco, que vosqu esteuer,
+entender ben, senhor, se uoss disser
+algunha ren, ca uos dira pesar.
+
+A mjn auen a que Deus guisar, 
+d auer gran coyta ia mentr eu uiuer,
+poys a uos pesa de uos eu dizer
+qual ben uos quero, mays a Deus rogar
+quer eu assy, ca assi m [h]e mester
+que mj de morte, se a uos non der
+tal coraçon a uos, de uos en non pesar.
+
+E, mha senhor, por Deus que uos falar
+fez muj melhor e melhor parecer
+de quantas outras donas quis fazer,
+por tod este ben que uos El foy dar,
+uos rog oi eu por El, pois El quer
+que uos eu ame mays d outra molher,
+que uos non coyta, senhor, en pesar.
+
+\num 5 
+
+\loc CA 115; CBN 214
+
+\txt
+
+Quen uos foy, mha senhor, dizer
+que eu deseiaua mays al,
+ca uos mentiu, senon mal
+me uenha de uos e de Deus,
+e senon nunca estes meus
+olhos ueiam neh~uu prazer
+de quante al deseiam ueer.
+
+E ueia eu de uos, senhor,
+e de quant al amo pesar,
+se nunca no uosso logar
+tiue ren no meu coraçon,
+a tanto DEus non mj perdon,
+nen mj de nunca de uos ben,
+que desi eu mays d outra ren. 
+
+E per bõa fe, mha senhor,
+amei uos muyto mays ca mjn,
+e, sse o non fezess assy,
+de dur ueiria que mentir
+a uos, nen m eria partir
+du eu amass outra molher
+mays ca uos, mays, pois Deus quer
+
+Q eu a uos queria melhor,
+ualha m El contra uos, senhor,
+ca muyto mj per [h]e mester. 
+
+\num 6
+
+\loc CA 116; CBN 215
+
+\txt
+
+Senhor fremosa, conuen mh a rogar
+por uosso mal, enquant eu uiuo for,
+a Deus, ca mj faz tanto mal Amor
+que eu ja senpr assi Lh ei de rogar
+que El confunda uos e uosso sen
+e mj, senhor, porque uos quero ben,
+e o amor que me uos faz amar. 
+
+E uosso sen, que por en mjn errar
+uos faz tan muyto; serey rogador
+a Deus assi que cofonda, senhor,
+El muyto uos e mjn, en que errar
+nos faz tan muyto, e al m ar conuen
+de lhi rogar que ar cofonda quen
+me non leixa uosco mays morar.
+
+E os meus olhos, a que uos mostrar
+fuj eu, por que uiu oie na mayor
+coita do mu[n]d e non ei sabor
+de nulha ren, hu uo lhis eu mostrar
+non poss e Deus confonda mj por en,
+e uos, senhor, e eles e quen ten
+en coraçon de me uosco mizcrar.
+
+\num 7
+
+\loc CA 117; CBN 216
+
+\txt
+
+Senhor fremosa, quant eu cofondi
+o uosso sen e uos e uoss amor,
+con sanha foy que ouuj, mha senhor,
+e con gram coita que me fez assy,
+senhor, perder de tal guisa meu sen
+que cofondi uos en que tanto ben
+a quanto nunca d outra dona vy.
+
+Mays ualha mj por Deus contra uos hi
+uossa mesura e que gram pauor
+eu ey de uos, que sodes a melhor
+dona de quantas eu no mundo uj,
+e se mh aquesto contra uos non ual,
+senhor fremosa, non sei oi eu al
+con que uos eu ous a rogar por mj. 
+
+Mays a mesura, que tanto ualer,
+senhor, sol sempre a quen a Deus quer dar,
+me ualha contra uos e o pesar
+que ei, senhor, de quanto fui dizer,
+ca, mha senhor, que[n] muj gram coita ten
+no coraçon faz lhi dizer tal ren
+a que non sabe pois conselh auer;
+
+Com oi eu faç e muyt estou mal, 
+ca se m assy uossa mesura fal, 
+non a hi al, senhor, senon moirer. 
+
+\num 8
+
+\loc CA 118; CBN 217
+
+\txt
+
+A melhor dona que eu nunca uj,
+per boa fe, nen que oy dizer,
+[h]e a que Deus fez melhor parecer,
+mha senhor e senhor das que uj
+de muj bon preço e de muj bon sen,
+per boa fe, e de tod outro ben
+a quant eu nunca d aoutra dona oy.
+
+E ben creede de pran que [h]e assi
+e sera ia enquant ela uiuer,
+e quen a uir e a ben conhoçer
+sei eu de pran que dira que [h]e assi;
+ainda uos de sen ben mays direi:
+[h]e muyt amada, pero que non sei
+quen a tan muyt ame como mjn. 
+
+E por tod esto mal dia naçi,
+porque lhi soube tam gram ben querer,
+como lh eu quer e ueio me moirer,
+e non a uei e mal dia naçi,
+mays rog a Deus, que lhi tanto ben fez,
+que El mj guise com alg~ua uez
+a ueia cede, u m eu dela parti,
+
+Con melhor coraçon escontra mjn. 
+
+\num 9
+
+\loc CA 119; CBN 218
+
+\txt
+
+Quam muyt eu am ~uha molher
+non o sabe Nostro Senhor,
+nen ar sabe quam gram pauor
+ei oi eu dela, cuydo m eu,
+ca, se o soubesse, sei eu 
+ca Sse doeria de mj
+e non mj faria assy
+querer ben a quen mj mal quer.
+
+Pero que dizem que negar
+non Xe lhi pode nulha ren
+que El non sabha, sey eu ben
+que ainda El non sabe qual
+ben lh eu quero, nen sab o mal
+que m ela por ssi faz auer,
+ca, se o soubesse, doer
+Ss ia de mjn, a meu cuydar.
+
+Ca Deus de tal coraçon [h]e
+que tanto que sabe que ten
+en o Seu muj gram cuyt alguen,
+que logo lhi conselho pon, 
+e por esto sey eu que non
+sab El a coyta que eu ey,
+nen eu nunca a creerey
+por aquesto, per bõa fe. 
+
+\num 10
+
+\loc CA 120; CBN 219
+
+\txt
+
+Om a que Deus ben quer fazer
+non lhi faz senhor amar,
+a que non ouse ren dizer
+com gram pauor de lhi pesar,
+nen ai fez longi morar
+du ela [h]e, sen seu prazer,
+
+Com agora mjn faz uiuer,
+que me non sei conselh achar
+con tan gran coyta de sofrer,
+en qual m eu ora uei andar,
+com a uer sempr e deseiar 
+mays d outra ren de a ueer.
+
+Mais non pod aquesto saber
+senon a quen o Deus quer dar
+a coyta que El fez auer
+a mjn, des que me foy mostrar
+a que El fez melhor falar
+do mund e de melhor parecer.
+
+\num 11
+
+\loc CA 121; CBN 220
+
+\txt
+
+Senhor fremosa que senpre seruj,
+se Deus me leixe de uos ben auer,
+pero mh o uos non queredes creer,
+des aquel dia, senhor, que uos uj,
+Sen uosso grado, me uos fez Amor,
+e sen o meu querer, gram ben, senhor.
+
+E, mha senhor, assi Deus mj perdon
+e mj de cedo, senhor, de uos ben
+que eu deseio mays ca outra ren,
+de que uos uj, mha senhor, des enton,
+Sen uosso grado, me fez Amor,
+[e sen o meu querer, gram ben, senhor.]
+
+E, mha senhor, assi m aiude Deus
+escontra uos, Que me faz tant amar
+que non sei hi conselho que filhar,
+des que uiron estes olhos meus,
+Sen uosso grado, me fez Amor,
+[e sen o meu querer, gram ben, senhor.]
+
+\num 12
+
+\loc CA 122; CBN 221
+
+\txt
+
+Meu Senhor Deus, uenho Uos eu rogar,
+con a mayor coyta que nunca uj
+auer a home, auede de mj
+doo, senhor, e nu[n]ca tal pesar
+mj façades, Meu Senhor Deus, ueer
+per que eu aia o corp a perder.
+
+Ca estou eu oi a muj gram pauor
+de a ueer, e meu sen en tal
+de uos rogar, por este, non por al,
+que nunca tal pesar de mha senhor
+Mi façades, Meu Senhor [Deus, ueer
+per que eu aia o corp a perder.]
+
+E ben sey eu de pran ca, se fezer
+mha senho lo que ten no coraçon,
+ca perderey eu o Corpo, mays non
+tan gram pesar; nunca, se Uos prouguer,
+Mi façades, Meu Senhor [Deus, ueer
+per que eu aia o corp a perder.]
+
+\num 13
+
+\loc CA 123; CBN 222
+
+\txt
+
+Se uos eu amo mays ca outra ren,
+senhor fremosa que sempre seruj,
+rog a [De]us, Que ten en poder mj
+e uos, senhor, que mj de uosso ben;
+e sse assy no[n] hee, mha senhor,
+non mj de uosso ben, nen uoss amor.
+
+Se uos eu amo mays d outra Molher,
+nen ca outr ome, mays ca mjn, nen al,
+rogu eu a Deus, Que muyto pod e ual, 
+que El mj de uosso ben, se quiser,
+E sse assy non [h]ee, [mha senhor,
+non mj de uosso ben, nen uoss amor.]
+
+\num 14
+
+\loc CA 124; CBN 223
+
+\txt
+
+Se Deus me leixe de uos ben auer,
+senhor fremosa, nunca uj prazer
+Des quando m eu de uos parti.
+
+E fez mh o uosso amor tan muyto mal
+que nunca uj prazer de mjn, nen d al,
+Des quando [m eu de uos parti.]
+
+E ouu eu tal coyta no meu coraçon
+que nunca uj prazer, se ora non,
+Des quando [m eu de uos parti.]
+
+\num 15
+
+\loc CA 125; CBN 224
+
+\txt
+
+Des oie mays ia sempr eu rogarei
+a Deus por mha morte, s en a dar quiser,
+que mh a de cedo, ca m [h]e muy mester,
+senhor fremosa, poys eu per uos sei
+Ca non a Deus sobre uos tal poder
+per que mj faça uosso ben auer.
+
+E ia eu senpre serei rogador
+des oie mais pola mha mort a Deus,
+chorando muyto destes olhos meus,
+poys per uos sei, fremosa mha senhor,
+Ca non a Deus sobr[e] uos tal poder
+[per que mj faça uosso ben auer.]
+
+Ca enquant eu cuydei ou entendi
+ca me podia Deus uosso ben dar,
+nunca lh eu quigi por mha morte rogar
+mays, mha senhor, ia per uos sey assy
+Ca non a Deus sobr[e] uos tal poder
+[per que mj faça uosso ben auer.]
+
+\num 16
+
+\loc CA 126; CBN 225
+
+\txt
+
+Punhey eu muyt en me quitar
+de uos, fremosa mha senhor,
+e non quis Deus, nen uoss amor,
+e, poys lo non pudi acabar,
+Dizer uos quer eu huna rem,
+senhor, que sempre ben quigi:
+or sachez ueroyamen
+que ie soi uotr ome lige.
+
+De querer ben a outra molher
+punhei eu a y gram sazon
+e non quis o meu coraçon,
+e, poys que nen Deus non quer,
+Dizer uos quer eu h~ua re[m],
+[senhor, que sempre ben quigi:
+or sachez ueroyamen
+que ie soi uotre ome lige.]
+
+E, mha senhor, per bõa fe,
+punhey eu muyto de fazer
+o que a uos forom dizer,
+Mays non pud, e, pois assi [h]e,
+Dizer uos quer eu hua ren,
+[senhor, que sempre ben quigi:
+or sachez ueroyamen
+que ie soi uotre ome lige.]
+
+\num 17
+
+\loc CA 127; CBN 226
+
+\txt
+
+Ora uei eu o que nunca cuydaua,
+mentr eu uiuesse, no mundo ueer:
+uj hunha dona melhor parecer
+de quantas outras no mundo uj,
+e por aquela logo me parti
+de quant eu al no mundo deseiaua.
+
+E, sse eu ant en mui gram coyta andaua,
+Ja m esta dona faz mayor auer,
+Ca me faz Deus, por meu mal, entender
+Todo seu ben e, poi lo entendi
+Mays, en tan graue dia foy por my,
+Ca mays coitad ando ca ant andaua. 
+
+E eu ui quam fremoso falaua
+E lh oy quanto ben disse dixer,
+Tod outra ren mi fez escaecer,
+per bõa fe, pois lh eu tod est oy;
+Nunca lh ar pudi rogar, des ali,
+Por nulha ren do que lh ante rogaua. 
+
+\num 18
+
+\loc CA 128; CBN 227
+
+\txt
+
+Nenhun conselho, senhor, non me sey
+A esta coyta, que me faz auer
+Esse uosso fremoso parecer,
+E, poys aqui tamanha coyta ey,
+Hu u[o]s ueio, fremosa mha senhor,
+que farey ia des que m eu d aqui for?
+
+E perdud ei o dormir e o sen,
+perderei cede quant [h]e meu cuydar,
+que non sei hi conselho que filhar.
+E, pois m aqui tamanha [c]oit auen,
+Hu u[os] ueio, fremosa mha senhor,
+[que farey ia des que m eu d aqui for?]
+
+[E Nunca eu tamanna coita ui
+auer a ome, si Deus me perdon,
+a qual og eu ei no meu coraçon
+por uos e, pois tal coita ei aqui
+U uus ueio, fremosa mha senhor,]
+[que farey ia des que m eu d aqui for?]
+
+\num 19
+
+\loc CBN 1422
+
+\txt
+
+N En Guenmin, que uistes mal doante
+De mao mal ond ouuera de moirer,
+Eu pug a mano en el e caente
+o achey Muyt e mandey lhi fazer
+Mui boa cama e adormeceu,
+E esperou ss e cobriu ss e peeu,
+E or ia mays guarido se sente.
+
+Achey o eu iazer desacordado, 
+Que non cuydey que podesse guarir.
+E poys eu ui que era mal coytado,
+Mandey o ben caentar e cobrir.
+E des que ss el ben coberto sentiu,
+Estornudou tres peydos e guariu
+Ja quanto mays e [h]e mays airizado.
+
+Achey o eu mal doente hu iazia
+Desacordado todo con o mal.
+E non cuydava que guareceria, 
+Mays a mercee de Deus quanto ual
+Que, hu ss a gente tal desasperou,
+Feriu tres peydos e determinhou
+E conhoceu, ca ia non conhoçia.
+
+D este mal non cuydei que guarecesse,
+Pero mandei lhi fazer huã ren:
+Que aquel dia per ren non comesse
+E sse deytass e sse cobrisse ben.
+E el deytou ss e cobriu ss enton,
+E peeu ben e ouue coraçon
+Poys de beuer, e dix eu que beuesse.
+
+\num 20
+
+\loc CBN 1423
+
+\txt
+
+Esta ama, cui [h]e Ioham Coelho,
+Per boãs manhas, que soub apre[n]der,
+Cada hu for achara bon conselho.
+Ca sabe ben fiar e ben tecer,
+E talha mui ben bragas e camisa.
+E nunca uistes molher de ssa guysa
+Que mays limpha uida sabha fazer.
+
+Ant [h]e oie das molheres preçadas
+Que nos sabemos en nosso logar,
+Ca laua ben e faz boas queyiadas,
+E sabe ben moer e amassar.
+E sabe muyta de bõa deiteyra.
+Esto non digu eu porque ben lhi queyra,
+Mays porque est assy, a meu cuydar.
+
+E sseu marido de crastar ueirões
+Non lh achan par de Burgos a Cairhon,
+Nen ela de capar galiões
+Fremosament - assy Deus mi pardon.
+Tod esto faz e cata ben argueyro,
+E escanta ben per olh e per calheyro,
+E sabe muyta bõa escantaçon.
+
+Non acharedes en todo Castela,
+Graças a Deus, de que mh agora praz
+Melhor ventrulho, nen melhor morçela,
+Do que a ama con ssa maõ faz.
+E al faz ben, como diz seu marido:
+Faz bon souriç e laua ben transsido,
+E deyta ben galinha choca assaz. 

@@ -1,0 +1,259 @@
+\nome Osoiro_Eanes                  
+
+\num 1                               
+
+\loc CA 320; CBN 10                 
+
+\txt                                  
+
+Min pres forçadament amor,
+e fez mj amar que [n] nunc amou,
+e fez mi tort e desamor
+quen mh a tal senhor tornou.
+E ueio que malbaratey
+que mh a tal senhor torney
+que non sabe que he amar,
+e sabe a homen penas dar.
+
+Que forçad oje e sem sabor
+En no mundo uiuendo uou,
+ca nunca pud i auer sabor
+de min nen d al, des que foi sou
+Se non d ela. E que farey?
+Por que pregunto? Ca eu sey:
+Viver ey, se de mjn penssar,
+ou morrer se min non amar.
+
+Quen quer x esto pode ueer,
+e mais quen mego uid ouer,
+que non ei ia sen, nen poder
+de m emparar d ~ua molher,
+a mays sen sanha que nunca uj,
+Ued ora se estou mal,
+que m emparar non sey de tal.
+
+Ca son tan en sseu poder
+que, ss end al fazer quiser,
+non o poderey eu fazer,
+se m en Deus en poder non der
+contra ela que eu seruj,
+qual dou a ela sobre mjn,
+que nunca eu soub amar al,
+ergu ela que mj faz mal.
+
+
+
+\num 2                             
+
+\loc CA 321; CBN 11                                                     
+
+\txt
+
+Sazon [h]e ia de me partir
+de mha senhor, ca ia temp ey
+que a seruj, ca perdud ey
+o seu amor e quero m ir;
+mays pero direy lh ant assy:
+"Senhor, e que uos mereci?
+Ca non foy eu depoys peor,
+des quando guaanhey voss amor.
+
+"E ueredes a sentir
+camanha mingua uos farey;
+e ue[e]redes, eu o sey,
+como poss eu sen uos guarir.
+E diredes depojs por mjm:
+" - Mesela por que o perdi !
+E que farey quando ss el for
+alhur seruir outra senhor?
+
+"Estranha mengua mi fara,
+tal que per ren non poss osmar
+como sen el possa estar.
+De mjn ra[n]curado sol hira
+e tjram mh o peor pouco sen
+que a tal home non fiz ben.
+A dona que meu reçeber
+com migo se pode perder.
+
+"" Ca, da que me lh eu assanhar,
+a meu osmo lh j mal diss er,
+se mh a logo acolher oer,
+mha uez~ia om ha sufocar;
+mao uez~io per sera,
+mays non xi uo lo sentira;
+ca non quer eu filhar o seu,
+nen lh ar qjrey leixar o meu. ""
+
+
+
+\num 3                             
+
+\loc CA 322; CBN 12                                                      
+
+\txt
+
+Eu, que noua senhor filhey,
+mal me soube d affam guardar,
+pojs ela nunca soub amar;
+a tal senhor, que uos direy?
+mays pero direy lh ~ua uez:
+que faça o que nunca fez.
+
+Quen homem sabe ben querer
+ca mays seruid en sera,
+ca bõa dona ui eu ia,
+por amar mil tanto ualer;
+por en lh i direy h~ua vez:
+que faça o que nunca fez.
+
+
+
+\num 4                             
+
+\loc CA 323; CBN 13                                                      
+
+\txt
+
+Cvidei eu de meu coraçon
+que me non podesse forçar,
+pojs me sacara de prison,
+e d ir comego hi tornar;
+e forçou ora nou amor
+e forçou me noua senhor,
+e cuydo ca me quer matar.
+
+E poys me assy desenparar
+h~ua senhor foy, des enton
+e cuid eu ben per ren que non
+podesse mays outra cobrar;
+mays forçaron mh os olhos meus
+e o bon pareçer dos seus
+e o seu preç e h~u cantar
+
+Que lh oy, hu a uj estar
+en cabelos, dizend um son.
+Mal dia, non morri enton,
+ante que tal coyta leuar
+qual leuo, que nunca uj mayor
+qual leuo ond estou a pauor
+de mort ou de lh o mostrar.
+
+
+
+\num 5                            
+
+\loc CA 324; CBN 14                                                      
+
+\txt
+
+E por que me desamades,
+a melhor das que eu sey?
+Cuyd eu rem hi non gãades
+eno mal que por vos ey;
+pola ira em que mh andades,
+tam graues dias leuey!
+Dereyt ey que da ren que mays amey,
+daquela me segurades.
+
+De uos, e certas sabhades,
+Ouir amor non desegey,
+e sse uos end al cuidades,
+bem l eu tort em prenderey;
+e, por Deus, nõ no façades,
+ca por uos me perderey.
+Conort ey, en que pouco durarey,
+se mais de mjn non penssades.
+
+De muytos ssom preguntado
+de que ey este penssar;
+e a mjn pesa aficado
+de quen me uay demandar;
+ey log a buscar sem grado
+rrazon por me lhe saluar
+e a guaradar;m ey delles ra[n]curar,
+e andar y com [h]e nembrado.
+
+Aly me ue gran cuydado,
+Depoys que me vou deytar;
+Pero som om mais folgado,
+Que lh i non ey de falar;
+iasço delles alongado
+que me non ouçam queyxar;
+tal amar podedes muy ben iurar
+que nunca foy d omen nado.
+
+H~ua rren uos juraria,
+deuede lo crêêr,
+que iamais non amaria,
+se d esta posso uiuer,
+quando uos, que bem queria,
+tam sem rrazon fuy perder;
+que prazer auedes de me tolher
+meu corpo, que uos sseruia?
+
+Ca me non rreçeberia
+aquel que me fez naçer;
+nen eu non uos poderia
+a tal coyta padeçer,
+ca per rrem non poderia,
+poys me deyt adormeçer;
+e entender, no uosso bon pareçer,
+a ualer me diuiria.
+
+
+
+\num 6                            
+
+\loc CA 325; CBN 15                                                      
+
+\txt
+
+ Uos, mha senhor, que non auedes cura
+de m ascoitar, nem de me ben fazer,
+ca non quis Deus, nen uos, nen mha uentura,
+a que m eu nunca pud i defender,
+quero uos eu de mha coyta dizer:
+- mal ey por uos muj mayor ca moirer,
+se me non ual Deus ou uossa mesura:
+perder m ey eu e uos, en me perder.
+
+Perda uos ey, que uos tan muyto dura,
+de mal, com eu por uos ey a soffrer,
+e que non sey de uos auer senon rancura,
+pero m en coyta fazedes uiuer,
+e que uos ey por amor a t~eer
+quanto de mal me fazedes sofrer;
+tod est eu faço, e non faço cordura,
+poys me uos non quererdes gradeçer.
+
+
+
+
+\num 7                            
+
+\loc CA 326; CBN 16                                                      
+
+\txt
+
+Ey eu tan gram medo de mha senhor
+que nunca lh ouso nulha rem dizer,
+e ueed ora de qual ey pauor:
+de quen non sabe matar, nen prender,
+Ne deostar nem brauo responder,
+Nen catar ...................................
+
+
+
+\num 8                            
+
+\loc CA 327; CBN 17                                                      
+
+\txt
+
+Par Deus, fremosa mha senhor,
+macar me fazedes pesar,
+ey uos ia sempr a deseiar
+enos dias en que uyuo for,
+ca m ar poderedes fazer,
+quando ar quiserdes, p[razer.]

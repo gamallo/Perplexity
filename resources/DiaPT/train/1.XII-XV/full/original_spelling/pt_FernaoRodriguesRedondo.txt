@@ -1,0 +1,81 @@
+                                           
+\nome Fernão_Rodrigues_Redondo
+
+\num 1
+
+\loc CV 1146; CBN 1516
+
+\txt
+
+Suer Fernadiz, si ueia plazer,
+ueste se ben a todo seu poder,
+e outra coussa lhe ueio ffazer
+que ffazem outros poucos no rreinado:
+senpr eu in ueraão lhe ueio trager,
+e no inuerno, çapato dourado.
+
+El sse ueste e se calça muj ben,
+en esto mete el o mais do que ten,
+pero nunca lhe ueio menguar ren.
+Et como se todo ouuvess endoado,
+hu outros non tragem, a el conuen
+que traga senpre çapato do ourado.
+
+El se ueste senpre ben como quer,
+et des i, custe o que custar poder,
+e non creades quen uos al diser,
+et d esto me ffaço marauilhado,
+ca in inuerno et per qual tenpo quer,
+senpre lhe ueio çapato dourado.
+
+\num 2
+
+\loc CV 1147; CBN 1517
+
+\txt
+
+Dom Pedro est cunhad d el Rey,
+que chegou ora aqui d Aragom
+con h~u speto grande de leitom;
+e pera que uo lo perlongarei?
+deu por uassalo, des i a senhor
+faz senpre noio, non uistes mayor.
+
+Pera se lhi non poder perceber,
+ia el tinha prestes cabo si
+aquel aspeto que filhou logu i;
+e que conpre de uos en mais dizer?
+Deu por uassalo, des i a ssenhor
+faz senpre noio, non uistes mayor.
+
+Muy ledo, seend hu cantara seus lays,
+a sa lidiça pouco lhi durou,
+e o espet en sas mãos filhou;
+e pera que o perlongarey mays?
+deu por uassalo, des i a ssenhor
+senpre faz noio, non uistes mayor.
+
+E en tal que lhi non podess escapar,
+nen lhi podesse en saluo fogir,
+filhou o espeto en som d esgremir;
+e que ey de uo lo perlongar?
+Deu por uassalo, des i a ssenhor
+faz senpre noio, non uistes mayor.
+
+Esta cantiga foi feita a don
+Pedro d Aragon per h~u caualeyro seu
+moordomo, que feriu endiado, e foi se
+guida d outra cantiga.
+
+\num 3
+
+\loc CV 1148; CBN 1518
+
+\txt
+
+Pero da Ponte, ou eu non ueio ben,
+o[u, de] pram, essa cabeça non he
+a que uos antano, per boa fe,
+leuastes, quando fomos A Gee[n].
+E, cuydu m eu, adormecestes [ager
+e roubador ou ladro...].

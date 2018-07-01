@@ -1,0 +1,60 @@
+                                                                    
+\nome Gomes_Garcia
+
+\num 1
+
+\loc CV 512; CBN 868
+
+\txt
+
+
+A uossa mesura, senhor,
+Aguardey mal dia por mj,
+Ca desmesura des alj
+che faz cad ia peyor,
+Ca me busca, conuosco mal,
+E a mesura non me ual,
+E leixa me moirer d amor.
+
+E, senhor, mal dia naçeo
+Que[n] mesura muyto aguardou,
+Como Eu guardei, e sempre achou
+Desmesura que me tolheu,
+Ca, onde eu cuydei auer ben,
+Por seruir nunca ouue en rem,
+Ca desmesura me tolheu.
+
+A uossa mesura gardei,
+Senhor, sempre mays doutra ren,
+Et a desmesura, pouren,
+Me faz tal mal que non sei
+Com ela ia consselh auer,
+Et leixa me da amor moirer,
+Et da mesura ben non hei.
+
+\num 2
+
+\loc CV 513; CBN 869
+
+\txt
+
+Diz meu amigo que me serue bem
+E que ren non lhe nenbra senon min,
+Perol foy ss el noutro dia d aquin
+Sen meu grado, mays farei lh eu por en:
+Por quant andou ala sen meu prazer,
+Que and huun tenpo sen meu bemfazer.
+
+El tem ora que logo ss aueira
+commigo, sol que ueer et me uir,
+E el queira como me sol seruir,
+Se m eu quiser, mays farei lh esto ia:
+Por quant andou [ala sen meu prazer,
+Que and huun tenpo sen meu bemfazer.]
+
+Por que se foy, e o ante non vy,
+Sen mh o dizer, a cas d el rey morar,
+Quando ueer e me quiser falar,
+Poys que o fez, eu lhy farey assy:
+Por quant andou [ala sen meu prazer,
+Que and huun tenpo sen meu bemfazer.]

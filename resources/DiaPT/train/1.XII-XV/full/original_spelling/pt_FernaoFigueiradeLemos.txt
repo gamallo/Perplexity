@@ -1,0 +1,48 @@
+\nome Fernão_Figueira_de_Lemos
+
+\num 1                                        
+
+\loc CA 330; CBN 20
+
+\txt  
+
+Ay, mha senhor, sempr eu esto temj,
+des que uos vij, que m oy de uos auen:
+irdes uos uos e ficar eu aquj,
+hu nunca mays acharey outra ren
+de que eu possa gasalhad auer,
+nen me de uos faça coyta perder.                                        
+
+Coita, de pran, ia eu non perderey
+e non m atreuo sen uos a guarir,
+e seede fix que ensandeçerey,
+poys eu de uos os meus olhos partir
+e uos non uir hu uos soya ueer,
+nunca me Deus hoj leixe hi mays uiuer.
+
+Ca uos ui eu por meu mal, mha senhor,
+por uos auer ia sempre desejar,
+e perdud ey gasalhad e sabor
+de quant al no mundo, sem amar
+tod esto mj uos fezestes perder:
+fez me uos Deus, por meu mal, ben querer.
+
+Por meu mal foy, poys que uos ia sempr eu
+auerey ia no meu coraçon
+a deseiar, e nunca mays do meu
+cor perder en muj gran coyta, que non
+ueerei ren que mj possa plazer,
+ergo sse viyr a mjn por uos morrer.
+
+\num 2                                      
+
+\loc CA 331; CBN 21                       
+                   
+\txt
+
+Diz meu amigo que lhe faça bem
+e digo lh eu sempre que lho farey,
+e que m atenda e guisa lh o ey,
+e, amjga, direy uos que mh auem:
+Tantas uezes o mandej atender
+que lho non posso mays uezes dizer.

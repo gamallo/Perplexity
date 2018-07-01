@@ -1,0 +1,37 @@
+\nome Quatro_Donzelas
+
+\num 1
+
+\loc CA 312; CBN 2
+
+\txt
+
+Esta Cantiga fezeron quatro donzelas a/ a Maroõt
+d Irlanda, en tenpo de Rey b/ Artur, porque Maaroõt
+filhaua todalas c/ donzelas que achaua em guarda dos
+d/ Caualeyros, se as podia conquerer delles. e/ E en-
+uyaua as pera Irllanda pera seerem f/ sempre en seruy-
+dom da terra. E esto fazia g/ el porque fora morto seu
+padre, por razon h/ d h~ua donzela que leuaua en
+guarda. l/
+
+O Maroot aia mal grado,
+Porque nos aquy cantando
+Andamos tam segurando,
+A tan grã sabor andando!
+Mal grad aia que cantamos
+E que tan en paz dançamos!
+
+Mal grad aia, pois cantando
+Nos aqui danças fazemos,
+A tan grã sabor andando,
+que pouco lho gradecemos.
+Mal [grad] aia que cantamos
+e que tan [en pas dançamos!]
+
+E uenha lhe maa guãança,
+Porque nos tan seguradas
+Andamos fazendo dança,
+Cantando nosas bayladas!
+Mal grad aia que cantamos
+E que tan en pas dançamos!

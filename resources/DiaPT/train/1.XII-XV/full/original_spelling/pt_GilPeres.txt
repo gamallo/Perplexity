@@ -1,0 +1,559 @@
+\nome Gil_Peres
+
+\num 1
+
+\loc CBN 1427
+
+\txt
+
+Jograr, tres cousas auedes mester
+Pera cantar, de que se paguen en:
+E doayr e uoz e aprenderdes ben
+Que de uosso non podedes auer
+Nen emprestado, nen end o poder
+Non a de dar uo lo ome, nen molher.
+
+Se[n] huã d estas nunca bon segrel
+Vymos en Espanha, nen d alhur non uen.
+E ssen outra que a todos conuen:
+Seer sen nois - uos, iograr, traier
+Non uos uei est e comprar, nen uender
+Non o pod ome, pero xe quiser.
+
+Buscade per hu, como ou onde quer
+Aiades est e, iograr, se uos ten 
+Prol de trobar teiria uos por sen
+Furtar d el a quen o sabe fazer.
+D esto podedes guaanhar ou perder
+Tanto que x ome a uerdade souber.
+
+
+\num 2
+
+\loc CBN 1428
+
+\txt
+
+Non trouxestes, caualeyros, aqui
+Este ryc ome nunca na gueira,
+Que ora trage son d outra teira,
+Ca ia eu mentes menti,
+Nen seus numes non os conhosco,
+Ca lhis dissera: - bon dia uosco,
+Mays nenhum eu non conhoci.
+
+Nen estas armas eu nunca lh as vi
+Traier na gueira d estes sinaes
+Que ora trage, nen trouxe Caes
+uosco na gueira quand el Rey foy hy,
+Nen outros por que as ar faria,
+Senon qu a elas ante tragia,
+E ia sobr esto con muytos departi.
+
+Nen el enton non parecia assy
+Na gueira cordo como parece,
+Ca nen caualcada, nen en sandiçe,
+Nunca fazerom en que el non fosse.
+E as lazeyras por que passaua,
+Andand al o tan pouco, daua
+Por elas come se nunca fosse.
+
+Nem custa nunca areçeaua,
+Nen perda, nen med ala hu andaua
+Nunca de tal home falar oy.
+
+
+\num 3
+
+\loc CBN 1429
+
+\txt
+
+Tantas minguas acham a don foam
+Que ia lh as nunca cobrar poderam,
+Pero que lhi de todas cartas dam.
+Ca lhi vyron na gueira perder
+Armas, caualos, uerdad [h]e de pram
+Que ia el esto nunca pod auer.
+
+Mays como ou quen e o que podera
+Cobra las minguas, que lhe acham que a,
+Preguntad e quenquer uo lo dira
+Como perdeu, na gueira que passou,
+Corp e amigos, uerdad [h]e que ia
+Non pod auer el assi, sse parou.
+
+As sas minguas maas son de pagar, 
+Mays quen lh as poderia ia cobrar?
+Non uo las quero de mays long i contar 
+Senon da gueira, como perdeu hy,
+Senhor, parentes; uerdad [h]e que dar
+Non lhi poden esta, nen ssy, nen sy.
+
+
+\num 4
+
+\loc CBN 1430
+
+\txt
+
+Poys conta el Rey en todas sas fronteyras
+Que nen en uylas, nen en caireyras
+Que non comhan galinhas na gueira,
+Cada diz que dizen as ueedeyras
+Que sera perdimento da teira.
+
+A conçelhos e a caualeyros
+Manda comer uacas e carneyros,
+Mays non comhan galinhas na gueira,
+Ca diz que dizem os aguyreyros
+Que sera perdimento da teira.
+
+Comhan porcos frescos e roncinhos,
+Cabritos, cachaç e aussarios,
+Mays non comhan galinhas na gueira,
+Ca diz que lhi dizem os deuynhos
+Que sera perdimento da teira.
+
+
+\num 5
+
+\loc CBN 1431
+
+\txt
+
+Mha senhor, ia eu moirerey
+en uosso seruic e poren
+Mi non [h]e con mha morte ben
+Porque uos non ficou de mi
+filho, Por quanto uos serui,
+Que mi criassedes por en.
+
+Sempr eu mha mort adeuynhei,
+C auya a moirer por uos,
+E a moirer auemos nos.
+Mays porque non fiz, [H]E m ende mal,
+Hun filho uosso natural,
+Que achasse consselh en uos.
+
+Filh a que leixass o que ey 
+Quisera, meu senhor, fazer
+Que fosse uoss e defender
+Loyades por uos morto for,
+Que ben mi podedes fazer?
+
+
+\num 6
+
+\loc CBN 1432
+
+\txt
+
+Quen nunca sal da pousada 
+Pera hyr en caualgada
+E quytam come mesnada
+D el Rey ou de don Fernando,
+Ay! Deus, aquesta soldada
+se lh a Dam por aguylhando.
+
+Quen non ten aqui caualo,
+Nen alhur, nen quer compra lo,
+E quitan come uassalo
+D el Rey e [de] don Fernando,
+Ay! Deus, poys mandan quita lo,
+Se lh a dam por aguylhando.
+
+Quen nunca troux escudeyro,
+Nen comprou armas d armeyro,
+Quitan come cavaleyro
+D elrey ou de don Fernando.
+Ay! Deus, tanto bon dinheyro
+Se lh o dam por aguylando.
+
+
+\num 7
+
+\loc CBN 1433
+
+\txt
+
+Hun porteyr a en cas d el Rey 
+Que me conhoc e, onde quer
+Que me ueia, logo me fer
+Ou me diz: non uos colherey,
+Sempre por uos esto farey
+Cada que m ouuerdes mester.
+
+Diz m el porque xi mi quer ben:
+queredes con el Rey falar
+E non uos leixarey entrar,
+Como quer que m auenha en,
+Se uos pormeter alguã ren,
+Non uo lo farey recadar.
+
+Des qu essa gueira começou,
+Porque seruistes al Rey hy,
+Non uos teiran a porta assy
+Com ao que ora chegou,
+Pero mh o el Rey non mandou.
+Non entraredes ia og y.
+
+
+\num 8
+
+\loc CBN 1434
+
+\txt
+
+Quyte me a mi meu senhor 
+E de m un bon fiador
+Pro mha soldada,
+E hirey eu, se el for,
+na caualgada.
+
+De mh o que por el perdy
+E hun bon penhor aqui
+Por mha soldada,
+E hirey eu, se el for hy,
+Na caualgada.
+
+Sospeyta m el e el eu,
+Mays entregue m un iudeu
+Por mha soldada,
+E, sse el for, hirey eu
+Na Caualgada.
+
+E ssenon, ficar m ey eu 
+Na mha pousada.
+
+
+\num 9
+
+\loc CBN 1435
+
+\txt
+
+Mentr esta gueira foy, assy
+M au~eo que sempre guari
+Per pe de caualo, mays oy
+mays non sey que seia de mi
+Se non guarir per pe de boy.
+
+Quantos perigos hy passey
+Por pe de caual escapey
+Que non prix hy caion, mays oy
+Mays non sey eu que mi farey
+Se non guarir per pe de boy.
+
+Por ualer mays e por auer
+Consselh ouui de guarecer
+Per pe de caualo, mays oy
+Mays non sey a que mh a fazer
+Se non guarir per pe de boy.
+
+Laurar, lazerar e uyuer oy,
+mays guarir per pe de boy.
+
+
+\num 10
+
+\loc CBN 1436
+
+\txt
+
+Os uossos mil marauedis, senhor,
+Que eu non ouui, que serui melhor
+Ou tan ben come outr a que os dan,
+Ey os d auer enquant eu uyuo for,
+Ou a mha mort ou quando mh os daram.
+
+A uossa mha soldada, senhor Rey,
+Que serui e seru e seruirey
+Com outro quequer a que a dan ben,
+Ey a d auer enquant a uyuer ey,
+Ou a mha mort ou que mi faran en.
+
+Os uossos meus dinheiros, senhor, non
+Pud eu auer, pero seruidos son.
+Come outros que os an de seruir,
+Ey os d auer mentr eu uiuer, ou pon
+Mh os a mha mort ou a que os uou pedir.
+
+Ca passou tenp e trastenpados son,
+Ouue an e dia, e quero m en partir.
+
+
+\num 11
+
+\loc CBN 1437
+
+\txt
+
+Non [h]e Amor en cas de Rey,
+Ca o non pod om i achar
+Aa cea, nen ao iantar.
+A estas oras o busquei
+Nas pousadas dos priuados.
+Preguntey a seus prelados
+Por Amor e non o achey.
+
+Teen que o non sab el Rey
+Que Amor aqui non chegou,
+Que tant ogano d el leuou.
+E non ueno, nen o busquey
+Nas tendas dos infanções
+E nas dos de criações,
+E dizen todos: - non sey.
+
+Perdud [h]e o Amor con el Rey,
+Porque nunca en oste uen,
+Pero, xe d el algo ten,
+Direy uos eu hu o busquey:
+Ant estes frades tenpreyros,
+Ca ia os Espitaleyros
+Por Amor non preguntarey.
+
+
+\num 12
+
+\loc CBN 1438
+
+\txt
+
+Quen me podia defender,
+Senon Deus, d un peleiador,
+Porque me faz departidor
+E diz mi ao que ey dizer:
+- Dizedes necijdade.
+Tod esto lh ey eu a sofrer
+E ay! Deus, d el me guardade
+aqui en a pousada.
+
+[H]E tan louco que tal mi dey
+Que me sacara de meu sen
+E que ueiremos a mays en.
+Ante me lhi calarey,
+Ca se m al contecesse,
+De que me lh eu ben guardarey,
+Que lh eu esto non sofresse,
+Dar m ia gram punhada.
+
+Quand ora diz que me feira,
+Porque faley en Portugal
+Onde mi son natural,
+Se me por esto ferira,
+Oie foss eu ferido
+Porque perdesse medo ia
+Que fosse d el partido
+toda esta andada.
+
+Morto sera quen m aiudar,
+Ca el de tal coraçon [h]e
+Que de caualo, que de pe,
+Ca sse queira migo matar.
+E ia eu lhi fogiria,
+Mays ey medo de m acalcar
+E acalcar sse m ia:
+trag a besta canssada.
+
+Se melhor quiser enparar,
+Mha fazenda teiria
+Por hi peyor parada:
+Se o mat ou se me matar,
+De qualquer seria 
+de uentura minguada.
+
+\num 13
+
+\loc CBN 1439
+
+\txt
+
+Ja eu non ey por quen trobar
+E ia non ey en coraçon.
+Porque non ey ia quen amar,
+Por en mi mingua razon.
+Ca mi filhou Deus mha senhor,
+Aqui filhou o Demo mayor
+Quantas cousas que suas son.
+
+Como lh outra uez ia filhou
+A cadeyra hu sija,
+O filh e porque mi filou
+Boa senhor que auya.
+E diz El que non a molher.
+Se a non a, pera que quer
+Poys tant a boã Maria?
+
+Deus nunca mh a mi nada deu
+E tolhe me boã senhor,
+Per esto non creo en El eu,
+Nen me tenh en por pecador,
+Ca me fez mha senhor perder.
+Catade que mi foy fazer,
+Confiand eu no seu amor!
+
+Nunca sse Deus migu aueira
+Se mi non der mha senhora,
+Mays, como mh o coiregera,
+Destroça m ante Çamora.
+Home tod aqueste mal faz
+... ... ... ... ... ... ... ... ... ... ...
+E Sodoma e Gomorra.
+
+
+\num 14
+
+\loc CBN 1440
+
+\txt
+
+Aia fe, Deus, senon, por uossa madre
+A mui boã santa Maria,
+Fezera uos en pesar hu diria,
+Po la mha senhor que mi uos filastes,
+Que uissedes uos que mal baratastes,
+Ca non sey tan muyto de uosso padre.
+
+Porque uos eu a uos esto sofresse,
+Senon por ela, se lhi non pesasse,
+Moirera eu, se uosc om omhasse
+A mha senhor que mi uos tolestes.
+Se eu uoss era, porque me perdestes?
+Non queriades que eu mays ualesse?
+
+Dissede mh ora que ben mi fezestes,
+Por que eu crea en uos, nen uos seruha
+Senon gram tort endoad e soberuha.
+Ca mi teedes mha senhor forçada
+E nunca uos eu do uosso filhei nada
+Des que fuy nado, nen uos non mh o destes.
+
+Faria m eu o que uos nos fazedes:
+Lexar uelhas feas. E, as fremosas
+e mançebas, Filha las por esposas.
+Quantas queredes uos tantas filhades 
+E a mi nunca mi menhuã dades.
+Assy partides migo quant auedes.
+
+Nen as seruides uos, nen as loades,
+E uon sse uosqu e, poy las al oteedes,
+Vestide las mui mal e gouernades,
+E metedes no las tra las paredes.
+
+
+\num 15
+
+\loc CBN 1441
+
+\txt
+
+Quer mh a mi hunha dona mal
+Como se lhi quysess eu ben
+Per que ouuesse por mi mal,
+Ou eu por ela algun ben.
+Poys lh eu non quero mal nen ben,
+Porque mh a ela a querer mal?
+
+Colheu comigo desamor
+Come se lh ouuesse desamor
+D alguen por mi ou amor eu.
+Non a desamo, nen amo, eu;
+Ela, porche mh a desamor?
+
+
+\num 16
+
+\loc CBN 1442
+
+\txt
+
+Assy and eu por seruiço que fiz
+A senhor que me non quer fazer ben,
+Pero senhor [h]e que tod aquel ben
+Do mundo sabe que hi fiz
+Seruic e non poss auer seu amor.
+Assy and eu cada dia peor
+Porque mi non faz amor, Nen mh o diz.
+
+Assy and eu endeuidando quen
+Mh o non gradece, nen mh o quer cobrar.
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+Posso melhor e tod est ey con quen
+Fal eu e digo lh as coytas que ey.
+Assy and eu como nunca andey
+E non mi fala, nen da por mi ren.
+
+Assy and eu meu tempo perdend i,
+Pero tenho que perço por prez,
+E por senhor do mundo mays de prez
+Perco prec e tenho que perdy
+Seu conhoçer contra Mi, e poren
+Assy and eu que uergonça ey
+De lh o dizer eu, Nen outren por m~i.
+
+Assy and eu atendendo seu ben
+Por quanto mal por seu amor soffry.
+
+
+\num 17
+
+\loc CBN 1443
+
+\txt
+
+D un home sey eu, de mui bon logar,
+Que filha sempre hu anda, e aqui,
+Alg a quenquer; e non póde per hy,
+Ant anda muy mays uyçoso por en,
+Pero lh o nos non teemos por ben.
+... ... ... ... ... ... ... ... ... ... ... ... ...
+
+Eu uos direy d el de que lograr [h]e:
+De mui melhor lograr que infançon,
+Ne[n] ca ric ome, se mui poucos non
+Trauan lhi por algo que filhou
+A sseus amigos, e a todos pesou 
+Os que sabemos de que lograr [h]e.
+
+De melhor logar non pode seer
+Home do mundo se non for rey
+De todo los logares que lh eu sey.
+Poren dizen que nunca mays ualira
+Home que filha sempr e que non da.
+
+Ante cuydo que sempre deçera
+D onrra e de bondad e D auer.
+
+
+\num 18
+
+\loc CBN 1444
+
+\txt
+
+Ben sabedes, senhor Rey,
+Des que fuy uosso uasallo,
+Que sempre uos agaiardey,
+Que a pee, que de cauallo,
+Sen noss auer e sen dona,
+Mays, atanto uos erey,
+Non foy uosco en ora boã.
+
+E en terra de campou
+Vos serui e en Oliuedo.
+Assy fiz en Badalhou
+E outrossi en Toledo,
+Quand i filhastes coroã,
+Mays, atanto me mengou,
+Non fuy uosco en ora boã.
+
+Fostes muy ben aguardado
+De mi sempre hu uos andastes.
+E nunca foy escusado,
+Nen uos n unca me escusastes
+De seruir per mha pesoã,
+May, encanto foy eirado,
+Non fuy uusco en ora boa.
+
+

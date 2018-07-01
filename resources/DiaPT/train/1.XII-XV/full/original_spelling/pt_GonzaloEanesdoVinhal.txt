@@ -1,0 +1,527 @@
+\nome Gonçalo_Eanes_do_Vinhal
+
+\num 1
+
+\loc CV 1000; CBN 1647
+
+\txt
+
+Pero Fernadiz, homé dé barnagé,
+que mé non quer de noyté guardar o muu,
+sé, aca, d el trauarem por peagé 
+como non tragé dinheiro nenhuu, 
+non lhi uaam na capa trauar, 
+nen o assanhen; ca, sse ss assanhar,
+pagar lhis a el peagé dé cuu.
+
+De[u]s armh a mi, d andar en mha conpanha,
+ca nunca home tan sanhudo ui;
+eu oy ia que hun homé d Espanha
+sobre peagen mataron aqui;
+é com [h]é homé dé gram coraçon.
+se lhi peagen pede o Gaston,
+peagé dé cuu pagara hy.
+
+Ca el ven quebrando con grand ardura
+con este mandado que oyu ia,
+e ferue lh o sangui e fara loucura
+que nuha ren hy non esguardara;
+se lhi peagen foren demandar
+os porteiros do Gaston dé Bear,
+beuan a peagen que lhis el dara. 
+
+\num 2
+
+\loc CV 1001; CBN 1648
+
+\txt
+
+En gran coyta andaramos con el rey,
+per esta terra hu con el andamos, 
+sé non fossé qué quis Deus que achamos
+infanções quaes uos eu direy:
+que entram nosqu en doãs cada dia
+é iantam é ceam a gram perfia,
+e burlham corté cada hu chegamos.
+
+Taes baruas, infanzões? cães? non sey;
+e todos nos d eles marauilhamos,
+e, pero, os infanzões chamamos;
+uedes, amigus, tanto uos direy:
+eu por infanzões non os terria, 
+mays son x a graça dé Sancta Maria
+é san Juyão, con que albergamus.
+
+E ssempre De[u]s por ssa uida rogarey
+e dereyt [h]é que todo lo fazamos,
+poys d eles todos tant amor filhamos
+en ssa terra, quanto uos eu direy:
+qualquer d eles nos fez quanto deuya,
+mays tant [h]é grand a nossa folya
+que mulhas graças lhis endé non damos.
+
+\num 3
+
+\loc CV 1002; CBN 1649
+
+\txt 
+
+Non leuaua nen dinheyro
+ogan é, hu o ui passar
+per campus, e quix pousar
+en casa d un caualeyro
+que ssé ten por infançon,
+e soltou m hum can enton
+e mordeu mh o seendeyro.
+ 
+Por meu mal enton senlheyro
+ouu aly a chegar;
+que non chegass a logar
+hu atal fais [caua]leyro,
+ca el, sé fosse çanton,
+non fora ao uergalhon
+raso do meu seendeyro.
+
+Non uistes peyor parado
+albergue do que achey
+enton, quand a elé cheguey,
+nen uistes mays estirado
+homé ca fuy d un mastin;
+e fez mi tal o roçin
+que semelhaua lobado. 
+
+\num 4
+
+\loc CV 1003; CBN 1650
+
+\txt
+
+Hunha dona foy de pram
+demandar casas e pam
+da ordin de San Ioam,
+con minguas qué auya;
+e digo uos que lh as dam
+quaes ele querrya.
+
+Das casas ouue sabor
+e foy tal preyteiador
+que foss ende iazedor,
+con minguas que auya;
+e dan lh as, por seu amor,
+quaes ela queria.
+
+Pedyu as a preito tal
+d i iazer, non fez al,
+ca x i laçeraua mal,
+con minguas que auya;
+e dan lh as do Espital
+quaes ela queria.
+
+A dona, de corazon,
+pediu as casas enton,
+e mostrou esta razon,
+con minguas que auya;
+e dan lh as da Misson
+quaes ela queria.
+
+\num 5
+
+\loc CV 1004; CBN 1651
+
+\txt
+
+Pero d Anbroa, aenpr oy cantar
+qué nunca uos andastes sobré mar
+qué méd ouuessedes, n una sazon, 
+a qué auedes tan gran corazon
+qué tanto dades qué bon tempo faça,
+ben como mao, nen como boança,
+nen dades ren por tormenta do mar.
+
+E des i ia, po la naué quebrar,
+aque non dades uos, ren po lo mar
+comé os outros qué hy uan enton;
+por en teen que, tamanho perdon
+non auedes comé os que na frota
+uan e ssé deytan, con medo, na sota,
+sol que entenden tormenta do mar.
+
+E nunca oymus d outr omé falar
+que non temessé mal tempo do mar,
+e por en cuydan, quantos aqui son,
+que uossa madre con algun caçon
+uos fez, sen falha, ou con lobaganto,
+e todos esto cuydamos, por quanto
+non dades res por tormenta do mar.
+
+\num 6
+
+\loc CV 1005; CBN 1652
+
+\txt
+
+Abadessa, Nostro Senhor
+uos gradesca, se Lhy prouguer,
+porque uos nenbrastes de min
+a sazon, que m era mester,
+hu cheguey a uosso logar,
+qué tan ben mandastes penssar
+hy do uosso comendador.
+
+Ca morto fora, mha senhor,
+de gram lazeyra, sey de pram,
+mays nenbrastes uos de ben de min,
+e todos mé preguntaran
+se uos saberey eu seruir
+quan ben o soubestes guarnir
+de quant el auya sabor.
+
+Aiades por en galardon
+dé Deus, senhor, sé a El praz,
+porque uos nenbrastes de min
+hu m era muy mester assaz;
+o comendador chegou
+e, ssé el ben non albergou,
+non foy por uosso corazon. 
+
+De[us] uos dé por en galardon
+por mi, que eu non poderey,
+porque uos nenbrastes de min,
+quand a uosso logar cheguey;
+ca ia d amor e dé prazer
+non podestes uos mays fazer
+ao comendador enton.
+
+Cent dobr aiades por en,
+por mi, que lhi non mingou ren
+dé quant auya na mayson.
+
+\num 7
+
+\loc CV 1006; CBN 1653
+
+\txt
+
+Quantus mal am, se quere[n] guarezer,
+se x agora per eles non ficar,
+uenham este maestre ben pagar
+e Deu lus pode mui ben guarecer;
+ca nunca tan mal doent ome achou,
+nan tan perdudo, des que le chegou,
+se lh algo deu, que non fasse catar.
+
+Quyza non pod assy guareçer
+que este poder non lh o quis Deus dar,
+aque non sabe que possa saar
+o doente, menos de guarecer;
+mays preguntar lh a de que enfermou
+come maestre, se o ben pagou,
+non leixa guarecer po lo el preguntar.
+
+Ca uos non pod el assy guarecer
+o doente, me[n]os de treminhar,
+mays poys esto for, se qui[ser] filhar 
+seu conselho, pode ben guarecer,
+se sse ben guardar, poy lo el catou,
+ben guarra do mal ca treminhou,
+e, diz o maestre, se lhi non tornar:
+
+Ca o doente de que el penssou
+per hun gram tempo, se mui ben sanou,
+se mal non ouuer, pod andar.
+
+\num 8
+
+\loc CV 1007; CBN 1654
+
+\txt
+
+Maestre, todo lus uossos cantares, 
+ia que filham sempre d un[h]a razon
+e outrossy ar filhan a mi son,
+e non seguades outros melhares
+se non aquestes de Cornoalha,
+mays este seguydes ben sen falha.
+e non ui trobador per tantos logares.
+
+D amor e d escarnh en todas razões
+os seguides sempr e ben prouado
+eu o sey que auedes filhado,
+ca, se ar seguissedes outros sões, 
+non trobariades peyor por en,
+pero seguydes uos os uossos mui ben
+e ia ogan y fezestes tenções.
+
+En razon d un escarnho que filhastes
+e non metestes ascondudo,
+ca ia era de Pedr Agudo
+essa razon en que uos hy trobastes;
+mays assy a soubestes uos deitar
+antr unhas rimas e entrauincar
+que toda uo la na uossa tornastes.
+
+Por maestria soubestes saber
+da razon alh~ea uossa fazer
+e seguir sões a que uos deitastes.
+
+E gram careza fezestes de pram,
+mays lus trobadores trauar uos an
+ia que uos tempus ben non guardastes.
+
+\num 9
+
+\loc CV 1008; CBN 1655
+
+\txt
+
+Sey eu, donas, que deytad [h]e d aqui
+do reyno ia meu amigo, e non sey
+como lhy uay, mais quer ir a el rey,
+chorar lh ey muyto e direy lh assy:
+por Deus, sen[h]or, que uos tan bon rey fez, 
+perdoad a meu amigo esta uez.
+
+Por que o amo tan de corazon,
+como nunca amou amigo molher,
+irey aly hu el rey esteuer,
+chorando dos olhos, direi lhe enton:
+por [Deus, senhor, que uos tan bon rey fez, 
+perdoad a meu amigo esta uez.]
+
+E, pois que me non ual rrogar a Deus,
+nen a Satanaz, ne me queren oyr,
+hirey al rey merze pedir,
+e diga, chorando dos [o]lhos meus:
+po[r Deus], senhor, que uos tan bon [rey fez, 
+perdoad a meu amigo esta uez.]
+
+E, por Deus, que uos deu honrra et bondade,
+a don Anrris esta uez [perdoade].
+
+\num 10
+
+\loc CV 307; CBN 669
+
+\txt
+
+Que leda que oi eu seio
+porque m enuyou dizer
+ca non uen, con gran deseio
+coitado, du foy uiuer,
+Ay! dona, lo meu amigo,
+senon por falar comigo; 
+nen uen por al meu amigo,
+senon por falar comigo.]
+
+Enuyou mj seu mandado
+dizer, qual eu creo ben,
+ca non uen por al coytado,
+de tan longi com el uen,
+Ay! dona, lo meu amigo,
+senon por falar comigo; 
+nen uen por al meu amigo,
+[senon por falar comigo.]
+
+Nula coyta non auya,
+tanto creede, per mj
+outro, nen el non uijnha,
+mays porque ueiria aqui,
+Ay! dona, lo meu amigo,
+[senon por falar comigo; 
+nen uen por al meu amigo
+senon por falar comigo.]
+
+\num 11
+
+\loc CV 308; CBN 670
+
+\txt
+
+Par Deus, amiga, quant eu receey
+do meu amiguo todo m oi auen,
+ca receey de mj querer gram ben,
+como m el quer, polo que uos direy:
+eu poys fuj nada nunca ouu amor,
+nen quij amigu en tal sazon auer;
+e el filhou m a força por senhor,
+a meu pesar, e moirera por en.
+
+E non sse pod alongar, eu o sey,
+dos que migo falan, nen encobrir
+que lhis eu non fale en al pera oyr
+en mj falar, e ia me lhj eu sanhey
+porque o fez e nunca el mayor
+pesar oyo, mays non pod al fazer;
+mays esso pouco, que el uyuo for,
+fazey uo lh eu que m el sentir. 
+
+E sabe Deus o pesar que end ey,
+mays non sse pode de muj gram pesar
+guardar, senon que x en d el quer guardar,
+mays senpre m eu d atal preyto guardey
+o mays que pud e non ouuj sabor;
+mays el me mata porque quer moirer
+por mj de pram, e do que m [h]e peyor
+non pod en ia o coraçon quitar.
+
+\num 12
+
+\loc CV 309; CBN 671
+
+\txt
+
+Quand eu soby nas toires sobre lo mar
+e uj onde foy a abafordar
+o meu amig - amigas - tam gram pesar
+ouu eu enton por ele no coraçon,
+quand eu uj estes outros per hy andar,
+Que a moirer ouuera por el enton. 
+
+Quando eu catey das toires deiredor
+e non uj meu amigu e meu senhor,
+que oi el por mj uyue tam sen sabor,
+ouu eu enton tal coyta no coraçon,
+quando me nenbrey d el e do seu amor,
+Que a mo[irer ouuera por el enton.]
+
+Quand eu uj esta çinta que m el leixou
+chorando com gram coyta e me nenbrou
+a corda da camisa que m el filhou,
+ouuj por el tal coyta no coraçon,
+poys me nenbra, fremosa, hu m enmentou,
+Que a mo[irer ouuera por el enton.]
+
+Nunca molher tal coyta ouu a sofrer
+com eu, quando me nenbra o gram prazer
+Que lh eu fiz, hu mha çinta u~eo a cinger:
+creceu mj tal coita no coraçon,
+quand eu soby nas toires polo ueer,
+Que a mo[irer ouuera por el enton.]
+
+\num 13
+
+\loc CV 310; CBN 672
+
+\txt
+
+- O meu amigo, que me quer gram bem,
+nunca de mjn pode auer senon mal. 
+- E moirera hu non pode Auer al,
+ca my praz, Ammiga, de moirer
+Por aquesto que uos quero dizer.
+- Leix a coydar en o mal que lhy en uem
+E coyda senpr e[n] meu boom parecer. 
+
+E a tal homen, Amigas, que farey,
+Que Asy morr e assy quer moirer
+por aquele bem que nunca pode auer,
+Nen au[er]a, ca ia sse lho partyo?
+Porque me asy de mandado sayo:
+Leix a coydar en o mal que lhi eu dey
+[E] coyda em mjn, fremossa que m el vyo.
+
+E amores tantas coytas lhy dan
+por mjn que ia a morte muy perto esta,
+E sey eu d el que cedo morrera. 
+E se morrer non me faz hi pesar,
+Ca se non soube da morte guardar:
+leix a coydar en o mal, sen grande afam, 
+E coyda senpre em meu bom semelhar.
+
+\num 14
+
+\loc CV 311; CBN 673
+
+\txt
+
+Amiga, por Deus uos uenh ora rrogar
+que mj non querades fazer perdoar,
+nom, meu Amigo que mj fez pesar
+e nom mh o rroguedes, ca o nom farey
+atta que el uenha ante mj chorar.
+Porque ss assanhou non lhy perdoarey.
+
+Por quanto sabedes que mj quer seruir
+Mais que outra rrem, quere lho gracir,
+Mais eu non lho quero poren consentir,
+E non mh o rroguedes, ca o nom farey
+ata que el uenha mercee pedir.
+Porque s asannhou [non lhy perdoarey.]
+
+Gram pesar lhy farey non uistes mayor,
+porque non guardou mjn, nem o me[u] amor.
+Sem filhar sanha, ouue guerra gram sabor,
+e nom me rroguedes, ca o nom farey
+ata que el senta hira de senhor.
+Porque s asanhou [non lhy perdoarey.]
+
+E, porque sey bem que non pode uiuer
+hu el nom poder os meus olhos ueer,
+farey lh eu que ueia qual [h]e meu poder,
+e nom me rroguedes, ca o nom farey
+ata que el senta hira de senher.
+Porque s asanhou non lhi perdoarey.
+
+\num 15
+
+\loc CV 312; CBN 674
+
+\txt
+
+O meu amigo quexa se de my,
+Amiga, porque lhy nom faço ben
+et diz que pereu ia por mj o sem,
+e que o pos eu desensamdecer,
+et nom sey eu se el diz uerdad y,
+Mays nom quer eu por el meu mal fazer.
+
+Queyxa s el muyto porque lhy nom fez,
+amiga, ben et diz que a pauor
+de m estar mal, se por mjn morto for,
+poy lo poss eu de morte guareçer
+et non sey eu se el uerdade diz,
+Mais nom q[uer eu] p[or el] m[eu] m[al] f[azer].
+
+\num 16
+
+\loc CV 313; CBN 675
+
+\txt
+
+Meu amigu [h]e d aquem hido,
+Amiga, muy meu Amigo,
+dizem mj, bem uo lo digo
+que [h]e ia de mjn partido.
+Mais que preyto tam desguisado!
+
+Pero uistes que choraua
+Quando sse de mjm partia,
+diserom mj que moria
+por outra e que [o] rrobaua.
+Mais que preyto tam guysado!
+
+O que ey de pram que morre
+por mjn, o que non faz torto,
+dizem m ora que [h]e morto
+ssy se lh outra non acorre.
+Mays que preyto tam guysado!
+
+\num 17
+
+\loc CV 999; CBN 1342
+
+\txt
+
+Amigas, eu oy dizer
+Que lidaron os de Mouron
+Con aquestes d el Rej e non
+Poss end a uerdade saber
+Se he uiu o meu amigo,
+Que troux a mha touca sigo.
+
+Se me mal non esteuesse,
+Ou non fosse por enfinta,
+Daria esta mha cinta
+A quem m as nouas dissesse
+Se he uiu o meu amigo
+Que troux a mha touca sigo. 

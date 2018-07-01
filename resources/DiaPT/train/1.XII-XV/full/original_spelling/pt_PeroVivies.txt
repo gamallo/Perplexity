@@ -1,0 +1,257 @@
+\nome Pero_Viviães
+
+\num 1
+
+\loc CBN 389
+
+\txt
+
+Hunha dona de que falar oy
+desei ueer, e non posso guarir
+sen a ueer e sey que, se a uir,
+hu a non uir cuyd a moirer logu y;
+poys que a uir, hu a non uir de prazer
+de mj, nem d al, nunca cuyd aueer.
+
+A que non uj m en tal coyta ten
+sol que uir hu a non uyr moirerey;
+pois que a uir hu a non uyr non sey
+ren que me guarde de morte, porem.
+Poys que a uyr hu a non uir [prazer
+de mj, nem d al, nunca cuyd aueer.]
+
+A que non uj e mh assy uay matar
+sol que a uir, hu a uir matar m a;
+pois que a uir hu a non uir non a
+ren que me possa de morte guardar.
+Poys que a uir hu a non uir [prazer
+de mj, nen d al, nunca cuyd aueer.]
+
+\num 2
+
+\loc CBN 390
+
+\txt
+
+A Lobatom quero ir,
+ay Deus e Tu me guya!
+que a uis oi eu por meu bem,
+a que ueer queria!
+a que parece melhor
+de quantas Nostro Senhor
+e Don ffez [h]e dona Johanna;
+porque moir eu polo seu
+parecer, que lhy Deus deu,
+a esta louçana,
+Eu non na ui, mays oy
+dela muyto bem; poys y
+ffor uerrey ssa irmana
+
+A Lobatom quero ir,
+ca, hu and eu, seio
+ssenpre no meu coraçom:
+muyto ueer desseio
+a senhor do melhor prez
+de quantas Deus nunca fez,
+esta he dona Johanna;
+porque moyr eu polo sseu
+[parecer que lhy Deus deu
+a esta louçana,
+eu non na ui, mays oy
+dela muyto bem; poys y
+ffor uerrey sa irmana.]
+
+A Lobaton quero ir
+ca non perço cuydado
+do coraçon en guissa tal
+que me trax aficado 
+pola melhor das qu eu sey
+que sse a non uir morr[er]ey,
+esta he dona Johanna.
+E porque moyr eu polo seu
+parecer, que lhy Deus deu
+a esta louçana,
+[eu non na ui, mays oy
+dela muyto bem; poys y
+ffor uerrey sa irmana.]
+
+\num 3
+
+\loc CV 336; CBN 698 
+
+\txt
+
+Poys nossas madres uan a San Simon
+de Ual de Prados candeas queymar,
+nos as meninhas punhemos d andar
+con nossas madres; e elas enton
+queymen candeas por nos e por sy,
+e nos, meninhas, baylaremos hy. 
+
+Nosso amigos todos la hiran
+por nos ueer, e andaremos nos
+bayland ant eles, fremosas en cos;
+e nossas madres, poys que ala uan,
+queymen candeas por nos e por ssy,
+E nos, meninhas, [baylaremos hy.]
+
+Nossos amigos hiran por cousir
+como baylamos, e poden ueer
+baylar moças de bon parecer;
+e nossas madres, poys la queren hir,
+queymen candeas por nos e por ssy,
+E nos, meninhas, [baylaremos hy.]
+
+\num 4
+
+\loc CV 337; CBN 699
+
+\txt
+
+Por Deus, amiga, punhad en partir
+o meu amigo de mj querer ben;
+non mh o digades, ca uos non ual ren,
+nen mj mandedes a ess ala hir,
+Ca tanta prol mj ten de lhi falar,
+per boa fe, come de me calar.
+
+Dizede lh ora que sse parta ia
+do meu amor, onde sempr [o]uue mal;
+leixemos ess e falemos en al,
+muyto cofonda Deus quen lho dira,
+Ca tanta prol mj ten [de lhi falar,
+per boa fe, come de me calar.]
+
+Dizede lh ora que non pod auer
+nunca meu ben e que non cuyd i sol;
+non mh o digades, ca uos non ten prol,
+cofonda Deus a que lho uay dizer,
+Ca tanta prol mj ten [de lhi falar,
+per boa fe, come de me calar.]
+
+\num 5
+
+\loc CV 1149; CBN 1520
+
+\txt
+
+E pero Deus a gram poder,
+Non o pode Tant aiudar
+Que o peyor possa Tornar,
+Pero ben ssey que a poder
+De dar grand alg a don Foan,
+Mays d el seer peyor, de pram,
+Do qu era, non a en poder. 
+
+Pero lhy queira fazer Deus
+Dez tanto ben do que lhi fez,
+Ja nunca pode peyor prez
+Auer per ren; poren, por Deus,
+Como sera peyor que [h]e
+Quem peyor [h]e, per boa fe,
+De quantos fez, nen fara, Deus?
+
+\num 6
+
+\loc CV 1150; CBN 1521
+
+\txt
+
+Marinha en de folengares
+Tenho eu por desaguysado,
+E soon muy marauilhado
+D en por non robentares,
+Ca che tapo eu aquesta minha
+boca [a ta boca], Marinha;
+Te d estes Narizes meus
+Tapo eu, Marinha, os Teus;
+E d as mãos as orelhas,
+Tapo t o primeyro sono,
+Da mha pissa o teu cono,
+Enno m o non ueia nenguu~,
+E dos colhões no cuu~.
+E como non rebentas, Marinha?
+
+\num 7
+
+\loc CV 1151; CBN 1522
+
+\txt
+
+Vos, que [per] Pero Tinhoso
+Perguntades, se queredes
+D el saber nouas certas
+Per min, poi las non sabedes,
+Achar lh edes tres sinaes
+Per que o conhosceredes,
+Mays esto que uos eu digo
+Non uo lo sabha nenguu~:
+Aquel [h]e Pero Tinhoso
+Que traz o toutiço nuu~,
+Et trays o cancer no pisso,
+Do aluaraz no cuu~.
+
+Ia me per Pero Tinhoso
+Preguntastes n outro dia,
+Que uos dissesse d el nouas,
+Et enton non [as] sabia.
+Mays por estes tres sinaes
+Quenquer o conhoceria,
+Mays [esto que uos eu digo
+Non uo lo sabha nenguu~:
+Aquel he Pero Tinhoso
+Que traz o toutiço nuu~,
+Et trays o cancer no pisso,
+Do aluaraz no cuu~.]
+
+Vos, que per Pero Tinhoso
+Mh [or]a iades preguntando,
+Que uos dissess eu d el nouas,
+No[n] uos as quer eu cuitando.
+Achar lh edes tres sinaes
+Se lhes ben fordes catando,
+Mays esto que uos eu digo
+Non uo lh o sabha nenguu~:
+Aquel [h]e Pero Tinhoso
+que traz o toutiço nuu~,
+Et [trays o cancer no pisso,
+Do aluaraz no cuu~.]
+
+\num 8
+
+\loc CV 1153; CBN 1524
+
+\txt
+
+Por don Foxm en ssa casa comer,
+Quer ben, quer mal, que a y d adubar?
+Quem mal con el, nen ben, non sol iantar,
+E d el [ben] diz, nen mal, ffaz seu prazer,
+Poys mal, nen ben, con el nunca al comeu,
+E d el ben diz, nen mal, muyt [h]e ssamdeu
+D ir mal, nen ben, de sseu iantar dizer.
+
+Por en ssa casa comer com el quiser
+Quer ben, quer [mal, que] a d adubar hy?
+Poys ben, nen mal, con el non comeu hy,
+Quem mal, nen ben, con el non comeu assy,
+Et d el ben diz, nen mal, non lh [h]e mester;
+Poys mal, nen ben, con el non comer sol, 
+Et d el ben, nen mal, diz, tenh eu por fol
+Sse mal, nen ben, de seu iantar disser.
+
+[P]or el comer en ssa casa tenh eu,
+Quer ben, quer mal, que gram torpidad [h]e
+Quem mal, nen ben, d el diz, per boã fe,
+Poys ben, nen mal, nunca lh a iantar deu,
+Nen mal, nen ben, non er ten hy de pram,
+Et, mays que a ben, a mal lhe teiran
+De ben, nen mal, dizer do iantar sseu.
+
+Hi en ssa casa comer non usou
+Quer ben, quer mal, que ss i como a el prax?
+Quen mal, nen ben, d el diz sandeçe faz,
+Poy[s] ben, nen mal, do Jantar non gastou,
+Nen mal, nen ben, d adubar hy non ha
+Et, mays que ben, a mal lhe salira
+De ben, nen mal, dizer hu non Jantou.

@@ -1,0 +1,586 @@
+\nome Rui_Paes_de_Ribela
+
+\num 1
+
+\loc CA 186; CBN 277
+
+\txt
+
+Por Deus uos uenho rogar, mha senhor,
+Que uos fezo, de quantas donas fez,
+A mays fremosa, nen de melhor prez.
+Poys todo ben entendedes, senhor,
+Entended or en qual coyta me ten
+O uoss amor, por que uos quero ben.
+
+E sse o uos, mha senhor, entender
+Esto quiserdes, aueredes hi,
+A meu cuydar, algun doo de mjn.
+Pois uos Deus fez tanto ben entender,
+Entended or en qual coyta me ten
+[O uoss amor, por que uos quero ben.]
+
+E, mha senhor, tenpo seria ia
+De uos nembrardes de me non leixar
+En gram coyta, com oi eu uyu andar.
+E, mha senhor, n el por mesura ia,
+Entended or en qual coyta me ten
+[O uosso amor, por que uos quero ben.]
+
+\num 2
+
+\loc CA 187; CBN 278
+
+\txt
+
+Nunc assy home de senhor
+Esteue com oi eu estou:
+Ey d ir hu ella [h]e sabor
+Mays d outra ren, e poys hi uou,
+Non lh ouso dizer nulha ren,
+Pero lhi quero muj gram ben.
+
+E cuydo lh eu senpr a dizer
+quando a uir, per bõa fe,
+A coyta que me faz auer.
+E poys que uou hu ela [h]e
+Non lh o[u]so dizer nulha ren,
+[Pero lhi quero muj gram ben.]
+
+Quanta coyta e quant afam
+M ela no mundo faz leuar,
+Ben lhi cuyd eu dizer de pram,
+Mais, poys m ant ela uei estar,
+Non lh ouso [dizer nulha ren,
+Pero lhi quero muj gram ben.]
+
+\num 3
+
+\loc CA 188; CBN 279
+
+\txt
+
+De mha senhor entend eu hunha ren,
+Ca mi quer mal, assy Deus mj perdon,
+Mays pero sey en o meu coraçon
+Ca mh o non quer, porque lhi quero ben;
+Ca me non quis nunca, nen quer, creer
+Per nulha ren que lhi sey ben querer;
+
+Mays quer mj mal polo que uos direy:
+Porque mj diz que lhi faço pesar
+de a ueer nunca, nen lle falar.
+Ca mh o non quer por al, eu ben o sey,
+Ca me non quis [nunca, nen quer, creer
+Per nulha ren que lhi sey ben querer.]
+
+E des quand ela fosse sabedor
+Do muj gram ben que lh eu quis, poi la uj,
+Pero me mal ar quisesse des y,
+Teiria m eu que estaua melhor,
+Ca me non [quis nunca, nen quer, creer
+Per nulha ren que lhi sey ben querer.]
+
+\num 4
+
+\loc CA 189; CBN 280
+
+\txt
+
+Quando uos ui, fremosa mha senhor,
+Logo uos soubi tan gram ben querer
+Que non cuydey que ouuesse poder,
+Per nulha ren, de uos querer melhor
+C ora ia direy uos que mh auen:
+Cada dia uos quero mayor ben.
+
+E porque uos uj fremoso falar
+E parecer, logo uos tant ame[i],
+Senhor fremosa, que assy cuydei
+Que nunca uos podesse mays amar
+C ora ia direy uos [que mh auen:
+Cada dia uos quero mayor ben.]
+
+Amey uos quando uos primeyro uj,
+Que nunca home tam de coraçon
+Amou molher, e cuydei enton
+Que mayor ben non auya ia hi
+C ora ia [direy uos que mh auen:
+Cada dia uos quero mayor ben.]
+
+\num 5
+
+\loc CA 190; CBN 281
+
+\txt
+
+Tan muit a ia que non uj mha sennor,
+E tan coitado fuj poi la non uj,
+Que hunha ren sey eu muy ben de mj,
+Pero mj faz muyto mal seu amor:
+A mayor coyta de quantas oi ei
+Perderia, se a uiss eo sey.
+
+Pero que m ela nunca fezo ben,
+Nen mh o faza, ia enquant eu uiuer,
+Tan gram sabor ei eu de a ueer,
+Que, se a uisse, sei eu h~ua ren:
+A mayor [coyta de quantas oi ey
+Perderia, se a uiss eo sey.]
+
+E uey a muytos aqui razõar
+Que a mays grau [h]e coyta de sofrer
+Vee la home e ren non lhi dizer;
+Mays, pero lh eu non ous a falar,
+A mayor [coyta de quantas oi ey
+Perderia, se a uiss eo sey.]
+
+\num 6
+
+\loc CA 191; CBN 282
+
+\txt
+
+Hun dia que uj mha senhor,
+Quis lhi dizer o muj gram ben
+Que lh eu quer e como me ten
+Forçad e preso seu amor,
+Cui a tan ben parecer
+Que lhi non pudi ren dizer.
+
+Quant eu pugi no coraçon
+Mi fez ela desacordar,
+Ca, se lh eu podesse falar,
+Quisera lhi dizer enton
+Cui a tan ben parecer
+[Que lhi non pudi ren dizer.]
+
+Seu medo, poi la uj atal,
+Que ouuj me tolh en assy,
+Ca lhi quisera falar hi
+De como me faz muyto mal,
+Cuy a tan ben [parecer
+Que lhi non pudi ren dizer.]
+
+Pero m ela non ten por seu,
+Muy gram uerdade uos direy:
+Meu mal est e quanto ben ei,
+E fora polo dizer eu,
+Cuy a tan ben [parecer
+Que lhi non pudi ren dizer.]
+
+\num 7
+
+\loc CA 192; CBN 283
+
+\txt
+
+Tanto fez Deos a mha senhor de ben,
+Sobre quantas no mundo quis fazer,
+Que uos direy ora que m hauen:
+Pero m eu ueio por ela moirer,
+Non queiria das outras a melhor.
+En querer ben, por dizer seu amor,
+
+E non amar mha senhor, que uj
+Tam fremosa, e que tam muyto ual,
+E en que eu tanto ben entendi,
+Pero que punha de mj fazer mal.
+Non queiria [das outras a melhor.
+En querer ben, por dizer seu amor,]
+
+Pero que dela eu nenhun ben non ey,
+E assy moyr e me non ten por seu,
+Tam muyto ual quantas eu sei
+Que, pois mj Deus tan bõa senhor deu,
+Non queiria [das outras a melhor.
+En querer ben, por dizer seu amor,]
+
+Ca mi faz Deus tan bona dona amar
+Que mj ual mays uee la h~ua uez
+Que quanto ben m outra podia dar,
+E, poi la Deus tan bona dona fez,
+Non queiria [das outras a melhor,
+En querer ben, por dizer seu amor.]
+
+\num 8
+
+\loc CA 193; CBN 284
+
+\txt
+
+A mha senhor, a que eu sey querer
+Melhor ca nunca quis hom a molher,
+Poy la tant amo e mh o creer non quer,
+Nostro Senhor, Que a muj gram poder,
+Mi de seu ben, Se lh eu quero melhor
+Ca nunca quis no mund om a senhor.
+
+[E, se non é, no me leixe prender]
+Por ela morte, ca non m [h]e mester
+D eu uiuer mays se seu ben non ouer,
+Mays Deus, Que pod a verdade saber,
+Mi de seu ben, Se lh eu quero me[lhor
+Ca nunca quis no mund om a senhor.]
+
+Por que lhi fez as do mundo uençer
+De m uj bon prez, e do que uos disser
+De parecer muj ben hu esteuer,
+Deus, Que lhi fez tam muyto ben auer,
+Mi de seu ben, [se lh eu quero melhor
+Ca nunca quis no mund om a senhor.]
+
+\num 9
+
+\loc CA 194; CBN 285
+
+\txt
+
+Quant en nias donas muj ben parecer
+Veio eu e and e entendo ca son
+Mui boas donas, se Deos mj perdon,
+E quantas donas mays posso ueer,
+Atant eu mays deseio mha senhor
+E atant entendo mays que [h]e melhor
+
+Enha senhor, a quen a Deus mostrar,
+Vyz das outras, as que an mays ben,
+Ben ueera que, cab ela, non son ren
+E quant eu ouço as outras mays loar
+Atant eu mays deseio [mha senhor
+E atant entendo mays que [h]e melhor]
+
+E Deus Senhor, Que lhi tanto ben fez,
+Vay iuntar a quantas no mund a
+Das melhores, tant ela mays ualira,
+E quant eu as outras mays de prez
+Atant eu mays [deseio mha senhor
+E atant entendo mays que [h]e melhor.]
+
+\num 10
+
+\loc CA 195; CBN 286
+
+\txt
+
+A mha senhor, que muj de coraçon
+Eu amey sempre des quando a uj,
+Pero mj uen por ela mal de si,
+[H]E tan boa que Deus non mi perdon,
+Se eu queiria no mundo uiuer
+Por lhi non querer ben, nen a ueer,
+
+Pero dela non atendo outro ben
+Ergo uee la mentr eu uiuo for;
+Mays, porque eu amo tan boa senhor,
+Deus non mi a mostre que a en poder ten,
+Se eu queiria [no mundo uiuer
+Por lhi non querer ben, nen a ueer,]
+
+E, porque deseio de uee los seos
+Olhus, tan muyto que non guarirey ia,
+E porque outras quantas no mund a
+Val tan muyto, que non mj ualha Deus
+Se eu queiria [no mundo uiuer
+Por lhi non querer ben, nen a ueer.]
+
+\num 11
+
+\loc CA 196; CBN 287
+
+\txt
+
+Os que muj gram pesar uirom, assy
+Com eu ueio, da que quero gram ben,
+Porque sey eu ca moireron por en,
+Marauilhado me faço per mj,
+Poys todo ueio quanto recehey,
+Como non moyro por uos; a moirer ey
+
+De mha senhor e do meu coraçon,
+Porque me Deus ia todo faz ueer
+Por quant eu logo deuera moirer.
+Marauilhado me faço gram razom,
+Poys todo [ueio quanto recehey,
+Como non moyro por uos; a moirer ey]
+
+Porque cuydara, se uisse hun pesar
+De quantos uei ora de mha senhor,
+Que moireria en polo meor;
+Dereito faç en me marauilhar,
+Poys todo [ueio quanto recehey,
+Como non moyro por uos; a moirer ey]
+
+Poys me non pod a coyta que ei,
+Nen Deus, matar: ia mays non moirerey.
+
+\num 12
+
+\loc CA 197; CBN 288
+
+\txt
+
+A guarir non ey per ren,
+Se non uir a que gram ben
+Quero, ca perco o sen;
+Poi la non ueio, me uen
+Tanto mal que non sey quen
+Mh o tolha, pero mald en,
+Mays Deos mh a mostre poren
+Cedo, Que en poder ten.
+
+E sse eu mha senhor uir,
+A que mj tolh o dormir,
+Se eu ousasse, pedir
+lh ia logo que guarir
+Me leixass u a sseruir
+Podess eu, mays consentir
+Non mh o queiria, nen oyr,
+Mays leixar m a moirer hir.
+
+\num 13
+
+\loc CA 198; CBN 289
+
+\txt
+
+Por Deus, ay! dona Leonor,
+Gram ben uos fez Nostro Senhor.
+
+Senhor, parecedes assy
+Tan ben que nunca tan ben uy,
+E gram uerdade uos digu j,
+Que non poderia mayor;
+Par Deus, ay! dona Leonor,
+Gran ben uos fez Nostro Senhor.
+
+E Deus, Que uos en poder ten,
+Tan muyto uos fez de ben
+Que non sab El no mundo ren
+Porque vos fezesse melhor;
+Par Deus, ay! [dona Leonor
+Gran ben uos fez Nostro Senhor.]
+
+En uos mostrou El seu poder:
+Qual dona sabia fazer
+De bon prez e de parecer
+E de falar fez uos, senhor;
+Par Deus, ay! [dona Leonor,
+Gran ben uos fez Nostro Senhor.]
+
+Com antr as pedras bon roby,
+Sodes antre quantas eu uj,
+E Deus uos fez por mal de mj
+Qu era commigo desamor;
+Par Deus, ay! dona [Leonor,
+Gran ben uos fez Nostro Senhor.]
+
+\num 14
+
+\loc CV 1045; CBN 1347
+
+\txt
+
+A donzela de Biscaya
+Ainda mh a preyto saya,
+De noyte ao lunar.
+
+Poys m agora assy desdenha,
+Ainda mh a preito uenha,
+De noyt ao l~uar.
+
+Poys d ela soõ maltreyto,
+ainda mi uenha a preyto,
+De noyt ao l~uar.
+
+\num 15
+
+\loc CV 1046; CBN 1348
+
+\txt
+
+Perguntad un ric ome,
+Mui rico, que mal come,
+Porque o faz.
+
+El de fam e de sede
+Mata hom e ben o sabede
+Pre que o faz.
+
+Mal com e faz ne miga,
+Dizede lhi que diga
+Porque o faz.
+
+\num 16
+
+\loc CV 1047; CBN 1349
+
+\txt
+
+Hun Ric omaz, hun Ric omaz,
+Que de maos iantares faz!
+
+Quanta carne manda cozer,
+Quand orne uay po la ueer,
+Se ss ante muyto non merger,
+Sol non pode ueer hu iaz.
+Hun ric omaz, h~u ric omaz,
+Que de maos iantares faz.
+
+Quen uee qual coz~ia ten
+De Carne, se ss y non deten,
+Non podera estimar ben
+Se x est carne, se pescaz.
+H~u ric omaz, hu ric omaz,
+[Que de maos iantares faz!]
+
+\num 17
+
+\loc CV 1048; CBN 1350
+
+\txt
+
+Comendador, hu m eu quytei
+De uos e uos encomendey
+A ma molher, per quant eu sey
+Que lhi uos fezestes d amor,
+Tenhades uos, comendador,
+Comendad o Demo mayor.
+
+Ca muyto a fostes seruir,
+Non uo lo poss eu grazir,
+Mays poy la uos fostes comprir
+De quant ela ouue sabor,
+Tenades uos, comendador,
+[Comendad o Demo mayor.]
+
+E dizer uos quer unha ren:
+Ela pre seruida sse ten
+De uos, e, poys que uos quer ben
+Como quer a mjn, ou melhor,
+Tenhades uos, comendador,
+[Comendad o Demo mayor.]
+
+\num 18
+
+\loc CV 1049; CBN 1351
+
+\txt
+
+- Maria Genta,
+Maria Genta,
+da saya cintada,
+Hu masestes esta noyte,
+ou quen pos cenada?
+
+Alua abriades m ala!
+
+- Albergamos,
+eu e outra,
+na carreyra.
+- E rapazes, con amores,
+furtan ceueyra.
+
+Alua abria[des m ala!]
+
+- Hu eu, mai
+aquest - a noyte,
+ouuy gram cena.
+- E rapazes con amores,
+furtan au~ea.
+
+Alua a[briades m ala!]
+
+\num 19
+
+\loc CV 1050; CBN 1352
+
+\txt
+
+Meu senhor, se uos aprouguer,
+Comendador, dade mi mha molher.
+E, se uo la eu outra uez ar der,
+De mi Deus muita de maa uentura.
+Comendador, dade mi mha molher
+Que uos dey, e fazede mesura.
+
+De fazer filhos m [h]e mester,
+Comendador, dade ma molher,
+E dar uos ey outra d Alanquer
+En que percades a caentura.
+Comendador, dade ma molher
+[Que uos dey, e fazede mesura.]
+
+\num 20
+
+\loc CA 185; CBN 1590
+
+\txt
+
+Pois m en tal coita ten Amor
+por uos, dizede me, sennor:
+Que uus non doedes de min,
+en que graue dia uus ui,
+que uus non doedes de min?
+
+E, pois m el en tal coita ten
+por uos, ay! meu lum e meu ben:
+Que uus non doedes de min,
+[en que graue dia uus ui,
+que uus non doedes de min?]
+
+Ay! coita do meu coraçon,
+dizede, se Deus uus perdon:
+Que uus non doedes de min,
+[en que graue dia uus ui,
+que uus non doedes de min?]
+
+Ay! lume d estes olhos meus
+dizede mi agora, por Deus:
+Que uus non doedes de min,
+[en que graue dia uus ui,
+que uus non doedes de min?]
+
+\num 21
+
+\loc CV 1026; CBN 1673
+
+\txt
+
+Mala uentura mi uenha
+sé eu po la de Bolenha
+d amores ey mal.
+
+E cofonda me San Marcos
+sé po la donzela d Arcos
+d amores ei mal.
+
+Mal mi uenha cada dia
+sé eu por dona Maria
+d amores ey mal.
+
+Fernand Escalho mé pique
+sé eu por Seuylh Anrique
+d amores ey mal.
+
+\num 22
+
+\loc CV 1027; CBN 1674
+
+\txt
+
+Ven h~u ric omé das truytas,
+qué conpra duas por muytas
+é coz end a hunha.
+
+Por quanto xi quer, e ben, as
+conpra en duas pequenas
+é coz end a huã.
+
+Venden cen truytas uiuas,
+E conpra en duas catiuas
+é coz end a huã.
+
+E hu as uenden bolindo,
+uay ss en con duas trijndo
+é coz end a huã.

@@ -1,0 +1,45 @@
+\nome Airas_Pais
+\num 1
+\loc CV 891; CBN 1234    
+\txt
+
+
+Quer hyr a Santa Maria de Reça.
+E, irmanas, Treydes migo,
+E ueira o namorado
+de bon grado falar migo.
+Quer hir a Sancta Maria de Reça,
+Hu non fui mays a gram peça.
+
+Se ala foss - irmana, ben sei
+Que meu amigu i veiria
+Por me ueer e falar migo,
+Ca lh o non vi noutro dia.
+Quero hir a Sancta Maria de [Reça,
+Hu non fui mays a gram peça.
+
+
+\num 2
+\loc CV 892; CBN 1235    
+\txt
+
+
+Por vel lo namorado,
+Que muyt a que eu non ui,
+Irmana, Treides comigo,
+Ca me dizen que uen hy
+A Santa Maria de Reça.
+
+
+Porque sseu ca mi quer ben,
+E porque uen hi muytado,
+Irmana, Treides comigo,
+Ca sey que uen hi de grado
+A Sancta Maria de Reça.
+
+Por ue lo namorado,
+Que por mi gram mal leuou,
+Treides conmig - ay! irmana,
+Ca mi dizen que chegou
+A Sancta Maria de [Reça.]
+

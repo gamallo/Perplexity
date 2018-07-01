@@ -1,0 +1,42 @@
+\nome Nuno_Porto                   
+
+\num 1                               
+
+\loc CA 69; CBN 156                 
+
+\txt                                  
+
+Nostro Senhor, en que uos mereçi
+por que mj fostes tal senhor mostrar,
+a mays fremeso que eu nunca uj,
+a que non ouso nulha rem falar,
+pero a ueio, non lh ouso dizer
+a muy gram coyta que me faz auer,
+e ey m assy mha coyt a endurar.
+
+
+
+\num 2                             
+
+\loc CV 719; CBN 1061                                                      
+
+\txt
+
+ Hirey a lo mar uee lo meu amigo.
+Pregunta lo ey se querra uiuer migo.
+E uou m eu namorada!
+
+ Hirey a lo mar vee lo meu amado.
+Pregunta lo ey se fara meu mandado.
+E uou [m eu namorada!]
+
+ [Pregunta lo ey porque non uyu y migo.
+e direy lh a coit an que por el uyuo.
+E uou m eu namorada!]
+
+ Pregunta lo ey porque m a despagado.
+E ssi m assanhou a tort endõado.
+E uou m eu na[morada!]
+
+
+

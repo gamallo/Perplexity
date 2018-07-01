@@ -1,0 +1,52 @@
+\nome Tristão
+
+\num 1
+
+\loc CA 314; CBN 4
+
+\txt
+
+D un amor eu cant e choro
+E todo me uen daly,
+Da por que eu cant e choro
+E que por meu mal dia uy.
+
+E pero, se a eu oro,
+Muy gram dereyto faç y,
+Ca, aly hu eu don oro,
+Senpre lhe peç e pedy.
+
+Ela, e pois eu demoro
+En seu amor, por Deus, de mi.
+Aia merçee, ca, sse eu demoro
+En tal coyta, perder m ey hy.
+DON TRISTAN.
+
+\num 2
+
+\loc CA 315; CBN 5
+
+\txt
+
+Este laix fezerom donzelas a dom [L]an/çaroth, quando estaua na Inssoa/ da Lidiça, quando a Rayã Geneura [o] achou/ com a filha de Rey Peles e lhy defendeo/ que non pareçese ant ela./
+
+Ledas seiamus oy mays
+e dancemus, poys nos chegou
+E o Deus connosco iuntou.
+Cantemus lh aaqueste lays:
+Ca este escudo [h]e do melhor
+Homen que fez Nostro Senhor.
+
+Con [e]ste escudo gran prazer
+Aiamus e cantemus bem,
+E dancemus a noso sem,
+Poys lo auemus en poder.
+Ca este escudo [h]e do me[lhor
+Homen que fez Nostro Senhor.]
+
+Oy nos deuemos [a]legrar
+Neste esscudo que Deus aqui
+Troux e façamo lo asy:
+Poynhemus moyto en no honrrar,
+Ca este escudo he [do melhor
+Homen que fez Nostro Senhor.]

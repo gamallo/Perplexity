@@ -1,0 +1,46 @@
+\nome Estêvão_Coelho
+
+\num 1
+
+\loc CV 321; CBN 683
+
+\txt
+
+Sedia la fremosa seu sirgo torcendo,
+sa uoz mansselinha fremosa dizendo
+'Cantigas d amigo'.
+
+Sedia la fremosa seu sirgo laurando,
+sa uoz mansselinha fremosa cantando
+Cantigas [d amigo.] 
+
+- Par Deus de Cruz, dona, sey eu que auedes
+amor muj coitado, que tan ben dizedes
+Cantigas [d amigo.]
+
+Par Deus de Cruz, dona, sey que andades
+d amr muy coytada, que tan ben cantades
+Cantigas [d amigo,]
+
+- Auuytor comestes, que adeuynhades.
+
+\num 2
+
+\loc CV 322; CBN 684
+
+\txt
+
+Se oi o meu amigo
+soubess - hyria migo!
+E[u] al rio me uou banhar - 
+al mare.
+
+Se oi el este dia
+soubesse, migo iria!
+Eu al rio me uou [banhar - 
+al mare.]
+
+Quen lhi dissess atanto
+ca ia filhey o manto!
+Eu al rio me uou [banhar - 
+al mare.]

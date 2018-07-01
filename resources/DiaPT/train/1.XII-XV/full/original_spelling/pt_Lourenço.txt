@@ -1,0 +1,431 @@
+\nome Lourenço
+
+\num 1
+
+\loc CV 693; CBN 1035
+
+\txt
+
+Senhor fremosa, oy eu dizer
+Que uos leuaron du uos eu leixei,
+E du os meus olhos de uos quytey.
+Aquel dia fora bem de moirer
+Eu, e non vira atan gram pesar
+Qual mi Deus quis de uos amostrar.
+
+Poque uos foron, mha senhor, casar
+E non ousastes uos dizer ca non.
+Poren, senhor, assy Deus mi pardon,
+Mais mi ualera ia de me matar
+Eu, e non uira atan gram pesar
+[Qual mi Deus quis de uos amostrar.]
+
+\num 2
+
+\loc CV 706; CBN 1048
+
+\txt
+
+Estes, con que eu venho, preguntey
+Quant a que vehemos, per boa fe,
+Dessa terra hu mha senhor [h]e,
+Mays dizen mh o que lhis non creer ey,
+Dizen que mays d oyto dias non a,
+E a mj [h]e que may d un an y a.
+
+Mays de pram non lhe lo poss eu creer,
+Aos que dizen que tan pouc a hy
+Que m eu, d u est a mha senhor, parti,
+Mays que mi queren creente fazer.
+Dizen que mays d oyto dias non a,
+[E a mj he que may d un an y a.]
+
+Mentr eu morar Hu non vi a mha senhor,
+Se m oyto dias tant am a durar,
+Mays me ualrria logu en me matar,
+Se m uyto dias tan gram sazon for.
+Dizen que mays d oyto dias [non a,
+E a mj he que may d un an y a.]
+
+E, sse mays d oyto dias non son
+Que mha senhor foy alongado,
+Forte preyto tenho começado,
+Poys m oyto dias foy tan gram sazon.
+
+\num 3
+
+\loc CV 865; CBN 1208
+
+\txt
+
+- Hyr uos queredes, amigo,
+Mays uiide uos mui cedo,
+- Ay! mha senhor, ey gram medo
+De tardar, ben uo lo digo
+Ca nunca tan cedo veirey
+Que eu non cuyde que muyto tardey.
+
+- Amigo, rogo uos aqui 
+Que mui çedo uos venhades.
+- Senon, porque me rogades
+Ca sey ben que sera assy:
+Ca nunca tan cedo veirey
+[Que eu non cuyde que muyto tardey.]
+
+- Amigo, uossa prol sera,
+Poys uos hides, de non tardar.
+- Senhor, que prol mh a de iurar?
+Ca sei ben quanto mh aueira:
+Ca nunca tan cedo verrey
+[Que eu non cuyde que muyto tardey.]
+
+E, ssenhor, sempre cuydarey
+Que Tardo muyto; e que farey?
+
+- Meu amigo, eu uo, lo direy:
+Se assy for, gracir uo lo ey.
+
+\num 4
+
+\loc CV 866; CBN 1209
+
+\txt
+
+Hunha moça namorada
+Dixia hun cantar d amor,
+E diss ela: Nostro Senhor,
+Oi eu foss auenturada
+Que oyss o meu amigo
+Com eu este cantar digo.
+
+A moça ben parecia,
+E, en ssa uoz mansse~i~ia,
+cantou e diss a men~ia:
+Prouguess a Sancta Maria
+Que oyss o meu amigo
+[Com eu este cantar digo.]
+
+Cantaua mui de coraçon,
+E mui fremosa estaua,
+E disse, quando cantaua:
+Peç eu a Deus, por pediçon,
+Que oyss o meu amigo
+[Con eu este cantar digo.]
+
+\num 5
+
+\loc CV 867; CBN 1210
+
+\txt
+
+Tres moças cantauan d amor,
+Mui fremosinhas pastores,
+Mui coytadas dos amores.
+E diss end unha, mha senhor:
+Dized - amigas, comigo,
+O cantar do meu amigo.
+
+Todas tres cantauan mui ben,
+Come moças namoradas,
+E dos amores coitadas.
+E diss a por que perco o sen:
+Dized - amigas, [comigo,
+O cantar do meu amigo.]
+
+Que gram sabor eu auya
+De as oyr cantar enton,
+E prougue mi de coraçon
+Quanto mha senhor dizia:
+Dized - amigas, [comigo, 
+O cantar do meu amigo.]
+
+E, sse as eu mays oysse, 
+A que gram sabor estaua,
+E que muyto me pagaua
+De como mha senhor disse:
+Dized - amigas, con migo,
+[O cantar do meu amigo.]
+
+\num 6
+
+\loc CV 868; CBN 1211
+
+\txt
+
+Assaz [h]e meu amigo Trobador,
+Ca nunca ss ome defendeu melhor,
+Quanto sse torna en trobar,
+Do qu ss el defende por meu amor
+Dos que uan el entençar.
+
+Pero o muytos veen cometer,
+Tan ben sse sab a todos defender
+En sseu trobar, per boa fe,
+Que nunca o Trobadores uencer
+Poderon, tan Trobador [h]e.
+
+Muytos cantares a feytos por mi,
+Mays, o que li eu sempre mays gradeçi,
+De como sse ben defendeu
+Nas entenções que eu d el oy,
+Sempre por meu amor venceu.
+
+En qu esto non ssey eu per mi
+Senon porque o diz quenquer assy
+Que o en Trobar cometeu.
+
+\num 7
+
+\loc CV 869; CBN 1212
+
+\txt
+
+Amiga, des que meu amigo vi,
+El por mi moir e eu ando des y
+Namorada.
+
+Des que o ui, primeyro lhi faley;
+El por mi moir e eu ando por en
+Namorada.
+
+Des que nos vimos, assi nos auen:
+El por mi moir e eu and assaz
+Namorada.
+
+\num 8
+
+\loc CV 870; CBN 1213
+
+\txt
+
+J agora meu amigo filharia
+De mi, o que el tiynha por pouco,
+De falar migo, ca tant era louco
+Contra mi que ainda mays queiria.
+E ia filharia, se m eu quisesse,
+De falar migu e nunca lh al fezesse.
+
+Tan muyto mi dizen que [h]e coitado
+por mi, des quando non falou comigo,
+Que non dorme, nen a sen con ssigo,
+Nen sabe de ssy parte, nen mandado.
+E ia filharia, se m eu quisesse,
+[De falar migu e nunca lh al fezesse.]
+
+Ca est el ome; qu [h]e mays: demandaua
+E non ar quis que comigo falasse.
+E ora iura que ia sse quitasse
+De gram sandic en que m ante falasse.
+E ia filharia, se m eu quisesse,
+[De falar migu e nunca lh al fezesse.]
+
+E iura ben que nunca mi dessesse
+De lh eu fazer ren, que mal m esteuesse.
+
+En tal, que comigo falar podesse,
+Ja non a preyto que mi non fezesse.
+
+\num 9
+
+\loc CV 871; CBN 1214
+
+\txt
+
+Amiga, quero m ora couseçer
+Se ando mays leda por hunha ren:
+Porque dizen que meu amigo ven.
+Mays a quen me vir, queirey parecer
+Triste, quando souber que el verra.
+Mays meu coraçon muy ledo seera.
+
+Querrey andar Triste, por lhi mostrar
+C a mi non praz, assy Deus mi pardo[n],
+Pero c a mi tenho eu no coraçon.
+Mas a quen me vir queirey semelhar
+Triste, quando souber que el veyra.
+[Mays meu coraçon muy ledo seera.]
+
+Pero, amigas, sempre recehey
+D andar Triste, quando gram prazer vir.
+Mays ey o de fazer por m encobrir,
+E a força de mi, parecerey
+Triste, quando [souber que el verra.
+Mays meu coraçon muy ledo seera.]
+
+\num 10
+
+\loc CV 1032; CBN 1679
+\coa rodrigo_eanes
+
+\txt
+
+- Rodrigu Eanes, queria saber
+de uos porqué m ides sempre trauar
+en meus cantares, ca ssey ben trobar
+e a uos nunca uos uimos ffazer
+cantar d amor, nen d amigo e, por en,
+ssé querede l o que eu faço bem
+danar, terran uos por ssem conhocer.
+
+- Lourenzo, tu fazes hi teu prazer
+en te quereres tan muyto loar,
+ca nunca té uimos fazer cantar
+qué che u querra n~em o Demo dizer,
+come, ss o dizer, s ard y huã rrem, 
+que es omen mui conprido de ssem
+e bon meestre qué sabes leer.
+
+- Rodrigu Eanes, sempr eu loarey
+os cantares que muy bem fectos uijr,
+quaes eu fazeo, e quen os oyr
+pagar ss a d elles, mais uos eu direy:
+dos sarilhos sodes uos trobador,
+ca non faredes hum cantar d amor,
+por nulha guisa, qual eu farey.
+
+- Lourenç Eanes, terras hu eu andey,
+non ui uilan tan mal departir
+e ueio té trobares cousir
+e loar té, mais huã cousa sey:
+de tod omen que entendudo for,
+non auera en teu cantar sabor,
+nen ch o colheran en casa d el rey.
+
+- Rodrigu Ianes, hu meu cantar for
+non acha rey, nem emperador
+que o non colha muy ben. eu o sey.
+
+-Lourenço, tenho que es chufador
+e ueio t ora muy gran loador
+de pouco sse non ch o creerey.
+
+\num 11
+
+\loc CV 1033; CBN 1680
+
+\txt
+
+Pedr Amigo duas soberunhas faz
+ao trobar, e queixa ssé muyt en:
+o trobar, aquesto sey eu muy bem,
+ca diz que lhi fazé de mal asaz;
+con seus cantares, uai o escarnir,
+ar diz que o leix eu, que ssey seguir
+o trobar e todo quant en el iaz.
+
+E aquestas soberunhas duas som
+qué Pedr Amigo en trobar uay fazer:
+en a huã uay o escarnazer
+con seus cantares, senpré en sseu son,
+e na outra uay há min de loor;
+d esto sé queixa muy mal o trobador,
+ca ten comigu en toda rrazon.
+
+Mais dizedé porque lh o ssoffrerey
+a Pedr amigo, se mé mal disser 
+de meus mestreres poi los ben fazer,
+e de mais o tro(b)ar de mi ia parti[rey]
+s el sem conhoçer per ficara;
+do que mé diz quenquer ue~era
+que fazo bem esta que mé filhey.
+
+\num 12
+
+\loc CV 1034; CBN 1681
+\coa pero_garcia
+
+\txt
+
+- Quero que iulguedes, Pero Garçia,
+d antre min e todo los trobadores
+qué dé meu trobar ssom desdézidores,
+poys que eu ey muy gram sabedoria
+dé trobar e do mui ben fazer
+sé ey culpa no qué mé uam dizer
+uingade o sen toda bandoria.
+
+- Don Lourenço, muyto mé cometedes,
+é en trobar muyto uos ar loades
+é dizem esses com qué uos trobades
+que dé trobar nulha rem non sabedes,
+nen rrimades, nem ssabedes iguar,
+e pois uos assy trauan em trobar
+de uosso iulgar, senhor, nom me coitedes.
+
+- Dom Pedro, eu como uos ouç i falar,
+hu uos bem non sabedes iulgar,
+ouia dos outros; ofereçam auedes.
+
+- Dom Lourenço, ueio i uos posfaçar,
+mais quen non rrima, nem sabé iguar,
+sé eu iuizo dou, queyxar uos edes.
+
+\num 13
+
+\loc CV 1035; CBN 1682
+\coa joão_vasques_de_talaveira
+
+\txt
+
+- Joham Uaasquez, moiro por saber
+de uos porque mé leixastes o trobar,
+ou sé foy el uos primeiro leixar,
+ca uedes, aque ouço a todos dizer
+ca o trobar acordou s en atal
+que stauan uosco en pecado mortal,
+e leixa uos por sé non perder.
+
+- Lourenço, tu uees por aprender
+de min, é eu non cho o quero negar:
+eu trobo ben quanto quero trobar,
+pero non o quero sempre ffazer;
+mais di me, tu trobas desigual,
+sé té deitam por en dé Portugal,
+ou sé mataste homen, ou sé roubaste auer.
+
+- Johan Uasquez, nunca roubei rem,
+nen matei homen, nem ar mereci
+por que mi deitassem, mais uij aqui
+por giar algo, e po[i]s sey iguar mi bem
+como o trobar uoso, maes estou
+que sé predia tan uosqu é quitou
+ssé des uos, e non trobades por en.
+
+\num 14
+
+\loc CV 1010
+\coa João_ Peres_d'Aboim
+
+\txt
+
+- Lourenço, soyas tu guarecer
+como podias per teu citolon,
+ou ben ou mal non ti digu eu de non,
+e vejo-te de trobar trameter,
+e quero-t'eu d'esto desenganar,
+ben tanto sabes tu que é trobar
+ben quanto sab'o asno de leer.
+
+-Johan d'Avoyn, já me cometer
+veherom muytos per esta razon,
+que mi diziam, se deus mi perdon,
+que non sabian trobar entender,
+e veherob por en comigu'entençar,
+e figi-us eu vençudus ficar,
+e cuydo-vos d'este preyto vencer.
+
+- Lourenço, serias mui sabedor,
+se me vencesses de trobar nen d'al,
+ca ben sey eu quen troba ben ou mal,
+que non sabe mays nenhum trobador;
+e por aquesto te desenganey,
+e vês, Lourenço, onde ch'o direy:
+quita-te sempre do que teu non for.
+
+- joham d'Avoym, por nostro senhor,
+porque leixarei eu trobar a tal
+que mui ben faç'e que, muito me val
+desy ar gradece-mh o mba senhor
+porque o faç'e poys eu tod'est'ey
+o trobar nunca eu leixarey,
+poyt-o ben faç'e ei gram sabor. 

@@ -1,0 +1,532 @@
+\nome João_Vasques_de_Talaveira
+
+\num 1
+
+\loc CA 242; CV 42; CBN 372
+
+\txt
+
+Muit(o) ando eu triste no meu coraçon
+porque sei que m´ ei mui ced´ a quitar
+de vos, senhor, e ir al[h]ur morar;
+e pesar-mi-á én, si Deus mi perdon!
+de me partir de vos per nulha ren
+e ir morar alhur sen vosso ben.
+
+Porque sei que ei tal coit´ a soffrer
+qual soffri ja outra vez, mia senhor,
+e non averá i al, pois eu for´,
+que non aja gran pesar a prender
+de me partir de vos per nulha ren
+e ir morar alhur sen vosso ben.
+
+Ca mi-av~eo assi outra vez ja,
+mia senhor fremosa, que me quitei
+de vos, e sen meu grad´ alhur morei;
+mas este mui gran pesar me será
+de me partir de vos per nulha ren
+e ir morar alhur sen vosso ben.
+
+E quando m´ eu de vos partir´, por én
+ou morrerei, ou perderei o sen!
+
+\num 2
+
+\loc CA 243; CV 43; CBN 373
+
+\txt
+
+Partir-m´ eu de vos, mia senhor,
+sen meu grad´ ~ua vez aqui;
+e na terra u eu vivi,
+andei sempre tan sen sabor
+que nunca eu pude veer
+de ren, u vus non vi, prazer!
+
+Na terra u me fez morar
+muito sen vos, mia senhor, Deus,
+fez-me chorar dos olhos meus;
+e fez-me tan coitad´ andar
+que nunca eu pude veer
+de ren, u vus non vi, prazer!
+
+[E] des que m´ eu de vos quitei,
+fezo-me sempr´ aver, de pran,
+Nostro Senhor mui grand´ affan;
+e sempre tan coitad´ andei
+que nunca eu pude veer
+de ren, u vus non vi, prazer!
+
+E non poderia prazer,
+u eu vus non visse, veer.
+
+\num 3
+
+\loc CA 244; CV 44; CBN 374
+
+\txt
+
+Meus amigos, muit´ estava eu ben
+quand´ a mia senhor podia falar
+na mui gran coita que me fez levar
+Nostro Senhor, que mi-a mostrou; por én
+me faz a min sen meu grado viver
+longe d´ ela  e sen seu ben-fazer.
+
+Deus, que lhe mui bon parecer foi dar,
+(por mal de min e d´ estes olhos meus)
+me guisou ora que non viss´ os seus
+Por mi-a fazer sempre mais desejar
+me faz a min sen meu grado viver
+longe d´ ela  e sen seu ben-fazer.
+
+Nostro Senhor que lhe deu mui bon prez,
+melhor de quantas outras donas vi
+viver no mund´; e, de pran, est assi:
+Deus que lh´ a ela tod´ este ben fez,
+me faz a min sen meu grado viver
+longe d´ ela  e sen seu ben-fazer.
+
+E faz mi-a força de min ben querer
+dona a que non ouso ren dizer.
+
+\num 4
+
+\loc CA 245; CV 45; CBN 375
+
+\txt
+
+Estes que ora dizen, mia senhor,
+que saben ca vus quer´ eu mui gran ben,
+pois én nunca per mi souberon ren,
+querri´ agora seer sabedor
+per quen o poderon eles saber,
+pois mi-o vos nunca quisestes creer?
+
+Ca, mia senhor, sempre o eu neguei
+quant´ eu mais pud(e), assi Deus me perdon!
+e dizen ora quantos aqui son
+que o saben. Mais como saberei
+per quen o poderon eles saber,
+pois mi-o vos nunca quisestes creer?
+
+\num 5
+
+\loc CV 372; CBN 733
+
+\txt
+
+Disserom mj que auya de mj
+o meu amigo queixum e pesar,
+e en tal que me non sey consselhar,
+e, amiga, se lh eu mal mereçi,
+Rogu eu a Deus que o ben, que m el quer,
+que o queyra ced a otra molher.
+
+E sse el queixume quiser perder,
+que de mjn con coit a, graçir uo lo ey,
+e, amiga, uerdade uos direy:
+se lh oi eu queria mal mereçer,
+Rogu eu [a Deus que o ben, que m el quer,
+que o queyra ced a outra molher.]
+
+E ffara meu amigo muy melhor
+en perder queixume, que de min a,
+e, par Deus, amiga, ben lh estara,
+ca, se lh eu fuj de mal merecedor,
+Rogu eu a Deus [que o ben, que m el quer,
+que o queyra ced a outra molher.]
+
+E, sse lh o el per uentura quiser,
+mal dia eu naçi se o souber.
+
+\num 6
+
+\loc CV 373; CBN 734
+
+\txt
+
+O meu amigo, que sempr amey
+do primeyro dia que o uj,
+ouu el hun dia queixume de mj
+non sey por que, mays logo lh eu guysey
+Que lhi fiz de mj queixume perder,
+sey m eu com e non o quero dizer.
+
+Por que ouu el queixum e os meus
+olhos choraron muyto con pesar
+que eu ouu e poi lo ui assanhar
+escontra mj, mays guisey eu, par Deus,
+Que lhi fiz de mj [queixume perder,
+sey m eu com e non o quero dizer.]
+
+Ouu el de mj queixum e h~ua ren
+uos direy, que mh au~eo des enton:
+ouu en tal coita no meu coraçon
+que nunca dormj e guisey por en
+Que lhi fiz de mj [queixume perder,
+sey m eu com e non o quero dizer.]
+
+E quen esto non souber entender
+nunca en mays per mj pode saber.
+
+\num 7
+
+\loc CV 374; CBN 735
+
+\txt
+
+Quando sse foy meu amigo d aquj
+direy uos quant eu d el pud aprender:
+pesou lhi muyt en sse partir de mj,
+e or - amiga - moyro por saber
+Se [h]e mort ou se guariu do pesar
+grande, que ouu en sse de mjn quitar.
+
+Sey eu ca lhi pesou de coraçon
+de ss ir, pero non pudi outra ren
+fazer, se Nostro Senhor mj perdon,
+e moyr - amiga - por saber d alguen
+Se [h]e mort ou se guariu do pesar
+grande, que ouu en sse de mjn quitar.
+
+Muj ben uei eu quan muyto lhi pesou,
+a meu amgu, en sse d aqui partir,
+e todo foy por quanto sse quitou
+de mj, e moyr - amiga - por oyr
+Se [h]e mort ou se [guariu do pesar
+grande, que ouu en sse de mjn quitar.]
+
+\num 8
+
+\loc CV 375; CBN 736
+
+\txt
+
+Consselhou mi unha mh amiga
+que quysess eu a meu amigo mal,
+e ar dix eu, poys m eu partj atal:
+rogu eu a Deus que El me maldiga,
+Se eu nunca por amiga teuer
+a que mh a mj atal conselho der.
+
+Qual mh a mj deu aquela, que os meus
+olhos logo os enton fez chorar
+por aquel consselho que mj foy dar;
+uos iur eu que nunca mj ualha Deus,
+Se eu nunca [por amiga teuer
+a que mh a mj atal conselho der.]
+
+Qual mh a mi deu aquela que poder
+non a de ssy, nen d outren, conselhar,
+e Deu la leixe desto mal achar
+e a min nunca mj mostre prazer,
+Se eu nunca [por amiga teuer
+a que mh a mj atal conselho der.]
+
+A que mh a mj tal conselho der
+filhe x o pera ssy, se o quiser.
+
+\num 9
+
+\loc CV 376; CBN 737
+
+\txt
+
+Do meu amig a que eu defendi
+que non fosse daqui per nulha ren
+alhur morar, ca mj pesaua en,
+uedes, amiga, o que aprendj:
+Que est aquj e quer migo falar,
+mas ante pod aquj muyt morar.
+
+Do que uistes que me preguntou,
+quando ss el ouue daqui a partir,
+se mj seria ben, se mal, de ss ir,
+ay! amiga, mandado mj chegou
+Que est aquj e quer migo falar,
+[mas ante pod aquj muyt morar.]
+
+Do que uos uistes muj sen meu prazer
+partir d aquj, quando ss end el partiu
+e non me falou enton, nen me uyu,
+ay! amiga, ueheron mj dizer
+Que est aquj [e quer migo falar,
+mas ante pod aquj muyt morar.]
+
+Que migo fale: auera do pesar
+que me el fez, que mj poss eu ben negar.
+
+\num 10
+
+\loc CV 377; CBN 738
+
+\txt
+
+Uistes uos, amiga, meu amigo,
+que iuraua que sempre fezesse
+todo por mj quanto lh eu dissesse,
+foy sse d aquj e non falou migo.
+E, pero lh eu dixi, quando ss ya,
+que sol non sse fosse, foy ssa uya.
+
+E per u foy ira periurado,
+amiga, de quant el a mjn disse,
+ca mi iurou que sse non partisse
+d aqui e foy sse sen meu mandado.
+E, pero [lh eu dixi, quando ss ya,
+que sol non sse fosse, foy ssa uya.]
+
+E non poss eu estar que non diga
+o gram torto que m el a feyto,
+ca, pero mi fezera gram preyto,
+foy sse daqui sen meu grad - amiga.
+E, pero lh eu [dixi, quando ss ya,
+que sol non sse fosse, foy ssa uya.]
+
+E sse m el muj gram torto fazia,
+iulgue me con el Sancta Maria.
+
+\num 11
+
+\loc CV 378; CBN 739
+
+\txt
+
+O meu amigo que mj gram ben quer
+punha sempr - amiga - de me ueer
+e punh eu logo de lhi ben fazer,
+mays uedes que uentura de molher:
+Quando lh eu poderia fazer ben,
+el non uen hi e, hu non poss eu, uen.
+
+E non fica per mj, per bõa fe,
+d auer meu ben e de lho guisar eu,
+non ssey se xe meu pecad a, se seu,
+mays mha uentura tal foy e tal [h]e:
+Quando lh eu poderia fazer ben,
+[el non uen hi e, hu non poss eu, uen.]
+
+E, per bona ffe, non fica per mj
+quant eu poss - amiga - de lho guisar,
+nen per el sempre de mho demandar,
+mays a uentura no lo part assy:
+Quando lh eu poderia fazer ben,
+[el non uen hi e, hu non poss eu, uen.]
+
+E tal uentura era pera quen
+non quer amigu e nen da por el ren.
+
+\num 12
+
+\loc CV 379; CBN 740
+
+\txt
+
+Quero uos ora muy ben consselhar,
+ay! meu amig - assy me uenha ben:
+se uirdes que me uos quer asanhar,
+mha sanha nom tenhades em des[d]em.
+Ca, se non for, muy ben sey que sera
+se m assanhar: Alguen se queixara.
+
+Se m assanhar, non façades hy Al
+et ssofrede a ssanha no coraçom;
+pois uos eu posso fazer ben e mal,
+de a sofrerdes faredes rraçon.
+Ca, sse non for, [muy ben sey que sera
+se m assanhar: Alguen se queixara.]
+
+E poys eu ey em uos tan gram poder,
+et auerey enquant eu uyua for,
+ia non podedes per Rem ben au[er,]
+se non fordes de sanha sofredor.
+Ca, sse non for, muy ben sey que sera
+se m assanhar: Alguen se queixara.
+
+\num 13
+
+\loc CBN 1457
+
+\txt
+
+Direy uos ora que oy dizer
+de Maria leue, assy aia ben,
+Po la manceba que se desauen
+D ela e, poys lh aly non quer uyuer,
+En a moeda uelha uay morar
+Dona Maria leue a seu pesar.
+
+Ca atal dona, com ela, guarir
+Non pod aly, se manceba non a.
+E uedes que oy, amigos, ia:
+Que, poys que se lh a manceba quer hyr,
+En a moeda uelha uay morar
+[Dona Maria leue a seu pesar.]
+
+Ca diz que moraua aly mal, e alhur,
+Poi la manceba sigo non ouuer
+E contra san Martinho morar quer,
+Po la manceba que xi lh ora uay,
+En a moeda uelha vay [morar
+Dona Maria leue a seu pesar.]
+
+\num 14
+
+\loc CBN 1458
+
+\txt
+
+O que ueer quiser, ay! Caualeyro,
+Maria Perez, leue algun dinheyro.
+Senon non podera hi adubar prol.
+
+Quen a ueer quiser o serão
+Maria Perez, leu algu en ssa maõ.
+Senon non podera hy [adubar prol.]
+
+Tod ome que a hir queyra ueer suso,
+Maria Perez, leu algo de iuso.
+Senon non [podera hy adubar prol.]
+
+\num 15
+
+\loc CBN 1459
+
+\txt
+
+Ben vyu dona Maria
+Leue que no tragia
+Ren na mha esmolleyra.
+
+Quanod me deostaua,
+Ben uyu ca non andaua
+Ren na [mha esmolleyra.]
+
+\num 16
+
+\loc CBN 1460
+
+\txt
+
+Maria leue, hu sse maenfestaua,
+Direy uos ora o que confessaua:
+- Soõ velh ay! capelam.
+
+Non sey oy eu mays pecado, burgesa
+De min, may vede lo que mi mays pesa:
+Soõ velh ay! [capelam.]
+
+Senpr eu pequey, des que fuy fududa,
+Pero direy uos o per que perduda:
+Soõ uelh ay! capelam.
+
+\num 17
+
+\loc CBN 1461
+
+\txt
+
+Sancha Perez, leue uos ben parecedes
+E, pero que sey que mi uos mal queredes,
+Non xi m obrida o amor [de Maria.]
+
+Bon doayr auedes e mansso falades
+E, pero eu sey que me uos desamades,
+Non xi m obrida o amo [de Maria.]
+
+\num 17
+
+\loc CBN 1462
+
+\coa Pero_Amigo_de_Sevilha
+
+\txt
+
+- Ay! Pedr Amigo, uos que uos teedes
+Por trobador, agora o uerey
+En o que uos ora preguntarey
+E no recado que mi tornaredes:
+Nos, que auemos mui bon Rey por senhor,
+E no lo alhur fazen emperador,
+Dizede mh ora qant i entendedes.
+
+- Joham Vaasquiz, poys me cometedes,
+Dyrey uos eu quant i entend e sey:
+Poys nos auemos aquel melhor Rey
+Que no mund a, porque non entendedes
+Que o seu prez e o seu ualor
+Tod noss est, e poys enperador for,
+O Demo leu o que uos hi perdedes.
+
+- Ay! Pedr Amigo, eu non perderia
+Enquant el Rey podesse mays auer
+En boã terra e en gram poder.
+Ca quant el mays ouuesse mays valiria.
+Mays perde o Reyn e uos perdedes hi,
+Os que sen el ficaredes aqui
+Poys que ss el for d Espanha se vya.
+
+- Joham Vaasquiz, eu ben cuydaria
+Que o Reyno non a por que perder
+Por el Rey nosso senhor mays ualer
+Ca Rey do mund e, se sse uay sa uya,
+Valiria el mays e non per el y.
+Demays quis Deus que ten seu filh aqui,
+Que, sse ss el for, aqui nos leixaria.
+
+- Ay! Pedr Amigo, poys uos ia vençi
+D esta tençon que uosco cometi.
+Nunca ar migo filhedes perfia.
+
+- Joham Vaasquiz, sey que non [h]e assy
+D esta tençon, ca errastes uos hy
+E diz eu ben quanto dizer deuia.
+
+\num 18
+
+\loc CBN 1463
+
+\coa João_Airas_de_Santiago
+
+\txt
+
+-Johan Ayras, ora uei eu que a Deus
+Mui gram sabor de uos destroyr,
+Poys uos tal cousa fostes cometer
+Que, de quantas molheres no mund a,
+De todas uos gram mal fostes dizer
+Catiu e non soubestes entender
+O mui gram mal que sempr en veyra.
+
+- Joham Vaasquiz, sempr en direy ia
+De molheres moyto mal, hu as uir,
+Ca, porque eu foy end uã seruir,
+Sempre mi gram mal quis, E queira ia,
+por gram ben que lh eu sabia querer.
+Casou ss ora, por mi pesar fazer,
+Con quen a nunca amou, nen amara.
+
+- Joham Ayras, non Tenh eu por razon
+Das molheres todas caer en mal
+Por en d uã soo que a uos fal,
+Ca Deu lo sabe que [h]e sen razon.
+Poren d a uos huã tolher o sen
+E dizerdes das outras mal por en
+Eirades uos assy, Deus mi pardon.
+
+-Joham Uaasquiz, todas caes son,
+Que poys uiren que non amades al
+Senon elas, logo uos faran tal
+Qual fez a min huã, e todas son
+Aleyuosas, e quen lhis d esto ben
+disser, Atal prazer ueia da quen
+Que mays amar no seo coraçon.
+
+- Joham Ayras, vos perdestes o sen,
+Ca en as molheres sempr ouue ben
+E auera iamays, per a uos non.
+
+- Joham Vaasquiz, non dizedes ren,
+Ca todos se queixan d elas, poren,
+Senon uos, que filhastes por en don.

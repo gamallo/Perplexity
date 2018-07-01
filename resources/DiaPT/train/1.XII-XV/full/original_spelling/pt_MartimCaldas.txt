@@ -1,0 +1,179 @@
+\nome Martim_de_Caldas
+
+\num 1                                    
+
+\loc CV 798; CBN 1141
+
+\txt
+
+Per quaes nouas oi eu aprendi,
+Cras me veira meu amigo veer,
+E oie cuyda quando mh a dizer.
+Mays do que cuyda non sera assy,
+Ca lhi cuyd eu aparecer tan ben
+Que lhe non nenbre, do que cuyda, rren.
+
+\num 2                                    
+
+\loc CV 799; CBN 1142
+
+\txt
+
+
+Madr e senhor, leixade m ir veer
+Aquel, que eu por meu mal dia vi
+E el vyu mi en mal dia por sy,
+Ca morr el, madr - e eu quero morrer,
+Se o non vir. Mays, se o vir, guarirey,
+E el guaira, poys me vyr, eu o sey.
+
+O que mi Deus non ouuer a mostrar,
+Vee lo ey, madre, se uos prouguer en
+E tal non me lhi mostrou, por seu ben,
+Ca morr el e moyro eu, se Deus m ampar,
+Se o non vyr. Mays, se o vir, guairey,
+[E el guaira, poys me vyr, eu o sey.]
+
+Aquel que Deus fez nacer, por meu mal,
+Madre, leixade mh o veer, por Deus.
+Eu naçi por mal dos olhos seus,
+Ca morr el e morr eu, hu non iaz al,
+Se o non uyr. Mays, se o uir, guairey,
+[E el guaira, poys me vyr, eu o sey.]
+
+\num 3                                    
+
+\loc CV 800; CBN 1143
+
+\txt
+
+Mandad ey migo qual eu deseiey
+Gram sazon a, madre, per bõa fe,
+E direy uo lo mandado qual [h]e,
+Que nulha ren non uos en negarey:
+O meu amigo sera oi aqui,
+E nunca eu tan bon mandad oy.
+
+E, poys mi Deus fez tal mandad auer
+Qual deseiaua o meu coraçon,
+Madr e senhora, se Deus mi perdon,
+Que uos quer eu mandado dizer:
+O meu amigo sera oi aqui,
+[E nunca eu tan bon mandad oy.]
+
+E, poren sey ca mi quer ben fazer
+Nostro Senhor, a Que eu fuy rogar
+Por bon mandar e fez mh o El chegar,
+Que poderedes, mha madre, fazer?
+O meu amigo sera oi aqui,
+[E nunca eu tan bon mandad oy.]
+
+Melhor mandado nunca ia per ren
+D aqueste, madre, non poss eu oyr,
+E, poren, non me quer eu encobrir
+De uos, ca sey que uos praz de meu ben:
+O meu amigo sera oi aqui,
+[E nunca eu tan bon mandad oy.]
+
+
+\num 4                                    
+
+\loc CV 801; CBN 1144
+
+\txt
+
+Foy ss un dia meu amigu d aqui,
+Trist e coytad e muyt a seu pesar,
+Porque me quis d el mha madre guardar,
+Mays eu, fremosa, des que o non vi,
+Non vi depoys prazer de nulha ren,
+Nen ueerey iamays, se m el non ven.
+
+Quando ss el ouue de mi a partir,
+Chorou muyto dos seus olhos enton,
+E foy coitado no seu coraçon,
+Mays eu, fremosa, por uos non mentir,
+Non vi depoys prazer [de nulha ren,
+Nen ueerey iamays, se m el non ven.]
+
+\num 5                                    
+
+\loc CV 802; CBN 1145
+
+\txt
+
+Ay! meu amigu e lume destes meus
+Olhos e coita do meu coraçon,
+Porque tardaste a muy gram sazon?
+Non mh o neguedes, se uos ualha Deus,
+Ca eu quer end a uerdade saber,
+Pero mh a uos ousades dizer.
+
+Dizede mi quen mi uos fez tardar,
+Ay! meu amigu, e gradecer uo lo ey,
+Ca ia m end o mays do preyto sey,
+E non uos [h]e mester de mh o negar,
+Ca eu quer en[d] a uerdade saber,
+Pero mh a uos ousades dizer.
+
+Per boa fe, non uos conselhou ben
+Quen uos esta tardada fazer fez,
+E, sse mi uos negardes esta uez,
+Perder uos edes comigo por en,
+Ca eu quer end a uerdade saber,
+[Pero mh a uos ousades dizer.]
+
+\num 6                                    
+
+\loc CV 803; CBN 1146
+
+\txt
+
+Nostro Senhor, e como poderey
+Guardar de morte meu amigu e mi?
+Ca mi dizen que sse quer hir d aqui,
+E, sse ss el for, logu eu morta serey,
+E el morto sera, se me non vyr.
+Mays quero m eu esta morte parcir.
+
+Hir m ey con el, que senpre falaran
+Desta morte que se uentura for,
+Ca sse quer hir meu lum e meu senhor,
+E, sse sse for, serey morta de pram,
+E el morto sera, se me non vyr.
+[Mays quero m eu esta morte parcir.]
+
+Hirey co el mui de grado, ca non
+Me sey conselho, se mh o Deus non der,
+Ca sse quer hir o que mi gram ben quer,
+E, sse ss el for, serey morta enton,
+E el morto sera, se me non vyr.
+[Mays quero m eu esta morte parcir.]
+
+\num 7                                    
+
+\loc CV 804; CBN 1147
+
+\txt
+
+Vedes qual preyt eu queiria trager,
+Jrmaa, se o eu podesse guisar
+Que fezess a meu amigo prazer,
+E non fezess a mha madre pesar.
+E, se mi Deus esto guysar, ben sey
+De mi que logu eu mui leda serey.
+
+E a tal preyto m era mui mester,
+Se mi Deus aguisar de o auere
+Quanto o meu amigo quiser,
+E que mh o mande mha madre fazere.
+E, sse mi Deus [esto] guysar,[ben sey
+De mi que logu eu mui leda serey.]
+
+E, sse mh a mi guisar Nostro Senhor
+Aqueste preyto, sera meu gram ben
+Com eu faç a meu amig amor
+E me rogou mha madre ant en poren.
+E, sse mi Deus esto guysar,ben sey
+De mi [que logu eu mui leda serey.]
+

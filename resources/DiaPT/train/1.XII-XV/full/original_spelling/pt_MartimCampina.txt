@@ -1,0 +1,59 @@
+\nome Martim_Campina
+
+\num 1
+
+\loc CV 787; CBN 1130
+
+\txt
+
+O meu amig - amiga, uei andar
+Triste, coydando, e non poss entender
+Porque Trist anda, sy ueia prazer.
+Pero direy uos quant [h]e meu cuydar:
+Anda cuydand en sse d aqui partir,
+E non ss atreue, sen mi, a guarir.
+
+Anda tan triste, que nunca mays vi
+Andar nulh omen, e en ssaber punhei
+O por que era, pero non o sey.
+Pero direy uos quant end aprendy:
+Anda cuydand en sse d aqui partir,
+[E non ss atreue, sen mi, a guarir.]
+
+[Atan trist anda que nunca ui quen
+tan trist andasse, no seu corazon,
+e non sey porque, nen por qual razon;
+pero direy uos quant aprendi en:
+Anda cuydand en sse d aqui partir,
+[E non ss atreue, sen mi, a guarir.]]
+
+\num 2
+
+\loc CV 788; CBN 1131
+
+\txt
+
+Diz meu amigo que eu o mandej
+Hir, amiga, quando ss el foy d aqui.
+E se lh o sol dixi, nen se o vi,
+Non ueia prazer, do pesar que ey.
+E, se m el ten torto en mh o dizer,
+Veia ss el ced aqui en meu poder.
+
+E uedes, amiga, do que me mal
+Dizen os que o uiron: com el diz
+Que o mandei hir, e, sse o eu fiz,
+Nunca d el aia dereito, nen d al.
+E, sse m el [ten] Torto [en mh o dizer,
+Veia ss el ced aqui en meu poder.]
+
+E que gram Torto que m agora ten
+En dizer, amiga, per boã fe,
+Que o mandey hir e, sse assy [h]e,
+Como m el busca mal, Busque le eu ben.
+E sse m el [ten torto en mh o dizer,
+Veia ss el ced aqui en meu poder.]
+
+E, sse el uen aqui a meu poder,
+Pregunthar lh ei quen lh o mandou dizer.
+

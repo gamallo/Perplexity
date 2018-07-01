@@ -1,0 +1,263 @@
+\nome Lopo
+
+\num 1
+
+\loc CV 703; CBN 1045
+
+\txt
+
+Eu, mui coytado, non acho razon
+Por que possa hir hu [h]e mha senhor,
+E, pero que m ey d ir hi gram sabor,
+Sol non vou hy ca mui gran sazon
+Que non fui hy e por esto mh auen:
+Por non saberen a quen quero ben.
+
+E non ach eu razon, e por est [h]e:
+Porque m ey de guardar e de temer
+De mh o saberen, mays pola veer
+Moyr e gram temp a ia, per boa fe,
+Que non foy hi e por esto [mh auen:
+Por non saberen a quen quero ben.]
+
+Por esto non poss eu razon achar
+Como a ueia, nen ssey que fazer
+E ualer mi a mui mays en morrer
+poys que tan muyt a ia, sy Deus m empar,
+Que non fuy hi [e por esto mh auen:
+Por non saberen a quen quero ben,]
+
+Nen saberan mentr eu aqueste sen
+Ouuer que ey per min que quero ben.
+
+\num 2
+
+\loc CV 704; CBN 1046
+
+\txt
+
+Par deus, senhor, muyt aguisad ey,
+Des quand m ora eu de uos quitar,
+De uos veer muy tard a meu cuydar,
+Por hunha ren que uos ora direy.
+Ca non sera tan pequena sazon
+Que sen uos more, se Deus mi pardon,
+Que mi non seia muy grand e o sey.
+
+E, mha senhor, nunca cedo verrey 
+Hu uos veia des que m ora partir 
+De uos, mha senhor, e uos eu non vir
+Mays, con tal coita, como uiuerey?
+Ca, se hun dia tardar hu eu for
+E hu uos non uir ben, terrey, mha senhor,
+Que a hun an ou mays que ala tardey.
+
+Enha senhor, porque me coitarey
+De uijr cedo poys mi prol non a?
+Ca, se veher logo, tard i sera,
+E por esto nunca ced acharey,
+Ca se hun dia en meos meter,
+Que uos non veia, logu ey de teer
+Que a mil dias que sen uos morey.
+
+\num 3
+
+\loc CV 705; CBN 1047
+
+\txt
+
+Ben vei eu que dizia mha senhor
+Gran uerdade no que mi foy dizer
+Ca ia eu d ela queiria auer, 
+Este terria lh o, por grand amor,
+Que sol quisesse comigo falar
+E quitar lh ia de lh al demandar
+
+E ben entendo que baratey mal
+Do que lhi foy dizer, Ca, des enton,
+Non falou migo, se Deus mi pardon
+E tanto mi fezess oi e non al
+Que sol quisesse comigo falar,
+[E quitar lh ia de lh al demandar.]
+
+E ben entendo que fiz folia,
+E dizen uerdade por h~ua ren
+Do que muyto quer a pouco deuen:
+Atal foy eu ca ia filharia
+Que sol quisesse comigo falar
+[E quitar lh ia de lh al demandar.]
+
+\num 4
+
+\loc CV 853; CBN 1196
+
+\txt
+
+Poys vos, meu amigo, morar
+Queredes en casa d el Rey
+Fazed a do que vos direy,
+Se Nostro Senhor vos enpar:
+Doede uos uos do meu mal,
+Por que uos Lev e non por al.
+
+\num 5
+
+\loc CV 854; CBN 1197
+
+\txt
+
+Po lo meu mal filhou el Rey
+De ma a mar, assy Deus  mi pardom
+Ca levou sigo o meu coraçon
+E quanto ben oi eu no mund ey.
+Se o el Rey sigo non leuasse,
+Mui ben creo que migo ficasse.
+
+O meu amigo e meu lum e meu ben
+Non s ouuer assy de mi a partir,
+Mais ante se mh ouuera a espedir.
+E ueed ora qual [h]e o meu sen:
+Se o el Rey sigo non leuasse,
+[Mui ben creo que migo ficasse.]
+
+O meu amigo, pois con el rey [h]e,
+A mha coita [h]e qual pode seer,
+Semelha mh a mi ia par de mort er.
+Esto uos dig ora, per boa fe:
+Se o el Rey sigo non leuasse,
+[Mui ben creo que migo ficasse.]
+
+\num 6
+
+\loc CV 855; CBN 1198
+
+\txt
+
+And ora triste, fremosa,
+Porque se foy meu amigo
+Con sanha, ben uo lo digo,
+Mays eu soo aleyvosa
+Se ss ele foy po lo seu ben,
+Ca sey que mal hi veyra en. 
+
+E ben vo lo Juro, madre, 
+Pois que ss el foy n outro dia
+Sanhud e non mh o dizia,
+Non fui filha de meu padre
+Se ss el foy po lo seu ben,
+Ca sei que mal [hi veyra en.]
+
+Poys que m eu d el muito queixo
+E fui por el mal ferida
+De uos, mha madre velida,
+Non logr eu este meu soqueixo
+Se ss el foy [po lo seu ben,
+Ca sey que mal hi veyra en.]
+
+\num 7
+
+\loc CV 856; CBN 1199
+
+\txt
+
+Porque se foy meu amigo
+Sen meu grad alhur viver,
+E se foy sen o meu prazer,
+ia non falara comigo
+Nenhunha ren, que veia,
+De quanto de mi deseia.
+
+Porque sse foy a meu pesar,
+E sse foy sen o meu prazer,
+Esto lhi cuyd eu a fazer,
+Ca sey que nom a pod acabar,
+Nenh~ua ren, que el veia,
+[De quanto de mi deseia.]
+
+\num 8
+
+\loc CV 857; CBN 1200
+
+\txt
+
+- Filha, se grado edes,
+Dizede que auedes.
+- Non mi dam amores vagar.
+
+- Filha, se ben aiades,
+Dized e non mençades,
+- Non mi [dam amores vagar.]
+
+- Dizede, poys uos mando,
+Porque hides chorando.
+- Non mi [dam amores vagar.]
+
+Par San Louter uos digo:
+Cuydad en meu amigo.
+Non [mi dam amores vagar.]
+
+\num 9
+
+\loc CV 858; CBN 1201
+
+\txt
+
+Por Deus uos rogo, madre, que mi digades
+Que uos mereçi que uos tanto guardades
+D ir a San Leuter falar con meu amigo. 
+
+Fazede mh ora quanto mal poderdes
+Ca nom me guardaredes, pero quiserdes,
+D ir a San [Leuter falar con meu amigo.]
+
+Nunca uos fiz ren que non deuess a fazer,
+E guardades me tanto que non ey poder
+D ir a San Leu[ter falar con meu amigo.] 
+
+\num 10
+
+\loc CV 859; CBN 1202
+
+\txt
+
+Disseron m agor[a],
+do meu namorado, 
+que se foy ssanhud[o]
+e sen o meu mandado.
+E porque s assanhou
+agora o meu amigo?
+
+Sabe o San Leuter,
+A que o eu muyto roguey,
+Que o non mereçi
+por que o sanhud ei.
+E porque s assanhou
+[agora o meu amigo?]
+
+Non lh o mereci eu
+nunca, Poys foy nada,
+Madr - e fui hun dia
+por el mal iulgada.
+[H]e por que s assanhou
+[agora o meu amigo.]
+
+\num 11
+
+\loc CV 860; CBN 1203
+
+\txt
+
+Assanhou sse, madr o que mi quer gram ben,
+Contra mi endoad e foy ss ora d aquen.
+E, sse soubess eu, madre, c a mi sanhud ia,
+Desassanha lo ya.
+
+Sabe o San Leuter, a que o eu roguey,
+Que o non mereci, pero o sanhud ey.
+E, sse soubess eu, madre,[c a mi sanhud ia,
+Desassanha lo ya.]
+
+Assanhou ss e foy sse, sen o meu prazer.
+E, quando mh o disseron, non o quis creer.
+E, sse soubess eu, madre,[c a mi sanhud ia,
+Desassanha lo ya.]

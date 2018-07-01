@@ -1,0 +1,33 @@
+\nome Tristão_o_Namorado
+
+\num 1
+
+\loc CA 313; CBN 3
+
+\txt
+
+Don Tristan, o Namorado, fez [e]sta cantiga
+
+Muy gram tenp a, par Deus, que eu non uy
+Quen de beldade uence toda rrem
+E sse xe m ela queyxasse porem,
+Gran dereyt [h]e, ca eu ho merecy.
+E bem me pode chamar desleal
+De querer eu, nen por ben nen por mal,
+Uiuer com ora ssem ela uíuí.
+
+E pois que me de uiuer atreui
+ssen a ueer, en que fiz muy mal ssem,
+Dereyto faz, se me mal talam tem,
+Por tal sandiçe qual eu comety.
+E con tal coit e tan descomunal,
+sse me Deus ou ssa mesura non ual,
+Deffenson outra non tenh eu por mi.
+
+Ca daquel dia en que m eu parti
+Da mha senhor, e meu lume e meu bem,
+Porque o fiz, a morrer me conuen,
+Poys uiui tanto, sen tornar aly,
+Hu ela [h]e. Sse por en sanha tal
+Filhou de mim e me ssa merçee ffal,
+Ay eu catiuo! Eror [he] que naçy.

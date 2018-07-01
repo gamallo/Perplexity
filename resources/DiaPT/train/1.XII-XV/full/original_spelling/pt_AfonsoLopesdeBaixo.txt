@@ -1,0 +1,307 @@
+\nome Afonso_Lopes_de_Baião
+
+\num 1
+
+\loc CA 224; CV 395; CBN 337
+
+\txt
+
+Senhor, que grau oi a mj [h]e
+de m auer de uos a partir,
+ca sey de pram, poys m eu partir,
+que mh auerra, per boa fe:
+Auerey, se Deus mi perdon,
+gram coyta no meu coraçon.
+
+E poys partir os olhos meus
+de uos que eu quero ben
+e uos non uiren seu ben
+que mh auerra, senhor, por Deus?
+Auerey, se Deus mi perdon,
+[gram coyta no meu coraçon.]
+
+E sse Deus mi algun ben non der
+de uos, que eu por meu mal uj,
+tan graue dia uos eu ui,
+se de uos grado non oer,
+Auerey, se Deus mj perdon,
+[gram coyta no meu coraçon.]
+
+\num 2
+
+\loc CV 396; CBN 338
+
+\txt
+
+O meu Senhor mi guysou
+de sempr eu ia coyta sofrer,
+enquanto no mundo uiuer
+hu m El atal dona mostrou,
+Que me fez filhar por senhor;
+e non lh ouso dizer: senhor.
+
+E sse Deus ouue gram prazer
+de mi fazer coita leuar,
+que ben s end El soube guisar
+hu m El fez tal dona ueer,
+que me fez filhar por [senhor;
+e non lh ouso dizer: senhor.]
+
+Se m en a Deus mal meçi,
+non uos quis El muyto tardar
+que SSe non quisesse uingar
+de min hu eu tal dona uj,
+Que me fez filhar por senhor;
+[e non lh ouso dizer: senhor.]
+
+
+\num 3
+
+\loc CV 339; CBN 701
+
+\txt
+
+Fuj eu fremosa fazer oraçon,
+non por mha alma, mays que uiss eu hi
+meu amigo, e, poi lo non uj,
+uedes, amigas, se Deus mj perdon,
+Gram dereyt [h]e de lazerar por en,
+poys el non ueo nen a uer meu ben.
+
+Ca fuj eu chorar dos olhos meus
+mays, amigas, e candeas queymar,
+no por mha alma, mays polo achar,
+e, poys non u~eo, nen o dusse Deus,
+Gram dereyt [h]e de lazerar [por en,
+poys el non ueo nen a uer meu ben.]
+
+Fuj eu rogar muyt a Nostro Senhor,
+non por mha alma candeas queymey,
+mays por ueer o qu eu muyt amey
+sempr e non u~eo o meu traedor,
+Gram dereyt [h]e de lazerar [por en,
+poys el non ueo nen a uer meu ben.]
+
+\num 4
+
+\loc CV 340; CBN 702
+
+\txt
+
+Madre, des que sse foy daquj
+meu amigo non uj prazer,
+nen mh o queredes creer,
+e moyr e, sse non [h]e assy,
+Non ueiades de mj prazer
+que deseiades auer.
+
+Des que ss ele foy, per bõa fe,
+chorey, madre, dos olhos meus
+con gram coita, sab oie Deus,
+e moyr e, sse assy non [h]e,
+Non ueiades de mj prazer
+[que deseiades auer.]
+
+De mha mort ey muy gram pauor,
+mha madre, se cedo non uen,
+e al non douidedes en,
+ca, sse assy non [h]e, senhor,
+Non ueiades [de mj prazer
+que deseiades auer.]
+
+\num 5
+
+\loc CV 341; CBN 703
+
+\txt
+
+Hyr quer oi eu fremosa de coraçon
+por fazer romaria e oraçon
+a Sancta Maria das Leyras,
+Poys meu amigo hy uen.
+
+Des que ss o meu amigo foy nunca uj prazer
+e quer og ir fremosa polo ueer
+a Sancta Maria das Leyras,
+Poys [meu amigo hy uen.]
+
+Nunca serey leda se o non uir
+e por esto fremosa quer ora hir
+a Sancta Maria das Leiras,
+Poys meu [amigo hy uen.]
+
+\num 6
+
+\loc CV 342; CBN 704
+
+\txt
+
+Diseron mj hunhas nouas, de que m [h]e muy [gram ben,
+ca chegou meu amigu e, se el aly uen,
+A Santa Maria das Leyras
+hyrei uelida, sse hy uen meu amigo.
+
+Disseron m unhas nouas, de que ey gram sabor,
+ca chegou meu amigo e, se el aly for,
+A Sancta Maria das Leiras
+hirey [uelida, sse hy uen meu amigo.]
+
+Disseron mj unhas nouas, de que ey gram prazer
+ca chegou meu amigo, mays eu, polo ueer,
+A Sancta Maria das Leiras
+hyrey [uelida, sse hy uen meu amigo.]
+
+Nunca con taes nouas tan leda foy molher
+com eu soo con estas, e sse hi ueher,
+A Sancta Maria [das Leiras
+hyrey uelida, sse hy uen meu amigo.]
+
+\num 7
+
+\loc CV 1079; CBN 1381
+
+\txt
+
+Oy d Aluelo que era casado,
+Mays non o creo, se Deus mi pardon,
+E quero uos logo mostrar razon,
+Que entendades que digo recado:
+Ca lh oy eu muytas uezes iurar
+Que tan pastor non podia casar,
+E, por en, creo que non [h]e casado.
+
+Sabia m eu ca x era esposado
+Mays a d ~u ano, non digu eu de non,
+Ca mi monstrou el ben seu coraçon,
+Per quanto el a mi auya iurado,
+Que mentr atan pastor fosse, com [h]e,
+Que non casaria, per boa fe,
+Mays esposou ss e anda esposado.
+
+E seus parentes Teen por guysado
+Que sse casass a y gram sazon.
+Os que lh o dizen, dize lhis el enton:
+-Do que dizedes non soo pagado,
+Ca me non podedes tanto coitar
+Que eu tan pastor quisesse casar,
+Mays casarey quand ouuer guisado.
+
+De me coytardes fazedes mal sen,
+Ca non podedes ia per nulha ren
+Que per mi seya o preito marcado.
+
+\num 8
+
+\loc CV 1080; CBN 1382
+
+\txt
+
+Seria x i don Belpelho en huã sa mayson,
+Que chamam Longos, ond eles todos son.
+Per porta lh entra Martin de Farazon,
+Escud a colo, en que seu un capon,
+Que foy i a poleyr en outra sazon;
+Caual agudo que semelha foron.
+En cima d el un uelho selegon,
+Sen estrebeyras e con roto bardon.
+Nen porta loriga, nen porta lorigon,
+Nen geolheiras quaes de ferro son.
+Mays trax perponto roto sen algodon,
+Cuberturas d un uelho zarelhon,
+Lancha de pinh e de bragal o pendon,
+Chapel de feiro que x i lhi muy mal pon,
+E sobarçad un uelh espadairon.
+Cuytel cach ao cint a sen farzilhon,
+Duas esporas destras, ca seestras non som,
+Maça de fuste que lhy pende do arçon.
+A don Belpelho moueu esta razon:
+- Ay! meu senhor, assy Deus nos perdon,
+Hu [h]e Joan Aranha o uosso companhon
+E uoss alferez, que uos ten o pendon?
+Se [h]e aqui, saya d esta mayson,
+Ca ia os outras Todos en Basto son.
+[Eoy!]
+
+Estas oras chega Johan de Froyam,
+Caualho uelho, caçurr e alaxam,
+Sinaes porta, en o arçon d auan
+Campo uerde u inqueyre o can,
+En o escud ataes lh acharam;
+Çeram e cint e calças de Roan,
+Sa catadura semelh a d un sayan.
+Ante don Belpelho se uay a parelhan
+E diz: - senhor, non ualrredes h~u pan
+Se, os que son en Basto, se x i uos assy uan,
+Mays hid a eles, ca xe uos non iran,
+Acha los edes e scarmentaran.
+Vyngad a casa en que uos meia dan,
+Que digan todos quantos poy nos veiran
+Que tal conselho deu Johan de Froyan.
+Eoy!
+
+Esto per dito, chegou Pero Ferreira:
+Caualo branco, uermelho na peteira,
+Escud a colo que foy d uã masseyra,
+Sa lança torta d un ramo de cerdeyra,
+Capelo de feiro, o anassal na Trincheyra,
+E furad en cima da moleyra,
+Tray ~ua osa e huã geolheyra.
+Estrebeyrando uay de muy gram maneyra,
+E achou Belpelho estand en huã eyra,
+E diz: - aqui estades, ay! uelho de matreyra,
+Venha Pachach e o don Ro[y] Cabreyra,
+Pera dar a min a deanteyra,
+Ca ia uos Tarda essa gente da Beyra,
+O Moordom e o sobrinho de Cheira,
+E Meen Sapo, e don Martin de Meyra,
+E Lopo Gato, esse filho da freyra,
+Que non a antre nos melhor lança por peydeyra.
+Eoy!
+
+\num 9
+
+\loc CV 1051; CBN 1383
+
+\txt
+
+En Arouca huã casa faria.
+Atant ei gram sabor de a fazer
+Que iamays custa non recearia,
+Nen ar daria ren por meu auer.
+Ca ey pedreyros e pedra e cal,
+E d esta casa non mi mingua al
+Senon madeyra noua que queria.
+
+E quen mh a desse sempre lh o seruyria,
+Ca mj faria hy muy gram praxer
+De mi fazer madeyra noua auer,
+En que Laurass unha peça do dia,
+E poys hir logo a casa madeira[r],
+E telha la e poys que a telhar,
+E dormir en ela de noyt e de dia.
+
+E, meus amigos, par sancta Maria,
+Se madeyra noua podess auer,
+Logu esta casa hiria fazer,
+E cobri la e descobri la hya,
+E reuolue la, se fosse mester,
+E, sse mh a mj a Abadessa der
+Madeyra noua, esto lhi faria.
+
+\num 10
+
+\loc CV 1082; CBN 1384
+
+\txt
+
+Deu ora el Rey seus di[nheiros]
+A Belpelho, que mostrasse
+En Alardo Caualeiros
+E poy Ric omen ficasse.
+E pareceo a caualo
+Con ssa sela de badana:
+Qual Ric omen tal uasalo,
+Qual concelho Tal canpana.
+
+
+

@@ -1,0 +1,1120 @@
+\nome Estêvão_da_Guarda
+
+\num 1
+
+\loc CV 220; CBN 582
+
+\txt
+
+Ora, senhor, tenho muyt aguysado
+De sofrer coit e gramd e gram deseio,
+Poys du uos fordes eu for alongado
+E uos nom uir, como uos ora ueio.
+E, mha senhor, est [h]e gram mal sobeio
+Meu e meu gram quebranto:
+Seer eu de uos, por uos seruir
+Quanto posso, mui desamado.
+
+Deseg e coita e gram soidade
+conuen, senhor, de sofrer todauia,
+Poys du uos fordes i, e gram beldade 
+Voss eu non uir, que ui en graue dia.
+E, mha senhor, en gram ben uos terria
+De me darde la morte
+Ca de uiuer eu en coita tan forte
+Et en Tal estraidade.
+
+Non fez Deus Par a deseio tan grande;
+Nen a qual coita sofr ey, des u me
+Partir de uos, ca, per u quer que ande,
+Non quedarei ar, meu ben e meu lume,
+De chorar sempre e con mui gram queixume.
+Maldirey mha ventura,
+Ca, de uiuer eu en tan gram tristura,
+Deus, senhor, non no mande. 
+
+E queira El, senhor, que a mha uida,
+Poys per uos he cedo, sei, acabada,
+Ca pola morte me sera partida
+Gram soidad e uida mui coitada.
+De razon he d auer eu deseiada
+A morte, poys entendo
+De chorar sempre e andar soffrendo
+Coita desmesurada.
+
+\num 2
+
+\loc CV 221; CBN 583
+
+\txt
+
+Por partyr pesar, que senpre uy
+A mha senhor auer do muy gram ben 
+Que lh eu quero, deseiaua por en
+Mha mort - amigos - mays Poys entendy
+Que lhe prazia de me mal fazer,
+Logu eu des y deseiey a uiuer.
+
+Veend eu ben que do muy gramd amor,
+Que lh eu senpr ouu y, tomaua pesar,
+Hya por end a morte deseiar,
+Mays poys, amigos, and eu fuy sabedor
+Que lhe [prazia de me mal fazer,
+Logu eu des y deseiey a uiuer.]
+
+Se me Deus enton a morte non deu,
+Non ficou ia por min de Lha pedyr,
+cuydand a ela tal pesar partyr,
+Mays poys, amigos, ben [sabedor] fuy eu 
+Que lhe prazia [de me mal fazer,
+Logu eu des y deseiey a uiuer.]
+
+Non por mha prol, mays pera non poder
+Ela per min rren do que lhe prazer. 
+
+\num 3
+
+\loc CV 222; CBN 584
+
+\txt
+
+Senpr eu, senhor, ma morte Rreceey
+Mays d outra rren e ia, per boa fe,
+Non a rrece e uedes porque he
+Por aquesto que uos ora dyrey:
+A gram coita, que por uos ey, senhor,
+Me fez perder de mha morte pauor.
+
+Cuydaua m eu que sempre de temer
+Ouuess a morte que sempre temi,
+Mays ora ia, senhor, non 
+Por aquesto que uos quero dizer:
+A gram coita que por u[os ey, senhor, 
+Me faz perder de mha morte pauor.]
+
+Non me pasaua sol per curaçon
+Que eu podesse da morte per rrem 
+Perder pauor, mays ora ueio ben 
+Que o non ey et uedes porque non:
+A gram coyta, [que por uos ey, senhor, 
+Me faz perder de mha morte pauor,]
+
+Que eu senpr ouu e, par Deus, mha senhor, 
+Muyto me foy, de o perder, peor.
+
+\num 4
+
+\loc CV 223; CBN 585
+
+\txt
+
+O ue eu muytos d Amor quexar
+Et dizen que per ell lhes uen
+Quanto mal ham et que os ten
+En tal coyta que nom a par,
+Mays a min uen de mha senhor
+Quanto mal ey, per desamor
+
+Que m ela ten; pero que al
+Ouço i eu a muyto[s] dizer
+Que lhes faz gram coyta ssofrer
+Amor, onde lhes uen gram mal, 
+Mays a min uen da mha senhor
+Quanto mal ey, per desamor
+
+Que m ela ten muy sen rrazon;
+Pero uei eu muytos de pram
+Que dizen que quanto mal ham
+Que d Amor lhes uen et d al non,
+Mays a myn uen da mha senhor
+Quanto mal ey, per desamor
+
+Que m ela ten; e que peor
+Poss auer ca seu desamor?
+
+\num 5
+
+\loc CV 224; CBN 586
+
+\txt
+
+E strãya uida uiu og eu, senhor,
+Das que uiuen quantos no mundo som,
+Como uiuer pesand a uos e non
+Auer eu ia d outra cousa sabor
+Se non da morte, por partyr per hy
+Pesar a uos, e muy gram mal a mjn,
+E fazer me Deus moirendo uyuer. 
+
+En tal uida, qual mh oides dizer
+Viu eu, senhor, fazend a uos pesar
+E mal a min, e non me quer Deus dar
+De o partir nenhum sen, nen poder,
+Et pero, senhor, grand [h]e meu mal,
+Vedes o que m he mays graue que al:
+o pesar he que uos tomades en.
+
+Ond a min, senhor, quanto mal m en uen
+(Podendo Deus tod est mal partir
+Per mha morte, que non quer consentir,
+Porque sabe que mays morto me ten
+Per uyuer eu, poys a uos pesar he),
+Quanto mal, senhor, per boa ffe,
+Ha en tal uida, dizer non no sei. 
+
+\num 6
+
+\loc CV 225; CBN 587
+
+\txt
+
+D o que ben serue senpr oi dizer
+Que ben pede, mays digo uos de mi,
+Pero que eu gram temp a ben Serui
+h~ua dona, que me ten en poder,
+Que nom tenho que, per meu benseruir,
+Eu razon ei de lhi por en pidir
+O maior ben dos que Deus quis fazer.
+
+Ben entend eu que logar deue auer
+o que en serue de pidir por en ben
+Com razo[n], mays est [h]e gram ben
+Que lhi non pod outro ben par seer,
+Poys d eu ben seruir h~ua dona tal
+Por lhi pedir ben, que tan muyto ual,
+sol non no deu en coraçon poer.
+
+E, meus amigos, quen ben cousecer
+O mui gram ben que Nostro Senhor deu
+A esta dona ben certo sei eu,
+Se ouuer sen, que ben pode entender
+Que, per seruir, quantos no mundo son
+Non deuen sol põer en coraçon
+Que pedir possa en tal ben caber.
+
+Por end a min conuen, querend ou non
+De seruir ben, sen auendo, razon,
+Que, per seruir, aia ben d atender.
+
+\num 7
+
+\loc CV 362; CBN 724
+
+\txt
+
+A uoss amig amiga qual prol tem:
+seruir uos senpre muy de coraçon,
+sen bem que aia de uos, se mal non,
+et, com amiga, non ten el por bem
+Entender de mi que lhi conssent eu
+de me seruyr et se chamar por meu.
+
+Que prol ten ou que talan lhe da
+de uos seruir et amar mais que al,
+sen ben que aia de uos, se non mal;
+et non ten el amiga que ben ha,
+Entender de min [que lhi conssent eu
+de me seruyr et se chamar por meu.]
+
+A Deus, Que nos ceos se,
+pero sey ben que me ten en poder,
+non O seruirey senon por ben fazer
+et com amigo; et ten el que pouqu [h]e 
+Entender de mjn [que lhi conssent eu
+de me seruyr et se chamar por meu.]
+
+\num 8
+
+\loc CV 904; CBN 1248
+
+\txt
+
+A h~u corretor a que vy
+uender Panos que conhoçi,
+Con penas veira[s], diss assy:
+- Da molher sson de don Foam.
+Et diss m el: - u~ed esquant an.
+El et aquesta sa molher
+An no mester, an o mester.
+
+E diss eu: - ficara en cos,
+Sem estes panos do uer gros
+Mays, poys que os Traiedes uos
+A uender et par sseu Talam.
+E diss m el: - sey eu de pram 
+Per ela, quamto uos disser
+An o mester, an no mester.
+
+E diss eu: - grau [h]e de creer
+Que ela, con mengua d auer,
+Mand en caes panos uender
+Por quan pouco por eles dam.
+Et disse m el: - per Tom estan.
+E[l] et aquesta ssa molher
+An no mester, an no mester.
+
+\num 9
+
+\loc CV 905; CBN 1249
+
+\txt
+
+D ~ua gram vinha, que ten en valada,
+Aluar Rodriguit non pod auer prol.
+Vedes porque: ca el non cura sol
+De a querer por sseu tenpo cauar,
+Et a mays d ela iaz per adubar,
+Pero que ten a mourisca podada.
+
+El tent end e que a ten adubada,
+Poys lh a podaron, et ten ssen rrazon,
+Ca tan mengrado ficou o tromcom
+Que a cepa non pode ben deytar,
+Ca en tal tenpo a mandou podar
+Que senpre lhe ficou deçepada.
+
+Se non de cabo non for rrechantada,
+N~eh~u proueyto non pod end auer,
+Ca, per aly per u a fez creer,
+Ja end o nembr esta pera ssecar.
+Et mays valrria ia pera queymar
+Que de iazer, como iaz, mal parada.
+
+\num 10
+
+\loc CV 906; CBN 1250
+
+\txt 
+
+Aluar [Rodriguis] ueg eu agrauar
+Porque sse ssent aqui menguad andar,
+Et ten que lh ya melhor alen mar
+Que lhe vay aquy, hu naceu et criou.
+Et por esto diz que sse quer tornar
+hu, gram tenp a, seruiu et affanou.
+
+Ten el que faz dereyt en se queixar,
+Poys lhe non ual seruir el afanar,
+Nen pod aqui conselho percalçar
+Com alen mar, per seruir, percalçou.
+Por en quer ss yr a sseu tenpo passar
+hu, gram tenp a, seruyu et affanou.
+
+\num 11
+
+\loc CV 907; CBN 1251
+
+\txt 
+
+A molher d Aluar Rodriguis tomou 
+Tal queixume, quamdo ss el foy d aquen
+Et a lezou, que por mal, nen por ben,
+Des que veo nunca ss a el chegou,
+Nen quer chegar, se des certa non he,
+Jurando lhe ant en que, a boa fe,
+Non a er lexe como a lexou.
+
+E o catiuo, per poder que a,
+Non na pode desta seyta party[r],
+Nen per meaças, nem pe la ferir,
+Ela por en nehuã rren non da;
+Mays, se a quer d esta sanha tyrar,
+A boã fe lhe conuen a iurar
+Que a non lexe en neh~u tenpo ia. 
+
+\num 12
+
+\loc CV 908; CBN 1252
+
+\txt 
+
+Esta cantiga de çima foi feyta a h~u/ 
+mestre de leys que era manco d ~ua/ 
+perna e çopegaua d ela muito.
+
+En preyto que dom Foan ha
+Con hun meestre, ha gran caston,
+E o meestre pressopom
+O de que o dereyt esta
+Tan cox ar, o pre quamt eu uj,
+Que, se lh outren non acorr i,
+O meestre dequeera. 
+
+Mais, se decae, quen sera
+Que ia dereyto, nen razon,
+For demandar, nen deffenson,
+En tal meestre que non da
+En, ssen feit aiuda de ssy,
+Mais leuara, per quamt oy,
+Quen lh o deir[e]ito sosteira?
+
+Ca o meestre entende ia,
+Se decaer, que lh [h]e caiom
+Antr os que leterados som,
+Onde uergonha prendera
+D errar seu dereyto assi, 
+E quem esto uir, des ali,
+Por mal andante o terra.
+
+\num 13
+
+\loc CV 909; CBN 1253
+
+\txt 
+
+Esta foy feita a h~u caualeiro que lhe /
+apoinham que era puto. 
+
+Hun caualiro me diss en baldom
+Que me queria põer eiceiçom
+Muy agrauada come home cruu,
+E dixe lh enton como uos direi:
+- Se mh a poserdes, tal uo la porrei
+Que a ssençades ben ata o anu.
+
+E diss er o m el: - eiceiçom tenh eu ia
+Tal que uos penha, que uos custara 
+Mais quanto ual qu este meu muu.
+E dixi lh eu: - coraçon de Judeu,
+Se mh a poserdes, tal uos porrei eu
+Que a ssençades [ben ata o anu].
+
+- Tal eiceiçon uo tenh eu de põer,
+Diss el a mi, per que do uoss auer
+uos custe tanto que fiquedes nuu.
+E dixi lh eu: - poi lo non tenh en al,
+Se mh a poserdes porrei, uo la tal
+Que a ssençades [ben ata o anu].
+
+\num 14
+
+\loc CV 910; CBN 1254
+
+\txt 
+
+Meu dano fiz por tal juiz pedir
+Qual mh a reinha madre d el Rei deu,
+Hun caualeiro oficial seu, 
+Pois me non ual d ante tal juiz ir,
+Ca, se non y eleuo meu uogado,
+Sempre me diz que esta enbargado
+De tal guisa que me non pod oir.
+
+Por tal iuiz nunca iamais sera
+Desanbargad este preyto que ey,
+Nen a reinha, nen seu filh el Rei,
+Pero lhe manden, nunca m oira,
+Ca ia me disse que me non conpria
+D ir per d ant el, pois m ouuir non podia,
+Mentr e[n]bargad esteuer com esta.
+
+Mais a reinha, pois que certa for
+De qual iuiz en a sa casa ten,
+Terra por razon, esto sei eu bem,
+De põer hi outro juiz melhor,
+E assi poss eu auer meu dereito,
+Pois que d i for este iuiz tolheito
+E me deren qual qu ar ou[u] en oidor.
+
+\num 15
+
+\loc CV 911; CBN 1255
+
+\txt 
+
+Pois a todos auorrece
+Este iog ar auorrido
+De tal molher e marido,
+Que a mjn razon pareçe,
+De trager, por seu pediolo,
+O filho d outro no colo,
+
+Pois ala trage camisa 
+De sirgo tam ben laurada
+E uai a cada pousada, 
+Por algo non [h]e sen guisa,
+De trager, [por seu pediolo,
+O filho d outro no colo,]
+
+Como Pero da Arruda
+Foi da molher aiudado,
+Non he muy desaguisado,
+Pois lh esta faz tal aiuda,
+De trager, [por seu pediolo,
+O filho d outro no colo].
+
+ \num 16
+
+\loc CV 912; CBN 1256
+
+\txt 
+
+Dise m or asi hum home:
+- Vai se d aqui hun ric ome.
+Dix[i]lh eu: - per come el come,
+Poys que m eu fique en Lixboa,
+Ja que se uay o ric ome,
+Uaron uass en ora boa.
+
+Dise m el: - per Leyr~ea
+Se uay camiho de S~ea.
+Dixi lh eu: - per com el cea,
+Poys eu fiqu en Stremadura,
+Se uay camiho de S~ea,
+El uaa s en boa uentura.
+
+E dise m el: - este camiho
+Se uay d antre Doyro e Miho.
+Dix eu: - poys beuo bon Viho
+Aqui, hu com he non conto,
+Se uay antre Doyr e Miho,
+Senher uaa s en ponto.
+
+\num 17
+
+\loc CV 913; CBN 1257
+
+\txt 
+
+Pois teu preyt anda iuntando
+Aquel que he do teu bando,
+Di me, doutor, como ou quando
+Lhe cuydas fazer em menda,
+Por quant and el trabalhando 
+Com apost a ta fazenda.
+
+Pois te iustar prol sem ffalha,
+Di, doutor, ssy Deus t y ualha,
+Se lhe cuydas dar merenda,
+Por quant el por ty trabalha
+Com apost a ta fazenda. 
+
+Pois anda tam afficado
+Por teu preyto auer iustado,
+Dy, doutor, cabo casado,
+Que prol tem hy, ou que genda,
+O que toma tal cuydado
+Com apost a ta fazenda.
+
+Esta cantiga foy feyt a hun doutor, 
+Doutor que meteu por ser mesegeyro, 
+Mesegeyro pera iustar seu casamento, 
+Hun home que era leigo e casado, 
+E fora ante frade preegador. 
+E o que se sal da ordem chaman lhe apostata. 
+Esta cantiga he a de cima. 
+
+\num 18
+
+\loc CV 914; CBN 1258
+
+\txt 
+
+Pois que te preças d auer sem conprido,
+En trobar t em, e en bona razon,
+Non faz mester a ty ffer uã chançom,
+D ir entençar come torp e amutido,
+Nen t enleares come quen ss emgana,
+E de palauras torpes e d ouffana
+E de posffaço seer espargido.
+
+Ca sempre contam por ensyvidade
+Ao pastor preçar sse de gram ssem,
+Nen gram saber, por edace, couem
+Enquanto es tan pastor d idade;
+Por gent am alta razon ousas,
+Que punhes senpr antr as outras cousas
+Seeres partido de torpidade.
+
+Non entendas que ffazes hy cordura
+D ires asy c ome torpe enterçar,
+Atreuendo te que sabedes trobar:
+Ante metes hy teu feyt en uent[u]ra,
+Porem non queras seer enganado
+En tal razon, mays sey senpr acordado
+De seeres parado de loucura.
+
+E pois en al es manss e mesurado,
+Non entences sequer: seras loado.
+Non, que tu es partido de brauura.
+
+Esta cantiga foy feita a h~uu galego que se preçaua do
+trobar / et non o bayba ben, e meteu s a maneyra de Ten-
+zon con Steuan / da guarda, et Steuan lhi fez esta can-
+tiga, e el andaua sempre en partido e nunca lh / entendeu
+a cantiga / nen lh a soube y a / ella toante.
+
+\num 19
+
+\loc CV 915; CBN 1259
+
+\txt 
+
+Bispo senhor, Eu dou a Deus bon grado
+Porque uos uei em priuança entrar
+D el Rey, a que praz de auerdes logar
+No seu conselho mais d outro prelado.
+E, porque eu do uoso talan sey
+Qual prol da uosa priuança teirey,
+Rogo a Deus que seiades priuado...
+
+D obr end oe do quant al auedes;
+Fazede senpre quant al Rey prouguer,
+Poys que uos el por priuad asy quer.
+E, poys que uos altos feitos sabedes,
+E quant en sis e en conselho iaz,
+Varon senhor, pois desto al Rey praz, 
+Fyo, per Deus, que priuado seredes...
+
+Per este papa; quem douydaria
+Que non tiredes grados, prol e gram bem,
+Quand el souber que, pe lo uosso ssem,
+El Rey de uos mays d outro Varon fia.
+E, poys uo el Rey aquest a logar da,
+Bispo senhor, hu outra rem non ha,
+Vos seeredes priuado ao da uya...
+
+Deste uosso beneficio,
+Con officio,
+quen douydara
+Que uo l ~esalcem em outra contya?
+
+\num 20
+
+\loc CV 916; CBN 1260
+
+\txt 
+
+Donzela, quenquer que poser femença
+En qual uos sodes, e de que logar,
+E no pareçer que vos Deus quis dar,
+Entender pode, quant [h]e mha creença,
+Que, poys uos queren iuntar casamento,
+Non pod auer hy nenhun partimento
+Senon se for per uosa negrigença.
+
+E quen bem uir o uoso contenente,
+E as feytiçãs e o parecer,
+Que uos auedes, ben pod entender
+En tod aquesto quant [h]e mençiente; 
+Que ben aly, hu uos casar queredes,
+Non sse partira que hy non casedes
+Senon per seerdes uos hy negrigente.
+
+Ca sey eu outro non de tal doayro,
+Nen de tal logar como uos, de pram,
+Com aguça, que tomou de talan
+De casar cedo, non ouuy contrayro,
+Poren uos conpre, se casar cuydades,
+De negrigente, que sodes, seiades
+Muy aguçosa, sem outro desuayro. 
+
+\num 21
+
+\loc CV 917; CBN 1261
+
+\txt  
+
+Ruy Gonçaluys, pero uoa Agrauece,
+Porque uos trauou em uoso cantar
+Johanne Annes, ueg eu el queyxar
+De qual deosto lh y de uos eecrece,
+hu lh y fostes trobar de maldizer
+En tal guysa que bem pode entender
+Quenquer o mal que a lh o parece.
+
+Poren, partid este feito de cedo,
+Ca de maldizer non tirades prol,
+E como s em Johanne Annes dol
+Ja de uos perder i uergonha e medo,
+Ca entend el que se deu a sentyr
+De maldizer que a sseu olho uyr
+Que pod log apontar con sseu dedo. 
+
+Poys sodes entendud e[n] uysta,
+Sabede agora catar tal razon
+Per que uenha este feitu a perdom, 
+E, por parardes milhor a co[n]quista,
+Outorgad ora, senhor, que uos praz,
+Se maldizer no uoso cantar iaz,
+Que o poedes tod o uoss a uista.
+
+\num 22
+
+\loc CV 918; CBN 1262
+
+\txt  
+
+Dis og el Rey: pois dom Foão mays ual
+Seendo poure, o gran bemfazer
+Que lh eu fiz senpre o faz ensandecer.
+Se m el Ben quer, meus amigos, en tal,
+Que me queyra ia mal, mal hy farey
+Padecer e desensandece l ey. 
+
+Poys en pobreza non ssal de sseu ssen
+E o bemffazer o torna sandeu,
+Por padecer o que non padeceu,
+Pero, amigos, diz que me quer bem,
+Que me [queyra ia mal, mal hy farey
+Padecer e desensandece l ey].
+
+Poys lh y Deus atal uentura deu
+Que en pobreza todo seu sem ha,
+E com bemffazer sandice lh i da,
+Pero m el quer bem e se tem por meu,
+Que me [queyra ia mal, mal hy farey
+Padecer e desensandece l ey].
+
+Sta cantiga foi feita a h~uun que fora priuado d el Rey /
+e quan[d]o staua muy ben do amor d el Rey, / apoynha
+lhe que era mui leuantado, como home / de mal recado;
+e aas uazas, quand o el Rey / non fazia lauantado, tor-
+naua muy mansso et muy cordo el muy misurado. 
+
+\num 23
+
+\loc CV 919; CBN 1263
+
+\txt  
+
+Poys cata per u m espreite
+con ssas razões d engano,
+E me quer meter a dano,
+Per en, d antes que m o deyte,
+Deytar quero eu do da uya
+O ma[n]tigir a dom Mãeya.
+
+Poys metend a de tal prouo
+Per que m aga esperando,
+Eu como home de recado,
+En uespera d ano nouo,
+Deitar quero eu [do da uya
+O mantigir a dom Mãeya.]
+
+E, poys el a d [a]s primeyras
+Quer de m y leuar por meu, 
+Come engador Judeu,
+En uespera de Jayneras,
+Deytar quero eu [do da uya
+O mantigir a dom Mãeya.]
+
+Esta cantiga foy feita a huu~ escudeyro, que auia
+nome / Macia... que era escudeyro do meestre d Alcan-
+tara / et ueera d el Rey de Portugal con suas preyteshas
+et daua lhe a entender que leuaria do Meestre d Al / can-
+tara mui gram algo, e el andaua lh y con men , / tira et
+pera leuar d el algo. 
+
+\num 24
+
+\loc CV 920; CBN 1264
+
+\txt  
+
+- Vos, dom Iosep, Venho eu perguntar,
+Poys pelos vossos Judeus talhadores
+Vos he talhada a grandes e meores,
+Quanto cada hun Judeu a de dar,
+Per qual fazam dom Foham Judeu,
+A que ia talha foy posta no sseu,
+S escussa sempre de uosco reytar.
+
+- Steuan da Guarda, pode quitar
+Qual Judeu quer de reytar os senhores,
+Mays, na talha, graças, nen amores,
+N~ulh y faram os que ham de talhar,
+E dom Foam ia per uezes deu
+Vo[s]qu, e talhanso, com en de perdom eu,
+Erdara mays e queyra sse liurar.
+
+- Dom Iasep, tenho por semrazon,
+Poys i affan uosqu en talh a igualdade,
+Hu de sem deu quanto lh i foy, talhade,
+Que per senhores ar a defensom:
+Ven om peytar com outro peytador,
+Como peyta qualquer talhador
+Quanto lhy talhan, sem escusaçom.
+
+- Steuam da Guarda, per tal auçom,
+Qual vos dizedes, foy ia demandado,
+E foy per el seu feyto desputado
+Assy, que dura na desputaçom.
+E do talho non ten o melhor, 
+Ca deu gran peça mays, poys seu senhor
+Lh a peyta quint aual tal quitaçom.
+
+Ja dom Foam, por mal que m y quer, diz
+Que nego quant ey por non peytar nada;
+E, de com he mha fazend apostada,
+Vos, dom Esteuam, sodes en bemfazis
+Que nunca ffoy de mha tassa negado,
+Mays sabudo e certo apregoado,
+Quant ey na terra mouil e rraiz. 
+
+-Dom Iosep, ia eu certo fiz
+Que do uosso non he cousa negado,
+Mays he tan reito e apreado
+Come o Vinho forte em Alhariz;
+E el queria de uos deseapreygad o 
+Ceu [u]os auer assy espeytado
+Com og el he pelo maior Juyz. 
+
+\num 25
+
+\loc CV 921; CBN 1265
+
+\txt  
+
+Martim Gil, hun homen uil
+Se quer de uos querellar,
+Que o mandastes atar,
+Dando lh açoutes ben mil.
+E aquesto, Martin Gil,
+Parece a todos muy feo. 
+
+Nom no posso end eu partir
+Pero que ia roguei,
+Que sse non queyx end al Rey,
+Ca se sente tam maltreyto
+Que non cuyda em guarir.
+E, Martim Gil, quem non uir,
+Parece muy layd efeyto.
+
+Tan cruamente e tan mal
+Diz que foy ferido entom
+Que teedes hy cayom
+Z el d esto non guarece.
+E aquesto feyto tal,
+Martin Gil, tan desigual 
+E ia muy peyor parece. 
+
+Esta cantiga foy feita a huun escudeyro que / hauya
+nome Martim Gil e era hom / muui feo.
+
+\num 26
+
+\loc CV 922; CBN 1266
+
+\txt  
+
+Aluar Rodrigiz da preço d esforço
+A est inffante mouro pastorinho,
+E diz que, pero parece menino,
+Que parar sse quer a tod aluoroço.
+E maestr Aly, que ueias prazer, 
+D Aluar Rodrigiz punha de saber
+Se fode ia este mouro tam moço.
+
+Diz que, per manhas e per seu senbrante,
+Sab el do mouro qu [h]e home comprido,
+E pera passar, e pera parar se a todo rruido,
+E que sabe que tal he seu talante.
+E maestr Aly, que moiras em fe,
+D Aluar Rodrigiz sal ora come he 
+E se fode ia este mour infante. 
+
+El diz do mouro que sabe que ten o 
+Seu coraçon en sse parar afeito,
+Porque o tria e lhe sab o geito,
+Pero parece de corpo pequeno.
+E maestr Aly sab y ora bem
+D Aluar Rodrigiz, poy lo asy tem,
+Se fode ia [este mouro tan neno.]
+
+\num 27
+
+\loc CV 923; CBN 1267
+
+\txt  
+
+Do que eu quigi, per sabedoria,
+d Aluar Rodrigiz seer sabedor
+E d est inffante mouro muy pastor,
+Ja end eu sey quanto saber querya
+Per maestr Aly, de que aprendi
+Que lhe diss Aluar Rodrigiz a si
+Que ia tempo ha que o mouro fodia.
+
+Com el gua[r]dou d efrio et de fame
+Este mouro, poi lo ten en poder,
+May lo deuera guardar de foder,
+Poys com el sempre alberga e come,
+Ca maestr, Ali iura, per ssa fe,
+Que ia d Aluar Rodrigiz Certe he
+que fod o mouro como fode outr ome.
+
+Ala guarde tod al prol en seu seo
+Aluar Rodrigiz, que por en tirar
+D aqueste mouro, que non quis dar,
+De seu foder a que tam moço ueo,
+Ca maestr Aly diz que, diaz ha,
+Que sabe d Aluar Rodrigiz que ia
+Fod este mouro a caralho cheo. 
+
+\num 28
+
+\loc CV 924; CBN 1268
+
+\txt  
+
+Dizem, senhor, que hun uosso parente,
+Vos vem fazer de seus serviçs conta,
+E dizer uos, en maneyra de fronta,
+Que uos seruiu come leal seruente.
+E, se uos el aquesto uen frontar,
+Certa resposta lhe deuedes dar
+Huu diser que uos seruyo lealmente.
+
+Ca, se uos el quer fazer entendente
+Que uos seruiu sem outra encoberta,
+Per sa conta quen poer por certa
+En tal razo a quem uos he mengente,
+Certa resposta deue a leuar
+De uos, senhor, poys non he de negar
+Hu disser que uos [seruyo lealmente.]
+
+E poys el cuyda fazer uos creente
+Que uos seruiu come home de parage,
+Non compriu aqui resposta per mesage,
+Mays uos, senhor, con ledo contenente,
+Lhy dheuedes lhy y logo a tornar, 
+Certa resposta seria, mays coydar
+Hu disser que uos seruiu lealmente. 
+
+\num 29
+
+\loc CV 925; CBN 1269
+
+\txt  
+
+En tal perfia, qual eu nunca uy,
+Vi eu dom Ffoam con sa madr estar,
+E, porque os vi anbos perfiar,
+Cheguey m a el e dix lhy logu y:
+- Vencede uos a quanto uos disser,
+Ca perfiardes nom uos he mester
+Con uossa madre perfiar assy.
+
+E disse m el: - sempr esto ouuemos d ussu,
+Eu e mha madre en nosso solaz
+De perfiarmos en o que nos praz.
+E, quando me eu de perfiar scusso,
+Assanha sse e diz me o que uos direy:
+- Se nom perfias, eu te maldirey,
+Que seias sempre maldit e confusso. 
+
+E dix eu: - senhor, nom uos esta ben
+De perfiardes, mays esta uos mal
+Co[n] uosa madre; diss el: - nen mj cal,
+Poy lh o ela por sa prol assy ten.
+Ca se lh eu dig al tenho de fazer,
+- Por ben ou mal, tanto m a de dizer,
+Uen, na ama perfiar me conuem.  
+
+E parauoas non am de falacer,
+Mays tanto auemos de noyte a sseer
+Que he meyada, ou muy preto em. 
+
+\num 30
+
+\loc CV 926; CBN 1270
+
+\txt  
+
+Se uos, dom Foãoo, dizedes
+Que deuerades de casar
+Con molher de mayor logar
+Que est a que uos teedes,
+Dizedes hy c am uos pram,
+Ca pera uos, per bõa fe,
+E ela qued an bõa he,
+Filh al d algo he bem a ssam.
+
+Como quer que uos cenhades
+Que, com benfazer de senhor,
+Deuerades casar melhor,
+senhor, nunca digades,
+Ca, se filhapa doo e nos,
+Molher, pero uos tam hogual,
+Pera ela, que tanto ual,
+Filh al d algo [h]e pera uos. 
+
+Poys sodes tam ben casado,
+Non deuedes hy al dizer,
+Mays a Deus muyto gradecer
+Casamento tan onrado,
+Ca pera uos, poys que uos dam
+Gram preço d ome de bon sem,
+E ela, hu ha tod o bem,
+Filh al d algo [he bem de pram.]
+
+\num 31
+
+\loc CV 927; CBN 1271
+
+\txt  
+
+O coraçon d om a ruy,
+Que uos a testa bem cobre,
+Com pena ueyra tam nobre,
+Alfayat ou peleyteiro
+dired ora, Calualeyro,
+qual uo l apostou assy.
+
+Tal caparon uos conuem, 
+Con tal pena que tragaaes,
+Mays dos doos meesteyraees
+Me dized o que uos digo,
+Ca ualeyra, meu amigo,
+Cal uo l apostou cã bem. 
+
+Oo que he mays sabedor
+De caparon enpenado
+Mi dad agor apreçado 
+E no[n] seia encuberto,
+De como uos sodes certo
+Cal uo l apostou [melhor.]
+
+Esta cantiga foy feita a h~uu Vilaao Rico / que auia
+nome Roy Fafez et feze o el Rey / dom Afonso, filho d el
+Rey dom Denis, Caualeyro / A rrogo de Miguel Ujuas,
+eleito de Viseu, seu / priuado, porque casou con h~ua sa
+Sobrinha. E era / caluo e el, crerigo, ffoi h~u Cayiyyat
+grande da...
+
+\num 32
+
+\loc CV 928-929; CBN 1272
+
+\txt  
+
+Ia Martim Uaasquesz da estrologia
+Perdeu feuza, po lo gramd engano
+Dos planetas, per que ueo a dapno,
+En que tam muyto ante s atreuia,
+Ca o fezero[o] sem prol odrinhar
+Por egreia, que lhe non querem dar,
+E per que l he defesa rogaria.
+
+E per esto, per que ant el Viuia
+L he defeso, des que foy ordinhado, 
+oy mays se ten el por desasperado
+Da proldo mester e da clerizia.
+E as planetas o tornaron fol,
+Sen egreia, nen capela de prol,
+E sen o mester per que guarecia.
+
+E ia de grado el renunçaria
+Las ordijs, per quant eu ey apreso, 
+Por lhe non seer seu mester defeso,
+Nen er ficar en tanta peioria
+Como ficar por deuaneador
+Coroado e, do que he peor,
+Perder a prol do mester que auia.
+
+E na coroa, que tapar queria,
+Leixa crecer ao uent o cabelo
+E a uezes a cobre con capelo,
+O que ant el muy danuidos faria.
+Mays d el, quand el a sperança perdeu
+Das planetas, des i logu entendeu
+Que per coroa prol non tiraria. 
+
+E no seu liuro, per que aprendeu
+Astrologia, log i prometeo
+Que nunca per el mays estudaria.  
+
+\num 33
+
+\loc CV 930; CBN 1273
+
+\txt  
+
+Com au~eeo a Merlin de moirer 
+Per seu gram saber, que el foy mostrar
+A tal molher que o soub enganar,
+Per essa guisa se foy confonder
+Martim Vasqueez; per quanto lh eu oy
+Que o tem mort hua molher assi,
+A que mostrou, por seu mal, seu saber.
+
+E tal coyta diz, - que lhe faz sofrer
+No curaçon, que se quer afogar,
+Nen er pode, hu a non uyr, durar
+Entornad i, - o faz esmorecer;
+E per saber, que lh el mostrou, o tem
+Tan coytado que a moirer conuem
+De morte estrãya que ha padecer,
+
+E, o que l he mays graue de temer
+Per aquelo que lh el foy ensinar,
+Diz que sabe que o pod ensarar
+En tal morte de qual morrer Merlim,
+Hu dara vozes fazendo ssa ffyn,
+Ca non pod el tal morte estraocer.
+
+\num 34
+
+\loc CV 931; CBN 1274
+
+\txt  
+
+
+Ora he ia Martim Uaasquez certo
+Das planetas que tragia erradas,
+Mars e Saturno mal auenturadas,
+Cuio poder trax en ssi e cuberto:
+Ca per Mars foy mal chagad en peleia,
+E per Saturno cobrou tal egreia
+Sem prol nenh~ua en logar deserto. 
+
+Outras palnetas de boa uentura
+Achou per uezes en seu calandayro,
+Mays das outras que lh andam en congrayro,
+Cuio poder eynda sobr el dura,
+Per h~ua d elas foy muy mal chagado,
+E pela outra cobrou priorado,
+Hu ten lazeyra en logar de cura.
+
+El rapou barua e fez gran coroa,
+E cerceou seu topete spartido,
+E os cabelos cabo do oydo,
+Cuydando auer per hy Egreia boa.
+Mays Saturno lh a guisou de tal renda
+Hu non ha pam nem v~io d oferenda,
+Nen de herdade milho para boroa. 
+
+E poys el he prior de tal preuenda,
+Conuem que leix a cura e atenda
+A capelã ygual da ssa pessoa.
+
+\num 35
+
+\loc CV 932; CBN 1275
+
+\txt  
+
+Pero el Rey ha defeso
+Que juiz non filhe peyto
+Do que perant el ha preyto,
+Uedes o que ey apreso:
+Quen s aiudar quer do alho
+Faz barata d alg e da lh o.
+
+Pero que cousa he certa
+Que el Rey pos tal defesa,
+Ond a bon Juiz non pesa,
+Dizem que, per encoberta:
+Quen s aiudar quer do alho
+Faz barata [d algu e da lh o.]
+
+Pero en tod ome cabe
+En que a ssen e cordura,
+Que se agarde tal postura,
+Vedes que diz quen o ssabe:
+Quen s aiudar quer do alho
+Faz barata d algu e da lh o,
+
+En prata ou en retalho,
+Ou end obrias en bisalho.

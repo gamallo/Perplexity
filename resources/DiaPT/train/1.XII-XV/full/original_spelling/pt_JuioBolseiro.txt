@@ -1,0 +1,924 @@
+\nome Juião_Bolseiro
+
+\num 1
+
+\loc CV 667; CBN 1010
+
+\txt
+
+Ay! mha senhor, todo ben mh a mj fal,
+Mays non mj fal gram coyta, nen cuydar,
+Des que uos uj, nen mj fal Gram pesar,
+mays non mj ualha O que pod e ual,
+Se oi eu sey onde mj uenha ben,
+Ay! mha senhor, se mj de uos non uen.
+
+Non mj fal coita, nen ueio prazer,
+Senhor fremosa, des que uos amey,
+Mays a gram coyta que eu por uos ei.
+Ja Deus, senhor, non mj faça lezer,
+Se oi eu sey [onde mj uenha ben,
+Ay! mha senhor, se mj de uos non uen.]
+
+Nen ren non podem ueer estes meus
+Olhos; no mund eu aia sabor,
+Sen ueer uos, e non mj ual Amor;
+Nen mj uallades uos, senhor, nen Deus,
+Se oi eu sey onde mjn [uenha ben,
+Ay! mha senhor, se mj de uos non uen.]
+
+\num 2
+
+\loc CV 669; CBN 1011
+
+\txt
+
+De lo di am que m eu quytei
+Du mha senhor [h]e morador,
+Nunca de mjn ouue sabor,
+Per boa fe, nen auerey,
+Se non uir ela doutra ren.
+
+Ca me quitey a meu pesar
+Du ela [h]e, pois m eu quitey
+Nunca me depoys paguey
+De mjn, nen me cuyd a pagar,
+Se non uir ela [doutra ren.]
+
+Pero que ben non ey,
+Verdade uos quero dizer:
+- Nunca eu depoys uj prazer,
+Nen iamays non o ueerey,
+Se non uir ela doutra ren.
+
+\num 3
+
+\loc CV 670; CBN 1012
+
+\txt
+
+Ora uos podess eu dizer
+A coyta do meu coraçon
+E non chorass y logu enton!
+Pero non ey end o poder,
+Se uos eu a mha coyta contar,
+Que poys non aia de chorar.
+
+Ey eu muj gram coyt a endurar,
+Pero se uos dizer quiser
+Mha coyta e uo la disser.
+Non ey poder de m en guardar,
+Se uos eu mha [coyta contar,
+Que poys non aia de chorar.]
+
+Mui gram coyta uos contarey
+D amor que sofr e sofri,
+Des quand eu mha senhor non uj.
+E pero non me guarderey,
+Se uos eu mha [coyta contar,
+Que poys non aia de chorar.]
+
+\num 4
+
+\loc CV 671; CBN 1013
+
+\txt
+
+Mha senhor, por Nostro senhor,
+Porque uos eu uenho rogar,
+Quero uos agora rogar,
+Mha senhor, por Nostro Senhor,
+Que uos non pez de uos amar,
+Ca non sey al tan muyt amar.
+
+Senhor, e non uos rogarey
+por al, ca ei de uos pesar
+pauor e, se uos non pesar,
+Oyde me, rogar uos ey
+Que uos non pez de uos amar,
+[Ca non sey al tan muyt amar.]
+
+E non uos ous en mays dizer,
+Senhor e lume destes meus
+Olhos, ay! lume destes meus
+olhos. E uenho uos dizer
+Que uos non [pez de uos amar,
+Ca non sey al tan muyt amar.]
+
+\num 5
+
+\loc CV 672; CBN 1014
+
+\txt
+
+Cuydades uos que mj faz a mj Deus
+por outra ren tan muyto deseiar
+Aquesta dona, que me faz amar
+Senon por mal de mj e destes meus
+Olhos, e por me fazer entender
+Qual [h]e a muy gram coyta de sofrer.
+
+E non mh os fui os seus olhos mostrar
+Deus, nen mh os fez filhar por senhor
+Senon porque ouu El gram sabor
+Que sofr eu, con estes meus, pesar,
+Olhus, e por mj fazer [entender
+Qual he a muy gram coyta de sofrer.]
+
+E uy eu os seus olhos por meu mal,
+E seu muy fermoso parecer,
+E por meu mal mh a fezo Deus ueer
+Enton d aquestes meus, ca non por al,
+Olhos, e por mj [fazer entender
+Qual he a muy gram coyta de sofrer.]
+
+\num 6
+
+\loc CV 673; CBN 1015
+
+\txt
+
+A mayor coyta que Deus quis fazer,
+Senhor fremosa, a mjn aguysou
+Aquel dia, que me de uos quitou.
+Mays Deus, senhor, non mj faça lezer,
+Se eu ia muy gram coyta tenh en ren,
+Poys que uos ueio, meu lum e meu ben.
+
+Da coyta, que ouuj no coraçon,
+O dia, senhor, que m eu fui d aqui,
+Marauilho m eu como non moiri,
+Con gram coyta; mays Deus non mj perdom,
+Se eu ia muy [gram coyta tenh en ren,
+Poys que uos ueio, meu lum e meu ben.]
+
+Ouu en tal coyta, qual uos eu direy,
+O dia, que m eu fui de uos partir,
+Que, sse cuydei desse dia sayr,
+Deus mj tolha este corp e quant ey
+Se eu ia muy [gram coyta tenh en ren,
+Poys que uos ueio, meu lum e meu ben.]
+
+\num 7
+
+\loc CV 674; CBN 1016
+
+\txt
+
+Con gram coyta sol non posso dormir,
+Nen ueio ren de que aia sabor,
+E das coytas do mund [h]e a mayor.
+Sofro de pram e non posso guarir,
+Vedes porque: porque non uei aqui
+A mha senhor, que eu por meu mal ui.
+
+Querendo lhi ben sofri muyto mal
+E muyt affam, des que foy mha senhor,
+E muytas coytas polo seu amor.
+E ora uyu en gram coyta mortal,
+Vedes porque: [porque non uei aqui
+A mha senhor, que eu por meu mal ui.]
+
+Quando m eu d ela parti, Logu enton
+Ouuj Tal coyta que perdi meu sen,
+Ben tres dias que non conheci ren.
+E ora moyro, e faço gram razon,
+Vedes porque: [porque non uei aqui
+A mha senhor, que eu por meu mal ui.]
+
+\num 8
+
+\loc CV 675; CBN 1017
+
+\txt
+
+Senhor fremosa, des aquel dia
+Que uos eu uj primeyro, des enton,
+Nunca dormi com ante dormia,
+Nen ar fui led e uedes porque non:
+Cuydand en uos, e non en outra ren,
+E deseiando sempr o uosso ben.
+
+E ssabe Deus e santa Maria
+Ca non am eu tant al en o coraçon
+quant amo uos, nen ar poderia,
+E, sse moirer, por en farey razon:
+Cuydand en [uos, e non en outra ren,
+E deseiando sempr o uosso ben.]
+
+E ant eu ia morte queiria
+ca uyuer com eu uyu a gram sazon,
+E mha morte melhor mj seria
+Ca uiuer mays, assy Deus mi perdon:
+Cuydand en [uos, e non en outra ren,
+E deseiando sempr o uosso ben.]
+
+Ca uos sodes mha coyta e meu ben,
+E per uos ey quanta coyta mj uen.
+
+\num 9
+
+\loc CV 676; CBN 1018
+
+\txt
+
+A uos fez Deus fremosa, mha senhor,
+O mayor ben que uos pod el fazer,
+Fez uos manssa e melhor parecer
+Das outras donas, e fez uos melhor
+Dona do mund e de melhor sen.
+Vedes, senhor, se al disser alguen,
+Con uerdade non uos pod al dizer.
+
+Feze uos Deus e deu uo lo mayor
+Poder de ben e fez uos mays ualer
+Das outras donas, e fez uos uencer
+Toda las donas, e fez uos melhor
+Dona do mund e de melhor sen.
+Vedes, senhor, [se al disser alguen,
+Con uerdade non uos pod al dizer.]
+
+E porque [h]e Deus o mays sabedor
+Do mund e fez me uos tal ben querer
+Qual uos eu quer e a uos nacer
+Mays fremosa, e fez uos melhor
+Dona do mund e de melhor sen,
+Vedes, [senhor, se al disser alguen
+Con uerdade non uos pod al dizer.]
+
+E o que al disser por dizer mal
+De uos, senhor, do que disser, non d al,
+Cofonda Deus quen lh o nunca creer.
+
+E querend eu todos desenganar,
+O que m esto, senhor, non outorgar,
+Non sabe nada de ben conhecer.
+
+\num 10
+
+\loc CV 677; CBN 1019
+
+\txt
+
+Muytos me ueen preguntar,
+Senhor, que lhis diga eu quen
+Est a dona que quero ben.
+E, con pauor de uos pesar,
+Non lhis ouso dizer, per ren,
+Senhor, que uos eu quero ben.
+
+Pero punhei de m apartar
+Se poderam de mjn saber
+por qual dona quer eu moirer.
+E eu, por uos non assanhar,
+Non lhis ouso dizer, [per ren,
+Senhor, que uos eu quero ben.]
+
+E, porque me ueen chorar
+D amor, queren saber de mjn
+por qual dona moyr eu assy.
+E eu, senhor, por uos negar,
+Non lhis ouso dizer, per mjn,
+por ren que uos moir assy.
+
+\num 11
+
+\loc CV 678; CBN 1020
+
+\txt
+
+Senhor, uei eu que auedes sabor
+De mha morte ueer e de mau mal,
+Poys contra uos nulha ren non mj ual,
+Rogar uos quero, por Nostro Senhor,
+Que uos non pez o que  uos rogarey
+E depoys, se uos prouguer, moirerey.
+
+E ben entend eu, no meu coraçon,
+Que deseiades mha mort aueer,
+Poys m outro ben non queredes fazer,
+Rogar uos quero, por hua razon,
+Que uos non pes [o que  uos rogarey
+E depoys, se uos prouguer, moirerey.]
+
+Muy ben sey eu que auedes pesar
+porque sabedes que uos quer eu ben,
+E que uos praz de quanto mal mi uen.
+Por uos[s amor,] quero uos eu rogar
+Que uos non pes [o que  uos rogarey
+E depoys, se uos prouguer, moirerey.]
+
+E, sse uos prouguer o que uos direy
+E poys moirer, iamays non moirerey.
+
+\num 12
+
+\loc CV 679; CBN 1021
+
+\txt
+
+Senhor fremosa, non pod om osmar
+Quam muyto ben uos quyso Deus fazer,
+E quam fremosa uos fezo nacer,
+Quam ben uos fez parecer e falar.
+Se Deus mj [ualha, non poss eu achar
+Quen uosso ben todo possa dizer.]
+
+Pero punho sempre de perguntar,
+Porem nunca me podem entender
+O muy gram ben, que uos eu sey querer,
+Nen o sabor d oyr en uos falar.
+Per boa fe, pero non poss achar
+Quen uosso ben todo possa dizer.
+
+Se por uentura uei eu apartar
+Os que eu sey que uos poden veer,
+O que dizem moyro por aprender,
+Ca moyro por oyr de uos falar.
+E con todo esto non poss eu achar
+Quen uosso ben todo possa dizer.
+
+\num 13
+
+\loc CV 680; CBN 1022
+
+\txt
+
+Meus amigos, quero uos dizer,
+Se uos quiserdes, qual coyta mi uen:
+Ven mi tal coyta que perç o meu sen,
+Por quanto uos ora quero dizer,
+Por hunha dona, que por meu mal uj,
+Muy fremosa e de quen me parti
+Muy danuydos e ssen meu prazer.
+
+Peç o meu sen, que ssol non ey poder,
+E muy de pram deseiand o seu ben,
+E demays, se mi quer falar alguen,
+De lhi falar non ey en mi poder,
+Porque me nenbra quanto a serui
+E quan viçoso mentr y guary,
+E quan gram viç a mi fez Deus perder.
+
+E moyr eu, e praz mi muyto de moirer,
+Ca vyuo coitado; mays d outra ren,
+E pero moyro, non uos direy quen
+Est a dona que m assy faz moirer,
+E a quen eu quero melhor e a min,
+E a quen eu por meu mal conhoci
+Hu mh a Deus fez primeiro ueer.
+
+E, meus amigos, poys eu moyr assy
+Pola melhor dona de quantas vi,
+Non tem eu ren mha morte, nen moirer.
+
+\num 14
+
+\loc CV 681; CBN 1023
+
+\txt
+
+En graue dia me [fez] Deus nacer,
+Aquel dia e[n] que eu naçi,
+E graue dia me fezo ueer
+A mha senhor, hu a primeyro vi,
+E graue dia ui olhos seus,
+E graue dia mi fez enton Deus
+veer, Quam ben parar e parecer.
+
+E graue dia mi fez entender
+Deus quam muyto ben eu d el antendi,
+E graue dia mi fez conhocer,
+Aquel dia que a conhoci,
+E graue dia mh a fez enton, meus
+amigos, Graue dia mh a fez Deus
+Tan gram ben, como lh eu quero, querer.
+
+E graue dia por mi lhi faley,
+Aquel di an que lh eu fuy falar,
+E graue dia por mi a catey
+De meus olhos, quando a foy catar,
+E graue dia foy pera mi
+Graue dia enton, Quando a vj,
+ca nunca eu dona tan fremosa ueerey.
+
+E graue dia pera mi comecey
+Con mha senhor, quand eu fuy começar,
+E con ela graue dia deseiey
+Quam muyto ben m ela fez deseiar,
+Graue dia foy pera mi de la sazon
+Que a eu vi, graue dia, poys non
+moiri por ela, nunca moirerey.
+
+E, porque m eu dela quitey,
+Esmoreço mil vezes e non sey,
+Per boa fe, nulha parte de min.
+E non mi ponhan culpa des aqui
+De seer sandeu, ca enssandeçi
+Pola mays fremosa dona que ssey.
+
+\num 15
+
+\loc CV 771; CBN 1114
+
+\txt
+
+Sen meu amigo manh eu senlheyra,
+E sol non dormen estes olhos meus,
+E, quant eu posso, peç a luz a Deus,
+E non mh a da, per nulha maneyra.
+Mays, se masesse con meu amigo,
+A luz agora seria migo.
+
+Quand eu con meu amigo dormia,
+A noyte non duraua nulha ren.
+E ora dur a noyt e uay e uen
+Non ven luz, nen pareç o dia.
+Mays, se masesse con meu [amigo,
+A luz agora seria migo].
+
+E, segundo com a mi parece,
+Comigo mane meu lume e meu senhor,
+Ven log a luz, de que non ey sabor,
+E ora uay noit e ven e creçe.
+Mays, se masesse con [meu amigo,
+A luz agora seria migo].
+
+Pater nostros rez eu mays de cento,
+Por Aquele que morreu na Uera Cruz,
+Que El mi mostre muj ced a luz,
+Mays mostra mh as noites d Auento.
+Mays, se masesse con meu [amigo,
+A luz agora seria migo].
+
+\num 16
+
+\loc CV 772; CBN 1115
+
+\txt
+
+Da noyte d eyre poderan fazer
+Grandes tres noytes, segund o meu sen,
+Mays na d oie mi u~eo muyto ben,
+Ca ueo meu amigo.
+E, ante que lh enuyasse dizer ren,
+Ueo a luz e foy logo comigo.
+
+E, poys m eu eyre senlheira deitey,
+A noyte foy e u~eo e durou,
+Mays a d oie pouco a semelhou,
+Ca u~eo meu amigo.
+E, tanto que mh a falar começou,
+Uêo a luz [e foy logo comigo.]
+
+E comecey eu eyre de cuydar
+Começou a noyte de crecer,
+May la d oie non quis assy fazer,
+Ca ueno meu amigo.
+E, faland eu con el a gram prazer,
+Ueo a luz [e foy logo comigo.]
+
+\num 17
+
+\loc CV 773; CBN 1116
+
+\txt
+
+
+Fuy oi eu, madre ueer meu amigo,
+Que eu uy o muyto rogar por en,
+Porque sey eu ca mi quer gram ben.
+Mays uedes, madre, poys m el uyo consigo,
+Foy el tan ledo que, des que naçi,
+Nunca tan led ome con molher vi.
+
+Quand eu cheguey, estaua el chorando
+E non folgaua o seu coraçon,
+Cuydand en mi se hiria se non.
+Mays, poys m el vyu hu m el Estaua asperando,
+[Foy el tan ledo que, des que naçi,
+Nunca] tan led ome con molher ui.
+
+E, poys Deus quis que eu fosse hu m el uisse,
+Diss el, mha madre, como uos direy:
+Vei eu uijr quanto ben no mund ey.
+E uedes, madre, quand el esto disse,
+Foy tan ledo que, des que eu naçi,
+[Nunca tan led ome con molher ui.]
+
+\num 18
+
+\loc CV 774; CBN 1117
+
+\txt
+
+Nas barcas nouas foy
+s o meu amigo d aqui.
+E uei eu ueir barcas,
+e tenho que uen hi,
+Mha madre, o meu amigo.
+
+Atendamos, ay! madre,
+Sempre uos querrey ben,
+Ca ueio uijr barcas,
+e tenho que hi uen,
+Mha madre, [o meu amigo.]
+
+Non fac eu desaguisado,
+Mha madre, no cuydar,
+Ca non podia muyto,
+Sen mi, alhur morar,
+Mha madre, [o] meu amigo.
+
+\num 19
+
+\loc CV 775; CBN 1118
+
+\txt
+
+- Vei eu, mha filha, quant [h]e meu cuydar,
+As barcas nouas uijr pelo mar,
+En que sse foy uoss amigo d aqui.
+- Non uos pes, madre, se Deus uos enpar,
+Hirey uer se uen meu amigu i.
+
+- Cuyd eu, mha filha, no meo coraçon,
+Das barcas nouas que aquelas son,
+En que sse foy uoss amigo d aqui.
+- Non uos pes, madre, se Deus uos pardon,
+[Hirey ueer se uen meu amigu i.]
+
+- Filha fremosa, por uos non mentir,
+Vei eu as barcas pelo mar uijr,
+E[n] que sse foy uosso amigo d aqui.
+- Non uos pes, madre, quant eu poder hir,
+Hirey veer se uen meu amigo [i.]
+
+\num 20
+
+\loc CV 776; CBN 1119
+
+\txt
+
+Que olhos son, que uergonha non am,
+Dized - amigo d outra, ca meu non.
+E dized ora, se Deus uos pardon,
+Poys que uos ia con outra preço dam:
+Com ousastes uijr ant os meus
+Olhos, amigo, por amor de Deus?
+
+Ca uos ben deuia nenbrar
+End egual coyta uos [eu ia por mi ui,
+Falss - e nenbra uos qual] uos fuy eu hi
+Mays, poys con outra fostes começar,
+Com ousastes uijr ant os meus
+[Olhos, amigo, por amor de Deus?]
+
+[Par Deus, falsso, mal sse mi gradezeu
+quando uos ouuerades de morrer,
+se eu non fosse, que uos fui ueer;
+mays, poys uos outra ia de min uenzeu,
+Com ousastes uijr ant os meus
+[Olhos, amigo, por amor de Deus?]]
+
+Non mh a mays uosso preyto mester,
+E hide uos ia, por Nostro Senhor,
+E non uenhades nunca hu eu for.
+Poys começastes con outra molher,
+Com ousastes uijr ant os meus
+[Olhos, amigo, por amor de Deus.]
+
+\num 21
+
+\loc CV 777; CBN 1120
+
+\txt
+
+Mal me Tragedes, ey! filha,
+porque quer auer amigo.
+E, poys eu, con uosso medo,
+non o ey, non [h]e comigo,
+Non aiades a mha graça.
+E de uos Deus, ay! mha filha,
+filha que uos assy faça,
+filha que uos assy faça.
+
+Sabedes ca sen amigo
+Nunca foy molher viçosa.
+E, porque mh o non leixades
+Auer, mha filha fremosa,
+Non aiade lh a mha [graça.
+E de uos Deus, ay!mha filha,
+filha que uos assy faça,
+filha que uos assy faça.]
+
+Poys eu non ey meu amigo,
+Non ei ren do que deseio.
+Mays, poys que mi per uos u~eo,
+Mha filha, que o non veio,
+Non aiade la mha [graça.
+E de uos Deus, ay! mha filha,
+filha que uos assy faça,
+filha que uos assy faça.]
+
+Per uos perdi meu amigo
+por que gram coita padesco.
+E, poys que mh o uos tolestes,
+E melhor ca uos paresco,
+Non aiade la [mha graça.
+E de uos Deus, ay! mha filha,
+filha que uos assy faça,
+filha que uos assy faça.]
+
+\num 22
+
+\loc CV 778; CBN 1121
+
+\txt
+
+Buscastes m - ay! amigo, muyto mal,
+Aly hu uos enfengistes de mi.
+E rog a Deus que mi percades hi,
+E dissed ora, falsso desleal,
+Se uos eu fiz no mundo algun prazer,
+Que coyta ouuestes uos de o dizer.
+
+E non uos presta, falss - en mh o negar,
+nen mh o neguedes, ca uos non ten prol.
+Nen iuredes, ca senpr o falsso sol
+Jurar muyt - e dizede, sen iurar,
+Se uos eu fiz no mundo algun [prazer,
+Que coyta ouuestes uos de o dizer.]
+
+O que dizestes, se uos eu ar vjr
+por mi coytado, como uos ui ia,
+Vede, falss - acoomhar xi uos a.
+Mays dized ora, sen todo mentir,
+Se uos eu fiz no mundo algun prazer,
+[Que coyta ouuestes uos de o dizer.]
+
+\num 23
+
+\loc CV 779; CBN 1122
+
+\txt
+
+Fez hunha cantiga d amor
+Ora meu amigo por mi,
+Que nunca melhor feyta vi.
+Mays, como x [h]e muy trobador,
+Fez hunhas lirias no son,
+que mi sacan o coraçon.
+
+Muyto ben se soube buscar
+por mi, aly quando a fez,
+En loar mi muyt e meu prez.
+Mays, de pram por xe mi matar,
+Fez h~uas lirias [no son,
+que mi sacan o coraçon.]
+
+Per bõa fe, ben baratou
+De a por mi bõa fazer
+E muyto lh o sey gradecer
+Mays, uedes de que me matou,
+Fez h~uas lirias [no son,
+que mi sacan o coraçon.]
+
+\num 24
+
+\loc CV 780; CBN 1123
+
+\txt
+
+Ay! madre, nunca mal senti[u],
+Nen soub i que x era pesar,
+A que seu amigo non vyu,
+Com oi eu uy o meu, falar
+Con outra, mays, poy lo eu vi,
+Con pesar ouuh a moirer hy.
+
+E, sse molher ouue d auer
+Sabor d amig - ou lh o Deus deu,
+Sey eu que lh o non fez veer,
+Com a mi fez vee lo meu,
+Con outra, mays poy lo eu [vi,
+Con pesar ouuh a moirer hy.]
+
+\num 25
+
+\loc CV 781; CBN 1124
+
+\txt
+
+Ay! men amigo, meu, per bõa fe,
+E non d outra, per bo[a] fe, mays meu.
+Rogu eu a Deus, Que mi uos oie deu,
+Que uos faça tan ledo seer migo
+Qam leda fuy oi eu, Quando uos vi,
+Ca nunca foy tan leda poys naçi.
+
+Bon dia ueio, poys uos uei aqui,
+Meu amigo, meu, a la fe, sen al.
+Faça uos Deus ledo, Que pod e ual,
+Seer migo, meu ben e meu deseio,
+Quam leda [fuy oi eu, quando uos vi,
+Ca nunca foy tan leda poys naçi.]
+
+Meu gasalhado, se mi ualha Deus,
+Cui ergo meu e meu coraçon,
+Faça uos Deus, en alg~ua sazon,
+Seer migo tan led e tan pagado
+Quam leda fuy oi eu, [quando uos vi,
+Ca nunca foy tan leda poys naçi.]
+
+\num 26
+
+\loc CV 782; CBN 1125
+
+\txt
+
+Aquestas noytes tan longas,
+Que Deus fez en graue dia
+Por min, porque as non dormho
+E porque as non fazia,
+No tenpo que meu amigo
+Soya falar comigo.
+
+Porque as fez Deus tan grandes,
+Non posso eu dormir coytada,
+E, de como son sobeias,
+Quisera eu outra uegada,
+No tenpo que meu amigo
+Soia falar comigo.
+
+Porque as Deus fez tan grandes,
+Sen mesura desiguaaes,
+E as eu dormir non posso,
+Porque as non fez ataaes,
+No tenpo que meu amigo
+Soia falar comigo?
+
+\num 27
+
+\loc CV 783; CBN 1126
+
+\txt
+
+Ay! meu amigo, auedes vos por mi
+Afam e coyt e deseio, non al,
+E o meu ben [h]e tod o uosso mal.
+Mays, poys uos eu non posso ualer hi,
+Pesa mh a mi porque paresco ben,
+Poys end a uos, meu amigo, mal uen.
+
+E ssey, amigo, destes olhos meus,
+E ssey do meu fremoso parecer,
+Que uos faz en gram coita uiuer.
+Mays, meu amigo, Se mi Valha Deus,
+Pesa mi [a mi porque paresco ben,
+Poys end a uos, meu amigo, mal uen.]
+
+\num 28
+
+\loc CV 784; CBN 1127
+
+\txt
+
+Partir quer migo mha madr oi aqui
+Quant a no mundo, outra ren non iaz.
+De uos, amig - unha parte mi faz
+E faz m outra de quant a e de ssy.
+E, poys faz esto, manda m escolher.
+Que mi mandades, amigo, fazer?
+
+Partir quer migo, como uos querey.
+De uos mi faz h~ua parte ia,
+E faz m outra de ssy e de quant a
+E de quantos outros parentes ey.
+Poys faz esto, [manda m escolher.
+Que mi mandades, amigo, fazer?]
+
+E, de qual guisa migo partir quer,
+A peraução, ay! meu amigu, h[e] tal:
+H~ua metaz, senhor, de uos, sen al,
+Outra de sy e de quant al ouuer.
+Poys [faz esto, manda m escolher.
+Que mi mandades, amigo, fazer?]
+
+De uos me faz h~ua parte, ay! senhor,
+E meu amigu e meu lum e meu ben,
+E faz m outra de grand algo que tem,
+E pon me de mays y o seu amor.
+Poys [faz esto, manda m escolher.
+Que mi mandades, amigo, fazer?]
+
+E, poy lo ela part a meu prazer,
+En uos quer eu, meu amigu, escolher.
+
+\num 29
+
+\loc CV 785; CBN 1128
+
+\txt
+
+Non perdi eu, meu amigo,
+Des que me de uos parti,
+Do meu coraçon gran coyta,
+Nen gram pesar, mays perdi
+Quanto tenpo, meu amigo,
+Vos non viuestes comigo.
+
+Nen perderan os olhos meus
+Chorar nunca, nen eu mal,
+Des que uos d aqui fostes,
+Mays uedes que perdi al
+Quanto tenpo, meu [amigo,
+Vos non viuestes comigo.]
+
+\num 30
+
+\loc CV 668; CBN 1129
+
+\coa Johã_Ssoares
+
+\txt
+
+- Johã Ssoares, de pram as melhores
+Terras andastes, que eu nunca ui.
+D auerdes donas, por entendedores,
+Muy fremosas, quaes sey que ha hy,
+Fora razon; mays hu fostes achar
+d yrdes, Por entendedores, filhar
+Ssenpre quand amas, quando tecedores?
+
+- Iuyaõ, outros mays sabedores
+Quiseron ia esto saber de min,
+E en todo trobar may trobadores
+Que tu non es, mays, direyto que vy,
+Vy boas donas tecer e laurar
+Cordas e cintas, e ui lhes criar,
+Per bõa fe, muy fremosas, pastores.
+
+- Iohã Soares, nunca vi chamada
+Molher ama, nas terras hu andey,
+Se por enparamento ou por soldada
+Non criou; mete mays, uos en direi:
+En as terras, hu eu soya uiuer,
+Nunca muy bõa dona uy tecer,
+Mays ui tecer alg~ua lazerada.
+
+- Iuyaõ, por est - outra uegada,
+Con outro tal trobador en temey:
+Fiz Ihe dizer que non dezia nada,
+Com or a ty d esta tençon farey.
+Vy boas donas laurar e tecer
+Cordas e cintas, e ui lhes teer,
+Muy fremosas, pastores na pousada.
+
+- Iohã Soarez, hu soy a viuer,
+Non tecen donas, nen har uy teer
+Berç ant o fog a dona muyt onrrada.
+
+- Iuyaõ, tu deues entender
+Que o mal uylã non pode saber
+De fazenda de bõa dona nada.
+
+\num 31
+
+\loc CV 668; CBN 1646
+
+\txt
+
+Donna e senhora de grande uallia,
+nom ssei ss o e[n]uidades que tenho cuidado
+de uo rrespeitar, mais bem íuraria
+que nom tenho outro tan aficado,
+nen mayor de mim non tem homen nado;
+esto, senhora, poderres ssaber,
+sse Deus quiser, que posade[s] auer
+mais compridamente meu certo rrecado.
+
+Mas eu uos peço, mui gentell senhora,
+que noio é tresteza et enfadamento
+de todo ponto uos botees de fora,
+e todo cuidado, que agrafamento
+uos pora, trager en esqueçemento
+uos pode, senhora; o ssey que farees:
+uoso gram proueito o a min darees,
+que eu ouça noua de hu seia contento.
+
+Ffazer, senhora! que quantos uos uirem
+conheçam de prão a gram fremusura
+que Deus a uos deu; sse nom mentirem,
+que fallem do siso grand e cordura,
+bomdad e graça, viço et mesura,
+que em uos asqua, mui compridamente,
+sobre quantas ora uiuen de presente;
+esto [h]é terzo ssem fazer mais Jura.
+
+Muy boã senhora, sse n esto atura
+uosa uontade, em Deus esperando,
+uos auerees, sem muito tardando,
+praizu en uida, sseede bem ssegura.
+
+

@@ -1,0 +1,92 @@
+\nome Pero_Gonçalves_de_Porto_Carreiro
+
+\num 1
+
+\loc CV 505; CBN 861
+
+\txt
+
+Par Deus, coytada viuo,
+Poys non uen meu amigo;
+Pois non uem, que farey?
+Meus cabelos, con ssirgo
+Eu non uos liarey.
+
+Poys non uen de Castela,
+Non [h]e Viu - ay! mesela,
+Ou mh o detem elrey.
+Mhas toucas, da estala
+Eu non uos tragerey.
+
+Pero m eu leda ssemelho,
+Non me sey dar consselho,
+Amigas, que farey?
+En uos, ay! meu espelho,
+Eu non me ueerey.
+
+Estas doas muy belas
+El mh as deu, ay! donzelas;
+Non uo las negarey.
+Mhas çintas, das fiuelas
+Eu non uos [çimgerey].
+
+\num 2
+
+\loc CV 506; CBN 862
+
+\txt
+
+Meu amigo, quando ss ya
+preguntey o Se ueria,
+disse m el: querey muy cedo.
+De tardar mays ca ssuya,
+Madr - ey eu ben muy gram medo.
+
+\num 3
+
+\loc CV 507; CBN 863
+
+\txt
+
+O anel do meu amigo,
+Perdi o sso lo uerde pino.
+E chor eu, bela!
+
+O anel do meu amado,
+Perdi o sso lo uerde rramo.
+E chor eu bela!
+
+[Perdi o so lo uede rramo,
+por en chor eu, dona d algo;
+e chor eu bela!]
+
+Perdi o So lo uerde pino,
+Por en chor eu, dona uirgo.
+E chor eu, bela!
+
+\num 4
+
+\loc CV 508; CBN 864
+
+\txt
+
+Ay! meu amigu e meu senhor
+He lume destes olhos meus.
+Porque non quer agora Deus
+Que non aiades tal sabor
+De uiuer virgo, qual eu ouuy,
+Des a uos ui, de uiuer uos, amigo?
+
+E teiria por gram razon,
+pois que uos Eu tal amor ey,
+d auerdes oi, qual Eu ey,
+coyta no uoso coraçon
+de uiuer migo, qual [eu ouuy,
+Des a uos ui, de uiuer uos, amigo.]
+
+A que me aquesta coyta deu
+por uos, a foy Deus que me fez.
+E se m aguise alguna ues
+Que tal coyta uos ueia Eu
+De uiuer virgo, [qual eu ouuy, 
+Des a uos ui, de uiuer uos, amigo].

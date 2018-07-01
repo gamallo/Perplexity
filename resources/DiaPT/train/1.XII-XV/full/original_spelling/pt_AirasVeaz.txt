@@ -1,0 +1,104 @@
+\nome Airas_Veaz
+
+\num 1
+
+\loc CV 55; CBN 385
+
+\txt
+
+A dona, que eu uy por meu 
+mal, e que me gram coyta deu
+e da, poys la uy por sseu
+non me tem, nen me quer ualer,
+nen na ueio, nen ueio eu
+no mundo ond eu aia prazer.
+
+A que me faz uiuer en tal
+afam e ssofrer tanto mal,
+e morrerey se me non ual,
+poys non quer mha coyta creer, 
+nen na ueio, nen ueg eu al
+no mund ond eu aia prazer.
+
+A que eu quero muy gram bem
+e que mh asy forçado tem
+que non posso, per nenhuun sen,
+parar me de lhe bem querer,
+nen na ueio, nen ueio rrem
+no mund ond eu aia prazer.
+
+\num 2
+
+\loc CV 56; CBN 386
+
+\txt
+
+Senhor fremosa, por meu mal
+vos viron estes olhos meus,
+ca des enton assy quis Deus
+e mha uentura que he tal
+que nunca uos ousey dizer
+ho que uos queria dizer.
+
+E al ouu eu uosc a falar,
+senhor, senpr u uosco faley,
+uedes porque: ca me guardey
+tan muyt en uos dizer pesar
+que nunca [uos ousey dizer
+ho que uos queria dizer.] 
+
+Sode nuy ben sabedor:
+des que uos eu por morte uj
+senpre muy gram coita sofry,
+e assy quis Nostro Senhor
+que nunca uos ousey dizer
+o que uos [queria dizer.]
+
+\num 3
+
+\loc CV 57; CBN 387
+
+\txt
+
+Par Deus, senhor, gram dereyto per [h]e
+de mj quererdes mal de coraçon,
+ca uos fui eu dizer, per boa fe,
+que uos queria ben, senhor, e non
+soub eu catar qual pesar uos dizia,
+nen quanto mal me poys por en ueiria.
+
+Non me guard eu de uos dizer pesar
+quando uos diss, assy Deus mj perdon,
+que uos queria gram ben, mays osmar
+podedes uos, se quiserdes, que non
+soub eu catar qual pesar uos diria,
+[nen quanto mal me poys por en ueiria.]
+
+Ca me fezestes uos perder o sen
+porque me non soub eu guardar enton
+de uos dizer que uos queria ben,
+mays ualha mj contra uos, porque non
+soub eu catar qual pesar uos diria,
+[nen quanto mal me poys por en ueiria.]
+
+\num 4
+
+\loc CBN 388
+
+\txt
+
+Conprar que eu, Fernam Furado,
+muo que uj andar muy gordo no mercado,
+mais trage ia o aluaraz ficado,
+Fernam Furado, no olho do cuu,
+e anda ben, pera que fere d unha
+e dize[n] me que traie h~ua espunlha,
+Feranam furado, no olho do cuu.
+
+E, dom Fernam Furado, d aquel muu
+creede bem que era eu pagado,
+senon que ten o aluaraz ficado,
+Fernam Furado, no olho do cuu,
+e cacurr e ueio que rabeia
+e tem espunlha de carne sobeia,
+Fernam Furado, no olho do cuu.

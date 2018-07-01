@@ -1,0 +1,729 @@
+\nome Airas_Peres_Vuiturom
+
+\num 1                                       
+
+\loc CV 1083; CBN 1386
+
+\txt                                          
+
+Don Esteuan, eu eyri comj
+En cas d el Rey, nunca uistes melhor,
+E contarey uo lo Jantar aqui,
+Ca x a home de falar hy sabor:
+Non uiron nunca ia outro tal pan
+Os uossos olhos, nen ar veeran
+Outro Tal uynho a qual eu hy beuy.
+
+Nen Vistes nunca, se Deus mi perdon,
+Melhor iantar, e contar uo lo ey:
+A dez anos que non vistes capon
+Qual eu hy ouue, nen vistes, [ben sey,
+Melhor cabrito, nen uistes] atal
+Lonbo de vinh e d alhos e de sal
+Qual mh a mi deu hy h~u de criaçon.
+
+Nen uistes nunca nulh ome comer
+Com eu comj, nen uistes Tal iantar,
+Nen Vistes mays uiços ome seer
+Do que eu seui, en nenhun logar,
+Ca a mjn non minguaua nulha ren,
+E mays uyços ome de comer ben
+Non vistes, nen auedes de veer.
+
+\num 2                                        
+
+\loc CV 1085; CBN 1387                       
+
+\txt
+
+Don Esteuam, tan de mal talam
+Sodes que non podedes de peyor,
+Que ia, por home que uos faça amor,
+Sol non catades Tal preço uos dam.
+E seruh a uos home quanto poder,
+Se uos desuya quam pouco xiquer,
+Hydes log ome Trager come can.
+
+E tan mal dia uosco tant affan
+E Tanta coita con uosc a leuar,
+Poys non auedes per hom a catar,
+Mal seruiço faz hom en uos de pram.
+Ca, se auede la besta mester,
+Se uo la home Toste non Trouxer,
+Queredes home Traier come can.
+
+E, don Esteuan, poys sodes tan
+Sanhudo, que non catades por quen
+Vos faz seruiço, poys uos sanha uen,
+Os que uos seruen non uos seruiran.
+Ca, se uos sanha, como sol, preser,
+Non cataredes home, nen molhe,
+Que non queirades Trager come can.
+
+\num 3                                        
+
+\loc CV 1086; CBN 1388                       
+
+\txt
+
+Don Bernaldo, porque non entendedes
+Camanh escarnho uos fazen aqui?
+Ca nunca mays escarnid ome vi
+Ca uos andades aqui hu viuedes.
+Ca escarnh [h]e pera mui bon segrel
+Ao que x assy uan foder a molher
+Com a vos foden esta que Traiedes.
+
+E, don Bernaldo, se o non sabedes,
+Quero uos eu dizer quanto end oy:
+Molher Traiedes, com eu aprendi
+Que uos foden, e de que ficaredes
+Con mal escarnho se uos enprenhar
+D algun rapaz e uos depoys leixar
+Filho d outro que por uosso criedes.
+
+Mays semelha xe que uos vos non queredes
+Que xi uos fodan a molher assy,
+Ca, senon, fugiriades d aly
+D u uo la foden, don Bernal, e uedes:
+Non [h]e marauylha de xi uos foder
+A molher, mays fodem uos do auer,
+Ca xi uos foden mal de quant auedes.
+
+\num 4                                        
+
+\loc CV 1087; CBN 1389                       
+
+\txt
+
+Poys que don Gomez cura queiria
+Con boas aues ente prander mal
+Ca ben con outras, non lhy de Deus al
+Ergu estes coruos per que s el fia.
+E con qual coru el soubesse escolher,
+O leixasse mal andante seer
+Deus, ca depoys em ben Tornaria.
+
+Com el sabe d agoyria,
+Se ouuesse bon coruo carnaçal
+Ou cornelha ou a gaia, caudal
+Atal qual, xe dom Gomes [oya,
+O cal] l oy leixasse Deus perder
+A herdade, o corp e o auer,
+Ca todo x el depoys cobraria.
+
+E poys sab el Tod alegria
+D agoyro, quando da ssa casa ssal,
+Se ouuess el huã cornelha Tal
+Qual x a dom Gomez conssinaria,
+Con atal, uiss el a casa arder
+E lhi leixasse Deus morte prender
+Sen confisson, ca poys ss ar poiria.
+
+E, con bon coruo, foss el poys caer
+En [n]o[io grau e] ficass en poder
+Do diaboo, ca poys s ar poiria.
+
+\num 5
+
+\loc CV 1088; CBN 1390
+
+\txt
+
+Esta cantiga [h]e de maldizer/ Dos que deron os Castelos, como/ Non deuiam, al Rey don Affonso.
+
+A lealdade da Bezeira,
+que Pela Beira muyto anda,
+Ben habetur qu antradenhamos:
+Poys, quand o papa manda,
+
+Non Ten Sueyro Bezeira
+Que Tort [h]e en vender Monsanto,
+Ca diz que nunca Deus diss[e]
+A san Pedro mays de Tanto:
+- Quen Tu legares en Terra
+Erit ligatum in celo.
+Por en diz ca non [h]e Torto
+De vender hom o castelo.
+
+E por en diz que non ffez torto
+O que vendeu Marialua
+Ca lhe diss o arcebispo
+Hun uesso per que sse ssalua:
+- Estote foretes in bello,
+Et pugnate cum serpente.
+Por en diz que non [h]e Torto
+Quen faz Trayçon [e] mente.
+
+O que vendeu Leyrea
+Muyto ten que fez dereyto,
+Ca ffez mandado do papa
+E conffiirmou lh o esleyto:
+- Super istud caput meum,
+Et super ista mea capa,
+Dade o Castello ao conde,
+Poys uo lo manda o papa.
+
+O que uendeu Faria
+Por remijr seus pecados,
+Se mays Teuesse mays daria,
+E disseron dous prelados:
+- Tu autem, domine, dimitte
+Aquel que sse cofonde.
+Ben esmollou en ssa uida
+Quen deu Santaren ao Conde.
+
+Offereceu Martin Diaz,
+Aa cruz que uos cofonde,
+Couylhãa; a Pero Diaz
+Sortelha e diss o Conde:
+- Centuplum accipiatis
+De mano do padre sancto.
+Diz Fernan Diaz: - ben m est
+Porque oferi Monsanto
+
+Ofereceu Trancos[o],
+ao Conde, Roy Bezeiro.
+Falou enton don Soeyro,
+Por sacar seu filho d eiro:
+- Non potest filius meus
+Sine patre suo facere quidquam.
+Saluos son os Traydores,
+Poys ben ysopados ficar.
+
+O que ofereceu Cintra
+Fez come bon caualeiro,
+E diss o lhi o legado
+[Log un] uesso do salteyro:
+- Sagitte potentis acute.
+E foy hy ben acordado:
+- Melhor [h]e de seer Traedor
+Ca moirer escommugado.
+
+E quando o Comde a castelo
+Chegou de Celorico,
+Pachequ enton o cuytelo
+Tirou; e disse lh un bispo:
+- Mitte gladium in Vagina,
+Con el non nos enpeescas.
+Diz Pacheco: - alhur, conde,
+Peed hu uos digam: cresças!
+
+Mal disse don Ayras Soga
+A huã uelha n outro dia,
+Disse lhi Pero Soarez
+Hun uesso per clerizia:
+- Non uetula bonbaticon
+Scandit confusio ficum,
+Non foy Soeyro Bezeira
+Alcaide de Celorico.
+
+Saluos son os Traedores,
+Quantos os castelos deron.
+[Mostraron lhi en escrito:]
+.........................
+- Super ignem eternum,
+Et dum uitatis opem
+Saluo [h]e, quen Trae castelo
+A preyto, que o ysopen.
+
+\num 6
+
+\loc CV 1089; CBN 1391
+
+\txt
+
+Don Esteuam - diz que desamor
+A con el Rey, e sey eu ca ment i,
+Ca nunc uyu prazer poys foy aqui
+O Conde, nen ueera mentr el i for.
+E, per quant eu de sa fazenda sey,
+Porque non uen ao reyno el Rey,
+Non uee cousa ond aia sabor.
+
+Con arte diz que non quer al Rey ben,
+Ca sey eu d el ca ia non veera
+Nunca prazer se o conde Reyn a.
+Ca ben quit [h]e de veer nulha ren
+Don Estuan, ond aia gram prazer.
+D est [h]e ia el ben quite de veer
+Mentr o cond assy ouuer Santarem.
+
+Porque uos diz el que quer al Rey mal,
+Ca ren non uee, assy De[u]s mi pardon,
+Que el mays am en o seu coraçon,
+Nen ueera nunca, et direy uos al:
+Pays que ss agora o Reyno partiu,
+Praxer poys nunca don Esteuan uyu,
+Nen veera iamays en Portugal.
+
+\num 7
+
+\loc CV 1090; CBN 1392
+
+\txt
+
+Fernam Dia [h]e aqui, como vistes,
+E anda en preyto de sse casar,
+Mays non pod o casamento chegar.
+D ome o sey eu que sabe com [h]e,
+E por auer casament a la fe
+D ome, nunca uos tan gram coyta uistes.
+
+E por end anda uestido e louçano,
+E diz que moire por outra molher,
+Mays este casamento que el quer,
+D ome o sey eu que lh o non daran.
+E, por este casamento, el de pram
+D ome atal coita nunca viu christão.
+
+Ca, d Estorga ata san Fagundo,
+Dona, que a de don Fernando torto,
+Ca por outro Casamento anda morto,
+D ome o sey eu que oi sabe ia.
+E, se este casament el non a,
+D om atal coyta nunca foy no mundo.
+
+\num 8
+
+\loc CV 1091; CBN 1393
+
+\txt
+
+Don Fernando, ueio uos andar ledo
+Con deantança que uos deu el Rey.
+Adeantado sodes, e o sey,
+De san Fagundo e, d Esturas, d Ouedo.
+E, poys uos Deus ora tanto ben fez,
+Punhade d ir adeant unha uez,
+Ca atra aqui fostes sempr a derredo.
+
+Ca fostes sempre de[s]auanturado,
+Mays poys uos ora Deus tanto ben deu,
+Don Fernando, consselhar uos quer eu:
+Non uos ar leu atras uosso pecado,
+Poys uos el Rey meteu en tal poder,
+Sinhor, querede mi d esto creer,
+Adeant yde come adeantado.
+
+E poys sodes ora tan ben andante,
+Ben era d ome do uosso logar
+Dess olho mao de uos ar quebrar
+E non andar com andaua des ante.
+Ca somos oi e non seremos cras
+E, poys punhastes sempr a d ir atras,
+A[r] punhad agora a d ir adeante.
+
+\num 9
+
+\loc CV 1092; CBN 1394
+
+\txt
+
+Ioham Soarez, pero uos teede
+Que trobades e[n] esta terra ben,
+Quero uos eu conselhar hunha ren:
+Aqui fazed esso qu en sabedes,
+Ca aqui teen uos por sabedor
+De trobar, mays non Trobamos melhor,,
+Ben entendemos como o fazedes.
+
+E sse uos de trobar sabor auedes,
+Aqui Trobad e faredes hi ssen,
+E no beote, cabo Santaren,
+Ca nossos iuzes, que uos queredes,
+Ca ben trobamos d escarnh e d amor.
+Mais, se auedes de Trobar sabor,
+Martin Aluel [h]e aqui con que trobedes.
+
+E, por Trauar no que non conhocedes,
+Non dariamos nos nada por en,
+Ca uos direy o que uos auen
+E estes juizes que uos dizedes:
+Cantar iulgamus de bon Trobador,
+Mays cantar d ama, nen de tecedor,
+Nunca iulgamos, uo lo saberedes.
+
+\num 10
+
+\loc CV 1093; CBN 1395
+
+\txt
+
+Coyreola, sodes adeantado
+En cas d e[l] Rey do ma[l] que ss y fezer,
+E caeredes en este mester
+Se me creuerdes que est aguysado
+Se algun home uirdes mal fazer,
+Non lh o leixedes a uosso poder,
+Ante o uos fazed a uosso grado.
+
+E sse souberdes hun cont angendado
+Que quer alguen perder o que trouxer,
+Sabed u e de quen uo lo disser,
+E logu yde uosso passo calado.
+E non leixedes hi nada perder,
+Senon, a uos e a uosso poder,
+Ante uos hy ficade desbragado.
+
+E todauya, seed acordado
+S e algun home peleiar quiser
+Aqui con outren, seia cuio quer,
+A quen punhad en seer esforçado.
+E quen quiser a peleia uoluer
+Logu entrad y, ea uosso poder
+Vos say d en con o rostro britado.
+
+E pois Tod esto uos eu ey conselhado,
+Conselhos uos que Tragades molher,
+D estas d aqui, se peyor non ueher,
+A que achardes hi mays de mercado.
+E sse tal molher poderdes Trager,
+Sera mui ben, e punhad en poder,
+Ca per hy [h]e uosso preyt acabado.
+
+\num 11
+
+\loc CV 1094; CBN 1396
+
+\txt
+
+Don Martin Galo est acustumado
+De lhi daren algo Todos de grado,
+E dizem que he ben enpregado,
+Sol que podessen acalanta lo
+Ben mereç algo, Don Martin Galo,
+Quando quiser cantar, por leixa lo.
+
+Ben entend ele com agrauece,
+E por dar lh algo non o gradece,
+Ca el ten que may lo merece,
+Ca o mereç a senhor, vassalo,
+[Ben mereç algo don Martin Galo,
+Quando quiser cantar, por leixa lo.]
+
+\num 12
+
+\loc CV 1095; CBN 1397
+
+\txt
+
+Ia hu s achou con Torpes que fezeron
+Muy ben de uestir e logo lh o derom
+E el baratou mui ben en filha lo,
+Ja hu s achou con Torpes, Martin Galo,
+Ca o ueio uestid e de caualo.
+
+Ia hu s achou con Torpes na caireyra,
+Ca o uei andar com capa augadeyra
+E, sse non, dou m ao Dem [m]or por uassalo,
+Ja hu s achou [con Torpes], Martin Galo,
+[Ca o ueio uestid e de caualo.]
+
+\num 13
+
+\loc CV 1096; CBN 1398
+
+\txt
+
+Iohan Nicholas soube guarecer
+De mort un hom assy, per sa razon,
+Que foy iulgado a foro de Leon:
+Que non deuya de mort astorcer.
+E sucurreu ss assy con esta lei:
+Que non deue iustiça fazer Rey
+En home que na mão colher.
+
+E, poys el uyu que deuya prander
+mort - aquel hom assi disse lh enton:
+Pono que fez aleu e trayçon,
+[H]E cousa ia porque deua morrer.
+Dizede uos, s eu terra leixar
+Que me non achen hi a Iustiçar,
+Se podera en mi Justiça fazer.
+
+\num 14
+
+\loc CA 278; CBN 1621
+
+\duv
+
+\txt
+
+[A] Mays fremosa, de quantas ueio
+en Santaren, e que mays deseio,
+et en que sempre cuidando seio,
+non ch a direy, mays direy ch - amigo:
+Ay! Senterigo, ay! Sentirigo,
+al [h]e Alfanx e al Seserigo.
+
+Ela e outra, amigo, uí as,
+se Deus me ualla, non a dous dias;
+non ch a direy eu, ca o dirias
+et perder t ias por en comigo.
+Ay! Sentirigo, ay! Sentirigo,
+[al [h]e Alfanx e al Seserigo.]
+
+[C]uidand [eu n] ela, ia ey perdudo
+o sen, amigo, et ando mudo;
+e non sey ome tan entendudo
+que m og entenda a por que digo:
+[A]y! Sentirigo, ay! Sentirigo,
+[al [h]e Alfanx e al Seserigo.]
+
+\num 15
+
+\loc CA 279; CBN 1622
+
+\duv
+
+\txt
+
+Pero eu ueio aqui trobadores,
+sennor e lume d estes ollos meus,
+que troban d amor por sas s~enores,
+non uei eu aqui, trobador, par Deus,
+Que m oi entende o por que digo:
+al [h]e Alfanx e al Seserigo.
+
+Señor fremosa, mays de quantas son
+en Santaren, et que mays deseio,
+dizer uus quero, se Deus me perdon,
+non uei ome, de quantos ueio,
+Que m oi entenda o por que digo:
+[al [h]e Alfanx e al Seserigo.]
+
+Amo uus tant é tan de coraçon
+que o dormir ia o ey perdudo,
+señor de mi et do meu coraçon,
+non uei eu ome tan entendudo
+Que m oi entenda o p[or] q[ue] d[igo]
+[al [h]e Alfanx e al Seserigo.]
+
+\num 16
+
+\loc CA 280; CBN 1623
+
+\duv
+
+\txt
+
+[A]migos, des que me party
+de mia sennor e a non ui,
+nunca fuy ledo, nen dormi,
+nen me paguey de nulla ren.
+Tod este mal soffr e soffri
+des que me uí[n] de Santaren.
+
+Assi me ten forçad Amor,
+par Deus, por ela que sabor
+non ey de min, e se non for
+uee la, perdud ey o sen.
+[T]od este mal soffr é mayor
+des que me uin de Santaren.
+
+O seu fremoso pareçer
+me faz en tal cuyta uiuer
+qual non posso, nen sey, dizer,
+e moiro, querendo lle ben.
+[E]sto me faz Amor soffrer
+des que me uín de Santaren.
+
+[U] ela [h]e, et o seu ben
+deseiando, perço meu sen.
+
+\num 17
+
+\loc CA 303; CBN 1628
+
+\duv
+
+\txt
+
+................................
+mays ambos y faredes o mellor,
+ca, poys omen ben seru á bon sennor,
+bon galardon deuedes a leuar.
+
+\num 18
+
+\loc CA 304; CBN 1629
+
+\duv
+
+\txt
+
+Catiuo mal consellado,
+que me non sey conssellar,
+et sempre uíu én cuydado,
+pero non posso cuydar
+cousa que me proe tenna
+contra quen m én coyta ten,
+ante cuyd eu que me uenna
+peor do que m óra uen.
+
+Cuyd est e cuydo guisado,
+ca me quis Deus a guisar
+que senpr amey desamado,
+et faz me sennor amar
+tan de prez et que pareçe
+tan ben que, per pareçer
+et per prez, outre mereçe
+que a possa mereçer.
+
+Mays non am eú per meu grado,
+nen ar cuyd a gradoar
+d Amor, que me ten forçado,
+pero quero m esforçar,
+con sen et con lealdade,
+d amar et seer leal,
+et sennor tan sen maldade 
+non me fara sempre mal.
+
+Ca sempr éu serey pagado
+de quanto ss ela pagar
+et de fazer seu mandado,
+se m ela quiser mandar
+como se me ben fezesse,
+assi como me mal faz,
+ou ll ó meu amor prouguesse,
+assi como lle despraz.
+
+\num 19
+
+\loc CA 305; CBN 1630
+
+\duv
+
+\txt
+
+Qven uiu o mundo qual ó eu ia uí,
+et uiu as gentes que eran enton,
+et uíu aquestas que agora son,
+Deus! quand y cuyda, que pode cuydar?
+ca me sin eu per min quando cuyd y:
+Porque me non uou alhur esterrar,
+se poderia mellor mund áchar?
+
+Mundo teemos fals é sen sabor,
+mundo sen Deus e t en que ben non a,
+et mundo tal que non corregera,
+ante o ueio sempr én peorar,
+quand est éu cat é uei end é mellor:
+Porque me n[on] u[ou] a[lhur] e[sterrar,
+se poderia mellor mund áchar?]
+
+V foy mesur óu grãadez u iaz?
+uerdad ú é? quen a amigo leal?
+que fuy d amor ou trobar porque sal?
+a gent é trist é sol non quer cantar,
+quand est éu cat é quanto mal ss i faz:
+Porque me n[on] u[ou] a[lhur] e[sterrar,
+se poderia mellor mund áchar?]
+
+Viú éu en tal mund é faz m í uíuer
+uã dona que quero muy gran ben,
+et muyt á ia que m én seu poder ten,
+ben de lo temp ú soyan amar;
+oy mays de min pode quen quer saber:
+Porque me n[on] u[ou] a[lhur] e[sterrar,
+se poderia mellor mund áchar?]
+
+Mays, en tal mundo, porque uay morar
+ome de prez, que s en pod alongar?
+
+\num 20
+
+\loc CA 306; CBN 1631
+
+\duv
+
+\txt
+
+Alg~ua uez dix eu, en meu cantar,
+que non querria uiuer sen sennor,
+et, porque m óra quitey de trobar,
+muytos me téen por quite d amor
+et couseçen me - do que fuy dizer:
+que non queria sen sennor uiuer -
+com or assi me foy d amor quitar.
+
+Ja m eu quisera con meu mal calar,
+mays que farey con tanto cousidor?
+auer lles ey mia fazend a mostrar,
+que non tennan que uíu eu sen amor?
+ca sennor ey, que ten en poder
+et que sabe que lle sey ben querer,
+mays eu ben sey ca lle faç y pesar.
+
+E, se trobar, sey ca lle pesara,
+poys que lle pesa de lle querer ben,
+et, se m alguen desamar, prazer ll a
+d oyr o mal que me per amor uen,
+et ar pesar á quen me ben quiser:
+por en non trobo, ca non m [h]e mester,
+mays, que non am - esto nunca sera.
+
+E, meu trobar, aquesto sey eu ia
+que non mi a prol se non por uã ren:
+por queyxar om á gran coyta que a,
+ia que lezer semell a qué ll én uen;
+mays, se mia cóyt éu mostrar et disser,
+poys y pesar a mia sennor fezer,
+coyt áuerey que par non auera.
+
+E, de tal coyta, enquant éu poder,
+guardar m ey sempr é, o que sen ouuer,
+poys lo souber, nunca m én cousira.
+
+\num 21
+
+\loc CA 307; CBN 1632
+
+\duv
+
+\txt
+
+Amor, non qued eu amando,
+nen quedo d andar punnando
+como podesse fazer
+per que uossa graça óuuesse,
+ou a mia sennor prouguesse,
+mays, pero faç á poder:
+Contra mia desauentura
+non ual amar, nen seruír,
+nen ual razon, nen mesura,
+nen ual calar, nen pedir.
+
+Am é siruo quanto posso
+et praz me de seer uosso,
+et sol que a mia sennor
+non pesasse meu seruiço,
+Deus non me dess óutro uiço!
+mays, fazend eu o melhor:
+Contra mia desauentura
+n[on] u[al] a[mar, nen seruir,
+nen ual razon, nen mesura,
+nen ual calar, nen pedir.]
+
+Que quer que i á min graçido
+fosse de quanto ey seruido,
+que mi á min nada non ual,
+mia coyta uíço seria,
+ca seruínd atenderia
+gran ben; mays est é meu mal:
+Contra mia desauentura
+n[on] u[al] a[mar, nen seruir,
+nen ual razon, nen mesura,
+nen ual calr, nen pedir.]
+
+Porque sol dizer a gente:
+do que ama lealmente,
+se ss en non quer enfadar,
+na çima gualardon prende -
+am éu et siruo por ende;
+mays uedes onde éy pesar:
+Contra mia desauentura
+n[on] u[al] a[mar, nen seruir,
+nen ual razon, nen mesura,
+nen ual calr, nen pedir.]

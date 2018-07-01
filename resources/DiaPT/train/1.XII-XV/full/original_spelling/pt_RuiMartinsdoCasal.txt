@@ -1,0 +1,210 @@
+\nome Rui_Martins_do_Casal                      
+
+\num 1                               
+
+\loc CV 762; CBN 1104                 
+
+
+\txt                                  
+
+Muim gram tenp a que seruo h~ua senhor.
+E auya eu hy tam gram prazer
+Meu, amigos, assy Deus me pardon,
+Que ant eu quisera en poder d Amor
+Moirer ou uiuer, segundo meu sem,
+Ca, hu a mays serui, dama non
+Quer que a veia, nen lh y quera ben.
+
+\num 2                             
+
+\loc CV 763; CBN 1105                                                      
+
+\txt
+
+Que muyto ben fez Deus a mha senhor,
+Se por ben ten de lh eu gram ben querer,
+Ca tan ben esta ia do meu amor
+Que nunca iamays a pode perder.
+Mays, si eu d ella esteues assy,
+Muy mayor ben faria Deus a min.
+
+Muyto ben lhi fez, aquesto sey eu,
+se e al a  apraz de lhi eu querer ben,
+Poys meu coraçon he en poder [seu],
+Que nunca o pode perder per ren.
+Mays, s eu d ela [esteues assy,
+Muy mayor ben faria Deus a min.]
+
+E muyto ben lhi deue Deus fazer,
+Se con meu seruiço lhy prazer[a],
+Poy lo meu coraçon ten en sseu poder,
+Que nunca ia per ren no perdera.
+Mays, se eu d ela esteues assy,
+[Muy mayor ben faria Deus a min.]
+
+E, se prougouesse a Deus que foss asy,
+Non me fezesse outro ben dess aly.
+
+\num 3                             
+
+\loc CV 764; CBN 1106                                                     
+
+\txt
+
+- Dized - amigo - se prazer ueiades
+Vossa morte, se a desseiades,
+Poys non podedes falar comigo.
+- Desseio, senhor, ben no creades.
+- D esse sseiades tan bon dia migo,
+Poys que os meus desseios desseiades.
+
+- Dizede, amigo, se uos prazeria
+Con a uossa morte todauya,
+Poys uiuedes de min alongado.
+- Praz er, senhor, par Santa Maria.
+- Prazeria, Deus aia boom grado,
+Poys do uos do meu prazer prazeria.
+
+- Dizede, amigo, sse gradoedes
+A uossa morte, se a queredes,
+Poys que uiuedes de min tan longe.
+- Quero, mha senhor, non duuidedes.
+- Queredes, poys, tan bom dia oie,
+Poys o que eu quero uos queredes.
+
+\num 4                             
+
+\loc CV 765; CBN 1107                                                     
+
+\txt
+
+ Rogo te, ay! Amor, que queyras migo morar
+Tod es[te] tenpo, enquanto uay Andar
+a Granada,
+meu amigo.
+
+ Rogo te, ey! Amor, que queyras migo seer
+Tod este tempo, enquanto vay uiuer
+A Granada,
+Meu amigo.
+
+ Tod este tempo enquanto uay morar,
+lidar com [m]ouros e muyto matar,
+A Granada,
+Meu amigo.
+
+ Tod este tempo enquanto uay uiuer,
+lidar com [m]ouros [e muyto] premder,
+A Granada,
+[Meu amigo.]
+
+\num 5                            
+
+\loc CV 766; CBN 1108                                                     
+
+\txt
+
+ Mui[t] ey, ay! Amor, que te gradecer,
+Porque quiseste comigo morar,
+E non me quiseste dessenparar,
+Ata que uera meu lum e meu prazer
+E meu amigo, que se foy andar
+a Granada, Por meu amor lidar.
+
+ Amor, gradesco mays d outra rrem,
+Des que sse ffoy meu amigo d aquy,
+Que te non quiseste partir de min,
+Ata que ueu meu lum e meu ben
+E meu amigo, [que se foy andar
+a Granada, Por meu amor lidar.]
+
+ Nunca pranderey de ti queyxume,
+Ca nun fuste de min partido,
+Poys meu amigo foy d aquend ido,
+Ata que ueiu Meu ben e meu lume
+E meu amigo, [que se foy andar
+a Granada, Por meu amor lidar].
+
+Poys me quisestes tan ben aguardar,
+Par Deus, non me leixes, se migo morar.
+
+
+\num 6                            
+
+\loc CV 767; CBN 1109                                                     
+
+\txt
+
+ Ora, senhor, muy leda ficade.
+D[e] m ir, pesar non se uos filhe de min,
+Ca me uou eu, e non leuo d aquy
+O meu coraçon, e, por Deus, enuiade
+O uosso mygo e facedes bom ssen.
+Ssenon, ben certa seede, senhor,
+Que morrerey [tant ey] de uos amor.
+
+
+\num 7                            
+
+\loc CV 768; CBN 1110                                                     
+
+\txt
+
+ Asaz he desassisado
+O que cuyda que ten dama
+Que nenh~uu outro non ama,
+Nen ten ia d al cuydado
+Alçairado.
+
+
+\num 8                            
+
+\loc CV  sem número e ligada a cantiga anterior; CBN 1111  
+
+\txt
+                                                 
+ Se me deras galardon,
+Amor, de quanto seruy
+Mays disera [eu] de ty
+Do que dizem de Samson
+Bonirazon.
+
+
+\num 9                            
+
+\loc CV 769; CBN 1112                                                     
+
+\txt
+
+ Quen de mi saber quiser
+Que deseio he ho meu :
+Seruir quem me ten por seu
+O milhor que eu poder.
+
+ Este [h]e o meu deseio
+E sera sen falecer :
+Seruir quem conheço e ueio
+Quem me ten em seu poder.
+
+ E, pero nom ten que ter
+De me bem fazer uontade,
+Mays ual seu mall, en uerdade,
+Que o bem que m outra der.
+
+
+\num 10                            
+
+\loc CV 770; CBN 1113                                                     
+
+\txt
+
+ Huna donzella sey eu
+Que emprestou algem do seu.
+
+Huna festa se fazia
+Em que ella foy prose[n]te.
+Et des que se foy o az~eite,
+E lume non y ar uia,
+huã tall sezom dizia,
+a huã uegia, amigo seu :
+Ben a j amey, ben jantey eu.

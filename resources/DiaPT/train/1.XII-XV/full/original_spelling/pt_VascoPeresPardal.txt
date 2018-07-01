@@ -1,0 +1,275 @@
+\nome Vasco_Peres_Pardal
+
+\num 1
+
+\loc CV 58; CBN 393
+
+\txt
+
+Sempr eu punhey de seruir mha senhor
+quant eu mays pud assy me uenha ben,
+pero direy uo lo que m and auen
+e o poder en que me ten Amor:
+Non me quer ela nenhum ben fazer
+e Amor me faz por ela moirer,
+
+Ca non catey por al des que a uj
+senon por ela, e sempre punhei
+de a seruir, pero end al non ei
+senon aquest e auen me end assy:
+Non mj quer ela [nenhum ben fazer
+e Amor me faz por ela moirer,]
+
+E sempr eu cuydei no meu coraçon
+de lhi fazer seruic e me gua[r]dar
+de iamays nunca lhi fazer pesar,
+pero uen m en mal por esta razon:
+Non me quer ela nenhum ben fazer
+[e Amor me faz por ela moirer.]
+
+\num 2
+
+\loc CV 59; CBN 394
+
+\txt
+
+Senhor, des quand en uos cuydey
+e no uosso bon parecer,
+perdi o sen, que eu auer
+soya, e ia perdud ey
+De quant al auya sabor,
+assi me forçou uoss amor.
+
+Cuydando, des que uus uj,
+en uos, senhor, perdud ei ia
+o sen, mays quando mj ualira
+o uosso ben per que perdi
+De quant al auya sabor,
+[assi me forçou uoss amor.]
+
+E sab este meu coraçon
+que por uos muyto mal leuou,
+des que uos uj, et el cuydou
+en uos, ca perdi des enton
+De quant al auya sabor,
+[assi me forçou uoss amor.]
+
+\num 3
+
+\loc CV 60; CBN 395
+
+\txt
+
+Muyto ben mj podia Amor fazer,
+se el quisesse non perder hi ren,
+mays non quer ele, perc eu ia o sen
+e direy uo lo que mj uay fazer:
+Uen logu e faz m en mha senhor cuydar,
+e, poys cuyd i, muyt ar quero me matar,
+e mha senhor non me quer hi ualer.
+
+Faz mi mal, e non ous a dizer
+de muyto mal que mj faz senon ben,
+e sse al digo faz m esto, poren,
+ou, sse cuydo sol de lh end al dizer,
+Ven logu e [faz m en mha senhor cuydar,
+e, poys cuyd i, muyt ar quero me matar,
+e mha senhor non me quer hi ualer.]
+
+E tod aquesto non poss eu sofrer
+que ia non moyra, ca non sey eu quen
+non moiresse con quanto mal mj uen
+d Amor, que mj faz tam muyto mal sofrer,
+Ven logu e faz m en mha senhor cuydar,
+[e, poys cuyd i, muyt ar quero me matar,
+e mha senhor non me quer hi ualer.]
+
+Mays Amor, que m or assy quer matar,
+de lhi Deus quen lhi faça deseiar
+algun ben en que non aia poder.
+
+\num 4
+
+\loc CV 405; CBN 764
+
+\txt
+
+- Amigo, que cuydades a fazer
+quando uos ora partirdes d aquj
+e uos nenbrar algunha uez de mj?
+- par Deus, senhor [quero uo lo] dizer,
+Chorar muyt e nunca fazer al
+senon cuydar como my faz Deus mal.
+
+En me partir de nu[n]ca ia saber
+uosso mandado nenh~ua sazon,
+nen uos falar se per uentura non;
+mays este conforto cuyd a prender:
+Chorar [muyt e nunca fazer al
+senon cuydar como mj faz Deus mal.]
+
+En me partir de uosso parecer
+e du soya conuosc a falar
+ca mj ualera mays de me matar;
+mays este consselho cuyd i auer:
+Chorar [muyt e nunca fazer al
+senon cuydar como mj faz Deus mal.]
+
+\num 5
+
+\loc CV 406; CBN 765
+
+\txt
+
+Coytada seio no meu coraçon
+por meu amigo: diz ca sse quer
+hir d aquj e, sse ora fezer,
+pesar mh a muyto, se Deus mj perdon,
+Porque sey ben que as gentes diram
+que, sse moirer por mj, moire de pram.
+
+E que me non pesass a mj por al
+pesar mh a muyto per h~ua ren:
+porque mj diz ca mj quer muj gram ben;
+mays uedes ora de que m [h]e gram mal:
+Porque ssey ben [que as gentes diram
+que, sse moirer por mj, moire de pram.]
+
+Ca pola gram coyta que soffri
+non dou eu ren, ca sse eu coyta sofrer
+mays temo ia qual pesar auerey
+des que ss el for, non poderey uiuer;
+Porque ssey ben [que as gentes diram
+que, sse moirer por mj, moire de pram.]
+
+\num 6
+
+\loc CV 407; CBN 766
+
+\txt
+
+- Por Deus, amiga, prouad un dia
+o uoss amigo de uo lh assanhar
+e ueredes home coytad andar;
+- ay! amiga, que mal consselh ess [h]e!
+ca sey eu aquesto, per boa fe,
+Muj ben que logu el morto seria.
+
+- Amiga, ben uos consselharia
+dizerdes que non dades por el ren
+e ueredes coita por en;
+- non mh o digades, se Deus uos perdon,
+ca sey eu ia, pelo seu coraçon,
+Muj ben que logu el [morto seria].
+
+- Amiga, nunca lhi mal ueiria
+de lhi dizerdes a tanto por mj
+que non dades por el ren des aqui;
+- par Deus amiga, non uos creerey,
+nen uos nunca mh o digades, ca ssey
+Muj ben [que logu el morto seria.]
+
+\num 7
+
+\loc CV 408; CBN 767
+
+\txt
+
+Amigo, uos hides dizer
+que uos non quero eu fazer ben,
+pero sey m eu dest unha ren,
+que dizedes uosso prazer,
+Ca ben [h]e de uos sofrer eu
+de dizerdes ca sodes meu.
+
+Mays non sse sabe conhocer
+algun home a quen ben Deus da,
+nen ten por ben esto que a,
+mays eu uos farey entender,
+Ca ben [h]e de uos [sofrer eu
+de dizerdes ca sodes meu.]
+
+Mays, des que uos eu entender
+que non uenhades hu eu for,
+non me tenhades por senhor,
+des y poderedes saber,
+Ca ben [h]e de uos sofrer [eu
+de dizerdes ca sodes meu.]
+
+\num 8
+
+\loc CV 409; CBN 768
+
+\txt
+
+Amiga, ben cuyd eu do meu amigo
+que [h]e morto, ca nunca gram sazon
+que anda triste o meu coraçon,
+et direy uo lo mays porque o digo:
+Porque a gram sazon que non oy
+nenhun cantar que fezesse por mj,
+nen que non ouuj seu mandad amigo.
+
+E ssey eu d el muj ben que [h]e coitado,
+se oi el uyu en poder d Amor,
+mays, por meu mal, me filhou por senhor
+e por aquest ei en mayor cuidado:
+Porque a gram sazon [que non oy
+nenhun cantar que fezesse por mj,
+nen que non ouuj seu mandad amigo.]
+
+E cuyd eu ben d el que sse non partisse
+de trobar por mj sen mort ou sen al,
+mays por esto sey eu que non est al,
+pero que mh o nenhun non disse:
+Porque a gram sazon [que non oy
+nenhun cantar que fezesse por mj,
+nen que non ouuj seu mandad amigo.]
+
+\num 9
+
+\loc CBN 1421
+
+\coa Pedr_Amigo
+
+\txt
+
+- Pedr Amigo, quero de uos saber
+Hunha cousa que uos ora direy,
+E uenho uos preguntar porque sey
+Que saberedes recado dizer
+De Balteyra, que uei aque andar
+E ueio lhi muytos escomungar:
+Dizede quen lhi deu end o poder.
+
+- Vaasco Perez, quant eu aprender
+Pudi d esto, ben uo lo contarey:
+Este poder ante tenpo d el rey
+Don Fernando ia lhi uyron auer,
+Mays non auya poder de soltar.
+Mays foy poys hu[n] patriarcha buscar,
+Fi d escallola, que lhi fez fazer.
+
+- Pedr Amigo, sey m eu esto mui ben
+Que Balteyra nunca homen soltou,
+E ui lh eu muytos que escomungou,
+Que lhe peytaron grand algo por en
+Que os soltass e direy uos eu al;
+Fi d escallola non a poder tal
+Per qual solt ergo seus presos que ten.
+
+- Vaasco Perez, ben de Meca uen
+Este poder, e poy lo outorgou
+O patriarcha, des y mal leuou
+Sobre ssy quanto fez en Iaen
+E en Eixares, hu sse fez muyto mal.
+E por en met en escomunhon qual
+xi quer meter, E qual quer saca en.
+
+- Pedr Amigo, esto non uos creo eu,
+Que o poder, que Deus en Roma deu,
+Que o Balteyra tal de Meca ten.
+
+- Vaasco Perez, ax eu Meca sen
+poder. E o que Deus en Roma deu
+Diz Balteyra que todo non [h]e ren.
