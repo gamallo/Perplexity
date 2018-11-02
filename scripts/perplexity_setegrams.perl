@@ -21,7 +21,7 @@ utf8::decode($ling2);
 
 #my $feat = shift(@ARGV);
 my $model = $abs_path."/models/setegrams_"  . ${ling1} . "\.st";
-print STDERR "--: $ling2\n";
+#print STDERR "--: $ling2\n";
 
 
 my $arrayref = retrieve($model); 
