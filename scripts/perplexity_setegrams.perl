@@ -8,6 +8,8 @@ use open qw(:std :utf8);
 #use Math::BigInt;
 use Storable qw(store retrieve freeze thaw dclone);
 
+no warnings 'utf8';
+
 # Absolute path 
 use Cwd 'abs_path';
 use File::Basename;
@@ -15,9 +17,11 @@ my $abs_path = dirname(abs_path($0));
 $abs_path =~ s/\/scripts$//;
 my $ling1 = shift(@ARGV);
 my $ling2 = shift(@ARGV);
+utf8::decode($ling2);
+
 #my $feat = shift(@ARGV);
 my $model = $abs_path."/models/setegrams_"  . ${ling1} . "\.st";
-#print STDERR "PATH: $abs_path";
+print STDERR "--: $ling2\n";
 
 
 my $arrayref = retrieve($model); 
