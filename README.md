@@ -2,7 +2,7 @@
 
 ## Authors:
 * Pablo Gamallo, CiTIUS, USC
-* José Ramom Pichel, Imaxin
+* José Ramom Pichel, imaxin|software
 * Iñaki Alegria, IXA, UPV/EHU
 
 ## Requirements:
