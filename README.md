@@ -10,7 +10,7 @@
 * `Storable` Perl module (you can use cpan to install)
 
 ## Description
-Perplexity is used to compare the distance between languages. It is based on 7- rams models of characters.
+Perplexity is used to compare the distance between languages. It is based on 7-grams models of characters and interpolation for smoothing.
 We provide three languages for train and test: galician (gz), portuguese (pt), spanish (es). The input texts are in the 'corpora' folder.
 
 ## How to use
