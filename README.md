@@ -64,4 +64,10 @@ In the folder `./resources`, you can find other corpora ready to be used for tra
 ### Diacronic Portuguese Corpus (DiaPT)
  This corpus has been collected from different open historical corpora and texts repositories, priorizing those who have original spelling. More information in the article:
 
-`Pichel, J-R., Pablo Gamallo, Iñaki Alegria (2018) Measuring language distance among historical varieties using perplexity. Application to European Portuguese`. VARDIAL Workshop.`
+`Pichel, J-R., Pablo Gamallo, Iñaki Alegria (2018) Measuring language distance among historical varieties using perplexity. Application to European Portuguese. VARDIAL Workshop.`
+
+## Papers using this software
+`Gamallo, Pablo, José Ramom Pichel, Iñaki Alegria (2017) From language identification to language distance, Physica A Vol 484, pp. 162-172. DOI: 10.1016/j.physa.2017.05.011.`
+ `Pichel, J.R, Pablo Gamallo, Iñaki Alegria (2019). Measuring diachronic language distance using perplexity: Application to English, Portuguese, and Spanish, Natural Language Engineering first online. DOI: 10.1017/S1351324919000378`
+`Pichel, J.R, Pablo Gamallo, Iñaki Alegria, Marco Neves (2020). A Methodology to Measure the Diachronic Language Distance between Three Languages Based on Perplexity, Journal of Quantitative Linguistics, first online 1 March. DOI: 10.1080/09296174.2020.1732177.`
+
